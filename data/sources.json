@@ -1,0 +1,438 @@
+{
+  "_readme": "קובץ עבודה שנגזר מ-SOURCES.md, עבור רכיב גילוי-הפיד (ראה README.md שלב 2). SOURCES.md נשאר מקור האמת הקריא לבן-אדם; זה רק רשימת קלט לקוד. columns: 1=חדשות 2=כלכלה 3=שיווק 4=טק 5=ספורט. status: approved=✅, tentative=❓ (עוד לא אושר), verify=⚠️ (מאושר עקרונית, ספק טכני/חומת תשלום).",
+  "sources": [
+    {
+      "name": "mako / N12",
+      "url": "https://www.mako.co.il",
+      "columns": [
+        1,
+        2,
+        4
+      ],
+      "status": "approved",
+      "note": "מרכז פידים בעמוד /rss עם בחירת מדור (news-israel, news-columns, magazine, news-money, tech12). לא בטוח שדף הבית חושף feed גנרי מתאים — ייתכן שיידרש איתור ידני של כתובת פר-מדור.",
+      "discovered": {
+        "error": "לא נמצא פיד תקין — לא בדף הבית ולא בנתיבי ברירת המחדל",
+        "candidatesTried": [
+          "https://www.mako.co.il/feed",
+          "https://www.mako.co.il/feed/",
+          "https://www.mako.co.il/rss",
+          "https://www.mako.co.il/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "כלכליסט",
+      "url": "https://www.calcalist.co.il",
+      "columns": [
+        2
+      ],
+      "status": "approved",
+      "note": "משפחת ידיעות אחרונות, כתובת-פר-מדור, עמוד מרכז L-3704.",
+      "discovered": {
+        "error": "לא נמצא פיד תקין — לא בדף הבית ולא בנתיבי ברירת המחדל",
+        "candidatesTried": [
+          "https://www.calcalist.co.il/feed",
+          "https://www.calcalist.co.il/feed/",
+          "https://www.calcalist.co.il/rss",
+          "https://www.calcalist.co.il/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "Daily",
+      "url": "https://www.getthedaily.co.il",
+      "columns": [
+        2
+      ],
+      "status": "approved",
+      "note": "מקור קטן.",
+      "discovered": {
+        "error": "שגיאה בטעינת דף הבית: fetch failed",
+        "candidatesTried": [
+          "https://www.getthedaily.co.il/feed",
+          "https://www.getthedaily.co.il/feed/",
+          "https://www.getthedaily.co.il/rss",
+          "https://www.getthedaily.co.il/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "Bizportal",
+      "url": "https://www.bizportal.co.il",
+      "columns": [
+        2
+      ],
+      "status": "tentative",
+      "note": "הצעה, טרם אושר.",
+      "discovered": {
+        "error": "לא נמצא פיד תקין — לא בדף הבית ולא בנתיבי ברירת המחדל",
+        "candidatesTried": [
+          "https://www.bizportal.co.il/feed",
+          "https://www.bizportal.co.il/feed/",
+          "https://www.bizportal.co.il/rss",
+          "https://www.bizportal.co.il/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "Funder",
+      "url": "https://www.funder.co.il",
+      "columns": [
+        2
+      ],
+      "status": "tentative",
+      "note": "הצעה, טרם אושר.",
+      "discovered": {
+        "error": "לא נמצא פיד תקין — לא בדף הבית ולא בנתיבי ברירת המחדל",
+        "candidatesTried": [
+          "https://www.funder.co.il/rssNews.aspx",
+          "https://www.funder.co.il/feed",
+          "https://www.funder.co.il/feed/",
+          "https://www.funder.co.il/rss",
+          "https://www.funder.co.il/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "Reuters Business",
+      "url": "https://www.reuters.com/business/",
+      "columns": [
+        2
+      ],
+      "status": "approved",
+      "note": "מקור זר.",
+      "discovered": {
+        "error": "דף הבית החזיר סטטוס 401",
+        "candidatesTried": [
+          "https://www.reuters.com/feed",
+          "https://www.reuters.com/feed/",
+          "https://www.reuters.com/rss",
+          "https://www.reuters.com/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/markets",
+      "columns": [
+        2
+      ],
+      "status": "verify",
+      "note": "לאמת שקיים פיד חופשי.",
+      "discovered": {
+        "error": "דף הבית החזיר סטטוס 403",
+        "candidatesTried": [
+          "https://www.bloomberg.com/feed",
+          "https://www.bloomberg.com/feed/",
+          "https://www.bloomberg.com/rss",
+          "https://www.bloomberg.com/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com",
+      "columns": [
+        2
+      ],
+      "status": "verify",
+      "note": "מאושר עקרונית אך לרוב חסום תשלום.",
+      "discovered": {
+        "error": "דף הבית החזיר סטטוס 403",
+        "candidatesTried": [
+          "https://www.ft.com/feed",
+          "https://www.ft.com/feed/",
+          "https://www.ft.com/rss",
+          "https://www.ft.com/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "מנהלי שיווק מצייצים",
+      "url": "https://shivuk.me",
+      "columns": [
+        3
+      ],
+      "status": "approved",
+      "note": "מקור קטן.",
+      "discovered": {
+        "feedUrl": "https://shivuk.me/feed",
+        "itemCount": 15,
+        "method": "link-tag",
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "ynet",
+      "url": "https://www.ynet.co.il",
+      "columns": [
+        3
+      ],
+      "status": "approved",
+      "note": "משפחת ידיעות אחרונות — מדור שיווק ופרסום, בחירת מדור מעמוד ה-RSS המרכז.",
+      "discovered": {
+        "error": "לא נמצא פיד תקין — לא בדף הבית ולא בנתיבי ברירת המחדל",
+        "candidatesTried": [
+          "https://www.ynet.co.il/feed",
+          "https://www.ynet.co.il/feed/",
+          "https://www.ynet.co.il/rss",
+          "https://www.ynet.co.il/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "אייס",
+      "url": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "status": "approved",
+      "note": "מדור digital/marketing.",
+      "discovered": {
+        "feedUrl": "https://www.ice.co.il/rss",
+        "itemCount": 20,
+        "method": "fallback:/rss",
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "Adweek",
+      "url": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "status": "approved",
+      "note": null,
+      "discovered": {
+        "feedUrl": "https://www.adweek.com/feed",
+        "itemCount": 10,
+        "method": "fallback:/feed",
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "Marketing Week",
+      "url": "https://www.marketingweek.com",
+      "columns": [
+        3
+      ],
+      "status": "approved",
+      "note": null,
+      "discovered": {
+        "error": "דף הבית החזיר סטטוס 403",
+        "candidatesTried": [
+          "https://www.marketingweek.com/feed",
+          "https://www.marketingweek.com/feed/",
+          "https://www.marketingweek.com/rss",
+          "https://www.marketingweek.com/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "The Drum",
+      "url": "https://www.thedrum.com",
+      "columns": [
+        3
+      ],
+      "status": "approved",
+      "note": null,
+      "discovered": {
+        "error": "לא נמצא פיד תקין — לא בדף הבית ולא בנתיבי ברירת המחדל",
+        "candidatesTried": [
+          "https://www.thedrum.com/feed",
+          "https://www.thedrum.com/feed/",
+          "https://www.thedrum.com/rss",
+          "https://www.thedrum.com/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "Campaign",
+      "url": "https://www.campaignlive.co.uk",
+      "columns": [
+        3
+      ],
+      "status": "approved",
+      "note": null,
+      "discovered": {
+        "error": "לא נמצא פיד תקין — לא בדף הבית ולא בנתיבי ברירת המחדל",
+        "candidatesTried": [
+          "https://www.campaignlive.co.uk/feed",
+          "https://www.campaignlive.co.uk/feed/",
+          "https://www.campaignlive.co.uk/rss",
+          "https://www.campaignlive.co.uk/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "גיקטיים",
+      "url": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "status": "approved",
+      "note": null,
+      "discovered": {
+        "feedUrl": "https://www.geektime.co.il/feed",
+        "itemCount": 30,
+        "method": "fallback:/feed",
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "אנשים ומחשבים",
+      "url": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "status": "approved",
+      "note": null,
+      "discovered": {
+        "feedUrl": "https://www.pc.co.il/feed",
+        "itemCount": 30,
+        "method": "fallback:/feed",
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "ITtime",
+      "url": "https://www.ittime.co.il",
+      "columns": [
+        4
+      ],
+      "status": "approved",
+      "note": null,
+      "discovered": {
+        "error": "לא נמצא פיד תקין — לא בדף הבית ולא בנתיבי ברירת המחדל",
+        "candidatesTried": [
+          "https://www.ittime.co.il/feed",
+          "https://www.ittime.co.il/feed/",
+          "https://www.ittime.co.il/rss",
+          "https://www.ittime.co.il/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "status": "approved",
+      "note": "בין-לאומי — אושר 2026-08-11.",
+      "discovered": {
+        "feedUrl": "https://techcrunch.com/feed/",
+        "itemCount": 20,
+        "method": "link-tag",
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "status": "approved",
+      "note": "בין-לאומי — אושר 2026-08-11.",
+      "discovered": {
+        "feedUrl": "https://www.theverge.com/rss/index.xml",
+        "itemCount": 10,
+        "method": "link-tag",
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "status": "approved",
+      "note": "בין-לאומי — אושר 2026-08-11.",
+      "discovered": {
+        "feedUrl": "https://arstechnica.com/feed",
+        "itemCount": 20,
+        "method": "fallback:/feed",
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://thehackernews.com",
+      "columns": [
+        4
+      ],
+      "status": "approved",
+      "note": "סייבר — אושר 2026-08-11.",
+      "discovered": {
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
+        "itemCount": 50,
+        "method": "link-tag",
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ],
+      "status": "approved",
+      "note": "סייבר — אושר 2026-08-11 — חלופה/תוספת ל-The Hacker News.",
+      "discovered": {
+        "feedUrl": "https://www.bleepingcomputer.com/feed/",
+        "itemCount": 15,
+        "method": "link-tag",
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    },
+    {
+      "name": "ערוץ הספורט",
+      "url": "https://www.sport5.co.il",
+      "columns": [
+        5
+      ],
+      "status": "approved",
+      "note": null,
+      "discovered": {
+        "error": "לא נמצא פיד תקין — לא בדף הבית ולא בנתיבי ברירת המחדל",
+        "candidatesTried": [
+          "https://www.sport5.co.il/feed",
+          "https://www.sport5.co.il/feed/",
+          "https://www.sport5.co.il/rss",
+          "https://www.sport5.co.il/rss.xml"
+        ],
+        "checkedAt": "2026-08-11T19:18:05.444Z"
+      }
+    }
+  ],
+  "_excluded": [
+    {
+      "name": "TheMarker (דה-מרקר)",
+      "reason": "נפסל — חומת תשלום."
+    },
+    {
+      "name": "Globes (גלובס)",
+      "reason": "נפסל — חומת תשלום."
+    },
+    {
+      "name": "רשימת קבוצות/ליגות ספורט",
+      "reason": "לא מקורות RSS בפני עצמן — פילטר שמות על פיד רחב (ראה SOURCES.md §5)."
+    }
+  ]
+}

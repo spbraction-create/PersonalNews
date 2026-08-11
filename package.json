@@ -1,0 +1,18 @@
+{
+  "name": "daily-digest",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "כלי דייג'סט חדשות אישי — סוכן שאוסף, מסווג ועורך פידי RSS לפי EDITORIAL.md",
+  "scripts": {
+    "discover": "node scripts/discover-feeds.js",
+    "harvest": "node scripts/harvest.js",
+    "edit-daily": "node --env-file=.env scripts/edit-daily.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.10.1"
+  }
+}

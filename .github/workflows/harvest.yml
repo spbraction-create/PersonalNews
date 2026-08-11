@@ -1,0 +1,34 @@
+name: Daily Harvest
+
+# README.md שלב 3: מושך פידים מאומתים, מסנן 24 שעות, מנקה כפילויות — בלי AI.
+# 02:00 UTC ≈ 04:00–05:00 בישראל (תלוי בשעון קיץ/חורף) — קירוב מכוון, לא מדויק לדקה.
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run harvest
+
+      - name: Commit updated flood file
+        run: |
+          git config user.name "daily-digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/daily-flood.json
+          git diff --cached --quiet || git commit -m "chore: daily harvest $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
