@@ -7,12 +7,17 @@
   "scripts": {
     "discover": "node scripts/discover-feeds.js",
     "harvest": "node scripts/harvest.js",
-    "edit-daily": "node --env-file=.env scripts/edit-daily.js"
+    "edit-daily": "node --env-file=.env scripts/edit-daily.js",
+    "worker:dev": "wrangler dev",
+    "worker:deploy": "wrangler deploy"
   },
   "engines": {
     "node": ">=20"
   },
   "dependencies": {
     "fast-xml-parser": "^5.10.1"
+  },
+  "devDependencies": {
+    "wrangler": "^4.121.0"
   }
 }
