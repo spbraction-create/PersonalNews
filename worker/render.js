@@ -25,19 +25,26 @@ export function safeUrl(value) {
   }
 }
 
+/** בונה את כתובת עמוד הסיכום ה-lazy מתוך כתובת המקור (worker/index.js מנתב לפי הנתיב הזה). */
+function readPageUrl(link) {
+  return `/read?link=${encodeURIComponent(link)}`;
+}
+
 function renderCard(card) {
   const link = safeUrl(card.link);
   const image = safeUrl(card.image);
   const title = escapeHtml(card.title);
   const summary = escapeHtml(card.summary);
   const source = escapeHtml(card.source);
+  // כרטיס לא קופץ ישר למקור — הוא עובר קודם דרך עמוד הסיכום ה-lazy (EDITORIAL.md §3.3).
+  const readHref = link ? readPageUrl(link) : null;
 
   return `
     <article class="card">
-      ${image ? `<a class="card__image-link" href="${link ?? "#"}" target="_blank" rel="noopener noreferrer"><img class="card__image" src="${image}" alt="" loading="lazy"></a>` : ""}
+      ${image ? `<a class="card__image-link" href="${readHref ?? "#"}"><img class="card__image" src="${image}" alt="" loading="lazy"></a>` : ""}
       <div class="card__body">
         <h3 class="card__title">
-          ${link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>` : title}
+          ${readHref ? `<a href="${readHref}">${title}</a>` : title}
         </h3>
         <p class="card__summary">${summary}</p>
         <p class="card__source">${source}</p>
@@ -56,25 +63,8 @@ function renderColumn(column) {
     </section>`;
 }
 
-export function renderPage(edition) {
-  const generatedDate = new Date(edition.generatedAt).toLocaleString("he-IL", {
-    dateStyle: "full",
-    timeStyle: "short",
-    timeZone: "Asia/Jerusalem",
-  });
-
-  const columnsHtml =
-    edition.columns.length > 0
-      ? edition.columns.map(renderColumn).join("")
-      : `<p class="empty-state">אין עדיין גיליון להיום.</p>`;
-
-  return `<!doctype html>
-<html lang="he" dir="rtl">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>הדייג'סט היומי</title>
-<style>
+// עיצוב משותף לעמוד הראשי ולעמוד הסיכום ה-lazy — כדי לא לשכפל CSS בשני מקומות.
+const BASE_STYLES = `
   :root {
     color-scheme: light dark;
     --bg: #f7f7f5;
@@ -166,19 +156,117 @@ export function renderPage(edition) {
     font-size: 0.8rem;
     padding: 1.5rem 1rem 2.5rem;
   }
-</style>
+  .back-link { display: inline-block; margin-bottom: 1rem; color: var(--accent); text-decoration: none; font-size: 0.9rem; }
+  .back-link:hover { text-decoration: underline; }
+  .read-article__image {
+    width: 100%;
+    max-height: 360px;
+    object-fit: cover;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 1rem;
+  }
+  .read-article__title { font-size: 1.4rem; margin: 0 0 0.4rem; }
+  .read-article__source { font-size: 0.85rem; color: var(--accent); margin: 0 0 1.25rem; }
+  .read-article__summary {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.25rem 1.5rem;
+  }
+  .read-article__summary p { margin: 0 0 1rem; }
+  .read-article__summary p:last-child { margin-bottom: 0; }
+  .read-article__source-link {
+    display: inline-block;
+    margin-top: 1.5rem;
+    padding: 0.6rem 1.2rem;
+    border: 1px solid var(--accent);
+    border-radius: 8px;
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+  .read-article__source-link:hover { background: var(--accent); color: var(--surface); }
+  .read-article__note { color: var(--text-muted); font-size: 0.8rem; margin-top: 0.75rem; }
+`;
+
+function pageShell({ title, bodyHtml }) {
+  return `<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>${escapeHtml(title)}</title>
+<style>${BASE_STYLES}</style>
 </head>
 <body>
+  ${bodyHtml}
+  <footer>
+    נבנה עם README.md · EDITORIAL.md · SOURCES.md
+  </footer>
+</body>
+</html>`;
+}
+
+export function renderPage(edition) {
+  const generatedDate = new Date(edition.generatedAt).toLocaleString("he-IL", {
+    dateStyle: "full",
+    timeStyle: "short",
+    timeZone: "Asia/Jerusalem",
+  });
+
+  const columnsHtml =
+    edition.columns.length > 0
+      ? edition.columns.map(renderColumn).join("")
+      : `<p class="empty-state">אין עדיין גיליון להיום.</p>`;
+
+  return pageShell({
+    title: "הדייג'סט היומי",
+    bodyHtml: `
   <header>
     <h1>הדייג'סט היומי שלי</h1>
     <p>עודכן: ${escapeHtml(generatedDate)}</p>
   </header>
   <main>
     ${columnsHtml}
-  </main>
-  <footer>
-    נבנה עם README.md · EDITORIAL.md · SOURCES.md
-  </footer>
-</body>
-</html>`;
+  </main>`,
+  });
+}
+
+/**
+ * עמוד הסיכום ה-lazy (EDITORIAL.md §3.3): כותרת + תמונה + סיכום 300 מילה + לינק למקור.
+ * record = { title, image, source, summary, link, generatedAt, fromCache }.
+ * summary/title/source תמיד עוברים escapeHtml, link/image תמיד עוברים safeUrl —
+ * גם אם מקורם הפעם ב-Gemini/בדף המקור ולא ב-RSS, הם עדיין תוכן חיצוני לא מהימן.
+ */
+export function renderReadPage(record) {
+  const link = safeUrl(record.link);
+  const image = safeUrl(record.image);
+  const title = escapeHtml(record.title || "כתבה ללא כותרת");
+  const source = escapeHtml(record.source || "");
+
+  const summaryParagraphs = String(record.summary ?? "")
+    .split(/\n{2,}/)
+    .map((p) => p.trim())
+    .filter(Boolean)
+    .map((p) => `<p>${escapeHtml(p)}</p>`)
+    .join("");
+
+  return pageShell({
+    title: record.title ? `${record.title} — סיכום` : "סיכום כתבה",
+    bodyHtml: `
+  <main>
+    <a class="back-link" href="/">← חזרה לגיליון</a>
+    <article>
+      ${image ? `<img class="read-article__image" src="${image}" alt="">` : ""}
+      <h1 class="read-article__title">${title}</h1>
+      ${source ? `<p class="read-article__source">${source}</p>` : ""}
+      <div class="read-article__summary">
+        ${summaryParagraphs || "<p>לא נמצא תוכן מספק לסיכום.</p>"}
+      </div>
+      ${link ? `<a class="read-article__source-link" href="${link}" target="_blank" rel="noopener noreferrer">לינק למקור</a>` : ""}
+      ${record.fromCache ? `<p class="read-article__note">סיכום זה נשמר במטמון — נוצר בלחיצה קודמת.</p>` : ""}
+    </article>
+  </main>`,
+  });
 }

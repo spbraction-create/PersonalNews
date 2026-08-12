@@ -5,3 +5,8 @@ compatibility_date = "2024-09-23"
 [vars]
 # הריפו הציבורי שממנו ה-Worker קורא את data/daily-edition.json (README.md שלב 5, גרסה בסיסית בלי KV).
 DATA_REPO_RAW_BASE = "https://raw.githubusercontent.com/spbraction-create/PersonalNews/main"
+
+[[kv_namespaces]]
+# מטמון עמוד הסיכום ה-lazy (README.md שלב 5.2, EDITORIAL.md §3.3). מפתח = hash של כתובת המקור.
+binding = "ARTICLE_CACHE"
+id = "66a49c18b33d4ac2b040ee2c211c8bf7"

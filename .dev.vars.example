@@ -1,0 +1,4 @@
+# העתק את הקובץ הזה ל-.dev.vars (בלי הסיומת .example) ומלא את הערך האמיתי,
+# כדי ש-`npm run worker:dev` יוכל לקרוא ל-Gemini מקומית בעת בדיקת עמוד הסיכום ה-lazy.
+# .dev.vars נמצא ב-.gitignore ולא נכנס לריפו — בדיוק כמו .env.
+GEMINI_API_KEY=your-key-here
