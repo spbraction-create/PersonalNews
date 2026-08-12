@@ -1,8 +1,440 @@
 {
-  "generatedAt": "2026-08-11T19:36:26.724Z",
+  "generatedAt": "2026-08-12T03:55:35.679Z",
   "windowHours": 24,
   "droppedDuplicates": 0,
   "items": [
+    {
+      "title": "הזוג הלוהט בפוליטיקה חושף את הפערים: ״כל הזמן מואה מואה״",
+      "link": "https://www.ice.co.il/social/news/article/1125178",
+      "pubDate": "2026-08-12T03:53:19.000Z",
+      "summary": "השניים התייצבו לראיון זוגי חושפני במיוחד ודיברו על החיים לצד הזירה הפוליטית, כאשר הבעל נשאל ישירות על שמירת הנגיעה של אשתו והשרה מיהרה להתערב ולהרגיע את הרוחות",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_589/rsz_615_346_040320261703.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "הנפילה של נאייקס: המניה שאיבדה 22% ביומיים מעוררת סערה",
+      "link": "https://www.ice.co.il/finance/news/article/1125177",
+      "pubDate": "2026-08-12T03:17:00.000Z",
+      "summary": "למרות ההתרסקות החדה של החברה הישראלית בעקבות הדוחות, בוול סטריט מתעקשים להותיר המלצה חיובית במיוחד ומסמנים הזדמנות קנייה מפתיעה למשקיעים",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_561/rsz_615_346_51ice09092025.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
+      "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
+      "pubDate": "2026-08-12T01:15:55.000Z",
+      "summary": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "pubDate": "2026-08-12T00:39:26.000Z",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! And Saber replaced me with ChatGPT midway through development. All the passenger voices were AI too. Either they changed direction at some point or t",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "pubDate": "2026-08-12T00:08:40.000Z",
+      "summary": "On Monday, passengers aboard Delta flight 591 going from Las Vegas to Atlanta allegedly spoofed the onboard Wi-Fi, raising the attention of federal law enforcement. The incident came one day after the DEF CON security conference concluded in Las Vegas, and was first described on social media accounts that follow publicly available air-to-ground messages, known as ACARS. According to the “ACARS Drama” account, a message was sent by pilots from the plane stated: “NO INFO AS OF NOW WE HAVE A BUNCH ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "ענקית הג'ינס העולמית נכנסת כשותפה בחברה ישראלית",
+      "link": "https://www.ice.co.il/finance/news/article/1125175",
+      "pubDate": "2026-08-11T23:09:00.000Z",
+      "summary": "אסיפת בעלי המניות אישרה את ההשקעה: ויקוניה תקבל 20% ממניות סונוביה לפי שווי חברה של 12 מיליון שקל ותממן את שלבי הפיתוח הנדרשים לקראת מסחור הטכנולוגיה לצביעת ג'ינס באמצעות גלי קול",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_48974532863.jpeg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "אחיו של הלוחם הפצוע חושף: \"הדבר מנוצל פוליטית\"",
+      "link": "https://www.ice.co.il/health/news/article/1125174",
+      "pubDate": "2026-08-11T23:02:00.000Z",
+      "summary": "הסערה סביב הטענות לטיפול פוגעני בלוחם צה\"ל בבית החולים רמב\"ם מסלימה. כעת, אחיו של הפצוע יוצא נגד השימוש הפוליטי שנעשה בדבריו ומציע פתרון דרמטי לשמירה על חיילים מאושפזים",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_503/rsz_615_346_מיון רמבם.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "איטורו בעסקת ענק: תתחרה ראש בראש בענקית האמריקאית",
+      "link": "https://www.ice.co.il/finance/news/article/1125171",
+      "pubDate": "2026-08-11T22:52:00.000Z",
+      "summary": "החברה הישראלית רוכשת ברוקר אמריקאי בעסקה של עד 231 מיליון דולר, במטרה לפתור את האתגר המרכזי שלה בצפון אמריקה ולשנות את מאזן הכוחות בשוק ההון",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_224811082026.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "רמי לוי מרסק מחיר למוצר המבוקש: 199.90 שקל בלבד",
+      "link": "https://www.ice.co.il/consumerism/news/article/1125173",
+      "pubDate": "2026-08-11T22:45:00.000Z",
+      "summary": "רשת שיווק השקמה ממשיכה להרחיב את מבצעי הנון-פוד ומציעה מוצר מבוקש לעמדת הגיימינג במחיר של 199.90 שקל בלבד, לצד שורה של מבצעים נוספים לבית ולמשפחה",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_592/rsz_615_346_2503202261133.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "דרמה בחתונה ממבט ראשון: פרידה כואבת והחלטה אחת מפתיעה",
+      "link": "https://www.ice.co.il/tv/news/article/1125169",
+      "pubDate": "2026-08-11T22:41:00.000Z",
+      "summary": "פרק ההחלטות הדרמטי של קשת 12 סיפק רגעים קורעי לב כאשר זוג אהוב אחד החליט להפריד כוחות למרות האהבה הגדולה, בעוד הזוג השני הניח את החששות בצד והפתיע את הצופים",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_600/rsz_615_346_1055010620226.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+      "link": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+      "pubDate": "2026-08-11T22:36:35.000Z",
+      "summary": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp. In May, a Brazilian regulator's leaked images revealed that Xbox Elite 3 would have new two new scroll wheels on the bottom edge, a second wireless mode to connect directly to Xbox Cloud Gaming servers, and a new \"Pair Button\" that can al",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
+      "link": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
+      "pubDate": "2026-08-11T22:31:45.000Z",
+      "summary": "Backlash to Trump's vaccine order on Monday has been swift and sharp, with various public health and medical organizations and independent experts calling it \"dangerous,\" \" unscientific ,\" \" false and misleading ,\" \" so wrong ,\" and saying it is \" putting children's health at risk .\" The responses are unsurprising; the medical and health communities have consistently fought against the anti-vaccine, anti-science agendas pushed by Trump and his health secretary, Robert F. Kennedy Jr., who has no ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "pubDate": "2026-08-11T22:15:22.000Z",
+      "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "אורטל עמר בראיון חשוף: על הזוגיות, גידול תו והעבודה לצד חיי האמהות",
+      "link": "https://www.ice.co.il/media/news/article/1125021",
+      "pubDate": "2026-08-11T22:11:24.000Z",
+      "summary": "אורטל עמר מספרת על האתגרים בגידול בנה תו \"אני מרגישה שבזמן האחרון קצת הזנחתי \" והזוגיות עם איתי למרות פער הגילאים \"הדברים האלה אם באמת אוהבים זה לא משנה\" - ראיון אישי",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_0941010820666.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "בדרך לכנסת: יזם ההייטק המפתיע שמצטרף לנפתלי בנט",
+      "link": "https://www.ice.co.il/local-news/news/article/1125162",
+      "pubDate": "2026-08-11T21:58:00.000Z",
+      "summary": "מפלגת ביחד חושפת שילוב מסקרן ברשימה עם הצטרפותו של מנהל מטה הטכנולוגיה העילית, ששימש בעבר כראש לשכה במשרד לביטחון פנים ויצא לשלושה סבבי מילואים מאז פרוץ המלחמה",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_214811082026.png",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "כוכב הילדים רוי בוי מרוויח בענק: זה התפקיד הנוצץ אליו לוהק",
+      "link": "https://www.ice.co.il/culture/news/article/1125168",
+      "pubDate": "2026-08-11T21:57:00.000Z",
+      "summary": "רועי עוז לוהק לאחת מהצגות חנוכה הגדולות בישראל. ההפקה הנוצצת, שעתידה לעלות בבמות המובילות ברחבי הארץ, מופקת על ידי אלעד יוסף, מגן סבג ואסי סתיו",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_469/rsz_615_346_25ice14072024.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "השחקנית האהובה בבשורה קשה בגיל 53: \"חליתי בסרטן סופני\"",
+      "link": "https://www.ice.co.il/culture/news/article/1125167",
+      "pubDate": "2026-08-11T21:47:15.000Z",
+      "summary": "לוסי דייוויס, שכיכבה בתפקיד דון טינסלי בגרסה הבריטית המקורית של \"המשרד\", חשפה כי אובחנה לפני שנה וחצי בסרטן שד בשלב 4, שהתפשט לעמוד השדרה, לירך ולצלעות. לצד הבשורה הקשה, היא מבקשת מהציבור שלא להתעלם מסימנים חריגים ולהיבדק בזמן",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_6987413354878.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+      "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+      "pubDate": "2026-08-11T21:39:58.000Z",
+      "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "pubDate": "2026-08-11T21:39:11.000Z",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "1,000,000 שקל הלכו לפח: התקלה החריגה של מפעל הפיס",
+      "link": "https://www.ice.co.il/consumerism/news/article/1125166",
+      "pubDate": "2026-08-11T21:39:00.000Z",
+      "summary": "תוצאות הגרלת הצ'אנס שנערכה ביום שישי האחרון נפסלו וזאת בשל תקלה טכנית ורשלנית בהליך הכנסת הכדורים למכונות המזל. כעת, המהמרים זועמים כי בשל פרסום התוצאות השגויות הם זרקו את הכרטיסים לפח",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_492/rsz_615_346_26ice24112024.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "עודד בן עמי עצר את השידור - והודיע: \"אני מצטער על כך ומתנצל\"",
+      "link": "https://www.ice.co.il/media/news/article/1125164",
+      "pubDate": "2026-08-11T21:26:45.000Z",
+      "summary": "אחרי שידור האייטם שעורר זעם רב במערכת הבריאות, המגיש עצר את השידור ופנה לצוותים הרפואיים שנפגעו מהטענות שהתפרסמו נגדם: \"אין לי ספק במקצועיות של אנשי הסגל הערבי. הם טובים, הם ראויים, הטיפול שלהם בפצועי צה\"ל מעולה ורגיש\"",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_275/rsz_615_346_12ice29062021.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "An FCC filing points to new Sonos headphones coming soon",
+      "link": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
+      "pubDate": "2026-08-11T21:23:30.000Z",
+      "summary": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call . As reported by What Hi-Fi? , an FCC filing by Sonos, Inc reveals details about upcoming wireless headphones with the model number S52A. In addition to the S52A designation, one of the submitted documents shows an oval diagram - likely the ear cup - marked with the name Sonos Ace Ultra, although that name isn't listed anywhere else",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "נתניהו סירב לבקשה של הדר מוכתר: המהלך הדרמטי בליכוד",
+      "link": "https://www.ice.co.il/local-news/news/article/1125161",
+      "pubDate": "2026-08-11T21:21:00.000Z",
+      "summary": "יו\"ר הליכוד סירב לאשר למועמדת החדשה את קיצור הפז\"ם הנדרש להתמודדות בפריימריז, בזמן שבמפלגה שוקלים לבטל לחלוטין את המשבצת שעליה בנתה את כרטיס הכניסה שלה",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_599/rsz_615_346_090026052026.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "Russian drones found near vital European offshore gas site, get blown up",
+      "link": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+      "pubDate": "2026-08-11T21:20:11.000Z",
+      "summary": "Romanian army divers used explosives to destroy two Russian-made drones found floating in the Black Sea near Romania’s largest natural gas project, according to the NATO member country’s defense minister. Defense Minister Radu Miruță posted a Facebook video supposedly showing one of the drones being blown up in the water by explosive ordnance disposal divers of the Romanian army on August 11, as reported by Reuters and other news outlets. The drones were first spotted in the water by a ship work",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-4.40.55-PM.png",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "אבל כבד בחדרה: הפעיל החברתי הלך לעולמו בגיל 40 בלבד",
+      "link": "https://www.ice.co.il/local-news/news/article/1125163",
+      "pubDate": "2026-08-11T21:19:10.000Z",
+      "summary": "עידן מורד, ממקימי ומובילי שכונת הפארק, נפטר לאחר התמודדות עם מחלה קשה. בעיר ספדו לו על פעילותו למען התושבים ועל יכולתו לחבר בין אנשים ולקדם יוזמות קהילתיות",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_8989466454656546456.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "הזמר הענק מבטל הופעות בפתאומיות: \"הליך רפואי דחוף\"",
+      "link": "https://www.ice.co.il/culture/news/article/1125165",
+      "pubDate": "2026-08-11T21:18:00.000Z",
+      "summary": "אגדת הרוק נאלץ לבטל הופעה בסינסינטי בשל הליך רפואי שנדרש לעבור. המעריצים שהזמינו כרטיסים קיבלו את הודעת הביטול ובה נמסר כי נעשים מאמצים לקביעת מועד חדש",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_501/rsz_615_346_7ice02012025.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ]
+    },
+    {
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "pubDate": "2026-08-11T21:07:24.000Z",
+      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "pubDate": "2026-08-11T20:59:52.000Z",
+      "summary": "Google’s Chrome browser has added a new feature that could go a long way in preventing a form of account takeover that’s grown increasingly common as users adopt two-factor authentication, passkeys, and similar protections. The new Chrome protection is known as device-bound session credentials (DBSCs). The measure stores a unique encryption key in a silicon-resident fortress that’s built into the device running the browser. On Windows machines, this fortress is called a TPM, short for Trusted Pl",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+      "pubDate": "2026-08-11T20:27:16.000Z",
+      "summary": "Meta and TikTok tried to defeat thousands of social media addiction lawsuits in one fell swoop, but an appeals court rejected the attempt in a ruling issued yesterday. First up among the lawsuits is a case brought against Meta by the California attorney general and other state AGs. Meta said in a July court filing that the state AGs' demands for damages would amount to more than $1.4 trillion. A trial in district court is scheduled to start on August 19, with jury selection beginning August 12. ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "pubDate": "2026-08-11T20:10:55.000Z",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Uber surprised robotics company Serve by selling its entire stake",
+      "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+      "pubDate": "2026-08-11T20:02:02.000Z",
+      "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "pubDate": "2026-08-11T19:48:12.000Z",
+      "summary": "Google has been all-in with Gemini for the last several years, and despite some animosity online, the bet is paying off. CEO Sundar Pichai announced today that Gemini has reached 1 billion monthly active users (MAUs), an important milestone for any Google product. While 13 other Google products have managed that feat, Gemini has done it faster than any other. Gemini has wormed its way into virtually every Google product and service, powering email organization in Gmail, document summary in Drive",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "pubDate": "2026-08-11T19:45:31.000Z",
+      "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "pubDate": "2026-08-11T19:41:42.000Z",
+      "summary": "That’s a lot of people chatting with their AI friends all day. | Image: Google For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT hit the mark a few weeks ago, though the company buried the announcement that \"more than 1 billion people are putt",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+      "link": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+      "pubDate": "2026-08-11T19:38:23.000Z",
+      "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "pubDate": "2026-08-11T19:36:37.000Z",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026. \"Kimwolf v7 adds an HTTP/2-based",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s1600/android-botnet.jpg",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com",
+      "columns": [
+        4
+      ]
+    },
     {
       "title": "OpenAI launches ChatGPT desktop app for Linux",
       "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
@@ -13,18 +445,6 @@
       "sourceUrl": "https://techcrunch.com",
       "columns": [
         4
-      ]
-    },
-    {
-      "title": "אורטל עמר בראיון חשוף: על הזוגיות, גידול תו והעבודה לצד חיי האמהות",
-      "link": "https://www.ice.co.il/media/news/article/1125021",
-      "pubDate": "2026-08-11T19:11:24.000Z",
-      "summary": "אורטל עמר מספרת על האתגרים בגידול בנה תו \"אני מרגישה שבזמן האחרון קצת הזנחתי \" והזוגיות עם איתי למרות פער הגילאים \"הדברים האלה אם באמת אוהבים זה לא משנה\" - ראיון אישי",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_0941010820666.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
       ]
     },
     {
@@ -40,63 +460,27 @@
       ]
     },
     {
-      "title": "בדרך לכנסת: יזם ההייטק המפתיע שמצטרף לנפתלי בנט",
-      "link": "https://www.ice.co.il/local-news/news/article/1125162",
-      "pubDate": "2026-08-11T18:58:00.000Z",
-      "summary": "מפלגת ביחד חושפת שילוב מסקרן ברשימה עם הצטרפותו של מנהל מטה הטכנולוגיה העילית, ששימש בעבר כראש לשכה במשרד לביטחון פנים ויצא לשלושה סבבי מילואים מאז פרוץ המלחמה",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_214811082026.png",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
-      "title": "כוכב הילדים רוי בוי מרוויח בענק: זה התפקיד הנוצץ אליו לוהק",
-      "link": "https://www.ice.co.il/culture/news/article/1125168",
-      "pubDate": "2026-08-11T18:57:00.000Z",
-      "summary": "רועי עוז לוהק לאחת מהצגות חנוכה הגדולות בישראל. ההפקה הנוצצת, שעתידה לעלות בבמות המובילות ברחבי הארץ, מופקת על ידי אלעד יוסף, מגן סבג ואסי סתיו",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_469/rsz_615_346_25ice14072024.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
-      "title": "Google’s Gemini app surges to one billion users",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "pubDate": "2026-08-11T18:49:12.000Z",
-      "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "pubDate": "2026-08-11T19:08:47.000Z",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim beyond being in the meeting. No click, no download, no prompt, and nothing on screen to show it",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIX-dcsP7VVws3iI-g-myaz7Wyt8fgrlR9U3CtweEsSriOayyy8r9uyB_1mVcMhSBPyulDXj47SOLsWhl7XQjgMpLYGSjF79fiMTw7zEVOAceKqtAlHCVAMs38paehT0bmDN1zdAyMjHgvdUfYzqRCGEU1StMPyrYW5xIkJzG6DIHh9R9gemNCus_Mwlc/s1600/zoomsday.jpg",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com",
       "columns": [
         4
       ]
     },
     {
-      "title": "השחקנית האהובה בבשורה קשה בגיל 53: \"חליתי בסרטן סופני\"",
-      "link": "https://www.ice.co.il/culture/news/article/1125167",
-      "pubDate": "2026-08-11T18:47:15.000Z",
-      "summary": "לוסי דייוויס, שכיכבה בתפקיד דון טינסלי בגרסה הבריטית המקורית של \"המשרד\", חשפה כי אובחנה לפני שנה וחצי בסרטן שד בשלב 4, שהתפשט לעמוד השדרה, לירך ולצלעות. לצד הבשורה הקשה, היא מבקשת מהציבור שלא להתעלם מסימנים חריגים ולהיבדק בזמן",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_6987413354878.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "pubDate": "2026-08-11T18:49:12.000Z",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
       "columns": [
-        3
-      ]
-    },
-    {
-      "title": "1,000,000 שקל הלכו לפח: התקלה החריגה של מפעל הפיס",
-      "link": "https://www.ice.co.il/consumerism/news/article/1125166",
-      "pubDate": "2026-08-11T18:39:00.000Z",
-      "summary": "תוצאות הגרלת הצ'אנס שנערכה ביום שישי האחרון נפסלו וזאת בשל תקלה טכנית ורשלנית בהליך הכנסת הכדורים למכונות המזל. כעת, המהמרים זועמים כי בשל פרסום התוצאות השגויות הם זרקו את הכרטיסים לפח",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_492/rsz_615_346_26ice24112024.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
+        4
       ]
     },
     {
@@ -148,18 +532,6 @@
       ]
     },
     {
-      "title": "עודד בן עמי עצר את השידור - והודיע: \"אני מצטער על כך ומתנצל\"",
-      "link": "https://www.ice.co.il/media/news/article/1125164",
-      "pubDate": "2026-08-11T18:26:45.000Z",
-      "summary": "אחרי שידור האייטם שעורר זעם רב במערכת הבריאות, המגיש עצר את השידור ופנה לצוותים הרפואיים שנפגעו מהטענות שהתפרסמו נגדם: \"אין לי ספק במקצועיות של אנשי הסגל הערבי. הם טובים, הם ראויים, הטיפול שלהם בפצועי צה\"ל מעולה ורגיש\"",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_275/rsz_615_346_12ice29062021.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
       "title": "Microsoft releases Windows 10 KB5120249 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
       "pubDate": "2026-08-11T18:26:03.000Z",
@@ -169,54 +541,6 @@
       "sourceUrl": "https://www.bleepingcomputer.com",
       "columns": [
         4
-      ]
-    },
-    {
-      "title": "נתניהו סירב לבקשה של הדר מוכתר: המהלך הדרמטי בליכוד",
-      "link": "https://www.ice.co.il/local-news/news/article/1125161",
-      "pubDate": "2026-08-11T18:21:00.000Z",
-      "summary": "יו\"ר הליכוד סירב לאשר למועמדת החדשה את קיצור הפז\"ם הנדרש להתמודדות בפריימריז, בזמן שבמפלגה שוקלים לבטל לחלוטין את המשבצת שעליה בנתה את כרטיס הכניסה שלה",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_599/rsz_615_346_090026052026.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
-      "title": "אבל כבד בחדרה: הפעיל החברתי הלך לעולמו בגיל 40 בלבד",
-      "link": "https://www.ice.co.il/local-news/news/article/1125163",
-      "pubDate": "2026-08-11T18:19:10.000Z",
-      "summary": "עידן מורד, ממקימי ומובילי שכונת הפארק, נפטר לאחר התמודדות עם מחלה קשה. בעיר ספדו לו על פעילותו למען התושבים ועל יכולתו לחבר בין אנשים ולקדם יוזמות קהילתיות",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_8989466454656546456.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
-      "title": "הזמר הענק מבטל הופעות בפתאומיות: \"הליך רפואי דחוף\"",
-      "link": "https://www.ice.co.il/culture/news/article/1125165",
-      "pubDate": "2026-08-11T18:18:00.000Z",
-      "summary": "אגדת הרוק נאלץ לבטל הופעה בסינסינטי בשל הליך רפואי שנדרש לעבור. המעריצים שהזמינו כרטיסים קיבלו את הודעת הביטול ובה נמסר כי נעשים מאמצים לקביעת מועד חדש",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_501/rsz_615_346_7ice02012025.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
-      "title": "החלטה היסטורית בתל אביב: הצעד הרשמי של רון חולדאי",
-      "link": "https://www.ice.co.il/local-news/news/article/1125160",
-      "pubDate": "2026-08-11T18:09:02.000Z",
-      "summary": "ראש העירייה הסיר את הלוט מעל השילוט החדש ברחבת מוזיאון תל אביב לאמנות, והעניק מעמד רשמי למקום שהפך לסמל הלאומי הגדול ביותר מאז שבעה באוקטובר",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_445/rsz_615_346_19ice19022024.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
       ]
     },
     {
@@ -244,18 +568,6 @@
       ]
     },
     {
-      "title": "דרמת ענק בהרצליה: מכונית בשווי 3 מיליון שקל עלתה בלהבות",
-      "link": "https://www.ice.co.il/auto/news/article/1125156",
-      "pubDate": "2026-08-11T17:58:00.000Z",
-      "summary": "עוברים ושבים נדהמו לראות את רכב היוקרה הנדיר נשרף כמעט לחלוטין באמצע הכביש סמוך לאוניברסיטה בעיר. כוחות כיבוי ומשטרה הוזעקו למקום, וזה הכיוון שנבדק כעת",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_205211082026.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
       "title": "Another OpenAI executive takes off",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
       "pubDate": "2026-08-11T17:50:01.000Z",
@@ -268,18 +580,6 @@
       ]
     },
     {
-      "title": "ג'קי אזולאי: \"למרות שהתפרסמתי, אין לי אפשרות לרכוש את זה\"",
-      "link": "https://www.ice.co.il/culture/news/article/1125159",
-      "pubDate": "2026-08-11T17:48:07.000Z",
-      "summary": "כוכבת הריאליטי, שחוזרת למסך בתוכנית \"מאסטר שף: נבחרת החלומות\", מספרת על פערי הידע מול המתמודדים האחרים, על השימוש בבינה מלאכותית ועל המצרך היקר שהיא עדיין לא יכולה להרשות לעצמה",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_374/rsz_615_346_24ice19022023.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
       "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
       "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
       "pubDate": "2026-08-11T17:46:14.000Z",
@@ -289,18 +589,6 @@
       "sourceUrl": "https://techcrunch.com",
       "columns": [
         4
-      ]
-    },
-    {
-      "title": "השף חושף: כמה תשלמו לבראנץ' במסעדה החדשה של חיים כהן?",
-      "link": "https://www.ice.co.il/food/news/article/1125155",
-      "pubDate": "2026-08-11T17:46:00.000Z",
-      "summary": "אחד השפים האהובים בישראל חוזר עם פרויקט ענק בבניין לשימור שיכלול מסעדות, אולם אירועים ומלון בוטיק, ומציג תפריט בראנץ' ייחודי עם מנות מוכרות במחירים נגישים",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_486/rsz_615_346_1747221020024587.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
       ]
     },
     {
@@ -364,54 +652,6 @@
       ]
     },
     {
-      "title": "מתקפת סייבר מסוכנת בחסות צפון קוריאה פוגעת בארגוני ביטחון",
-      "link": "https://www.pc.co.il/featured/456648/",
-      "pubDate": "2026-08-11T17:30:06.000Z",
-      "summary": "צפון קוריאה ממשיכה במלחמת הסייבר שלה נגד המערב: צ'ק פוינט חושפת הערב (ג') קמפיין חדש, ומתמשך, שבמסגרתו קבוצת לזרוס , שלוחת השלטון בפיונגיאנג, מפעילה מתקפות מסוכנות במיוחד נגד ארגונים במגזר הביטחוני. חברי הקבוצה שמים את הדגש בגל המתקפות הנוכחי על ארגונים שמפעילים תשתיות ביטחוניות, לרבות בעולמות התעופה והחלל. יש לציין שישראל לא הייתה בין יעדי התקיפה של לזרוס במסגרת הקמפיין הזה. לפי המחקר, חברי הקבוצה הידועה לשמצה משתמשים לתקיפת הקורבנות שלהם בהודעות פישינג ובהן הצעות עבודה מזויפות. משהקורבנות נעני",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/c.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "אסף רפפורט מאבד את המשקיעים: הדרמה בדרך לרכישת רשת 13",
-      "link": "https://www.ice.co.il/media/news/article/1125157",
-      "pubDate": "2026-08-11T17:23:00.000Z",
-      "summary": "למרות הדיווחים על שורת יזמי הייטק שהצטרפו למהלך רכישת הערוץ, הבקשה הרשמית שהוגשה לרשות השנייה מצביעה בשלב זה על 2 מממנים בלבד: רפפורט וינון קוסטיקה. במקביל, הרגולטור מתקרב להכרעה בעסקה ובוחן גם את התחייבויות העבר של הערוץ",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_601/rsz_615_346_1303032026206.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
-      "title": "דנה זרמון במצב רפואי מורכב: \"אין תרופה למחלה הזו\"",
-      "link": "https://www.ice.co.il/culture/news/article/1125154",
-      "pubDate": "2026-08-11T17:18:00.000Z",
-      "summary": "אושיית הרשת נעלמה בימים האחרונים מהרשתות החברתיות, ולאחר שאחת העוקבות שאלה לשלומה, היא חשפה מה עובר עליה ומה הוביל להעדרותה. לדבריה, היא סובלת כמו שלא סבלה שנים",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_596/rsz_615_346_050520226111.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
-      "title": "\"המניה הזו ב-175 דולר אבל שווה דולר אחד\": המשקיע האגדי יוצא למתקפה",
-      "link": "https://www.ice.co.il/finance/news/article/1125089",
-      "pubDate": "2026-08-11T17:06:20.000Z",
-      "summary": "בדיוק כשכל וול סטריט חוגגת את הזינוק המחודש של פלנטיר, המשקיע שחזה את משבר 2008 חידש בשקט את ההימור שלו נגד המניה - וקבע יעד מחיר דמיוני. מאחורי ההצהרה הפרובוקטיבית מסתתרת טענה חשבונאית אחת שכדאי להכיר, במיוחד אם המניה נמצאת גם בקרן ההשתלמות שלכם.",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_571/rsz_615_346_23ice13112025.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
       "title": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
       "link": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
       "pubDate": "2026-08-11T17:00:00.000Z",
@@ -436,30 +676,6 @@
       ]
     },
     {
-      "title": "עופר לוי על נתניהו: \"הוא החיים שלי. אביא לו ארגזי סיגרים וויסקי\"",
-      "link": "https://www.ice.co.il/culture/news/article/1125153",
-      "pubDate": "2026-08-11T16:54:20.000Z",
-      "summary": "הזמר התארחב בפודקאסט \"בסלון של שרון\" בהגשת שרון גל, וסיפר כי הוא מתומכיו הבולטים של ראש הממשלה בנימין נתניהו: \"אני אוהב אותו, מעריך אותו, מפרגן לו ומעריץ אותו\"",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_15511008206665.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
-      "title": "ביטוח לאומי בבשורה משמחת: הקצבאות ייכנסו לחשבונכם מוקדם מהצפוי",
-      "link": "https://www.ice.co.il/consumerism/news/article/1125152",
-      "pubDate": "2026-08-11T16:48:00.000Z",
-      "summary": "חגי תשרי צפויים להשפיע על מועדי התשלום של כמה מהקצבאות בחודש ספטמבר. אלה התאריכים שמופיעים כעת באתר הביטוח הלאומי, ומה עשוי להשתנות: כל הפרטים",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_591/rsz_615_346_1803202261235.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
       "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
       "pubDate": "2026-08-11T16:47:44.000Z",
@@ -472,18 +688,6 @@
       ]
     },
     {
-      "title": "החל 100,000 אירו לשבוע: רשת המלונות משיקה יאכטה פרטית ויוקרתית",
-      "link": "https://www.ice.co.il/tourism/news/article/1125151",
-      "pubDate": "2026-08-11T16:45:00.000Z",
-      "summary": "רשת מלונות היוקרה הישראלית גורדוניה מרחיבה את פעילותה ונכנסת לתחום השייט היוקרתי. המהלך נועד לתת מענה לביקוש העולמי הגובר לחופשות יוקרה פרטיות ומותאמות אישית באגן הים התיכון",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_614/rsz_615_346_1935110820126365.jpeg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
-      ]
-    },
-    {
       "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
       "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
       "pubDate": "2026-08-11T16:35:27.000Z",
@@ -493,18 +697,6 @@
       "sourceUrl": "https://thehackernews.com",
       "columns": [
         4
-      ]
-    },
-    {
-      "title": "דדי ברנע משאיר אבק לאלביט ורפאל: עסקה ביטחונית בשווי מיליוני שקלים",
-      "link": "https://www.ice.co.il/local-news/news/article/1125150",
-      "pubDate": "2026-08-11T16:31:00.000Z",
-      "summary": "כשבוע מאז שהצטרף ראש המוסד לשעבר לחברת אונדס האמריקאית, החברה הודיעה כי זכתה במכרז חדש שבמסגרתו היא תהיה אחראית על פיתוח רחפני התקיפה הטקטיים של צה\"ל",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_514/rsz_615_346_24ice26022025.jpg",
-      "source": "אייס",
-      "sourceUrl": "https://www.ice.co.il",
-      "columns": [
-        3
       ]
     },
     {
@@ -527,18 +719,6 @@
       "image": null,
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
-      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-      "pubDate": "2026-08-11T16:19:15.000Z",
-      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where the photo originated, and that it isn't AI fakery. Apple Reference Image isn't currently live, but a privacy disclosure in the iOS beta notes that the feature will be off",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
       "columns": [
         4
       ]
@@ -616,7 +796,7 @@
       ]
     },
     {
-      "title": "2025’s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
+      "title": "Block Blast! goes ad-free on Apple Arcade",
       "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
       "pubDate": "2026-08-11T15:33:59.000Z",
       "summary": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
@@ -676,18 +856,6 @@
       ]
     },
     {
-      "title": "אנת'רופיק תקנה כוח מחשוב בתשעה מיליארד דולר מחברה לכריית ביטקוין",
-      "link": "https://www.pc.co.il/news/datacenter/456643/",
-      "pubDate": "2026-08-11T15:07:37.000Z",
-      "summary": "אנת'רופיק חתמה על עסקת ענק, שבמסגרתה היא תקנה כוח מחשוב בסך של 9.1 מיליארד דולר מ ריוט פלטפורמס – חברת כריית ביטקוין שיש לה גם פעילות רחבה בעולמות הדאטה סנטרים והמחשוב עתיר הביצועים (HPC). ריוט פלטפורמס היא שהודיעה אתמול (ב') על העסקה, אך היא לא ציינה את זהות הקונה – שנחשפה על ידי בלומברג . כך או כך, ההודעה הביאה לעלייה תלולה במנייה שלה לאחר סגירת שערי נאסד\"ק אמש ועם פתיחת השערים היום. העסקה היא למשך 20 שנה, ובמסגרתה תספק ריוט לאנת'רופיק קיבולת של 191 מגה-וואט – כוח שמאפשר אנרגיה לכ-143 אלף משקי",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/01/דריו-אמודי.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
       "title": "Disney Continues Marketing Moves, Joss Hastings to Lead Consumer Products Marketing",
       "link": "https://www.adweek.com/convergent-tv/disney-marketing-moves-joss-hastings-to-lead-consumer-products-marketing/",
       "pubDate": "2026-08-11T15:00:00.000Z",
@@ -712,18 +880,6 @@
       ]
     },
     {
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "pubDate": "2026-08-11T14:45:44.000Z",
-      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday , researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired . The exploit involved Zoom's annotation feature , which allows users to draw on their screen while sharing it with other meeting participants. With the exploit, an attacker could join or host a meeting an",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
       "title": "עטרה בילר מנתחת: מכונית BMW חשמלית Neue Klasse",
       "link": "https://shivuk.me/articles/atara/39332",
       "pubDate": "2026-08-11T14:33:25.000Z",
@@ -743,18 +899,6 @@
       "image": null,
       "source": "גיקטיים",
       "sourceUrl": "https://www.geektime.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "ה-AI משנה את האבטחה מהיסוד – והבורסות מיישרות קו",
-      "link": "https://www.pc.co.il/featured/456636/",
-      "pubDate": "2026-08-11T14:30:21.000Z",
-      "summary": "בסוף השבוע האחרון הסתיימו בלאס וגאס שני כנסים בעולמות האבטחה והסייבר: Black Hat וכנס ההאקרים DEF CON . אלה כנסים שונים מהרגיל: הן עקב מועד קיומם, באוגוסט, והן בגלל העובדה שלצד ספקיות האבטחה, המשווקות את מרכולתן (כמובן, בצירוף האותיות AI), משתתפים בהם רבים מהממשל הפדרלי והאקרים לסוגיהם. בכירים.ות מהממשל נואמים, ולצידם אנשים אחרים מהגופים הממשלתיים מחפשים בכנסים הללו האקרים כדי לגייס לשורותיו. המסר המרכזי, שעבר כחוט השני בקרב כלל הדוברים בשני הכנסים, היה זהה: הבינה המלאכותית אינה 'עוד' תכונה, היא ",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/shutterstock_2441086501.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
       "columns": [
         4
       ]
@@ -796,30 +940,6 @@
       ]
     },
     {
-      "title": "בעקבות הביקוש לתשתיות AI: אינטל מוכרת מניות ב-20 מיליארד דולר",
-      "link": "https://www.pc.co.il/featured/456633/",
-      "pubDate": "2026-08-11T13:36:03.000Z",
-      "summary": "אינטל הודיעה היום (ג') כי היא מעלה את הסכום שהיא מבקשת לגייס ממכירת מניות שלה לציבור ל-19.7 מיליארד דולר. זאת, לאחר שאתמול היא הודיעה על הנפקת מניות בסכום של 15 מיליארד. המחיר החדש למניה שעל פיו מבוצעת ההנפקה הוא 95 דולר. החברה מסרה כי הסכום ישמש \"למטרות ארגוניות כלליות, שיכולות לכלול הוצאות הוניות ומימון הון אנושי, אך אינן מוגבלות לכך\". נראה שכמו ענקיות טק, היא תשקיע את ההון הזה, או לפחות את רובו, לעלייה בביקוש לכוח מחשוב, בגלל הבינה המלאכותית. אתמול ציינה החברה שלושה מנועי צמיחה מרכזיים שלה: ב",
-      "image": "https://www.pc.co.il/wp-content/uploads/2025/03/shutterstock_2523694479.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "pubDate": "2026-08-11T13:27:20.000Z",
-      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \" Ordered: 1 Hardware item ,\" \" Your Drugstore, Shoes, and other items are here! \" and \" 1 Nutrition & Wellness, 1 Wireless Accessori",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
       "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
       "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
       "pubDate": "2026-08-11T13:20:28.000Z",
@@ -851,18 +971,6 @@
       "image": null,
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "מבועת הטוקנים לפריון אמת: למה טרנד ה-Tokenmaxxing קורס?",
-      "link": "https://www.pc.co.il/featured/456630/",
-      "pubDate": "2026-08-11T13:11:49.000Z",
-      "summary": "תופעה חדשה באה לעולם לפני כמה חודשים: Tokenmaxxing (טוקנמקסינג). אין לזה תרגום עברי מדויק, אבל מדובר במדידת הפרודוקטיביות של עובד לפי כמות אסימוני הבינה המלאכותית שהוא צורך. לכאורה, אם אתה בזבזן היסטרי של תקציבים במנוי ה-AI הארגוני, זה מסמן אותך כעובד יותר פורה. אבל המדד הלא כל כך אמין הזה, כפי שתיכף תראו, הולך ומתפוגג, בערך באותה המהירות שבה הוא עלה. הרעיון הזה, של קשירת מדידת ביצועים של עובד לשימוש ב-AI, החל להתגלגל בערך לפני שנה וחצי, והגיע לשיאו במרץ האחרון כש ג'נסן הואנג הציע מפתח ל-Tokenma",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/72bb6cb5-dd15-47ba-9342-540a6aa2f4e0.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
       "columns": [
         4
       ]
@@ -904,18 +1012,6 @@
       ]
     },
     {
-      "title": "GuliKit’s new Switch controller features next-generation anti-drift thumbsticks",
-      "link": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
-      "pubDate": "2026-08-11T13:00:00.000Z",
-      "summary": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99 , the new GuliKit ES Max is more expensive than last year's $29.99 ES Pro, but still cheaper than Nintendo's Switch 2 Pro Controller , while offering more features and functionality without the risk of stick drift that plagued the original Switch. The TMR thumbstic",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
       "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
       "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
       "pubDate": "2026-08-11T13:00:00.000Z",
@@ -923,66 +1019,6 @@
       "image": null,
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "ריאן כהן וגיימסטופ שוקלים לשנות כיוון מול eBay",
-      "link": "https://www.pc.co.il/featured/456627/",
-      "pubDate": "2026-08-11T12:33:18.000Z",
-      "summary": "מנכ\"ל גיימסטופ (GameStop) ריאן כהן , שוקל לפי דיווחים למשוך חזרה את הצעת הרכישה העוינת בהיקף של 56 מיליארד דולר שהגיש בראשית חודש מאי כדי לרכוש את eBay , וזאת לאור תגובה פושרת של השוק להצעה הזו – הרבה בגלל ששווי השוק של גיימסטופ עומד על כ-8.6 מיליארד דולר בלבד, הרבה פחות מערך השוק המוערך של eBay, שעומד על כ-48 מיליארד דולר – וכאמור, כהן אף היה מוכן לשלם פרמיה משמעותית כדי לבצע את המהלך הזה. למעשה, מועצת המנהלים של eBay כבר דחתה את ההצעה המקורית, בטענה שהיא \"אינה אמינה ואינה אטרקטיבית\", ומאז ערך ",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/05/רוצה-לרכוש-את-eBay.-גיימסטופ.-Stefano-Chiacchiarini-74-ו-Romans14-Shutterstock.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/",
-      "pubDate": "2026-08-11T12:30:00.000Z",
-      "summary": "At Disrupt 2026, Amazon's Panos Panay will provide his vision for what's in store for us beyond the smartphone.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "הדסה נערכת לעידן ניוד המידע עם תשתית FHIR של אינטרסיסטמס",
-      "link": "https://www.pc.co.il/upcoming-conferences/456622/",
-      "pubDate": "2026-08-11T12:23:14.000Z",
-      "summary": "החלת חוק ניוד המידע במערכת הבריאות בישראל מציבה בפני ארגונים רפואיים אתגר משמעותי: כיצד לאפשר שיתוף מידע קליני מלא, מאובטח וסטנדרטי בין מערכות וארגונים מבלי לפגוע ברציפות הטיפול וביציבות המערכות הקיימות. המרכז הרפואי הדסה בחר להתמודד עם האתגר באמצעות הקמת תשתית FHIR מתקדמת, על גבי פלטפורמת IRIS for Health של אינטרסיסטמס (InterSystems) ובשיתוף מטריקס מדיקה (Matrix Medica) – זרוע הבריאות של מטריקס – כשותף מיישם. מטרת הפרויקט הייתה לאפשר עמידה בדרישות הרגולציה, תוך יצירת תשתית מודרנית לשיתוף מידע ר",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/05/איל-שוריאן.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "מסיליקון לתשתיות עתק: אנבידיה מניעה מהפכת מחשוב בחצי טריליון ד'",
-      "link": "https://www.pc.co.il/news/money/456616/",
-      "pubDate": "2026-08-11T12:19:38.000Z",
-      "summary": "בזמן שעולם הטכנולוגיה מתקדם בקצב מסחרר אל עבר עידן של בינה מלאכותית סוכנית, המגבלה הגדולה ביותר כבר אינה טמונה רק בתכנון ארכיטקטורת שבבים, אלא ביכולת הפיזית להקים, להזין ולקרר את מפעלי מחשוב-העל הנדרשים להרצתם. ברקע מצב זה בדיוק, הכריזה כעת ענקית הטכנולוגיה אנבידיה (Nvidia) על מהלך חסר תקדים, המשלב בין הנדסת חומרה להנדסה פיננסית מורכבת. החברה חתמה על הבנות אסטרטגיות עם שישה מגופי ניהול ההשקעות והנכסים המובילים בעולם: אפולו (Apollo), בלאקרוק (BlackRock), בלאקסטון (Blackstone), ברוקפילד (Brookfiel",
-      "image": "https://www.pc.co.il/wp-content/uploads/2025/12/Jensen-Huang.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "pubDate": "2026-08-11T12:13:47.000Z",
-      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
       "columns": [
         4
       ]
@@ -1024,18 +1060,6 @@
       ]
     },
     {
-      "title": "חולשה חושפת רבע מיליון כלי רכב למתקפות סייבר",
-      "link": "https://www.pc.co.il/featured/456617/",
-      "pubDate": "2026-08-11T12:03:06.000Z",
-      "summary": "יותר מרבע מיליון כלי רכב מסחריים בהודו ונתונים רגישים על עשרות אלפי נהגים חשופים לפריצה מרחוק. זאת, בעקבות ליקויים בתוכנה נפוצה לניהול של צי כלי רכב. התוכנה היא פרי פיתוח של VE Commercial Vehicles – מיזם משותף של קבוצת וולוו ו- Eicher Motors ההודית. את החולשה המסוכנת חשף החוקר איטון זוואר – בעברו חוקר סייבר בכיר ב טראפל סקיוריטי , הארנס ו טראסיבל . זוואר חשף בעבר ליקויים רבים במערכות רכב וטלמטיקה של יצרניות רכב גדולות כמו הונדה וטויוטה. טלמטיקה היא שילוב של טכנולוגיות מחשוב ותקשורת המאפשרות איסו",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/43c495d4-f546-4cf2-8fa0-105ece17a0dc.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
       "title": "לינקדאין סוגרת את מרכז הפיתוח בישראל ומפטרת את העובדים",
       "link": "https://www.geektime.co.il/linkedin-closes-israel-rd-center/",
       "pubDate": "2026-08-11T11:41:59.000Z",
@@ -1055,18 +1079,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIGgelUshBcG56Nc5uWqBbhQwtUxWtNgSIRTCiJXZoJtkuTWeXEV0KiWRje-UhGGnrvf6wNOmmBGQ7yAxKNigAuJE00RicY4ris0k02Dd_1ch7_RcSM2aJtGvgf4miSazvFMNEqTmVDY3nlDT1zPwg5vkafqzMwbkFRZ1kO4xU2mzZgfxAEUTM0zObjGE/s1600/nk.jpg",
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "\"פייק ניוז\": מאסק מכחיש שיקנה את דקארט הישראלית",
-      "link": "https://www.pc.co.il/featured/456612/",
-      "pubDate": "2026-08-11T11:32:03.000Z",
-      "summary": "אילון מאסק מכחיש דיווחים בתקשורת הישראלית שלפיהם SpaceX שלו נמצאת במגעים לרכוש את הסטארט-אפ הישראלי דקארט תמורת 6.7 מיליארד דולר, וטוען שמדובר ב-\"פייק ניוז\". מאסק הגיב על פוסט שבו כתב העיתונאי העצמאי ס.א. רובינסון , שמרבה לסקר את החברות שלו, על הדיווח, שפורסם במקור ב כלכליסט . בפוסט צוין כי העסקה בין SpaceX לדקארט עשויה להיסגר בתוך שבוע וצורפו אליו הלוגואים של שתי החברות. לאחר שמאסק כתב את ההכחשה, רובינסון מחק את הפוסט המקורי שלו, בטענה שהוא \"הופרך בידי אילון\". דקארט, שהוקמה ב-2023 על ידי דין לי",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/04/shutterstock_2449496573.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
       "columns": [
         4
       ]
@@ -1108,18 +1120,6 @@
       ]
     },
     {
-      "title": "מארק צוקרברג משנה כיוון: בינת-על עולמית לכל",
-      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/456604/",
-      "pubDate": "2026-08-11T10:56:11.000Z",
-      "summary": "מייסד ומנכ\"ל מטא (Meta), מארק צוקרברג , פרסם אתמול (ב') מסמך מקיף בן 14 עמודים, תחת הכותרת \"העתיד שייך לכולם: הנתיב לעתיד חיובי של בינה מלאכותית\". במסמך החריג מציג צוקרברג תפישת עולם שונה בתכלית מזו של יריבותיו בתעשייה, ומסביר מדוע הפצת מה שמכונה \"בינת-על\" (Superintelligence) לכלל האנושות היא הדרך הבטוחה והנכונה ביותר לקדם את הכלכלה והחברה. בניגוד לנרטיב החרדתי המקובל בעמק הסיליקון, המזהיר מפני אסון קיומי, צוקרברג מביע פליאה על הגישה המרתיעה והריכוזית של מפתחי הבינה המלאכותית המובילים. לדבריו, \"",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/מעוניין-להציע-בינת-על-לכולםץ-מארק-צוקרברג-מייסד-ומנכל-מטא.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
       "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
       "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
       "pubDate": "2026-08-11T10:48:26.000Z",
@@ -1141,18 +1141,6 @@
       "sourceUrl": "https://www.adweek.com",
       "columns": [
         3
-      ]
-    },
-    {
-      "title": "BDO, טאלנטים ואלביישן יפעילו תוכנית לשילוב החברה הערבית בהיי-טק",
-      "link": "https://www.pc.co.il/featured/456564/",
-      "pubDate": "2026-08-11T10:41:05.000Z",
-      "summary": "מינהל אוכלוסיות ב משרד העבודה בחר בחברת מקפצה להייטק – מיזם משותף שהוקמם על ידי פירמת הייעוץ וראיית החשבון BDO , חברת ההשמה טאלנטים (Talenteam) וחברת ההכשרות לשוק התעסוקה אלביישן (Elevation) – להוביל את תוכנית ההמשך הממשלתית \"פורסאטק 3.0\", שמטרתה לקדם ולשלב סטודנטים בשנה האחרונה ללימודיהם, אקדמאים והנדסאים מהחברה הערבית במשרות טכנולוגיות מגוונות בתעשיית ההיי-טק ובתעשייה בכלל. התוכנית פועלת במסגרת התוכנית הכלכלית הממשלתית הרחבה לפיתוח החברה הערבית \"תקאדום\" (החלטת ממשלה 550), ומושקת על רקע פערים מ",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/שעלוב.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
       ]
     },
     {
@@ -1192,18 +1180,6 @@
       ]
     },
     {
-      "title": "אברא ו-סאפ הציגו דרך לערך עסקי חכם במערכות הליבה הארגוניות",
-      "link": "https://www.pc.co.il/kehila/daily-zipi/456599/",
-      "pubDate": "2026-08-11T10:02:01.000Z",
-      "summary": "איך ייראה ה-ERP הארגוני בעידן ה-AI? חברת טכנולוגיות המידע אברא (abra) וענקית התוכנה סאפ (SAP) קיימו לאחרונה מפגש מקצועי שהתמקד במעבר מניהול מידע פסיבי ל\"ארגון אוטונומי\". במפגש הציגו המומחים את פתרון ה-ERP בענן SAP GROW, המשלב יכולות AI מובנות ומתודולוגיות יישום מהירות, ומאפשר לארגונים לעלות לאוויר במהירות ולייעל תהליכים ללא פרויקטי פיתוח מורכבים. במרכז הגישה הוצגו סוכנים חכמים, המבצעים משימות רוטיניות ומסנכרנים נתונים מקצה לקצה, בעוד העובדים עוברים לתפקיד של פיקוח וקבלת החלטות. כמו כן הוצגה Joul",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/אבי-שטיינהוף.-צילום-דריה-אלקינד.png.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
       "title": "Mummy Pig Returns to Kylie Kelce’s Podcast as Hasbro Aims For Millennial Moms",
       "link": "https://www.adweek.com/brand-marketing/mummy-pig-returns-to-kylie-kelces-podcast-as-hasbro-aims-for-millennial-moms/",
       "pubDate": "2026-08-11T10:00:00.000Z",
@@ -1223,30 +1199,6 @@
       "image": null,
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "זהירות: מכשירים רובוטיים המיובאים מסין יוצרים סיכוני אבטחה",
-      "link": "https://www.pc.co.il/editorial/456593/",
-      "pubDate": "2026-08-11T09:44:44.000Z",
-      "summary": "מאחר שההגדרה הטכנית הרחבה חלה על מגוון מכשירים, מכונות אוטונומיות-ניידות המצוידות בחיישנים סביבתיים ומצלמות, האיסור כולל שואבי אבק רובוטיים חכמים המיוצרים בעיקר בסין. מכשירים אלה יכולים לכלול אמצעי הקלטה ותקשורת שיאפשרו שידור של מידע על סביבת המכשיר. בראיון שהוקלט ופורסם בטלוויזיה בישראל נאמר על ידי גורם מסחרי כי אין מקום לדאגה ואין סכנה לדליפת מידע רגיש, והשימוש במכשירים אלה בטוח. האזרח, שדואג לביטחונו ופרטיותו האישית, לא יכול לקבל הסבר מסוג זה כאמין באופן מוחלט. כל מי שמשתמש במגוון מכשירים רוב",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/הם-עלולים-לרגל-אחרינו.-מכשירים-חכמים.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "\"ניתן לאמץ AI – בלא לוותר על שליטה, אבטחה והלימה לרגולציות\"",
-      "link": "https://www.pc.co.il/featured/456582/",
-      "pubDate": "2026-08-11T09:31:01.000Z",
-      "summary": "\"אחד האתגרים המרכזיים של ארגונים כיום הוא למצוא את האיזון בין דרישות רגולטוריות מחמירות ומשתנות לגבי ניהול ושמירת המידע, לבין הצורך לאפשר לעובדים לעבוד ולשתף מידע בצורה גלובלית, מהירה ופשוטה. מנמ\"רים ומנהלי אבטחת מידע נדרשים להגן על מידע רגיש מפני טעויות אנוש, דליפות מכוונות ואיומי סייבר, ובמקביל – לאפשר לארגון לאמץ תהליכי עבודה וכלים מבוססי AI\", כך אמרה סמנתה ווסלס , סגנית נשיא בכירה לאזור EMEA (ר\"ת אירופה, המזה\"ת ואפריקה) בחברת ניהול התוכן בענן בוקס (Box). על לקוחות החברה בארץ נמנות מכבי שירות",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/סמנתה.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
       "columns": [
         4
       ]
@@ -1430,138 +1382,6 @@
       "columns": [
         4
       ]
-    },
-    {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "pubDate": "2026-08-11T00:03:18.000Z",
-      "summary": "San Francisco's housing market is in trouble again.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "pubDate": "2026-08-10T23:56:15.000Z",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Hackers breached a small Polish energy plant via private APN last year",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-      "pubDate": "2026-08-10T23:07:21.000Z",
-      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
-      "image": null,
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Live now: Ross Scott discusses the Stop Killing Games movement",
-      "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-      "pubDate": "2026-08-10T22:23:43.000Z",
-      "summary": "By now, any serious gamer is familiar with a favorite title becoming unplayable after a centralized online server gets shut down, or being unable to purchase and download a digitally delisted, critically acclaimed title from yesteryear. Can anything be done about this video game preservation problem? To help answer that question, we'll be hosting a live conversation with Ross Scott , the founder of the Stop Killing Games campaign , on August 11 at 2:30 pm ET as part of the Ars Live series. As Ar",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-      "pubDate": "2026-08-10T22:13:03.000Z",
-      "summary": "Meta has announced its intention to focus on open-weight large language models. Additionally, the company announced the release of an open model called Muse Glimmer and a promise to open the weights for Muse Spark 1.2, its more powerful model, in the next few weeks. Alongside these announcements, Meta CEO Mark Zuckerberg published a more than 6,000-word essay outlining the company's philosophy about AI systems and governance moving forward. The essay aims to differentiate Meta from companies lik",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "הפיצול בהיי-טק בעידן ה-AI: התוכנה מתכווצת, החומרה צומחת",
-      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/456520/",
-      "pubDate": "2026-08-10T22:00:42.000Z",
-      "summary": "הודעות הפיטורים התכופות שזרמו לאחרונה מענף ההיי-טק הישראלי יצרו בקרב הציבור תחושה של משבר עמוק, אך סקר מקיף שערכו רשות החדשנות וחברת צבירן במחצית השנייה של יוני 2026, ושתוצאותיו פורסמו הבוקר (ג') מציג תמונה שונה ומורכבת בהרבה. הסקר – שהקיף 210 חברות המעסיקות יחד כ-130 אלף עובדים, ומייצג את המגמות בקרב מעסיקים של מעל 80% מכוח האדם בענף – מראה כי שוק העבודה הטכנולוגי שומר על יציבות ברמת המאקרו. במהלך המחצית הראשונה של השנה גייסו החברות בממוצע 8% מכוח האדם שלהן ופיטרו 2.8% בלבד. במקביל, כ-4.3% מהעו",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/סקר.-גמיני-נוטבוק.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
-      "link": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
-      "pubDate": "2026-08-10T21:42:56.000Z",
-      "summary": "President Trump signed an executive order Monday that makes sweeping, unilateral changes to federal vaccine recommendations. The order aims to reduce the number of lifesaving vaccines all children are recommended to get—from 18 to 11—while also splitting them up and spacing them out over more time and more medical visits. The vaccine changes are not backed by evidence or spurred by new findings. Rather, they are based on false anti-vaccine fearmongering about harms, including the debunked claim ",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
-      "link": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
-      "pubDate": "2026-08-10T21:26:38.000Z",
-      "summary": "Following its announcement in March, game developer Cold Iron Studios has shut down the servers for the cloud version of Aliens: Fireteam Elite on the Nintendo Switch . The game originally cost $30 (or $60 for an “Ultimate” version with additional content). Cold Iron Studios hasn't offered customers refunds. TheGamer reported that affected players are entitled to a discount for the Nintendo Switch 2 version of the game, which is a 2021 co-op, third-person shooter based on the Alien film franchis",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-      "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-      "pubDate": "2026-08-10T21:12:10.000Z",
-      "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
-      "image": null,
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "pubDate": "2026-08-10T20:45:52.000Z",
-      "summary": "Amazon’s artificial intelligence ambitions will soon be partly fueled by a natural gas-burning power plant in Texas that “could become the largest single source of climate pollution in the United States,” The New York Times reported . These gas-burning plants are increasingly lumped into data center projects. They produce harmful pollutants, which can accelerate climate change impacts and harm public health—contributing to conditions like asthma, heart disease, lung cancer, and strokes. Some com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2267221283-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat",
-      "link": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
-      "pubDate": "2026-08-10T20:01:15.000Z",
-      "summary": "Social media scuttlebutt about Mark Zuckerberg’s $300 million superyacht failing to assist stranded boaters off the coast of Alaska was partly corroborated by ship-tracking data—and eventually prompted responses from both the US Coast Guard and a spokesperson for Zuckerberg. The incident was made public when Michael Love, a passenger aboard the replica steamship Wilderness Legacy during an Alaska cruise, posted about it on the social media platform Bluesky. The ship detoured to rescue a stranded",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2190858040-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com",
-      "columns": [
-        4
-      ]
     }
   ],
   "perSource": [
@@ -1578,7 +1398,7 @@
       "feedUrl": "https://www.ice.co.il/rss",
       "totalItems": 20,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 20,
+      "itemsInWindow": 16,
       "error": null
     },
     {
@@ -1600,10 +1420,10 @@
     {
       "name": "אנשים ומחשבים",
       "feedUrl": "https://www.pc.co.il/feed",
-      "totalItems": 30,
+      "totalItems": 0,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 16,
-      "error": null
+      "itemsInWindow": 0,
+      "error": "הפיד החזיר סטטוס 403"
     },
     {
       "name": "TechCrunch",
@@ -1634,7 +1454,7 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "totalItems": 50,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 12,
+      "itemsInWindow": 15,
       "error": null
     },
     {
@@ -1642,7 +1462,7 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "totalItems": 15,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 13,
+      "itemsInWindow": 15,
       "error": null
     }
   ]
