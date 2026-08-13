@@ -455,6 +455,51 @@
         ],
         "checkedAt": "2026-08-11T19:18:05.444Z"
       }
+    },
+    {
+      "name": "Ynet — חדשות",
+      "url": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "status": "approved",
+      "note": "איתור ידני, 2026-08-13 — הוחלף למקור הזה אחרי שmako/N12 התבררו כפידים קפואים (ראה הערות בטור 1 ב-SOURCES.md). כתובת legacy אבל פעילה בפועל.",
+      "discovered": {
+        "feedUrl": "https://www.ynet.co.il/Integration/StoryRss2.xml",
+        "itemCount": 30,
+        "method": "manual-known-legacy-pattern",
+        "checkedAt": "2026-08-13T20:30:34.931Z"
+      }
+    },
+    {
+      "name": "Ynet — כלכלה",
+      "url": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "status": "approved",
+      "note": "נמצא באגב בזמן חיפוש הפיד לטור 1 (אותו דפוס כתובות מספרי). פותר את הפער בטור 2.",
+      "discovered": {
+        "feedUrl": "https://www.ynet.co.il/Integration/StoryRss6.xml",
+        "itemCount": 30,
+        "method": "manual-known-legacy-pattern",
+        "checkedAt": "2026-08-13T20:30:34.931Z"
+      }
+    },
+    {
+      "name": "Ynet — ספורט",
+      "url": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "status": "approved",
+      "note": "מועמד לטור 5 — פיד ספורט כללי, לא ממוין לפי הרשימה הסגורה ב-EDITORIAL.md §7. יידרש סינון לפי שמות קבוצות/ליגות בשלב הסיווג (Gemini) או בקוד, לא רק לצרוך הכל כמו שהוא.",
+      "discovered": {
+        "feedUrl": "https://www.ynet.co.il/Integration/StoryRss3.xml",
+        "itemCount": 30,
+        "method": "manual-known-legacy-pattern",
+        "checkedAt": "2026-08-13T20:30:34.931Z"
+      }
     }
   ],
   "_excluded": [
