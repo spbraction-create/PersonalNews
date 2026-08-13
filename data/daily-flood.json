@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T20:30:39.330Z",
+  "generatedAt": "2026-08-13T20:37:14.794Z",
   "windowHours": 24,
   "droppedDuplicates": 0,
   "items": [
@@ -316,10 +316,10 @@
       ]
     },
     {
-      "title": "הארכה / '92: אוסטריה וינה - בית\"ר י-ם 2:1",
+      "title": "הארכה / '97: אוסטריה וינה - בית\"ר י-ם 2:1",
       "link": "https://livegame.ynet.co.il/games/530508",
       "pubDate": "2026-08-13T18:30:05.000Z",
-      "summary": "מוקדמות הקונפרנס ליג, סיבוב שלישי: אצילי כבש ראשון אצל הירושלמים (33') וקאלו הכפיל (56'), אך בואטנג צימק לאוסטרים (58'). כרגע: הולכים להארכה",
+      "summary": "מוקדמות הקונפרנס ליג, סיבוב שלישי: אצילי כבש ראשון אצל הירושלמים (33') וקאלו הכפיל (56'), אך בואטנג צימק לאוסטרים (58') והשווה ל-3:3 בסיכום",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/13/one1882338/one1882338_0_0_800_444_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
@@ -724,6 +724,18 @@
       ]
     },
     {
+      "title": "Week of Aug 3 Morning News Ratings: Today Has Narrow Win",
+      "link": "https://www.adweek.com/tvnewser/week-of-aug-3-2026-morning-news-ratings/",
+      "pubDate": "2026-08-13T16:33:14.000Z",
+      "summary": "It was a close race between Today and GMA.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ]
+    },
+    {
       "title": "במקום הכי לא צפוי: מאות ק\"ג קוקאין - ועליהן תמונתו של ארלינג הולאנד",
       "link": "https://www.ynet.co.il/sport/worldsoccer/article/r1dliws8ze",
       "pubDate": "2026-08-13T16:30:23.000Z",
@@ -733,6 +745,18 @@
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
         5
+      ]
+    },
+    {
+      "title": "Samsonite’s $178.5M Béis Buy Is All About Winning Over Gen Z Women",
+      "link": "https://www.adweek.com/brand-marketing/samsonites-1785m-beis-buy-is-all-about-winning-over-gen-z-women/",
+      "pubDate": "2026-08-13T16:27:08.000Z",
+      "summary": "The luggage giant's majority stake in Shay Mitchell's brand comes as sales dipped 2.5% last year",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
       ]
     },
     {
@@ -2194,7 +2218,7 @@
       "feedUrl": "https://www.adweek.com/feed",
       "totalItems": 10,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 8,
+      "itemsInWindow": 10,
       "error": null
     },
     {
