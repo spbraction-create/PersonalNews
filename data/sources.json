@@ -2,24 +2,60 @@
   "_readme": "קובץ עבודה שנגזר מ-SOURCES.md, עבור רכיב גילוי-הפיד (ראה README.md שלב 2). SOURCES.md נשאר מקור האמת הקריא לבן-אדם; זה רק רשימת קלט לקוד. columns: 1=חדשות 2=כלכלה 3=שיווק 4=טק 5=ספורט. status: approved=✅, tentative=❓ (עוד לא אושר), verify=⚠️ (מאושר עקרונית, ספק טכני/חומת תשלום).",
   "sources": [
     {
-      "name": "mako / N12",
-      "url": "https://www.mako.co.il",
+      "name": "mako / N12 — חדשות (בארץ)",
+      "url": "https://www.mako.co.il/news-israel",
       "columns": [
-        1,
-        2,
+        1
+      ],
+      "status": "approved",
+      "note": "איתור ידני, 2026-08-12 (עמוד mako.co.il/rss).",
+      "discovered": {
+        "error": "הפיד מחזיר 200 ו-RSS תקין מבנית, אבל תוכן קפוא בפועל — הפריט העדכני ביותר מ-9.7.2026 (למעלה מחודש), נבדק עם cache-busting וללא קאש בתגובת השרת עצמה (no-cache, no-store). כנראה קטגוריה נטושה אחרי מעבר לתשתית N12 — צריך מקור/פיד אחר לחדשות ישראל.",
+        "deadFeedUrlKeptForReference": "https://rcs.mako.co.il/rss/news-israel.xml",
+        "checkedAt": "2026-08-13T20:14:56.344Z"
+      }
+    },
+    {
+      "name": "mako / N12 — מגזין סוף שבוע",
+      "url": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "status": "approved",
+      "note": "עומק ברובו (לא ידיעות) — מועמד טבעי למוסף/ירחון, לא ליומי. Gemini יסווג לפי EDITORIAL.md. איתור ידני, 2026-08-12.",
+      "discovered": {
+        "error": "כל 17 הפריטים חוזרים עם אותו pubDate בדיוק (זמן הבקשה עצמה, לא זמן פרסום האמיתי) ובפורמט לא תקני (\"IDT\" בלי פסיק) — לא ניתן לסנן ל-24 שעות בכלל, גם לא באופן עקרוני. באג במקור, לא בקוד שלנו.",
+        "deadFeedUrlKeptForReference": "https://rcs.mako.co.il/rss/weekend.xml",
+        "checkedAt": "2026-08-13T20:14:56.344Z"
+      }
+    },
+    {
+      "name": "mako / N12 — כלכלה",
+      "url": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "status": "approved",
+      "note": "איתור ידני, 2026-08-12 (עמוד mako.co.il/rss).",
+      "discovered": {
+        "error": "אותה תופעה כמו news-israel — 200+RSS תקין אך רק 4 פריטים, העדכני ביותר מ-10.7.2026. פיד קפוא, לא בשימוש.",
+        "deadFeedUrlKeptForReference": "https://rcs.mako.co.il/rss/news-money.xml",
+        "checkedAt": "2026-08-13T20:14:56.344Z"
+      }
+    },
+    {
+      "name": "mako / N12 — דיגיטל (Nexter)",
+      "url": "https://www.mako.co.il/nexter",
+      "columns": [
         4
       ],
       "status": "approved",
-      "note": "מרכז פידים בעמוד /rss עם בחירת מדור (news-israel, news-columns, magazine, news-money, tech12). לא בטוח שדף הבית חושף feed גנרי מתאים — ייתכן שיידרש איתור ידני של כתובת פר-מדור.",
+      "note": "tech12.xml (השם ב-SOURCES.md המקורי) התגלה כלא פעיל בפועל — פריט יחיד מ-2024. הוחלף ב-Nexter, ערוץ הטק/דיגיטל הפעיל בפועל של mako. איתור ידני, 2026-08-12.",
       "discovered": {
-        "error": "לא נמצא פיד תקין — לא בדף הבית ולא בנתיבי ברירת המחדל",
-        "candidatesTried": [
-          "https://www.mako.co.il/feed",
-          "https://www.mako.co.il/feed/",
-          "https://www.mako.co.il/rss",
-          "https://www.mako.co.il/rss.xml"
-        ],
-        "checkedAt": "2026-08-11T19:18:05.444Z"
+        "feedUrl": "https://rcs.mako.co.il/rss/cd0c4e8fc83b8310VgnVCM2000002a0c10acRCRD.xml",
+        "itemCount": 20,
+        "method": "manual-rss-hub",
+        "checkedAt": "2026-08-13T20:11:22.179Z"
       }
     },
     {
