@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T12:16:17.127Z",
+  "generatedAt": "2026-08-20T12:21:45.183Z",
   "windowHours": 24,
   "droppedDuplicates": 0,
   "items": [
@@ -64,6 +64,30 @@
       ]
     },
     {
+      "title": "Meta glasses are a workplace menace",
+      "link": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+      "pubDate": "2026-08-20T12:00:00.000Z",
+      "summary": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item - but even after Hinkle told them the item was $20, the customers asked for the price again and again. \"After a while, I realized that I'm basically being pranked, and I noticed the glasses,\" Hinkle says, referring to the frames with a blinking light. They were the Ray-Ban Meta glasses, and the customers were filming. Hin",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "pubDate": "2026-08-20T12:00:00.000Z",
+      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have an idea or need to build a new feature, update a web page, or fix a bug, you simply tag in a coding agent like Anthropic",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
       "title": "גופת גבר אותרה ביער שווייץ בטבריה",
       "link": "https://www.ynet.co.il/news/article/bjqgdpnvml",
       "pubDate": "2026-08-20T11:54:35.000Z",
@@ -97,6 +121,18 @@
       "sourceUrl": "https://www.ynet.co.il/news",
       "columns": [
         1
+      ]
+    },
+    {
+      "title": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
+      "link": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
+      "pubDate": "2026-08-20T11:30:00.000Z",
+      "summary": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my life. Except, that is, for the glowing neon sign that turns on whenever they go to the toilet. I can't, and won't, take responsibility for the \"On Air\" sign. It was my partner's idea, suggested - I thought - as a joke. That was until it turned up at the house and",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
       ]
     },
     {
@@ -181,6 +217,30 @@
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
         5
+      ]
+    },
+    {
+      "title": "The piano that taught my cat to play for her supper",
+      "link": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
+      "pubDate": "2026-08-20T11:00:00.000Z",
+      "summary": "The artist, in a moment of quiet contemplation. | Photo by Elizabeth Lopatto / The Verge The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has happened to her: The vacuum cleaner has come out of the closet. Yes, my cat is a tortured artist. When Jeeves is moved by something that upsets her - say, I have gotten up when she was comfortable sitting in my la",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "The Audi S6 Sportback E-tron proves that sedans still matter",
+      "link": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review",
+      "pubDate": "2026-08-20T11:00:00.000Z",
+      "summary": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - especially those under the Volkswagen Group umbrella - when it comes to such a (now prior) commitment. Even so, what it's currently offering on the EV front is rather good, and fits into the German brand's under-the-radar fast sedan tradition quite well. I recently discovered this i",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
       ]
     },
     {
@@ -1288,18 +1348,6 @@
       ]
     },
     {
-      "title": "Watch Valve set up the Steam Frame in its own leaked videos",
-      "link": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
-      "pubDate": "2026-08-19T18:16:27.000Z",
-      "summary": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hardware Updates account on X . The Steam Frame is Valve's virtual-reality headset that can stream games from a PC or play them locally. Valve first took the wraps off the headset last year, and it offers LCD screens with 2160 x 2160 resolution ",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
       "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
       "pubDate": "2026-08-19T18:09:13.000Z",
@@ -1319,30 +1367,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Ar7QFukiqBWatGeVdffG393l7GwFmzYBSWvv6Um7gPNIzeL8p3gfO_2C1rvVGPSUh00KWZAB8wFs9Xdz6h7uWDd7MYyWuuzLciO6NX1Y4mln1LqxK-skWP7VEdFD3BOhP1msTaM7F1ZgBeGyDUuLUaNlXAroEXHH6aYPgWluliMNUrozkKKeGK9kf-Ri/s1600/open.jpg",
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "The wearable future is stuck in weird, experimental, existential limbo",
-      "link": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
-      "pubDate": "2026-08-19T18:00:00.000Z",
-      "summary": "AI on the wrist is one such experimental feature. This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here . For the past week, I've been testing the Google Pixel Watch 5 . In many ways, it's a typical, modern smartwatch. In others, it feels like one part of a wearable future that's increasingly in flux. Everyone I've spoken to in wearable",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Grab an iPad Air M4 for its lowest price since the June increase",
-      "link": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
-      "pubDate": "2026-08-19T17:56:15.000Z",
-      "summary": "The iPad Air M4 in space gray. | Image: The Verge Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale for $649. That’s $100 lower than the new retail price that went into effect (alongside plenty of other Apple price hikes) in June . You can also grab the 256GB model for $749 (usually $849), and the version with a cellular antenna ",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
       "columns": [
         4
       ]
@@ -1396,18 +1420,6 @@
       ]
     },
     {
-      "title": "OpenAI hit the brakes. Now what?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "pubDate": "2026-08-19T17:10:09.000Z",
-      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes . On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause in reinforcement learning training on its \"latest models intended for deployment,\" and an ongoing delay to its \"largest planned frontier RL run.\" The decision is a v",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
       "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
       "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
       "pubDate": "2026-08-19T17:06:06.000Z",
@@ -1415,18 +1427,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/wildwood1-1152x648.jpg",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "GTA VI keeps leaking ahead of its gameplay premiere",
-      "link": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
-      "pubDate": "2026-08-19T17:03:11.000Z",
-      "summary": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've seen three clips seemingly showing off the game, though two have been pulled from the site I saw them on \"due to a copyright claim.\" The first clip (now removed) was a quiet scene that mostly focused on Jason Duval, one the game's two protagonists, shooting a basketball into a ho",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
       "columns": [
         4
       ]
