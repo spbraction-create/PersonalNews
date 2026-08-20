@@ -2,45 +2,69 @@
   "_readme": "קובץ עבודה שנגזר מ-SOURCES.md, עבור רכיב גילוי-הפיד (ראה README.md שלב 2). SOURCES.md נשאר מקור האמת הקריא לבן-אדם; זה רק רשימת קלט לקוד. columns: 1=חדשות 2=כלכלה 3=שיווק 4=טק 5=ספורט. status: approved=✅, tentative=❓ (עוד לא אושר), verify=⚠️ (מאושר עקרונית, ספק טכני/חומת תשלום).",
   "sources": [
     {
-      "name": "mako / N12 — חדשות (בארץ)",
+      "name": "mako / N12 — חדשות (sitemap)",
       "url": "https://www.mako.co.il/news-israel",
       "columns": [
         1
       ],
       "status": "approved",
-      "note": "איתור ידני, 2026-08-12 (עמוד mako.co.il/rss).",
+      "note": "הפידים הישנים (rcs.mako.co.il/rss/*) התבררו קפואים — הוחלף ב-Google News sitemap שכן חי בפועל (2026-08-20). אין תקציר/תמונה במקור הזה — רק כותרת+קישור+תאריך.",
+      "type": "sitemap-news",
+      "pathFilter": [
+        "/news-israel/",
+        "/news-world/",
+        "/news-military/",
+        "/news-politics/",
+        "/news-israel-elections/",
+        "/men-men_news/",
+        "/news-law/"
+      ],
       "discovered": {
-        "error": "הפיד מחזיר 200 ו-RSS תקין מבנית, אבל תוכן קפוא בפועל — הפריט העדכני ביותר מ-9.7.2026 (למעלה מחודש), נבדק עם cache-busting וללא קאש בתגובת השרת עצמה (no-cache, no-store). כנראה קטגוריה נטושה אחרי מעבר לתשתית N12 — צריך מקור/פיד אחר לחדשות ישראל.",
-        "deadFeedUrlKeptForReference": "https://rcs.mako.co.il/rss/news-israel.xml",
-        "checkedAt": "2026-08-13T20:14:56.344Z"
+        "feedUrl": "https://www.mako.co.il/SiteMap/Mako-News-SitemapIndex.xml",
+        "itemCount": 22,
+        "method": "manual-sitemap-news",
+        "checkedAt": "2026-08-20T13:00:34.119Z"
       }
     },
     {
-      "name": "mako / N12 — מגזין סוף שבוע",
+      "name": "mako / N12 — מגזין ודעות (sitemap)",
       "url": "https://www.mako.co.il/weekend",
       "columns": [
         1
       ],
       "status": "approved",
-      "note": "עומק ברובו (לא ידיעות) — מועמד טבעי למוסף/ירחון, לא ליומי. Gemini יסווג לפי EDITORIAL.md. איתור ידני, 2026-08-12.",
+      "note": "עומק ברובו (מגזין+טורי דעה) — מועמד טבעי למוסף/ירחון, Gemini יסווג לפי EDITORIAL.md. אותו sitemap כמו החדשות, pathFilter שונה.",
+      "type": "sitemap-news",
+      "pathFilter": [
+        "/news-n12_magazine/",
+        "/news-columns/"
+      ],
       "discovered": {
-        "error": "כל 17 הפריטים חוזרים עם אותו pubDate בדיוק (זמן הבקשה עצמה, לא זמן פרסום האמיתי) ובפורמט לא תקני (\"IDT\" בלי פסיק) — לא ניתן לסנן ל-24 שעות בכלל, גם לא באופן עקרוני. באג במקור, לא בקוד שלנו.",
-        "deadFeedUrlKeptForReference": "https://rcs.mako.co.il/rss/weekend.xml",
-        "checkedAt": "2026-08-13T20:14:56.344Z"
+        "feedUrl": "https://www.mako.co.il/SiteMap/Mako-News-SitemapIndex.xml",
+        "itemCount": null,
+        "method": "manual-sitemap-news",
+        "checkedAt": "2026-08-20T13:00:34.119Z"
       }
     },
     {
-      "name": "mako / N12 — כלכלה",
+      "name": "mako / N12 — כלכלה (sitemap)",
       "url": "https://www.mako.co.il/news-money",
       "columns": [
         2
       ],
       "status": "approved",
-      "note": "איתור ידני, 2026-08-12 (עמוד mako.co.il/rss).",
+      "note": "הוחלף מהפיד הישן הקפוא ל-sitemap חי (2026-08-20).",
+      "type": "sitemap-news",
+      "pathFilter": [
+        "/news-money/",
+        "/finances-news/",
+        "/news-business/"
+      ],
       "discovered": {
-        "error": "אותה תופעה כמו news-israel — 200+RSS תקין אך רק 4 פריטים, העדכני ביותר מ-10.7.2026. פיד קפוא, לא בשימוש.",
-        "deadFeedUrlKeptForReference": "https://rcs.mako.co.il/rss/news-money.xml",
-        "checkedAt": "2026-08-13T20:14:56.344Z"
+        "feedUrl": "https://www.mako.co.il/SiteMap/Mako-News-SitemapIndex.xml",
+        "itemCount": 8,
+        "method": "manual-sitemap-news",
+        "checkedAt": "2026-08-20T13:00:34.119Z"
       }
     },
     {
@@ -263,16 +287,12 @@
         3
       ],
       "status": "approved",
-      "note": null,
+      "note": "ה-403 המקורי (11.8) התברר חד-פעמי/זמני — עם אותו User-Agent הכן של הפרויקט זה עבד ב-20.8, 40 פריטים מהיום.",
       "discovered": {
-        "error": "דף הבית החזיר סטטוס 403",
-        "candidatesTried": [
-          "https://www.marketingweek.com/feed",
-          "https://www.marketingweek.com/feed/",
-          "https://www.marketingweek.com/rss",
-          "https://www.marketingweek.com/rss.xml"
-        ],
-        "checkedAt": "2026-08-11T19:18:05.444Z"
+        "feedUrl": "https://www.marketingweek.com/feed/",
+        "itemCount": 40,
+        "method": "manual-retry-2026-08-20",
+        "checkedAt": "2026-08-20T13:03:22.149Z"
       }
     },
     {
@@ -499,6 +519,25 @@
         "itemCount": 30,
         "method": "manual-known-legacy-pattern",
         "checkedAt": "2026-08-13T20:30:34.931Z"
+      }
+    },
+    {
+      "name": "mako / N12 — ספורט (sitemap)",
+      "url": "https://www.mako.co.il/Sports",
+      "columns": [
+        5
+      ],
+      "status": "approved",
+      "note": "כמו Ynet ספורט — פיד כללי, עדיין לא מסונן לפי הרשימה הסגורה ב-EDITORIAL.md §7.",
+      "type": "sitemap-news",
+      "pathFilter": [
+        "/news-sport/"
+      ],
+      "discovered": {
+        "feedUrl": "https://www.mako.co.il/SiteMap/Mako-News-SitemapIndex.xml",
+        "itemCount": null,
+        "method": "manual-sitemap-news",
+        "checkedAt": "2026-08-20T13:00:34.119Z"
       }
     }
   ],

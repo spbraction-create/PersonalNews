@@ -31,3 +31,27 @@ export async function fetchText(url, options = {}) {
     clearTimeout(timer);
   }
 }
+
+/**
+ * כמו fetchText, אבל מחזיר Buffer גולמי — לקבצים בינאריים כמו sitemap.xml.gz
+ * (השרת שולח אותם כ-Content-Type: application/x-gzip, לא Content-Encoding: gzip —
+ * כלומר fetch לא מפענח אותם לבד, צריך גם unzip נפרד, ראה decodeMaybeGzip ב-harvest.js).
+ */
+export async function fetchBuffer(url, options = {}) {
+  const timeoutMs = options.timeoutMs ?? 10000;
+  const userAgent = options.userAgent ?? DEFAULT_USER_AGENT;
+
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const response = await fetch(url, {
+      redirect: "follow",
+      signal: controller.signal,
+      headers: { "User-Agent": userAgent },
+    });
+    const buffer = Buffer.from(await response.arrayBuffer());
+    return { ok: response.ok, status: response.status, finalUrl: response.url, buffer };
+  } finally {
+    clearTimeout(timer);
+  }
+}

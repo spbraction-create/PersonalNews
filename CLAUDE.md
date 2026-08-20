@@ -7,7 +7,7 @@
 ## מה כבר בנוי ועובד (נכון ל-20.8.2026)
 
 - **ריפו:** `github.com/spbraction-create/PersonalNews` — ציבורי, `main` branch, מחובר ל-remote, מספר commits אמיתיים.
-- **שלב 2 (גילוי-פיד):** `src/feedDiscovery.js` + `npm run discover`. 14/24 מקורות מ-`SOURCES.md` מאומתים ופעילים בפועל (לא רק "עונים 200" — נבדקו תאריכי פרסום אמיתיים). התוצאות ב-`data/sources.json` + `reports/`.
+- **שלב 2 (גילוי-פיד):** `src/feedDiscovery.js` + `npm run discover`. 19/24 מקורות מ-`SOURCES.md` מאומתים ופעילים בפועל (לא רק "עונים 200" — נבדקו תאריכי פרסום אמיתיים). התוצאות ב-`data/sources.json` + `reports/`.
 - **שלב 3 (קציר):** `src/harvest.js` + `npm run harvest`. מושך מהמקורות המאושרים, מסנן 24 שעות, מנקה כפילויות → `data/daily-flood.json`. רץ אוטומטית כל בוקר דרך GitHub Action (`harvest.yml`).
 - **שלב 4 (עריכה):** `src/gemini.js`, `src/classify.js`, `src/dailyEdit.js`. מסווג ידיעה/עומק, בוחר top-10 כשיש יותר מדי, כותב בריף ~200 מילה לכל טור → `data/daily-edition.json`. פריטי עומק נשמרים ב-`data/depth-queue.json` (בלי תור אמיתי עדיין). **✅ רץ עכשיו אוטומטית, אחרי harvest, באותו GitHub Action** — ראה "מה נבנה ב-20.8.2026" למטה.
 - **שלב 5 (הגשה):** `worker/index.js` + `worker/render.js`. **חי בפועל:** `https://daily-digest.spbraction.workers.dev` — קורא ישירות מ-`raw.githubusercontent.com` בכל בקשה (בלי לשמור תוכן ב-Worker עצמו — קאש קצה של 5 דק' בלבד). פריסה: `npm run worker:deploy` (רק כשהקוד/הלוגיקה משתנים — לא כשהתוכן משתנה). בדיקה מקומית: `npm run worker:dev`.
@@ -23,6 +23,7 @@
 1. **עמוד סיכום lazy-dive + KV** (README שלב 5.2 / EDITORIAL.md §3.3) — ✅ הושלם, חי בפרודקשן. כרטיס → `/read?link=...` → KV cache hit? מציג מיד. Cache miss? שולף דף מקור, מחלץ טקסט (`HTMLRewriter`), Gemini, שומר ל-KV (TTL חודש). קבצים: `worker/gemini.js`, `worker/extract.js`, `worker/articleCache.js`, `worker/articleSummary.js`, `renderReadPage` ב-`render.js`. KV namespace `ARTICLE_CACHE` (id `66a49c18b33d4ac2b040ee2c211c8bf7`).
 2. **מקורות טורים 1/2/5** — ✅ ברובו הושלם (Ynet לטורים 1/2/5, Nexter לטור 4). ראה סעיף 2 בסדר העדיפויות למטה.
 3. **חיבור GitHub Actions ל-edit-daily (20.8.2026) — ✅ הושלם ואומת מקצה לקצה בפרודקשן.** ראה פירוט מלא תחת סעיף 3 למטה — כולל שני באגים אמיתיים שנתקלנו בהם ותוקנו.
+4. **פתרון mako/N12 + עוד מקורות (20.8.2026) — ✅ הושלם.** המשתמש דרש מפורשות פתרון ל-mako/N12 ("חייבים!!!") לפני מעבר לעיצוב. נמצא Google News sitemap חי (בניגוד לפידי RSS הקפואים שכבר נשללו). ראה סעיף 2 למטה לפירוט המלא, כולל שינוי קוד ב-`src/harvest.js`/`src/http.js`.
 
 **הערת אבטחה פתוחה (בכוונה, MVP):** אין auth על ה-Worker — טכנית כל אחד עם הכתובת יכול לבקש סיכום לכל URL, לא רק לכתבות בגיליון. הרשת הביטחון היחידה כרגע: אין כרטיס אשראי מחובר, אז חריגת מכסה = חסימה לא חיוב. הפתרון המתוכנן — Cloudflare Access — כבר מתועד ב-README שלב 5.3, נדחה בכוונה יחד עם העיצוב (סעיף 4 למטה).
 
@@ -32,10 +33,17 @@
 
 ### ~~1. עמוד סיכום-ביניים (lazy dive) + KV~~ — ✅ הושלם וחי בפרודקשן
 
-### ~~2. השלמת מקורות טורים 1/2/5~~ — ✅ ברובו הושלם (12–13.8.2026)
-mako נכשל כמעט לגמרי (פידים קפואים/פגומים — לקח נזכר: 200+RSS תקין לא מוכיח תוכן חי, צריך תאריכים אמיתיים). זוכה יחיד מ-mako: **Nexter** (טור 4, טק). לטור 1 נטשנו את mako/N12 (שניהם קפואים) ועברנו ל-**Ynet** — הצלחה מלאה, דפוס כתובות RSS ישן ולא-מפורסם (`ynet.co.il/Integration/StoryRss<N>.xml`): חדשות (טור 1), כלכלה (טור 2), ספורט (טור 5). **טורים 1+2 סגורים עם מקור עובד בפועל.** 14/24 מאומתים ופעילים. פירוט מלא ב-`SOURCES.md`.
+### ~~2. השלמת מקורות טורים 1/2/5~~ — ✅ הושלם (12–20.8.2026)
+**סבב 1 (12–13.8):** mako נכשל כמעט לגמרי דרך RSS (פידים קפואים/פגומים — לקח נזכר: 200+RSS תקין לא מוכיח תוכן חי, צריך תאריכים אמיתיים). זוכה יחיד: **Nexter** (טור 4, טק, RSS רגיל). לטור 1 נטשנו את mako/N12 (קפוא) ועברנו ל-**Ynet** — דפוס כתובות RSS ישן ולא-מפורסם (`ynet.co.il/Integration/StoryRss<N>.xml`): חדשות (טור 1), כלכלה (טור 2), ספורט (טור 5). 14/24 מאומתים.
 
-**שארית פתוחה (קטנה, לא דחופה):** פיד הספורט של Ynet כללי (כל הענפים) — עדיין לא מסונן לפי הרשימה הסגורה ב-EDITORIAL.md §7. כלכליסט ו-sport5 פחות דחופים עכשיו.
+**סבב 2 (20.8) — פתרון mako/N12 סופי, לפי דרישה מפורשת של המשתמש:** במקום לוותר על mako/N12 כי ה-RSS קפוא, נמצא ש-mako חושף **Google News sitemap** חי לגמרי (`mako.co.il/SiteMap/Mako-News-SitemapIndex.xml`, מ-`robots.txt`) — פורמט שונה מ-RSS, נדרשה תמיכה קוד חדשה:
+- `src/http.js`: `fetchBuffer` — קובץ ה-sitemap עצמו הוא gzip אמיתי (`Content-Type: application/x-gzip`, לא `Content-Encoding`), fetch לא מפענח אותו לבד.
+- `src/harvest.js`: `type: "sitemap-news"` + `pathFilter` (מערך מחרוזות) — sitemap אחד מכיל את *כל* האתר מעורב, ה-pathFilter מסנן רק את המדור הרלוונטי לכל "מקור וירטואלי" ב-`sources.json`. **מגבלה:** sitemap לא כולל תקציר/תמונה — רק כותרת+קישור+תאריך. כרטיסי mako/N12 בגיליון מוצגים בלי תמונה/תקציר (נבדק ברינדור בפועל — לא שבור, רק פחות עשיר חזותית; עמוד ה-lazy-dive מפצה כי הוא שולף את הכתבה המלאה בלחיצה).
+- `scripts/harvest.js` תוקן כי הוא סינן/השמיט את שדות `type`/`pathFilter` בטעות בדרך למקורות בפועל.
+
+תוצאה: 4 מקורות mako/N12 חדשים (חדשות+מגזין/דעות טור 1, כלכלה טור 2, ספורט טור 5), + **Marketing Week** (403 מקורי התברר זמני) לטור 3. **סה"כ 19/24 מאומתים ופעילים.** אומת קצה-לקצה: `npm run harvest` (247 כתבות) → `npm run edit-daily` (5 טורים מלאים, כולל 2 כרטיסי mako/N12 אמיתיים בטור החדשות).
+
+**שארית פתוחה (לא דחופה):** פידי הספורט (Ynet + mako/sitemap) כלליים — עדיין לא מסוננים לפי הרשימה הסגורה ב-EDITORIAL.md §7. כלכליסט ו-sport5 פחות דחופים עכשיו (יש כבר 2 מקורות לכל אחד מהטורים האלה).
 
 ### ~~3. חיבור GitHub Actions בפועל~~ — ✅ הושלם ואומת (20.8.2026)
 `.github/workflows/harvest.yml` הורחב (לא workflow נפרד — כדי להבטיח סדר, אותו job, בטור) עם שני steps נוספים אחרי harvest: `Edit daily (Gemini)` ואז `Commit edited edition`. רץ ב-02:00 UTC, אותו תזמון כמו קודם.
@@ -64,3 +72,4 @@ mako נכשל כמעט לגמרי (פידים קפואים/פגומים — לק
 - **Secret לפרודקשן נפרד מ-`.env`:** ה-Worker בפרודקשן לא רואה את `.env` המקומי — צריך `npx wrangler secret put GEMINI_API_KEY` בנפרד (זה כבר בוצע — המשתמש הריץ את זה בעצמו, לפי כלל בטיחות שאוסר על Claude להזין מפתחות API בעצמו).
 - **תהליכי `wrangler dev` ישנים נשארים תקועים:** אם `worker:dev`/preview לא נסגר נקי (קריסת session וכו'), `workerd.exe` נשאר תופס את פורט 8787 ברקע. לבדוק עם `Get-CimInstance Win32_Process | Where-Object Name -match 'node|workerd'` ולסגור את כל השרשרת (npx→node→workerd), לא רק את ה-PID שתופס את הפורט.
 - **חילוץ טקסט מדפי מקור:** `worker/extract.js` משתמש ב-`HTMLRewriter` המובנה של Workers (לא ספרייה) — מסיר script/style/nav/header/footer/aside ואוסף טקסט מ-`<article>` (או `<body>` כברירת מחדל), מוגבל ל-12,000 תווים.
+- **כשפיד RSS "רשמי" קפוא — לבדוק Google News sitemap לפני שמוותרים.** `robots.txt` של כל אתר חדשות בדרך כלל מפרסם `Sitemap:` — לחפש אחד עם "news" בשם (למשל `Mako-News-SitemapIndex.xml`). לרוב חי יותר מ-RSS ישן כי גוגל דורש אותו טרי לאינדוקס. מגבלה: אין תקציר/תמונה, רק כותרת+קישור+תאריך. תמיכה כללית כבר קיימת ב-`src/harvest.js` (`type: "sitemap-news"`, `pathFilter`) — שווה לנסות את זה על מקורות אחרים שנכשלו (Daily, Bizportal, Funder, ITtime) לפני שמוותרים עליהם.

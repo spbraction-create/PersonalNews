@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-08-20T12:30:48.891Z",
+  "generatedAt": "2026-08-20T13:05:54.169Z",
   "note": "עדיין לא מחובר לשום תור אמיתי (KV) — ימתין לשלב שבו נבנה את תור מוסף/ירחון.",
   "items": [
+    {
+      "title": "רגב הפכה לפרזנטורית של כל מה שבלתי נסבל ביחס לאזרחים",
+      "link": "https://www.ynet.co.il/news/article/r1magondgx",
+      "pubDate": "2026-08-20T12:46:03.000Z",
+      "summary": "הפריימריז נגמרו, אפשר לטוס. למה ששרת התחבורה והנהלת המשרד יתרגשו מההתראות על כוח האדם בשיא העונה? נתב״ג הוא לא רק השער היחיד לישראל, אלא גם שיקוף שלה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/SJsaWXXvGe/SJsaWXXvGe_400_387_386_217_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
     {
       "title": "הנידון למוות ניצל 8 פעמים בדקה ה-90 – וחי עד גיל 101",
       "link": "https://www.ynet.co.il/news/article/bkkvzeevge",
@@ -17,13 +31,55 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "כהנא: \"עשיתם השמדת ערך לציונות הדתית\". וולדיגר: \"לא עשיתם כלום למענם\" | ראש בראש בזירת הבחירות",
-      "link": "https://www.ynet.co.il/news/article/h1wpeb7dfg",
-      "pubDate": "2026-08-20T07:42:26.000Z",
-      "summary": "לקראת בחירות 2026, התארחו באולפן ynet ח\"כ מיכל וולדיגר וחבר מפלגת ישר! מתן כהנא, לדיון על הנושאים הבוערים איתם תתמודד הממשלה הבאה. וולדיגר אמרה כי הפשיעה הלאומנית ביו\"ש \"אינה תופעה\" - כהנא השיב: \"הממשלה העלימה עין, בקריצה, ואיבדה את השליטה\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/ryguR11P7Dfl/ryguR11P7Dfl_0_0_850_479_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
+      "title": "מהפך במזרח התיכון: בריתות גמישות ומשתנות במקום צירים",
+      "link": "https://www.mako.co.il/news-columns/2026_q3/Article-c13364d912e10a1026.htm",
+      "pubDate": "2026-08-20T08:14:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "תסמונת \"איני הנהג\": אף אחד לא אחז בהגה בדרך לאיראן",
+      "link": "https://www.mako.co.il/news-columns/2026_q3/Article-53f44a697ed10a1026.htm",
+      "pubDate": "2026-08-20T07:32:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "פחות תלות בארה\"ב: הפצצות החכמות שישראל רוצה לייצר בעצמה",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-2e60b127cdd10a1027.htm",
+      "pubDate": "2026-08-20T06:27:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "המסר של ישראל לציר הסוני - והצעדים שנשקלים במקרה של הסלמה",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-27ec3cf7f3c10a1027.htm",
+      "pubDate": "2026-08-20T05:25:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
       "columns": [
         1
       ],
@@ -87,18 +143,284 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "לחזק, לבצר, לפתח",
-      "link": "https://www.ynet.co.il/news/article/yokra14868544",
-      "pubDate": "2026-08-19T21:02:00.000Z",
-      "summary": "המציאות החדשה מחייבת לא רק תפיסה ביטחונית של הגבול, אלא גם תפיסה אזרחית: קהילות חזקות, חקלאות, חינוך, תעסוקה ונוכחות אזרחית יציבה. גבול אינו רק קו שמגינים עליו; הוא גם מרחב שחיים בו",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/r1yiHru8Me/r1yiHru8Me_0_0_1280_742_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
+      "title": "עוד חזית מול ארדואן: החיכוך בין הצי הטורקי לספינות חיל הים",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-740ac93fd8b10a1027.htm",
+      "pubDate": "2026-08-19T19:36:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "הצעירה שעקפה את הבנים בזחילה - והפכה לכוכבת הכושר הקרבי",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-017c41eb05b10a1027.htm",
+      "pubDate": "2026-08-19T18:41:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
       "columns": [
         1
       ],
       "column": 1,
       "depthBucket": "אברגרין"
+    },
+    {
+      "title": "המשבר בש\"ס: המחלוקת בין אריה דרעי לרב יצחק יוסף",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-9c3841eb05b10a1027.htm",
+      "pubDate": "2026-08-19T18:31:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "האיש שתושבות רמת גן מפחדות ממנו שוחרר ומסתובב חופשי",
+      "link": "https://www.mako.co.il/men-men_news/Article-21b1d5c1bea10a1027.htm",
+      "pubDate": "2026-08-19T17:03:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "שורת חיסולי החשבונות הפנימיים שמטלטלת את עזה",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-9de48ba0d1a10a1026.htm",
+      "pubDate": "2026-08-19T16:14:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "גיוס החרדים, דרישת היועמ\"שית והסרת האחריות במשטרה",
+      "link": "https://www.mako.co.il/news-politics/2026_q3/Article-ef1c9e67aba10a1026.htm",
+      "pubDate": "2026-08-19T15:58:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "\"רצח תמורת לילה במלון\": הילדים שהפכו כוח עבודה בעולם הפשע",
+      "link": "https://www.mako.co.il/news-n12_magazine/2026_q3/Article-eadc926592f00a1026.htm",
+      "pubDate": "2026-08-19T15:52:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "המפלגות מדברות על שוויון, הם בוחרים גברים",
+      "link": "https://www.mako.co.il/news-columns/2026_q3/Article-cf92f08797a10a1027.htm",
+      "pubDate": "2026-08-19T15:15:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "מי שולט במצר הורמוז? הנתונים המבלבלים והטענות הסותרות",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-4b771bcfaf810a1026.htm",
+      "pubDate": "2026-08-19T14:38:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "שעון החול של סעודיה אוזל",
+      "link": "https://www.mako.co.il/news-columns/2026_q3/Article-cd9c6e59d3a10a1027.htm",
+      "pubDate": "2026-08-19T14:18:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "\"יש אפליה ידועה\": החיילים שנקלעו לנובה עדיין נאבקים על הזכויות",
+      "link": "https://www.mako.co.il/news-n12_magazine/2026_q3/Article-9dc65649acf00a1027.htm",
+      "pubDate": "2026-08-19T13:45:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "\"הלחץ יעבור לאיזנקוט\": הקרב שכבר מתחיל על היום אחרי נתניהו",
+      "link": "https://www.mako.co.il/news-n12_magazine/2026_q3/Article-d2d62476f0a10a1026.htm",
+      "pubDate": "2026-08-19T13:16:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "ניהול אקטיבי או פאסיבי: איך תבנו את אסטרטגיית ההשקעה שמתאימה לכם באמת?",
+      "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/hcb4ipwh4",
+      "pubDate": "2026-08-20T12:37:49.000Z",
+      "summary": "אחת ההחלטות הראשונות שכל משקיע צריך לקבל היא האם לנהל את תיק ההשקעות בצורה אקטיבית או להעדיף גישה פאסיבית. לכל אחת מהגישות יתרונות וחסרונות, בכתבה זאת נסביר לכם על ההבדלים בין השיטות ולמה כיום יותר ויותר משקיעים בוחרים דווקא לשלב ביניהן כדי ליהנות מהיתרונות של כל אחת?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/SkCnf00VDGx/SkCnf00VDGx_0_37_512_289_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "מהי הקרן שנמחקה בימים ואיך היא הדליקה מחדש את מניות ה-AI?",
+      "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/dve4nd6zd",
+      "pubDate": "2026-08-20T12:33:46.000Z",
+      "summary": "אחד האירועים החשובים ביותר בשוק בשבוע שעבר לא הגיע מדוח של אנבידיה, מהשקת מודל חדש או מאזהרת מאקרו, אלא מקריסתה של קרן גידור צעירה ואגרסיבית שנבנתה כמעט כולה סביב תזת הבינה המלאכותית. Situational Awareness, שהקים חוקר OpenAI לשעבר לאופולד אשנברנר, שצמחה בתוך פחות משנתיים מקרן קטנה יחסית לגוף שניהל בשיאו כ-45 מיליארד דולר. אלא שבתוך ימים ספורים, לאחר ירידות חדות במניות השבבים וגל קריאות מרג'ין, היקף הנכסים שלה צנח לכ-10 מיליארד דולר בלבד.",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/rkl93MuNvMx/rkl93MuNvMx_0_0_1672_941_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "המרת מט\"ח לפני השקעה: מהן העלות הנסתרת שרבים מהמשקיעים כלל לא בודקים?",
+      "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/0xprg4is3",
+      "pubDate": "2026-08-20T12:32:34.000Z",
+      "summary": "רוב המשקיעים משווים עמלות מסחר, בוחנים מניות ומנתחים קרנות סל, אבל מתעלמים משלב שמתרחש עוד לפני ביצוע העסקה הראשונה - המרת המט\"ח. דווקא בשלב הזה עשויים להיווצר פערי עלויות משמעותיים בין הגופים הפיננסיים. איך מתבצעת המרת מטבע, מדוע חשוב לבדוק את העלות האמיתית שלה, ואיך ניתן לבצע אותה גם בסכומים נמוכים יותר?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/SJBnMOVwGg/SJBnMOVwGg_52_0_1549_872_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "מהי קרן גידור ואיך מקימים אותה: המדריך המלא מאסטרטגיית ההשקעה ועד פתיחת חשבון",
+      "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/xvw2xpu23",
+      "pubDate": "2026-08-20T12:30:40.000Z",
+      "summary": "במשך שנים קרנות גידור נתפסו כמגרש המשחקים של גופים מוסדיים ומנהלי השקעות גדולים בלבד. אלא שההתפתחות הטכנולוגית והנגישות לתשתיות מסחר גלובליות מאפשרות כיום גם למנהלי השקעות, יזמים פיננסיים ו-Family Offices לבחון הקמה של קרן משלהם. מהי קרן גידור, אילו שלבים נדרשים בדרך, ולמה בחירת הברוקר והתשתית יכולה להיות קריטית להצלחה התפעולית של הקרן?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/B1g13G00Nvzl/B1g13G00Nvzl_62_0_1938_1091_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "מנכ\"ל VIber: \"בפיליפינים מסתכלים עליי כמו על סם אלטמן\":",
+      "link": "https://www.mako.co.il/news-business/meida-success_stories/Article-b22270a9bfe10a1027.htm",
+      "pubDate": "2026-08-20T11:47:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "שופרסל נכנסת לשוק: בדקנו איפה הכי שווה לקנות לגו בישראל?",
+      "link": "https://www.mako.co.il/finances-news/Article-148dd8292ee10a1027.htm",
+      "pubDate": "2026-08-20T11:18:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "כמה מרוויחות יבואניות הרכב על כל מכונית שהן מוכרות?",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-f522a920c6e10a1026.htm",
+      "pubDate": "2026-08-20T09:11:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "תחקיר באוסטרליה: רשת הונאות מת\"א גרפה מאות מיליוני דולרים מאזרחים",
+      "link": "https://www.ynet.co.il/economy/article/rkdfmf4pgg",
+      "pubDate": "2026-08-20T05:50:57.000Z",
+      "summary": "תחקיר של תאגיד השידור האוסטרלי (ABC), חשף רשת הונאת השקעות שפועלת מישראל מאז 2021, שפיתתה למעלה מ-4,000 אוסטרלים, בין השאר, באמצעות כתבות חדשות מזויפות. הרשת, שמנוהלת לטענת התחקיר ע\"י הישראלי שפי גולדברג, גרפה לפי הערכות מאות מיליוני דולרים מקורבנותיה, שהוזרמו דרך שרשרת חברות מסווה שהציגו עצמן כמוכרות קורסים מקוונים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/BkR7BGVDGg/BkR7BGVDGg_0_66_1168_658_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "עכשווי"
     },
     {
       "title": "פעם ידידות, היום אויבות: ההצעה הקוסמת של יוטיוב שעלולה לייבש את נטפליקס",
@@ -112,6 +434,76 @@
         2
       ],
       "column": 2,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "המצור במפרץ הפרסי מתגלגל ליוקר המחיה בישראל - דרך ירדן",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-23dd8ba0d1a10a1026.htm",
+      "pubDate": "2026-08-19T20:06:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "הסנקציות יוכבדו? המסמך שחושף מי באמת נהנה מהטבות המדינה",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-be2ddb551ba10a1027.htm",
+      "pubDate": "2026-08-19T16:27:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "הכאוס בנתב\"ג נמשך: 5 המחדלים הגדולים בתולדות התעופה בישראל",
+      "link": "https://www.ice.co.il/top-5/news/article/1126421",
+      "pubDate": "2026-08-20T12:34:00.000Z",
+      "summary": "הקיץ הנוכחי בנתב\"ג הפך לסיוט מתמשך עבור עשרות אלפי נוסעים. עיצומים פתאומיים, קריסת מערכי הכבודה ותורי ענק בדלפקים פירקו לחלוטין את לוח הטיסות והותירו את השער האווירי של ישראל בכאוס חסר תקדים",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_442/rsz_615_346_22ice29012024.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "רווקים להתפקד: זאת הדרך של תל אביב לסדר לכם זוגיות",
+      "link": "https://www.ice.co.il/advertising-marketing/news/article/1126417",
+      "pubDate": "2026-08-20T12:07:40.000Z",
+      "summary": "מרוץ הרווקים והרווקות הגדול בישראל חוזר עם אלפי משתתפים ודיג'יי בינלאומי. נחשפים המספרים מאחורי ההפקה המורכבת, עלויות האבטחה והרווח הנקי הצפוי למארגנים",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_616/rsz_615_346_1505200820226.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "Estée Lauder backs ‘winning playbook’ as 10,000 jobs cut",
+      "link": "https://www.marketingweek.com/estee-lauder-backs-winning-playbook/",
+      "pubDate": "2026-08-20T08:36:50.000Z",
+      "summary": "The beauty giant’s CEO rejected speculation over its talent base following mass job cuts, claiming Estée Lauder has a “winning” recipe for diversified growth. Source",
+      "image": null,
+      "source": "Marketing Week",
+      "sourceUrl": "https://www.marketingweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3,
       "depthBucket": "עכשווי"
     },
     {
@@ -143,6 +535,48 @@
       "depthBucket": "אברגרין"
     },
     {
+      "title": "In B2B the second laugh matters more than the first",
+      "link": "https://www.marketingweek.com/b2b-second-laugh/",
+      "pubDate": "2026-08-20T06:07:55.000Z",
+      "summary": "Too often B2B marketers move on from a creative idea before it has had time to bed in and in doing so forget that a good joke is always retold. Source",
+      "image": null,
+      "source": "Marketing Week",
+      "sourceUrl": "https://www.marketingweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "Texas A&M Drives New Track of Consumer Brand Marketing",
+      "link": "https://www.adweek.com/brand-marketing/texas-am-drives-new-track-of-consumer-brand-marketing/",
+      "pubDate": "2026-08-20T06:00:00.000Z",
+      "summary": "Texas A&M races into new IndyCar sponsorships.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "‘Competitive edge’: CMO AJ Coyne on Monzo’s ‘huge inflection point’",
+      "link": "https://www.marketingweek.com/monzo-mobile-europe-expansion/",
+      "pubDate": "2026-08-20T06:00:00.000Z",
+      "summary": "Recently promoted as the bank’s first CMO, AJ Coyne explains why mobile was the perfect next step for Monzo as it eyes European expansion. Source",
+      "image": null,
+      "source": "Marketing Week",
+      "sourceUrl": "https://www.marketingweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3,
+      "depthBucket": "אברגרין"
+    },
+    {
       "title": "‘We Can’t Sell It Fast Enough’: Amazon Gets Creative Amid Growing Women’s Sports Demand",
       "link": "https://www.adweek.com/convergent-tv/amazon-gets-creative-amid-growing-womens-sports-demand/",
       "pubDate": "2026-08-19T13:27:32.000Z",
@@ -154,6 +588,34 @@
         3
       ],
       "column": 3,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "For a16z, AI gives foreign founders an advantage",
+      "link": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
+      "pubDate": "2026-08-20T13:00:00.000Z",
+      "summary": "a16z’s Borderless Founder network initiative supports immigrant and international founders. 'Having one foot in your home country, and one foot in Silicon Valley,\" is an advantage, the firm believes.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "I bought DJI’s banned camera — it was cheap and easy",
+      "link": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
+      "pubDate": "2026-08-20T13:00:00.000Z",
+      "summary": "As a kid, I always imagined the \"black market\" would be like the movies: Shady vendors hawking illicit goods along dusty streets. But if you want a banned DJI Osmo Pocket 4 or Pocket 4 Pro camera in the US, you can just reach for your phone. They're on Temu, AliExpress, eBay, Mercari - even Amazon and Newegg - with fast, free shipping and no risk of tariffs or seizures. That's because these cameras are already inside the United States, despite rules that ban them from entering the country. This ",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
       "depthBucket": "עכשווי"
     },
     {
@@ -168,7 +630,21 @@
         4
       ],
       "column": 4,
-      "depthBucket": "אברגרין"
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "פרטיות עסקית: OpenAI מציבה סטנדרט חדש מול המתחרות",
+      "link": "https://www.pc.co.il/news/%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa-news/456965/",
+      "pubDate": "2026-08-20T11:34:05.000Z",
+      "summary": "פיתוחים טכנולוגיים מהירים בעולם הבינה המלאכותית מחייבים את החברות המובילות לתמרן ברגישות בין שתי דרישות מנוגדות: מחד, הגנה על פרטיות המידע העסקי של לקוחותיהן, ומנגד – מניעת שימוש לרעה במודלים רבי-עוצמה. על רקע זה, חשפה כעת OpenAI מערכת אבטחה חדשה בשם Private Safety Processing (\"עיבוד בטיחות פרטי\"). המערכת מציעה פתרון חלוצי לזיהוי דפוסי שימוש מסוכנים החוצים מספר שיחות שונות, מבלי לוותר על מדיניות \"אפס שמירת מידע\" (Zero Data Retention – ZDR). עד כה, מערכות הסינון התואמות למדיניות אי-שמירת מידע נדר",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/תשמש-כמגינה-על-פרטיות-עסקית-ללקוחות-OpenAI.-הטכנולוגיה-החדשה-שנקראת-Private-Safety-Processing.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
     },
     {
       "title": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
@@ -183,20 +659,6 @@
       ],
       "column": 4,
       "depthBucket": "אברגרין"
-    },
-    {
-      "title": "סופר הכניס אייר טאג לתוך משלוח ספרים וגילה שהגיע למפעל AI של אמזון",
-      "link": "https://www.mako.co.il/nexter-news/Article-79baf6044ee10a1026.htm",
-      "pubDate": "2026-08-20T11:20:00.000Z",
-      "summary": "תחקיר 404 Media מתאר מערך שבו ספרים נרכשים בכמויות, הכריכות נחתכות והעותקים לא שורדים. אמזון אישרה שהיא קונה ספרים, אך לא התייחסה לממצאים. הסיבה לרכישה - מדובר בספרים נדירים מלפני 2022, עוד לפני שמודלים של בינה מלאכותית החלו לכתוב בעצמם ספרים",
-      "image": "https://img.mako.co.il/2023/04/04/shutterstock_1971394904_re_autoOrient_a.jpg",
-      "source": "mako / N12 — דיגיטל (Nexter)",
-      "sourceUrl": "https://www.mako.co.il/nexter",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "עכשווי"
     },
     {
       "title": "The piano that taught my cat to play for her supper",
@@ -224,7 +686,7 @@
         4
       ],
       "column": 4,
-      "depthBucket": "אברגרין"
+      "depthBucket": "עכשווי"
     },
     {
       "title": "מארגנטינה לישראל: הצ'אטבוט בוואטסאפ שמוצא לכם אירועים בתל אביב - ללא תשלום",
@@ -269,6 +731,20 @@
       "depthBucket": "אברגרין"
     },
     {
+      "title": "אומרים כי אני אינני אני: זהויות מעורבות ב-90% מאירועי הסייבר",
+      "link": "https://www.pc.co.il/news/%d7%90%d7%91%d7%98%d7%97%d7%aa-%d7%9e%d7%99%d7%93%d7%a2-%d7%95%d7%a1%d7%99%d7%99%d7%91%d7%a8/456953/",
+      "pubDate": "2026-08-20T08:31:13.000Z",
+      "summary": "שינוי משמעותי חל באופן שבו תוקפים חודרים כיום לארגונים: במקום להסתמך רק על ניצול חולשות טכנולוגיות, הם משתמשים יותר ויותר בזהויות לגיטימיות שנפלו לידיהם, כך לפי חוקרי Unit 42 , יחידת המחקר של פאלו אלטו (Palo Alto Networks). על פי המחקר, זהויות היו מעורבות בכ-90% מאירועי הסייבר, ובכ-65% מפעילות החדירה הראשונית נעשה שימוש בטכניקות מבוססות זהות. לפי המחקר, \"המתקפה יכולה להתחיל מחשבון אחד שנפרץ, ומשם להתפשט למערכות וסביבות נוספות בארגון. המשמעות: התוקף לא תמיד צריך 'לפרוץ' למערכת מבחוץ. כאשר הוא מצל",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/שרון-מיידר-מנהלת-מחלקת-שירותי-אבטחה-מנוהלים-ב-Unit-42.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
       "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
       "pubDate": "2026-08-19T23:32:00.000Z",
@@ -297,6 +773,20 @@
       "depthBucket": "עכשווי"
     },
     {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "pubDate": "2026-08-19T22:10:46.000Z",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
       "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
       "link": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
       "pubDate": "2026-08-19T21:48:24.000Z",
@@ -304,6 +794,20 @@
       "image": null,
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "pubDate": "2026-08-19T20:04:41.000Z",
+      "summary": "Last Friday, Google won an auction to acquire a huge amount of Spirit Airlines data. The data doesn’t include personal information or customer data, but instead nearly covers the airline's entire employment and workplace record. To ensure that no individual can be identified in the dataset, Google agreed to use a court-appointed ombudsman to oversee a process to strip any personally identifying information (PII) from the data before it’s transferred to Google. Under the deal, Google agreed to ma",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
       "columns": [
         4
       ],
@@ -325,6 +829,20 @@
       "depthBucket": "עכשווי"
     },
     {
+      "title": "Nielsen is leaning more on wearables to hear what people are watching",
+      "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+      "pubDate": "2026-08-19T19:53:09.000Z",
+      "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era , Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing process ahead of the upcoming fall TV season. As of August 31st, Nielsen's co-viewing data will now include information obtained from smart-watch like gadgets that Neilsen's research panelists wear in",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
       "title": "AI was supposed to win people over by now — it hasn’t",
       "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
       "pubDate": "2026-08-19T19:11:40.000Z",
@@ -336,7 +854,7 @@
         4
       ],
       "column": 4,
-      "depthBucket": "אברגרין"
+      "depthBucket": "עכשווי"
     },
     {
       "title": "The floodgates are open after another Chinese company lands a reusable rocket",
@@ -367,6 +885,20 @@
       "depthBucket": "עכשווי"
     },
     {
+      "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+      "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+      "pubDate": "2026-08-19T17:26:32.000Z",
+      "summary": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
       "title": "Google Pixel 11 series review: Is the magic fading?",
       "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
       "pubDate": "2026-08-19T16:11:30.000Z",
@@ -378,7 +910,7 @@
         4
       ],
       "column": 4,
-      "depthBucket": "אברגרין"
+      "depthBucket": "עכשווי"
     },
     {
       "title": "תגית איירטאג חשפה מה באמת אמזון עושה עם כל הספרים הנדירים שהיא רוכשת",
@@ -406,7 +938,7 @@
         4
       ],
       "column": 4,
-      "depthBucket": "אברגרין"
+      "depthBucket": "עכשווי"
     },
     {
       "title": "הפצוע הסדרתי - והזהב הכי לא צפוי בתולדות האולימפיאדה",
@@ -434,7 +966,7 @@
         5
       ],
       "column": 5,
-      "depthBucket": "עכשווי"
+      "depthBucket": "אברגרין"
     },
     {
       "title": "האחים הורן שוב יחד ביציע | \"כשחזרתי לטרנר לא היה לי קול, הגוף שלי לא תיפקד\"",
@@ -484,20 +1016,6 @@
       "pubDate": "2026-08-20T04:28:29.000Z",
       "summary": "ברצלונה הקדימה את ריאל מדריד במרוץ אחרי רודרי וצפויה לצרף תמורת 76.5 מיליון יורו את הקשר האחורי הטוב בעולם. הוא ימלא את החלל שהותיר סרחיו בוסקטס, ישדרג את ההגנה וישמש מנטור למארק ברנאל. אם יחזור מהניתוח בשיאו, האנזי פליק קיבל את החתיכה שעשויה להפוך את אלופת ספרד לבעלת הבית של אירופה. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/BkIAX5qVMl/BkIAX5qVMl_0_0_3000_1660_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ],
-      "column": 5,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "\"במרחק 90 דקות מהחלום\": החגיגות בהפועל באר-שבע - והחששות לקראת הגומלין",
-      "link": "https://www.ynet.co.il/sport/israelisoccer/article/sky50x4dzg",
-      "pubDate": "2026-08-20T04:21:52.000Z",
-      "summary": "האדומים יודעים היטב שהם רק בחצי הדרך אחרי ה-1:2 על סבאח, אבל המאמן רן קוז'וך מודה ש\"מגיע לשחקנים לחגוג\", בתקווה \"שהגומלין ייראה אותו הדבר\". ולמה ההיסטוריה צריכה להדאיג את האדומים",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/BJWyTFc7vGe/BJWyTFc7vGe_0_316_720_406_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [

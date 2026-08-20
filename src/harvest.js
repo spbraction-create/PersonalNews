@@ -2,8 +2,9 @@
  * צינור הקציר (README.md שלב 3): מושך פידים מאומתים, מפרק אותם לכתבות בודדות,
  * מסנן ל-24 השעות האחרונות, ומנקה כפילויות. בלי AI בשלב הזה — זה איסוף גולמי בלבד.
  */
+import { gunzipSync } from "node:zlib";
 import { XMLParser } from "fast-xml-parser";
-import { fetchText, DEFAULT_USER_AGENT } from "./http.js";
+import { fetchText, fetchBuffer, DEFAULT_USER_AGENT } from "./http.js";
 
 const FEED_ACCEPT =
   "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5";
@@ -141,6 +142,85 @@ function parseFeed(xmlText, sourceMeta) {
   return [];
 }
 
+/**
+ * sitemap חדשות של Google (למשל SiteMap/Mako-News-SitemapIndex.xml) — לא RSS.
+ * מבנה: <urlset><url><loc>...</loc><n:news><n:publication_date>...</n:publication_date>
+ * <n:title>...</n:title></n:news></url></urlset>. אין בו תקציר או תמונה כלל —
+ * רק כותרת+קישור+תאריך פרסום. גילינו את זה כי כמה פידי RSS "רשמיים" של mako
+ * התבררו כקפואים/נטושים (ראה SOURCES.md), בזמן שה-sitemap הזה נשאר חי בפועל —
+ * כנראה כי גוגל דורש אותו טרי בשביל Google News, ולכן העורכים ממשיכים לתחזק אותו.
+ */
+function parseSitemapNews(xmlText, sourceMeta) {
+  const doc = xmlParser.parse(xmlText);
+  const urls = toArray(doc.urlset?.url);
+  return urls
+    .map((entry) => {
+      const news = entry["n:news"];
+      if (!news) return null;
+      const link = getText(entry.loc);
+      const title = stripHtml(getText(news["n:title"]));
+      const pubDate = parseDate(news["n:publication_date"]);
+      if (!link || !title) return null;
+      return {
+        title,
+        link,
+        pubDate,
+        summary: "", // sitemap לא כולל תקציר — ראה הערת תיעוד ב-SOURCES.md
+        image: null,
+        source: sourceMeta.name,
+        sourceUrl: sourceMeta.url,
+        columns: sourceMeta.columns,
+      };
+    })
+    .filter(Boolean);
+}
+
+/** קובץ ה-sitemap עצמו הוא gzip אמיתי (Content-Type: application/x-gzip, לא Content-Encoding) — fetch לא מפענח אותו לבד. */
+function decodeMaybeGzip(buffer) {
+  const isGzip = buffer.length > 2 && buffer[0] === 0x1f && buffer[1] === 0x8b;
+  return isGzip ? gunzipSync(buffer).toString("utf8") : buffer.toString("utf8");
+}
+
+/**
+ * source.feedUrl הוא כתובת אינדקס ה-sitemap (XML רגיל, לא gzip) — מכיל רשימת
+ * כתובות sitemap בפועל (בדרך כלל gzip). source.pathFilter (אופציונלי) מסנן
+ * רק פריטים שהכתובת שלהם מכילה אחת מהמחרוזות — כי sitemap אחד מכיל את *כל*
+ * האתר מעורב (חדשות, בידור, אוכל...), לא רק את המדור שרלוונטי לטור הזה.
+ */
+async function fetchSitemapNewsItems(source, { timeoutMs, userAgent }) {
+  const indexResponse = await fetchText(source.feedUrl, { timeoutMs, userAgent, accept: FEED_ACCEPT });
+  if (!indexResponse.ok) {
+    throw new Error(`אינדקס ה-sitemap החזיר סטטוס ${indexResponse.status}`);
+  }
+  const indexDoc = xmlParser.parse(indexResponse.text);
+  const sitemapUrls = toArray(indexDoc.sitemapindex?.sitemap)
+    .map((s) => getText(s.loc))
+    .filter(Boolean);
+  if (sitemapUrls.length === 0) {
+    throw new Error("אינדקס ה-sitemap לא הכיל אף כתובת sitemap בפועל");
+  }
+
+  const allItems = [];
+  for (const url of sitemapUrls) {
+    const fileResponse = await fetchBuffer(url, { timeoutMs, userAgent });
+    if (!fileResponse.ok) continue; // מדלגים על קובץ sitemap בודד שנכשל, לא מפילים את כל המקור
+    allItems.push(...parseSitemapNews(decodeMaybeGzip(fileResponse.buffer), source));
+  }
+
+  const items = source.pathFilter
+    ? allItems.filter((item) => source.pathFilter.some((p) => item.link.includes(p)))
+    : allItems;
+  return items;
+}
+
+async function fetchRssItems(source, { timeoutMs, userAgent }) {
+  const response = await fetchText(source.feedUrl, { timeoutMs, userAgent, accept: FEED_ACCEPT });
+  if (!response.ok) {
+    throw new Error(`הפיד החזיר סטטוס ${response.status}`);
+  }
+  return parseFeed(response.text, source).filter((item) => item.link);
+}
+
 function normalizeLinkForDedupe(link) {
   if (!link) return null;
   try {
@@ -170,8 +250,11 @@ function dedupeByLink(items) {
 }
 
 /**
- * קוצר רשימת מקורות: {name, feedUrl, url, columns}[]
- * @param {{name: string, feedUrl: string, url: string, columns: number[]}[]} sources
+ * קוצר רשימת מקורות: {name, feedUrl, url, columns, type?, pathFilter?}[].
+ * type ברירת מחדל "rss" (RSS/Atom/RDF רגיל). type: "sitemap-news" — feedUrl הוא
+ * כתובת אינדקס sitemap של Google News (לא פיד RSS); pathFilter (מערך מחרוזות,
+ * אופציונלי) מסנן רק פריטים שהכתובת שלהם מכילה אחת מהן — ראה fetchSitemapNewsItems.
+ * @param {{name: string, feedUrl: string, url: string, columns: number[], type?: string, pathFilter?: string[]}[]} sources
  * @param {{ windowHours?: number, now?: Date, timeoutMs?: number, userAgent?: string }} [options]
  */
 export async function harvestSources(sources, options = {}) {
@@ -186,16 +269,11 @@ export async function harvestSources(sources, options = {}) {
 
   for (const source of sources) {
     try {
-      const response = await fetchText(source.feedUrl, {
-        timeoutMs,
-        userAgent,
-        accept: FEED_ACCEPT,
-      });
-      if (!response.ok) {
-        throw new Error(`הפיד החזיר סטטוס ${response.status}`);
-      }
+      const items =
+        source.type === "sitemap-news"
+          ? await fetchSitemapNewsItems(source, { timeoutMs, userAgent })
+          : await fetchRssItems(source, { timeoutMs, userAgent });
 
-      const items = parseFeed(response.text, source).filter((item) => item.link);
       const withDate = items.filter((item) => item.pubDate);
       const inWindow = withDate.filter((item) => item.pubDate >= cutoff && item.pubDate <= now);
 

@@ -21,6 +21,8 @@ async function main() {
       feedUrl: source.discovered.feedUrl,
       url: source.url,
       columns: source.columns,
+      type: source.type,
+      pathFilter: source.pathFilter,
     }));
 
   console.log(`קוצר ${workingApproved.length} מקורות מאושרים עם פיד מאומת...\n`);
