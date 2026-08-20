@@ -1,4 +1,334 @@
 {
-  "generatedAt": "2026-08-20T12:21:54.113Z",
-  "columns": []
+  "generatedAt": "2026-08-20T12:30:48.891Z",
+  "columns": [
+    {
+      "column": 1,
+      "name": "חדשות / אקטואליה",
+      "brief": "נשיא ארה\"ב דונלד טראמפ הכריז על \"D-Day כלכלי\" ומערכה חסרת תקדים נגד איראן, לצד אזהרת מדינות משיתוף פעולה עמה. במקביל, המתיחות האזורית מתרחבת: אנקרה הכחישה נוכחות צבאית בבסיס הסורי שהותקף בידי צה\"ל, ודריכות נרשמת בין חילות הים של ישראל וטורקיה במזרח התיכון. בזירה העזתית, לשכת ראש הממשלה הכחישה דיווחים על כניסת כוח בינלאומי לרצועה והתנתה כל שיקום בפירוק חמאס מנשקו, חרף אישור המהלך בקבינט בחודש שעבר.\n\nביהודה ושומרון, פרסום מכרז לבניית כ-1,200 יחידות דיור ב-E1 עורר גינויים ואיומי סנקציות מאירופה, בעוד 30 משפחות עלו מחדש להתנחלות כדים בצפון השומרון לראשונה מאז ההתנתקות. בעולם, מתקפות כטב\"מים אוקראיניות על מתקני נפט רוסיים גרמו למשבר דלק ולהקצבות במוסקבה, לצד השלמת עסקת חילופי שבויים. מנגד, קולומביה חידשה את הפטור מוויזה לישראלים כחלק מחימום היחסים עם הממשל החדש בבוגוטה.\n\nבזירת הפנים, שיבושי עבודה בנתב\"ג על רקע מחסור בכוח אדם הובילו לביטולי טיסות ולכאוס באחד הימים העמוסים בשנה. במקביל, מפכ\"ל המשטרה עצר שוב ברגע האחרון את סבב המינויים הבכירים בארגון, ושר המשפטים לוין קיבל אישור לייצוג נפרד בעתירות נגד חוק מח\"ש.",
+      "cards": [
+        {
+          "title": "טראמפ הכריז על \"D-Day כלכלי\" נגד איראן: \"זו תהיה לוחמה חסרת תקדים\"",
+          "summary": "נשיא ארה\"ב הכריז על מבצע כלכלי חדש נגד איראן, שאותו תיאר כ\"מוחץ ביותר בהיסטוריה\". הוא לא פירט מעבר, אך איים כי כל מדינה שתשתף פעולה עם הרפובליקה האיסלאמית - בין אם באמצעות נמלי התעופה שלה או חברות קש - תתמודד עם השלכות כלכליות. דיווח: ארה\"ב הקימה נתיב שיט חשאי בהורמוז",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/25/SkmkIY11iZl/SkmkIY11iZl_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/hjtgj37pml",
+          "source": "Ynet — חדשות"
+        },
+        {
+          "title": "ההכחשה הטורקית לנוכחות בבסיס הסורי - והמתיחות בים: \"הכול יכול להשתנות ברגע\"",
+          "summary": "אחרי שנתניהו הסביר כי צה\"ל תקף בסוריה משום ש\"איפשרה לחיילים טורקים להתפרס\", באנקרה טוענים: \"אף משלחת צבאית לא נכחה שם\". בינתיים המתיחות והדריכות גוברת גם בין חילות הים - כשהטורקים \"מראים נוכחות\" באזורים חדשים בים התיכון. וגם: האם התקיפה הייתה ירייה ברגל? \"מקרבת את א-שרע לארדואן\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/06/ry11YMQ0W8Me/ry11YMQ0W8Me_1_73_1280_720_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/hywbcv4dzg",
+          "source": "Ynet — חדשות"
+        },
+        {
+          "title": "חודש אחרי אישור הקבינט, לשכת רה\"מ הכחישה: \"לא אישרנו כניסת כוח בינלאומי לעזה\"",
+          "summary": "בלשכתו של נתניהו הכחישו \"דיווחים\" על כניסת הכוח הבינלאומי לרצועה, למרות שההצבעה בקבינט התקיימה כבר בחודש שעבר - ואושרה. \"לא יהיה שיקום לפני פירוק חמאס מנשקו\", נמסר. בהצבעה בקבינט אישרו השרים גם הכנסת סיוע והקמת מקלטים בעזה. אתמול אושר תקציב של מאות מיליונים עבור המהלך",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/21/HJ115qzpDyx/HJ115qzpDyx_0_159_3000_1688_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/skc8r4npgl",
+          "source": "Ynet — חדשות"
+        },
+        {
+          "title": "האזהרה לישראל: סנקציות כבר לפני הבחירות",
+          "summary": "מכרז חדש לבניית כ-1,200 יחידות דיור באזור E1 מעורר סערה באירופה, שטוענת כי ישראל התחייבה לא לבנות בשטח שמעבר לקו הירוק. גרמניה, צרפת, בריטניה ואיטליה דנות כיצד לפעול, אך חוששות שהטלת סנקציות בתקופה זו דווקא תחזק את נתניהו לקראת הבחירות. מזכ\"ל האו\"ם: \"איום קיומי על פתרון שתי המדינות\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/04/HylVzm1ZwZx/HylVzm1ZwZx_0_0_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/s1c1iymdfe",
+          "source": "Ynet — חדשות"
+        },
+        {
+          "title": "21 שנים אחרי ההתנתקות: ההתנחלות האחרונה שפונתה עלתה לקרקע",
+          "summary": "30 משפחות עברו להתגורר בהתנחלות כדים, שפונתה מצפון השומרון ב-2005. ראש המועצה יוסי דגן בירך: \"חזרנו הביתה\". סמוטריץ' טען: \"ממשלה אחרת עלולה לפגוע בהתיישבות\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/H1DeFU4Dzl/H1DeFU4Dzl_1_230_1280_720_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/hkttu8nwml",
+          "source": "Ynet — חדשות"
+        },
+        {
+          "title": "כאוס בנתב\"ג: אחרי שעות של שיבושים - הפעילות תחודש בהדרגה מ-15:00",
+          "summary": "חילופי האשמות - כשאלפים מצטופפים בנתב\"ג וטיסות מבוטלות באחד הימים העמוסים בשנה: ברש\"ת טוענים שהוועד הורה על שיבושים, יו\"ר הוועד תקף: \"אין שביתה, הזהרתי שאין כוח אדם. סבל לא יכול לעבוד 13 שעות בחום הזה\". ברש\"ת השיבו: \"מסיט את הדיון, צעד קיצוני\". עובד בנתב\"ג: \"הכל התחיל כשהוועד החליט שאין שעות נוספות יותר. זה כדור שלג\". נתניהו: \"נתב\"ג יעבוד. מי שיפריע - יעוף\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/BkWXALVvfg/BkWXALVvfg_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/skplrlvwfe",
+          "source": "Ynet — חדשות"
+        },
+        {
+          "title": "כטב\"מים מתפוצצים על הנפט הרוסי, שוב תורים והגבלות בתחנות הדלק במוסקבה",
+          "summary": "ברוסיה מדווחים על גל שני של משבר דלק בעקבות המתקפות האוקראיניות על מתקני נפט במדינה: \"רוסנפט\" מגבילה את הבנזין ל-30 ליטר ללקוח, גם \"גזפרום\" ו\"לוקאויל\" הכריזו על הקצבות. רק ביולי טען סגן רה\"מ: \"שוק הדלק מתייצב\". עוד 9 הרוגים ברוסיה ואוקראינה, מפעיל כטב\"ם רוסי הטיל פצצה על גג מיניבוס בחרסון והרג 4: \"אין סיכוי שלא ידע שזה רכב אזרחי\". 206 רוסים ואוקראינים חזרו הביתה בעסקת שבויים, דמיטרו שב אחרי 3 שנים: \"יום נפלא. משפחות, אל תאבדו תקווה\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/H10KxKXDfg/H10KxKXDfg_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/hyaoyyqwmx",
+          "source": "Ynet — חדשות"
+        },
+        {
+          "title": "פעם נוספת: המפכ\"ל עצר ברגע האחרון את סבב הקידומים במשטרה",
+          "summary": "רב-ניצב לוי דחה למועד לא ידוע את דיון השיבוצים הרחב שתוכנן להיום, וידון במקום זה באיוש תפקידים מצומצם. זאת לאחר מהלך דומה בחודש שעבר, אז אמר בישיבת הסגל כי \"לא ניתן לאף אחד לכפות עלינו מינויים\". היועמ\"שית דרשה הבהרות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/13/SyU7uzjLzl/SyU7uzjLzl_0_62_1280_720_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/rybr3bvvzl",
+          "source": "Ynet — חדשות"
+        },
+        {
+          "title": "אחרי ההכרה בריבונות ברמת הגולן: קולומביה חידשה פטור מוויזה לישראלים",
+          "summary": "יחסי ישראל-קולומביה עוברים שינוי לטובה בעקבות כניסת הנשיא החדש אבלרדו דה לה אספרייה לתפקיד. ביטול הצורך באשרת כניסה נרשם אחרי שורת צעדים מדיניים שכללו את חידוש היחסים הדיפלומטיים, העברת השגרירות לי-ם, ופרישת קולומביה מהתביעה של דרום אפריקה נגד ישראל",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/HyIhUBrEzg/HyIhUBrEzg_0_56_1280_720_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/skz1bnepfe",
+          "source": "Ynet — חדשות"
+        },
+        {
+          "title": "לוין יקבל ייצוג נפרד בעתירות נגד חוק מח\"ש - כמה זה יעלה למדינה?",
+          "summary": "האישור לשר המשפטים ניתן בידי ועדה בראשות מנכ\"ל משרדו, שהסתמכה גם על חוות דעת מטעם היועמ\"שית, שציינה כי בין הצדדים יש \"חילוקי דעות מהותיים\". המדינה תישא בהוצאות: 50 אלף שקלים. ב-ynet נחשף שלוין צפוי להודיע שהוא ממשיך בבחירת ראש מח\"ש למרות תקופת הבחירות, והוא נדרש להשיב עד היום",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/27/SysIP2j1ll/SysIP2j1ll_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/hj96uvqpmg",
+          "source": "Ynet — חדשות"
+        }
+      ]
+    },
+    {
+      "column": 2,
+      "name": "כלכלה / עסקים",
+      "brief": "במרכז התפתחויות המאקרו, ראש הממשלה ושר האוצר סיכמו על תוספת של 25 מיליארד שקל לתקציב הביטחון עבור רכש אמל\"ח ותחמושת. המהלך, שטרם קיבל את אישורי הממשלה והכנסת, צפוי להביא לפריצת מסגרת התקציב ולזינוק בגירעון. בזירה הבין-לאומית, תחקיר של תאגיד השידור האוסטרלי (ABC) חשף רשת הונאות השקעות רחבת היקף שפעלה מתל אביב מאז 2021. על פי התחקיר, הרשת פיתתה למעלה מ-4,000 אזרחים אוסטרלים וגרפה מאות מיליוני דולרים באמצעות כתבות מזויפות ורשת חברות קש.\n\nבענף הנדל\"ן, בית המשפט העליון דחה את ערעורם של משקיעים שטענו לזכויות בקרקע יוקרתית של הפטריארכיה היוונית סמוך למלון קינג דייוויד בירושלים, וסלל את הדרך למכירתה לצד שלישי. במקביל, הדוחות הכספיים לרבעון השני של חברות הנדל\"ן למגורים, בהן אפי קפיטל וקבוצת סופרין, מצביעים על המשך יציבות ועלייה במכירת יחידות דיור ובהכנסות. \n\nבמגזר העסקי והמסחר, משרד החקלאות השלים הסכם לפתיחת שוק ייצוא חדש לפירות הדר ישראליים בקמבודיה, עם פוטנציאל מוערך של כ-10,000 טונות בשנה. במקביל, בכירי תנובה לשעבר, בהם אייל מליס וראובן שליסל, השיקו מיזם מזון חדש (\"פוד גוד 18\") הפונה לתחום הגורמה הקפוא.",
+      "cards": [
+        {
+          "title": "התקציב ייפרץ והגירעון יזנק: מערכת הביטחון תקבל תוספת של 25 מיליארד שקל",
+          "summary": "למרות פגרת הכנסת, נתניהו וסמוטריץ' סיכמו על התוספת עבור אמל\"ח ותחמושת לצה\"ל. המהלך צריך לקבל את אישור היועמ\"שית, יגיע להצבעה בוועדת הכספים במליאה ובממשלה. באופוזיציה טוענים כי מדובר בכלכלת בחירות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/06/B1ekwIYcyt/B1ekwIYcyt_0_115_658_371_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/skf0h8qdmg",
+          "source": "Ynet — כלכלה"
+        },
+        {
+          "title": "תחקיר באוסטרליה: רשת הונאות מת\"א גרפה מאות מיליוני דולרים מאזרחים",
+          "summary": "תחקיר של תאגיד השידור האוסטרלי (ABC), חשף רשת הונאת השקעות שפועלת מישראל מאז 2021, שפיתתה למעלה מ-4,000 אוסטרלים, בין השאר, באמצעות כתבות חדשות מזויפות. הרשת, שמנוהלת לטענת התחקיר ע\"י הישראלי שפי גולדברג, גרפה לפי הערכות מאות מיליוני דולרים מקורבנותיה, שהוזרמו דרך שרשרת חברות מסווה שהציגו עצמן כמוכרות קורסים מקוונים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/BkR7BGVDGg/BkR7BGVDGg_0_66_1168_658_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/rkdfmf4pgg",
+          "source": "Ynet — כלכלה"
+        },
+        {
+          "title": "יעד חדש: המדינה האסייתית שישראל תייצא אליה תפוזים, לימונים ואשכוליות",
+          "summary": "משרד החקלאות השלים את התהליך מול הרשויות בקמבודיה, ומעונת הייצוא הקרובה יוכלו חקלאים ויצואנים ‏ישראלים לשווק שם פירות הדר. ארגון מגדלי ההדרים מעריך את הפוטנציאל בכ-10,000 טונות בשנה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/ryCsHO7vGx/ryCsHO7vGx_21_999_1419_799_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/yokra14870022",
+          "source": "Ynet — כלכלה"
+        },
+        {
+          "title": "הקרב על הקרקע היוקרתית בירושלים הגיע לעליון - והמשקיעים הפסידו",
+          "summary": "קבוצת משקיעים טענה לזכויות בקרקע של הפטריארכיה היוונית־אורתודוכסית ליד מלון קינג דייוויד וביקשה למנוע את מכירתה לצד שלישי. המחוזי דחה את הבקשה ומתח ביקורת על המשקיעים, והעליון דחה את בקשת הערעור",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/SJxi1EEwfl/SJxi1EEwfl_265_0_2675_1506_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/ryu0b4evgl",
+          "source": "Ynet — כלכלה"
+        },
+        {
+          "title": "אוכל גורמה קפוא: חברת המזון המפתיעה שהקימו בכירי תנובה לשעבר",
+          "summary": "פרסום ראשון: חברת \"פוד גוד 18\", שהוקמה על ידי בכירים לשעבר בתנובה ובענף המזון, משיקה רשמית פעילות בתחום ה\"פרוזן פיין דיינינג\" - אוכל גורמה קפוא שטרם פותח בישראל. בין הבעלים: ראובן שליסל, אייל מליס ואבינעם בר-מוחה. קו המוצרים הראשון כולל מרקי ראמן קפואים ונאם ויאטנמים בעבודת יד, לצד צירי בשר תחת המותג \"סטוק פקטורי\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/r1d9GPXDze/r1d9GPXDze_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/bjeobvmvml",
+          "source": "Ynet — כלכלה"
+        },
+        {
+          "title": "דוחות כספיים: 379 יח\"ד נמכרו מתחילת 2026",
+          "summary": "אפי קפיטל נדל\"ן מדווחת על דוחותיה הכספיים לחציון הראשון לשנת 2026. החברה מדווחת כי מתחילת השנה מכרה 379 דירות, וכי היא פעילה בפרויקטים שונים בהיקף של כ-9,475 יחידות דיור ב-20 ערים ברחבי הארץ",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/83n85zw1n/83n85zw1n_0_0_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/hytxs8epfx",
+          "source": "Ynet — כלכלה"
+        },
+        {
+          "title": "דו\"ח כספי: עלייה במכירת דירות ובהכנסות",
+          "summary": "קבוצת סופרין פרסמה את הדו\"ח הכספי לרבעון השני של 2026. על פי הנתונים נרשמה עליה במספר הדירות שנמכרו ובהכנסות. מנכ\"ל קבוצת סופרין: \"החלטנו להיכנס לתחום הביצוע, החלטה שצפויה לתרום לחברה\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/14/B1d11r69Xge/B1d11r69Xge_248_85_2023_1139_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/hy5hun4pgl",
+          "source": "Ynet — כלכלה"
+        },
+        {
+          "title": "פועל פלסטיני תבע 438 אלף שקל – ויקבל כעשירית",
+          "summary": "צעיר שהועסק בעבודות חשמל התפטר ודרש זכויות סוציאליות על חמש שנות משרה מלאה. אבל בית הדין קבע שהוא עבד במשרה חלקית ובחלק התקופה בלבד",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/10/23/4932031/4932031_0_0_640_360_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/h1v2usqpzg",
+          "source": "Ynet — כלכלה"
+        },
+        {
+          "title": "העובד צילם שירי ראפ במסעדה, הפך לוויראלי - ופוטר",
+          "summary": "השירים של הראפר ריילי דווקא שיבחו את המסעדה שבה עבד, אבל בהנהלה טענו שהם מפרים את ההוראות לא לצלם תוכן במקום העבודה. ריילי אמר כי למרות הפיטורים הוא \"אוהב את וופל האוס\" וכי הוא פתוח לשיתופי פעולה עתידיים עם הרשת",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/HJJSTmVwzl/HJJSTmVwzl_0_9_1139_642_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/s1hlkmvvfg",
+          "source": "Ynet — כלכלה"
+        },
+        {
+          "title": "35 שנה אחרי מות אביה: תקבל נתח מדירת זוגתו",
+          "summary": "בית המשפט הורה לאכוף הסכם בין בתו של המנוח לבין אישה שעימה ניהל זוגיות, ולפיו על רקע שיפוץ שערכו בני הזוג – תינתן לה שמינית מערך הדירה לכשתימכר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2014/12/25/5778288/5778288_0_52_1300_732_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/ryv5hivvme",
+          "source": "Ynet — כלכלה"
+        }
+      ]
+    },
+    {
+      "column": 3,
+      "name": "שיווק / פרסום",
+      "brief": "במוקד עולם הפרסום והמדיה הדיגיטלית ביממה האחרונה עומדת עסקת ענק בתחום הטלוויזיות החכמות (CTV): פלטפורמת הפרסום Teads ומערכת ההפעלה VIDAA (המפעילה בין היתר את מכשירי Hisense) חתמו על הרחבת שיתוף הפעולה ביניהן בהסכם רב-שנתי בהיקף של עשרות מיליוני דולרים, שיימשך עד 2028. במסגרת ההסכם, Teads תקבל גישה למיקומי פרסום בולטים במסכי הבית של מיליוני טלוויזיות חכמות בכ-30 שווקים ברחבי אירופה, המזרח התיכון, אפריקה ואסיה. המהלך מבסס את מעמדן של מערכות ההפעלה בטלוויזיות כנדל\"ן פרסומי מרכזי וממחיש את המשך הסטת תקציבי הפרסום העולמיים לפורמטים מתקדמים של CTV.\n\nבמקביל, בזירת שיווק הספורט ומיתוג המוסדות, אוניברסיטת Texas A&M מרחיבה את גבולות השיווק המסורתיים של מוסדות אקדמיים ונכנסת לעולם מרוצי ה-IndyCar באמצעות הסכמי חסות חדשים. המהלך משקף גישה שיווקית עדכנית הרואה במוסד האקדמי מותג צרכני לכל דבר, ומבקשת לפנות לקהלים רחבים דרך פלטפורמות ספורט מוטורי פופולריות.",
+      "cards": [
+        {
+          "title": "Teads ו VIDAA מרחיבות שיתוף פעולה גלובלי ב-CTV בהסכם רב-שנתי",
+          "summary": "פלטפורמת הפרסום הדיגיטלי הבינלאומית Teads [לשעבר אאוטבריין] ו-V [VIDAA], הפלטפורמה הגלובלית ומערכת ההפעלה לטלוויזיות חכמות המפעילה את Hisense ויצרניות מובילות נוספות, הודיעו על הרחבה משמעותית של שיתוף הפעולה ביניהן במסגרת הסכם אסטרטגי רב-שנתי, בהיקף של עשרות מיליוני דולרים, שיימשך עד שנת 2028. ההסכם מרחיב את שיתוף הפעולה בין החברות למודל גלובלי ארוך טווח, במסגרתו תאפשר V ל-Teads וללקוחותיה גישה למיקומי פרסום בולטים במסכי הבית של טלוויזיות חכמות בכ-30 שווקים ברחבי אירופה, המזרח התיכון ואפריקה, אס",
+          "image": "https://shivuk.me/wp-content/uploads/2026/08/TEADS.webp",
+          "link": "https://shivuk.me/news/39410",
+          "source": "מנהלי שיווק מצייצים"
+        },
+        {
+          "title": "Texas A&M Drives New Track of Consumer Brand Marketing",
+          "summary": "Texas A&M races into new IndyCar sponsorships.",
+          "image": null,
+          "link": "https://www.adweek.com/brand-marketing/texas-am-drives-new-track-of-consumer-brand-marketing/",
+          "source": "Adweek"
+        }
+      ]
+    },
+    {
+      "column": 4,
+      "name": "טק / טכנולוגיה",
+      "brief": "חברת OpenAI ניצבת במוקד היממה האחרונה עם שורת התפתחויות: החברה השעתה לשבועיים את אימוני הלמידה החיזוקית (RL) של מודלי הדור הבא כדי להדק את מנגנוני הבטיחות והניטור הפנימיים, במקביל לתקלת ענק שהשביתה את שירותי ChatGPT ברחבי העולם, ולהשקת כלי פרטיות חדשים לארגונים במטרה להקדים את Anthropic. במקביל, אמזון מרחיבה את הנגישות ל-AI והופכת את העוזרת החכמה Alexa+ לחינמית בכל מכשירי Fire TV.\n\nבזירת אבטחת המידע נרשמת הסלמה באיומים מדינתיים ובשימוש בבינה מלאכותית לתקיפה: רשויות הסייבר בארה\"ב מזהירות מפני שימוש בסקריפטים מבוססי AI לפריצה לבקרי Siemens בתשתיות קריטיות, ובמקביל הגישו כתבי אישום נגד 17 האקרים איראנים בגין גניבת קניין רוחני בשווי 3.4 מיליארד דולר. לצד זאת, ענקית התקשורת T-Mobile חשפה כי נאלצה לנתק כבל פיזית כדי לסלק האקרים המגובים בידי הממשל הסיני מרשתה.\n\nבתחום האוטונומיה והלוגיסטיקה, Waymo פותחת את שירות הרובוטקסי המוזל של דור ההמשך לכלל הציבור בשלוש ערים מרכזיות, ואמזון מאיצה את פריסת שירות משלוחי הרחפנים במטרה להגיע ל-500 יישובים בארה\"ב עד סוף 2026. בשוק המקומי, אפל הפתיעה בהוראת יצרן ליבואניות בישראל לחתוך את מחירי דגמי הפרימיום של האייפון בכ-320 שקלים.",
+      "cards": [
+        {
+          "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+          "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. \"As models become more capable, the risks associated with developing and testing them internally also grow,\" the AI company",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Ar7QFukiqBWatGeVdffG393l7GwFmzYBSWvv6Um7gPNIzeL8p3gfO_2C1rvVGPSUh00KWZAB8wFs9Xdz6h7uWDd7MYyWuuzLciO6NX1Y4mln1LqxK-skWP7VEdFD3BOhP1msTaM7F1ZgBeGyDUuLUaNlXAroEXHH6aYPgWluliMNUrozkKKeGK9kf-Ri/s1600/open.jpg",
+          "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+          "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+          "summary": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
+          "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
+          "image": null,
+          "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+          "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
+          "image": null,
+          "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
+          "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
+          "image": null,
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+          "summary": "Amazon wants to grow its Prime Air delivery drone service sixfold to reach nearly 500 cities and towns across the United States by the end of 2026. The planned expansions from Amazon and its rivals could make the convenience of delivery drone services available to tens of millions more people in the coming months—but will also test more communities’ tolerance for increased noise from daily drone flights. On August 19, Amazon announced it would soon launch Prime Air in the metropolitan areas of C",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Amazon-Prime-Air-drone-1152x648.jpeg",
+          "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+          "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "אפל מפתיעה ומורידה את מחירי האייפונים בישראל",
+          "summary": "צילום: גיקטיים אפל הורתה ליבואניות הישראליות שלה, בהן KSP, מחסני חשמל, איידיגטל ואייסטור, להוריד החל מהיום (ה') את מחירי האייפונים הכי יקרים שלה – iPhone 17 Pro ו-iPhone 17 Pro Max. על פי ההודעה של יבואניות אפל בישראל, החברה האמריקאית החליטה לחתוך את מחירי האייפונים היקרים שלה ב-90 דולר. בישראל, ההורדה הזו תתורגם להוזלה של 320 שקלים במחירי האייפונים הללו, או כ-270 ש\"ח הוזלה באילת. שני הדגמים הוצגו לראשונה באירוע השנתי של אפל לפני כשנה , עם כמה שינויים – בהם המעבר ממכשירים עם גוף טיטאניום לגוף אל",
+          "image": null,
+          "link": "https://www.geektime.co.il/apple-cuts-prices-of-iphone-17-pro/",
+          "source": "גיקטיים"
+        }
+      ]
+    },
+    {
+      "column": 5,
+      "name": "ספורט",
+      "brief": "היממה האחרונה עמדה בסימן הכרעות אירופיות עבור הנציגות הישראליות בכדורגל: הפועל באר שבע השיגה מקדמה שברירית לגומלין כשגברה 1:2 על סבאח האזרית, בעוד מכבי תל אביב תפתח הערב את פלייאוף הקונפרנס ליג מול לוגאנו. במקביל, הפועל תל אביב תתארח אצל אטאלנטה באיטליה תחת היערכות ביטחונית מוגברת ואיסור מקומי על הנפת דגלי פלסטין בשל מחאות צפויות.\n\nבזירה הבין-לאומית, ארטיום דולגופיאט הבטיח מקום בגמר תרגיל הקרקע באליפות אירופה בהתעמלות מכשירים, אילן פיאטוב עלה לגמר המקבילים והנבחרת הבטיחה כרטיס לאליפות העולם. בספרד, ברצלונה זכתה בגביע גאמפר לאחר 1:2 על אל-אהלי המצרית, במשחק שבו שולב הישראלי הצעיר אוריין גורן ל-28 דקות.\n\nבכדורסל הישראלי, מכבי תל אביב פתחה את אימוניה לקראת העונה החדשה, והמאמן עודד קטש הבהיר כי המועדון רצה להשאיר את תמיר בלאט שעבר ליריבה העירונית. בהפועל תל אביב, המאמן דימיטריס איטודיס ביקש לשדרג את חוזהו אך טרם החל מו\"מ, ובמקביל נרשם שפל בחידוש המנויים להיכל קבוצת שלמה. \n\nבזירה המקומית, שחקני עירוני טבריה בפרשת העירויים הגיעו להסדר טיעון להשעיה של שמונה חודשים (עם אפשרות לניכוי חמישה), ואילו השופטת ספיר ברמן נכשלה במבחני הכושר ותחמיץ את פתיחת ליגת העל.",
+      "cards": [
+        {
+          "title": "90 דקות מליגת האלופות: הפועל באר-שבע ניצחה 1:2 את סבאח",
+          "summary": "הקבוצה של רן קוז'וך התאוששה מעקיצה מוקדמת של סימיץ' (6) והשיגה מהפך עם שני שערים של איסט (43) וזלאטנוביץ' (79) – ששלחו אותה לגומלין באזרבייג'אן עם מקדמה שברירית",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/Sk1aK9XvMx/Sk1aK9XvMx_0_243_720_406_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/h18j0fmdmx",
+          "source": "Ynet — ספורט"
+        },
+        {
+          "title": "במכבי ת\"א רוצים חורף אירופי, מילר מאמין: \"באים לנצח\"",
+          "summary": "הצהובים יפתחו הערב (21:30) את פלייאוף הקונפרנס-ליג מול לוגאנו השוויצרית, שמגיעה בכושר מצוין. במקביל, סוכנו של קניקובסקי מבהיר: \"אין שום מו\"מ\", ובמועדון שוללים גם מעבר אפשרי של אורי עזו לבית\"ר ירושלים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/SyE2iQcLNGg/SyE2iQcLNGg_1_267_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/by11pezewgl",
+          "source": "Ynet — ספורט"
+        },
+        {
+          "title": "בהפועל ת\"א חולמים על סנסציה, באיטליה נערכים להפגנות פרו פלסטיניות",
+          "summary": "האדומים יפגשו הערב את אטאלנטה בפלייאוף הקונפרנס-ליג, בתקווה להשיג תוצאה טובה לקראת הגומלין: \"יש לנו הר גבוה מאוד לטפס עליו\". המאמן מאוריציו סארי פרגן לאדומים: \"חזקים הרבה יותר ממה שאפשר לצפות\". 1,500 אוהדי הפועל ת\"א יהיו ביציע, בעוד המשטרה המקומית אוסרת על הנפת דגלי פלסטין, לקראת המחאות הצפויות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/SJqXvZVPzx/SJqXvZVPzx_156_153_418_236_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/s1lg811epze",
+          "source": "Ynet — ספורט"
+        },
+        {
+          "title": "ארטיום דולגופיאט הבטיח את מקומו בגמר תרגיל הקרקע באליפות אירופה",
+          "summary": "מדליסט הכסף מאולימפיאדת פריז רשם ביצוע מצוין במוקדמות האליפות שמתקיימת בקרואטיה והבטיח את העלייה לגמר שייערך בשישי, עם ציון של 14.766 נקודות. פיאטוב עלה לגמר המקבילים, הנבחרת השיגה את הכרטיס לאליפות העולם",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/HJlzvYmwfe/HJlzvYmwfe_0_10_1280_721_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/r1uxmhxpfl",
+          "source": "Ynet — ספורט"
+        },
+        {
+          "title": "קטש: \"לא הייתה שום החלטה להיפרד מבלאט - רצינו שיישאר\"",
+          "summary": "האלופה פתחה את אימוניה לקראת 2026/27 בסגל חסר. המאמן התייחס לעזיבת הרכז, שחתם בהפועל ת\"א: \"קרו פשוט דברים שלא הסתדרו - זה לא הזמן לדבר על זה\". על הסגל: \"שמח שיצרנו המשכיות ושהתחזקנו בהרבה כישרון\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/H1GzBSD4Pfx/H1GzBSD4Pfx_0_204_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelibasketball/article/hjbxj4ndfe",
+          "source": "Ynet — ספורט"
+        },
+        {
+          "title": "פרשת העירויים: שחקני טבריה הנאשמים הגיעו להסדר עם הסוכנות לסימום בספורט",
+          "summary": "גיא חדידה, דוד קלטינס וניב גוטליב הגיעו להסדר לפיו כל אחד יושעה לשמונה חודשים, עם אפשרות לכך שינוכו חמישה חודשים בכפוף לשיתוף פעולה מלא עם הסוכנות. בטבריה בירכו: \"לא הייתה כל כוונה או ניסיון לפגוע בערכי הספורט\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/09/25/H1fXMB11RA/H1fXMB11RA_0_256_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/bkapprxvfg",
+          "source": "Ynet — ספורט"
+        },
+        {
+          "title": "עם ילד הפלא הישראלי על המגרש: ברצלונה זכתה בגביע גאמפר",
+          "summary": "רגע לפני שהאלופה תפתח את העונה, הקטלאנים ניצחו את אל-אהלי המצרית 1:2 במשחק ההכנה המסורתי. 28 דקות לאוריין גורן, שעלה מהספסל",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/ryriV9Xwfe/ryriV9Xwfe_323_29_2400_1351_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/bkesp9mpzg",
+          "source": "Ynet — ספורט"
+        },
+        {
+          "title": "דימיטריס איטודיס ביקש לשדרג את שכרו, בהפועל ת\"א עדיין לא נענו",
+          "summary": "מאמן האדומים מעוניין לפתוח את חוזהו, אך נכון לעכשיו הצדדים עדיין לא נכנסו למשא ומתן ולא מתנהלים כל מגעים בנושא. נכון לעכשיו היווני מחזיק בחוזה עד קיץ 2028 תמורת 1.2 מיליון אירו לעונה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/Syg0qyN7PMx/Syg0qyN7PMx_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelibasketball/article/hjdrwmmwgx",
+          "source": "Ynet — ספורט"
+        },
+        {
+          "title": "למרות החזרה ל\"דרייב אין\": הפועל ת\"א שוברת שיא שלילי במכירת מנויים",
+          "summary": "האוהדים האדומים חידשו עד כה 1,400 מנויים בלבד להיכל קבוצת שלמה - המספר הנמוך ביותר מאז אירחה הקבוצה את משחקיה בהדר יוסף. היום תיפתח המכירה לקהל הרחב, אך לא צפויה עלייה משמעותית",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/06/11/BkWMlJcmv3/BkWMlJcmv3_0_148_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelibasketball/article/hjyi2hvdzl",
+          "source": "Ynet — ספורט"
+        },
+        {
+          "title": "ספיר ברמן נכשלה במבחני הכושר - ולא תוכל לפתוח את העונה הקרובה",
+          "summary": "השופטת הבכירה לא תשובץ למחזורים הראשונים בליגת העל ותיאלץ לחכות למועד הבא שבו ייערכו מבדקי כושר במכון וינגייט כדי שתוכל לחזור לשפוט",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/09/rkqsFCivwZe/rkqsFCivwZe_0_111_2525_1422_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkx7feqdgl",
+          "source": "Ynet — ספורט"
+        }
+      ]
+    }
+  ]
 }
