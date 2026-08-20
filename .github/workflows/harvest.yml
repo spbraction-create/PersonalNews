@@ -35,10 +35,13 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: daily harvest $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
 
+      # קוראים ל-script ישירות עם node, לא עם `npm run edit-daily` — ה-npm script מוגדר
+      # עם `--env-file=.env` לנוחות מקומית, אבל .env לא קיים ב-CI בכלל (הוא ב-.gitignore),
+      # ו-node קורס אם הדגל הזה מצביע על קובץ שלא קיים — גם כשהמפתח כבר מגיע כ-env אמיתי.
       # אם זה נכשל (למשל חריגת מכסה של Gemini) — data/daily-flood.json כבר נשמר בשלב הקודם,
       # וה-step הבא עדיין ירוץ (if: always()) ויבדוק אם בכל זאת נכתב תוכן חלקי תקין.
       - name: Edit daily (Gemini)
-        run: npm run edit-daily
+        run: node scripts/edit-daily.js
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
