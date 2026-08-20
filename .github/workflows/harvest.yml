@@ -1,6 +1,8 @@
-name: Daily Harvest
+name: Daily Harvest + Edit
 
-# README.md שלב 3: מושך פידים מאומתים, מסנן 24 שעות, מנקה כפילויות — בלי AI.
+# README.md שלבים 3+4: קודם קוצר פידים מאומתים (בלי AI), מסנן 24 שעות, מנקה כפילויות.
+# אז, באותו job (בטור, לא במקביל — כדי שה-edit תמיד ירוץ אחרי שה-harvest סיים) —
+# מסווג עם Gemini, בוחר, כותב בריף, ובונה את data/daily-edition.json שהאתר החי מגיש.
 # 02:00 UTC ≈ 04:00–05:00 בישראל (תלוי בשעון קיץ/חורף) — קירוב מכוון, לא מדויק לדקה.
 on:
   schedule:
@@ -11,7 +13,7 @@ permissions:
   contents: write
 
 jobs:
-  harvest:
+  harvest-and-edit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -31,4 +33,20 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/daily-flood.json
           git diff --cached --quiet || git commit -m "chore: daily harvest $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
+      # אם זה נכשל (למשל חריגת מכסה של Gemini) — data/daily-flood.json כבר נשמר בשלב הקודם,
+      # וה-step הבא עדיין ירוץ (if: always()) ויבדוק אם בכל זאת נכתב תוכן חלקי תקין.
+      - name: Edit daily (Gemini)
+        run: npm run edit-daily
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit edited edition
+        if: always()
+        run: |
+          git config user.name "daily-digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/daily-edition.json data/depth-queue.json
+          git diff --cached --quiet || git commit -m "chore: daily edition $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
