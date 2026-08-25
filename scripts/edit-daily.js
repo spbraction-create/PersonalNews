@@ -91,6 +91,7 @@ async function main() {
         image: item.image,
         link: item.link,
         source: item.source,
+        pubDate: item.pubDate, // מ-daily-flood.json, כבר ISO string — לתצוגת "לפני X שעות" בעמוד
       })),
     });
   }
