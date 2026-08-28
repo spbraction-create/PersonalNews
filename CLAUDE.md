@@ -8,7 +8,7 @@
 
 - **ריפו:** `github.com/spbraction-create/PersonalNews` — ציבורי, `main` branch, מחובר ל-remote, מספר commits אמיתיים.
 - **שלב 2 (גילוי-פיד):** `src/feedDiscovery.js` + `npm run discover`. 19/24 מקורות מ-`SOURCES.md` מאומתים ופעילים בפועל (לא רק "עונים 200" — נבדקו תאריכי פרסום אמיתיים). התוצאות ב-`data/sources.json` + `reports/`.
-- **שלב 3 (קציר):** `src/harvest.js` + `npm run harvest`. מושך מהמקורות המאושרים, מסנן 24 שעות, מנקה כפילויות → `data/daily-flood.json`. רץ אוטומטית כל בוקר דרך GitHub Action (`harvest.yml`). **אזהרה: התזמון לא אמין — ראה סעיף 5 בסדר העדיפויות.**
+- **שלב 3 (קציר):** `src/harvest.js` + `npm run harvest`. מושך מהמקורות המאושרים, מסנן 24 שעות, מנקה כפילויות → `data/daily-flood.json`. רץ אוטומטית כל בוקר דרך GitHub Action (`harvest.yml`) — שני מועדי schedule + `guard` נגד תזמון לא-אמין של GitHub (סעיף 5 בסדר העדיפויות).
 - **שלב 4 (עריכה):** `src/gemini.js`, `src/classify.js`, `src/dailyEdit.js`. מסווג ידיעה/עומק, בוחר top-10 כשיש יותר מדי, כותב בריף ~200 מילה לכל טור → `data/daily-edition.json`. פריטי עומק נשמרים ב-`data/depth-queue.json` (בלי תור אמיתי עדיין). **✅ רץ עכשיו אוטומטית, אחרי harvest, באותו GitHub Action** — ראה "מה נבנה ב-20.8.2026" למטה.
 - **שלב 5 (הגשה):** `worker/index.js` + `worker/render.js`. **חי בפועל:** `https://daily-digest.spbraction.workers.dev` — קורא ישירות מ-`raw.githubusercontent.com` בכל בקשה (בלי לשמור תוכן ב-Worker עצמו — קאש קצה של 5 דק' בלבד). פריסה: `npm run worker:deploy` (רק כשהקוד/הלוגיקה משתנים — לא כשהתוכן משתנה). בדיקה מקומית: `npm run worker:dev`.
 - **שלב 5.2 (עמוד סיכום lazy-dive + KV) — ✅ חי בפרודקשן.** נבדק ישירות מול `https://daily-digest.spbraction.workers.dev/read?link=...`: cache miss ~19 שנ' (שליפה+Gemini), cache hit ~0.05 שנ' עם "נשמר במטמון".
@@ -71,18 +71,24 @@
 
 **עדיין לא בוצע:** commit+push (קוד) ו-`npm run worker:deploy` (כי זה שינוי בלוגיקת ה-Worker, לא רק בתוכן — צריך גם את השניים, לא רק push).
 
-### 5. תזמון לא-אמין של GitHub Actions + watchdog — ⏳ בתהליך (28.8.2026)
+### ~~5. תזמון לא-אמין של GitHub Actions~~ — ✅ נפתר (28.8.2026)
 
-**הבעיה:** ה-`schedule` של GitHub Actions הוא best-effort ולא מובטח. ב-27.8 ההרצה היומית אחרה ~10 שעות (רצה 12:08 UTC במקום ~02:00). ב-28.8 היא **לא רצה בכלל** — המשתמש דיווח "שוב אין Daily". חשוב: האתר החי (`daily-digest.spbraction.workers.dev`) והקוד תקינים לגמרי — הוא פשוט הגיש את גיליון אתמול כי לא נוצר חדש. זו תקלה בצד GitHub, לא באג בפרויקט.
+**הבעיה:** ה-`schedule` של GitHub Actions הוא best-effort ולא מובטח. ב-27.8 ההרצה היומית אחרה ~10 שעות (רצה 12:08 UTC במקום ~02:00). ב-28.8 היא **לא רצה בכלל** — המשתמש דיווח "שוב אין Daily". חשוב: האתר החי (`daily-digest.spbraction.workers.dev`) והקוד תקינים לגמרי — הוא פשוט הגיש את גיליון אתמול כי לא נוצר חדש. תקלה בצד GitHub, לא באג בפרויקט.
 
-**מה נוסה ולא הספיק:** commit `8eb936a` הזיז את ה-cron מ-`0 2` ל-`23 2` UTC (דקה לא-עגולה = slot פחות עמוס אצל GitHub). לא עזר — ב-28.8 עדיין לא רצה.
+**מה נוסה ולא הספיק:** commit `8eb936a` הזיז את ה-cron מ-`0 2` ל-`23 2` UTC (דקה לא-עגולה = slot פחות עמוס). לא עזר — ב-28.8 עדיין נבלע.
 
-**מה בוצע ב-28.8:**
-- **הרצת catch-up ידנית מקומית:** `npm run harvest` → `npm run edit-daily` → commit + push. גיליון 28.8 עלה לאוויר.
-- **תוכנן watchdog (routine בענן):** scheduled cloud agent שרץ כל יום ב-`0 4 * * *` UTC (≈07:00 שעון ישראל בקיץ). לוגיקה: בודק דרך `gh run list --workflow harvest.yml` אם יש הרצה של "Daily Harvest + Edit" מהתאריך UTC הנוכחי במצב `success`/`in_progress`/`queued`. אם כן → לא עושה כלום. אם לא → `gh workflow run "Daily Harvest + Edit"` (ה-workflow עצמו רץ עם ה-secret של GitHub). ה-watchdog **לא** נוגע בקבצים, לא עושה commit, לא פותח PR — הפעולה היחידה שלו היא הפעלת ה-workflow הקיים.
-- **חסום — צריך פעולה של המשתמש:** יצירת ה-routine נכשלה עם `HTTP 401 — "Connect your GitHub account before saving a routine that uses a GitHub repository"`. צריך לחבר את חשבון ה-GitHub (דרך `/web-setup` או התקנת Claude GitHub App על הריפו), ואז ליצור את ה-routine מחדש (skill: `schedule`).
+**מה עשינו (28.8):**
+1. **catch-up ידני מקומי:** `npm run harvest` → `npm run edit-daily` → push. גיליון 28.8 עלה לאוויר (commits `d8facf4`+`5f932d5`).
+2. **הפתרון הקבוע — שני מועדי schedule + job בשם `guard` ב-`harvest.yml`:**
+   - `cron: "23 2 * * *"` (ראשי) + `cron: "11 4 * * *"` (השלמה). `permissions:` קיבל `actions: read`.
+   - `guard` הוא job קטן שרץ ראשון. בהפעלה ידנית — תמיד `run=true`. בהפעלה מתוזמנת — קורא `gh run list --workflow harvest.yml` ומחזיר `run=false` רק אם כבר יש ריצה של היום (UTC) במצב `success` או `in_progress` (**לא** סופר `queued` — כדי שהשלמה תרוץ גם אם הראשי תקוע בתור שעות). מוציא את ה-run של עצמו מהספירה (`databaseId != github.run_id`). אם קריאת ה-API נכשלה → `run=true` ליתר ביטחון.
+   - `harvest-and-edit` קיבל `needs: guard` + `if: needs.guard.outputs.run == 'true'`. שאר השלבים ללא שינוי.
+   - **תוצאה:** לכל היותר גיליון אחד ביום. רגיל → הראשי רץ, ההשלמה מדלגת. הראשי נבלע → ההשלמה מייצרת. שניהם נבלעים (נדיר) → אין גיליון; אפשר להוסיף מועד שלישי.
+3. **watchdog בענן (routine, skill `schedule`) — notify-only, שכבת הגנה אחרונה.** `id: trig_01Jh8zb8tFCYoHEXxPhe1LBd`, cron `0 6 * * *` UTC (≈09:00 ישראל בקיץ, ~2 שעות אחרי ההשלמה). בודק אם יש ריצה של היום; אם אין — שולח push notification אחד למשתמש ("הפעל ידנית"). **לא** מפעיל שום דבר בעצמו.
 
-**הערת DST:** ה-cron בענן הוא UTC. `0 4 * * *` = 07:00 בקיץ (IDT, UTC+3) אבל 06:00 בחורף (IST, UTC+2) — קירוב מכוון, כמו שאר התזמונים בפרויקט. ההרצה היומית של `harvest.yml` (02:23 UTC) סובלת מאותו drift.
+**למה ה-watchdog הוא notify-only ולא מפעיל:** בהרצת בדיקה (28.8) הוא זיהה נכון שאין ריצה, אבל `gh workflow run` נכשל עם `403 Resource not accessible by integration` — הטוקן של Claude GitHub App הוא **קריאה בלבד** ל-Actions, אין לו הרשאת dispatch. לכן ההפעלה האוטומטית עברה ל-`guard` שרץ בתוך GitHub עם `github.token` (שם יש `actions: read`), וה-watchdog הצטמצם להתראה.
+
+**הערת DST:** כל ה-cron-ים ב-UTC. `11 4 * * *` = 07:11 בישראל בקיץ (UTC+3), 06:11 בחורף (UTC+2) — קירוב מכוון, כמו שאר התזמונים.
 
 **לקח:** "האתר לא מציג תוכן חדש" ≠ "האתר/הקוד שבור". קודם לבדוק אם ההרצה היומית בכלל רצה (`gh run list` או `https://api.github.com/repos/spbraction-create/PersonalNews/actions/workflows/harvest.yml/runs`), רק אחר כך לחשוד בקוד.
 

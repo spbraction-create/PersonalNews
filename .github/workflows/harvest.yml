@@ -3,19 +3,58 @@ name: Daily Harvest + Edit
 # README.md שלבים 3+4: קודם קוצר פידים מאומתים (בלי AI), מסנן 24 שעות, מנקה כפילויות.
 # אז, באותו job (בטור, לא במקביל — כדי שה-edit תמיד ירוץ אחרי שה-harvest סיים) —
 # מסווג עם Gemini, בוחר, כותב בריף, ובונה את data/daily-edition.json שהאתר החי מגיש.
-# 02:23 UTC ≈ 05:23 בישראל (תלוי בשעון קיץ/חורף) — קירוב מכוון, לא מדויק לדקה.
-# דקה לא-עגולה (23 ולא 0) בכוונה: slot-ים בראש השעה עמוסים אצל GitHub ומתעכבים
-# יותר. ה-schedule של Actions הוא best-effort — עדיין ייתכן איחור, זה רק מקטין אותו.
+# שני מועדי schedule בכוונה: ה-schedule של GitHub Actions הוא best-effort — ב-27.8.2026
+# הראשי אחר ~10 שעות וב-28.8 נבלע לגמרי. המועד השני ("השלמה") רץ מאוחר יותר; job בשם
+# guard בודק לפניו אם כבר הייתה ריצה מוצלחת/פעילה היום, ואם כן — מדלג. כך יש לכל היותר
+# גיליון אחד ביום, גם כששני המועדים נורים. דקות לא-עגולות (23, 11) בכוונה — slot-ים
+# בראש השעה עמוסים ומתעכבים יותר.
+# 02:23 UTC ≈ 05:23 בישראל, 04:11 UTC ≈ 07:11 בישראל (תלוי בשעון קיץ/חורף — קירוב מכוון).
 on:
   schedule:
-    - cron: "23 2 * * *"
+    - cron: "23 2 * * *"   # ראשי
+    - cron: "11 4 * * *"   # השלמה — רץ רק אם הראשי נבלע (guard מחליט)
   workflow_dispatch: {}
 
 permissions:
   contents: write
+  actions: read            # ל-guard: קריאת רשימת ריצות קודמות של ה-workflow
 
 jobs:
+  # job קטן שרץ ראשון. מחליט אם ה-job הכבד צריך לרוץ בכלל:
+  #   - הפעלה ידנית (workflow_dispatch) → תמיד רץ.
+  #   - הפעלה מתוזמנת → רץ רק אם אין עדיין ריצה של היום שהצליחה או שרצה כרגע.
+  # כך המועד ה"השלמה" לא מייצר גיליון כפול כשהראשי כבר עשה את העבודה.
+  guard:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.decide.outputs.run }}
+    steps:
+      - id: decide
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "הפעלה ידנית — רצים בכל מקרה"
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          today=$(date -u +%Y-%m-%d)
+          active=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow harvest.yml \
+            --json databaseId,status,conclusion,createdAt \
+            --jq "[.[] | select(.databaseId != ${{ github.run_id }} and (.createdAt | startswith(\"$today\")) and (.conclusion == \"success\" or .status == \"in_progress\"))] | length" \
+            2>/dev/null) || active=""
+          echo "ריצות מוצלחות/פעילות אחרות מהיום ($today): ${active:-<כשל בקריאת הסטטוס>}"
+          if [ -n "$active" ] && [ "$active" -gt 0 ] 2>/dev/null; then
+            echo "כבר טופל היום — מדלגים על ההרצה הזו"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "אין ריצה של היום (או שהקריאה נכשלה) — ממשיכים, ליתר ביטחון"
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
   harvest-and-edit:
+    needs: guard
+    if: needs.guard.outputs.run == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
