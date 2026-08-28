@@ -8,7 +8,7 @@
 
 - **ריפו:** `github.com/spbraction-create/PersonalNews` — ציבורי, `main` branch, מחובר ל-remote, מספר commits אמיתיים.
 - **שלב 2 (גילוי-פיד):** `src/feedDiscovery.js` + `npm run discover`. 19/24 מקורות מ-`SOURCES.md` מאומתים ופעילים בפועל (לא רק "עונים 200" — נבדקו תאריכי פרסום אמיתיים). התוצאות ב-`data/sources.json` + `reports/`.
-- **שלב 3 (קציר):** `src/harvest.js` + `npm run harvest`. מושך מהמקורות המאושרים, מסנן 24 שעות, מנקה כפילויות → `data/daily-flood.json`. רץ אוטומטית כל בוקר דרך GitHub Action (`harvest.yml`).
+- **שלב 3 (קציר):** `src/harvest.js` + `npm run harvest`. מושך מהמקורות המאושרים, מסנן 24 שעות, מנקה כפילויות → `data/daily-flood.json`. רץ אוטומטית כל בוקר דרך GitHub Action (`harvest.yml`). **אזהרה: התזמון לא אמין — ראה סעיף 5 בסדר העדיפויות.**
 - **שלב 4 (עריכה):** `src/gemini.js`, `src/classify.js`, `src/dailyEdit.js`. מסווג ידיעה/עומק, בוחר top-10 כשיש יותר מדי, כותב בריף ~200 מילה לכל טור → `data/daily-edition.json`. פריטי עומק נשמרים ב-`data/depth-queue.json` (בלי תור אמיתי עדיין). **✅ רץ עכשיו אוטומטית, אחרי harvest, באותו GitHub Action** — ראה "מה נבנה ב-20.8.2026" למטה.
 - **שלב 5 (הגשה):** `worker/index.js` + `worker/render.js`. **חי בפועל:** `https://daily-digest.spbraction.workers.dev` — קורא ישירות מ-`raw.githubusercontent.com` בכל בקשה (בלי לשמור תוכן ב-Worker עצמו — קאש קצה של 5 דק' בלבד). פריסה: `npm run worker:deploy` (רק כשהקוד/הלוגיקה משתנים — לא כשהתוכן משתנה). בדיקה מקומית: `npm run worker:dev`.
 - **שלב 5.2 (עמוד סיכום lazy-dive + KV) — ✅ חי בפרודקשן.** נבדק ישירות מול `https://daily-digest.spbraction.workers.dev/read?link=...`: cache miss ~19 שנ' (שליפה+Gemini), cache hit ~0.05 שנ' עם "נשמר במטמון".
@@ -70,6 +70,21 @@
 **נבדק:** תגי HTML מאוזנים (article/section/div/h2/h3/nav), `formatRelativeTime` מוודא נכון מול `data/daily-edition.json` אמיתי, `renderReadPage` עדיין עובד עם הפלטה החדשה. **טעות שנתפסה בבדיקה:** preview מקומי (`worker:dev`) קורא תמיד מ-GitHub (`DATA_REPO_RAW_BASE`), **לא** מהקובץ המקומי שרק נערך — אי אפשר לבדוק שינויי-דאטה מקומיים דרך ה-preview בלי push קודם. הבדיקה בפועל נעשתה בקריאה ישירה לפונקציות מ-`render.js` על `data/daily-edition.json` המקומי, לא דרך ה-preview.
 
 **עדיין לא בוצע:** commit+push (קוד) ו-`npm run worker:deploy` (כי זה שינוי בלוגיקת ה-Worker, לא רק בתוכן — צריך גם את השניים, לא רק push).
+
+### 5. תזמון לא-אמין של GitHub Actions + watchdog — ⏳ בתהליך (28.8.2026)
+
+**הבעיה:** ה-`schedule` של GitHub Actions הוא best-effort ולא מובטח. ב-27.8 ההרצה היומית אחרה ~10 שעות (רצה 12:08 UTC במקום ~02:00). ב-28.8 היא **לא רצה בכלל** — המשתמש דיווח "שוב אין Daily". חשוב: האתר החי (`daily-digest.spbraction.workers.dev`) והקוד תקינים לגמרי — הוא פשוט הגיש את גיליון אתמול כי לא נוצר חדש. זו תקלה בצד GitHub, לא באג בפרויקט.
+
+**מה נוסה ולא הספיק:** commit `8eb936a` הזיז את ה-cron מ-`0 2` ל-`23 2` UTC (דקה לא-עגולה = slot פחות עמוס אצל GitHub). לא עזר — ב-28.8 עדיין לא רצה.
+
+**מה בוצע ב-28.8:**
+- **הרצת catch-up ידנית מקומית:** `npm run harvest` → `npm run edit-daily` → commit + push. גיליון 28.8 עלה לאוויר.
+- **תוכנן watchdog (routine בענן):** scheduled cloud agent שרץ כל יום ב-`0 4 * * *` UTC (≈07:00 שעון ישראל בקיץ). לוגיקה: בודק דרך `gh run list --workflow harvest.yml` אם יש הרצה של "Daily Harvest + Edit" מהתאריך UTC הנוכחי במצב `success`/`in_progress`/`queued`. אם כן → לא עושה כלום. אם לא → `gh workflow run "Daily Harvest + Edit"` (ה-workflow עצמו רץ עם ה-secret של GitHub). ה-watchdog **לא** נוגע בקבצים, לא עושה commit, לא פותח PR — הפעולה היחידה שלו היא הפעלת ה-workflow הקיים.
+- **חסום — צריך פעולה של המשתמש:** יצירת ה-routine נכשלה עם `HTTP 401 — "Connect your GitHub account before saving a routine that uses a GitHub repository"`. צריך לחבר את חשבון ה-GitHub (דרך `/web-setup` או התקנת Claude GitHub App על הריפו), ואז ליצור את ה-routine מחדש (skill: `schedule`).
+
+**הערת DST:** ה-cron בענן הוא UTC. `0 4 * * *` = 07:00 בקיץ (IDT, UTC+3) אבל 06:00 בחורף (IST, UTC+2) — קירוב מכוון, כמו שאר התזמונים בפרויקט. ההרצה היומית של `harvest.yml` (02:23 UTC) סובלת מאותו drift.
+
+**לקח:** "האתר לא מציג תוכן חדש" ≠ "האתר/הקוד שבור". קודם לבדוק אם ההרצה היומית בכלל רצה (`gh run list` או `https://api.github.com/repos/spbraction-create/PersonalNews/actions/workflows/harvest.yml/runs`), רק אחר כך לחשוד בקוד.
 
 ---
 
