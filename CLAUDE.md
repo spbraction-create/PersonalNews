@@ -4,11 +4,12 @@
 
 ---
 
-## מה כבר בנוי ועובד (נכון ל-20.8.2026)
+## מה כבר בנוי ועובד (נכון ל-31.8.2026)
 
 - **ריפו:** `github.com/spbraction-create/PersonalNews` — ציבורי, `main` branch, מחובר ל-remote, מספר commits אמיתיים.
+- **טריגר יומי (31.8.2026):** ה-workflow `harvest.yml` מופעל כל בוקר ב-**03:20 UTC** ע"י **Cloudflare Cron Trigger** (ה-`scheduled()` ב-`worker/index.js` קורא ל-GitHub API). ה-`schedule` של GitHub עצמו נשאר כרשת ביטחון בלבד. הרקע והפרטים המלאים — סעיף 6 בסדר העדיפויות.
 - **שלב 2 (גילוי-פיד):** `src/feedDiscovery.js` + `npm run discover`. 19/24 מקורות מ-`SOURCES.md` מאומתים ופעילים בפועל (לא רק "עונים 200" — נבדקו תאריכי פרסום אמיתיים). התוצאות ב-`data/sources.json` + `reports/`.
-- **שלב 3 (קציר):** `src/harvest.js` + `npm run harvest`. מושך מהמקורות המאושרים, מסנן 24 שעות, מנקה כפילויות → `data/daily-flood.json`. רץ אוטומטית כל בוקר דרך GitHub Action (`harvest.yml`) — שני מועדי schedule + `guard` נגד תזמון לא-אמין של GitHub (סעיף 5 בסדר העדיפויות).
+- **שלב 3 (קציר):** `src/harvest.js` + `npm run harvest`. מושך מהמקורות המאושרים, מסנן 24 שעות, מנקה כפילויות → `data/daily-flood.json`. רץ אוטומטית כל בוקר דרך GitHub Action (`harvest.yml`), מופעל ע"י Cloudflare Cron ב-03:20 UTC (סעיף 6); `schedule` של GitHub + `guard` נשארו כרשת ביטחון (סעיף 5).
 - **שלב 4 (עריכה):** `src/gemini.js`, `src/classify.js`, `src/dailyEdit.js`. מסווג ידיעה/עומק, בוחר top-10 כשיש יותר מדי, כותב בריף ~200 מילה לכל טור → `data/daily-edition.json`. פריטי עומק נשמרים ב-`data/depth-queue.json` (בלי תור אמיתי עדיין). **✅ רץ עכשיו אוטומטית, אחרי harvest, באותו GitHub Action** — ראה "מה נבנה ב-20.8.2026" למטה.
 - **שלב 5 (הגשה):** `worker/index.js` + `worker/render.js`. **חי בפועל:** `https://daily-digest.spbraction.workers.dev` — קורא ישירות מ-`raw.githubusercontent.com` בכל בקשה (בלי לשמור תוכן ב-Worker עצמו — קאש קצה של 5 דק' בלבד). פריסה: `npm run worker:deploy` (רק כשהקוד/הלוגיקה משתנים — לא כשהתוכן משתנה). בדיקה מקומית: `npm run worker:dev`.
 - **שלב 5.2 (עמוד סיכום lazy-dive + KV) — ✅ חי בפרודקשן.** נבדק ישירות מול `https://daily-digest.spbraction.workers.dev/read?link=...`: cache miss ~19 שנ' (שליפה+Gemini), cache hit ~0.05 שנ' עם "נשמר במטמון".
@@ -91,6 +92,26 @@
 **הערת DST:** כל ה-cron-ים ב-UTC. `11 4 * * *` = 07:11 בישראל בקיץ (UTC+3), 06:11 בחורף (UTC+2) — קירוב מכוון, כמו שאר התזמונים.
 
 **לקח:** "האתר לא מציג תוכן חדש" ≠ "האתר/הקוד שבור". קודם לבדוק אם ההרצה היומית בכלל רצה (`gh run list` או `https://api.github.com/repos/spbraction-create/PersonalNews/actions/workflows/harvest.yml/runs`), רק אחר כך לחשוד בקוד.
+
+### 6. הטריגר הראשי עבר ל-Cloudflare Cron — ✅ הושלם ואומת (31.8.2026)
+
+**למה:** ה-`guard` + שני מועדי schedule (סעיף 5) פתרו את "נבלע לגמרי" אבל **לא** את האיחור — ב-27–30.8 ההרצה המתוזמנת אחרה 6–12 שעות **כל יום**. `schedule` של GitHub הוא best-effort ואי אפשר לסמוך עליו לעיתוי. מסקנת מחקר: מי שמחליט "מתי" צריך להיות גורם אמין — ויש כזה בסטאק, ה-Cloudflare Worker.
+
+**מה נבנה:**
+- **`wrangler.toml`:** `[triggers] crons = ["20 3 * * *"]` (≈06:20 בישראל בקיץ) + שני משתני `[vars]`: `DISPATCH_REPO`, `DISPATCH_WORKFLOW_FILE`.
+- **`worker/index.js`:** נוסף `scheduled()` ל-`export default` (לצד `fetch`), שקורא ל-`triggerHarvestWorkflow()` — `POST` ל-`https://api.github.com/repos/{DISPATCH_REPO}/actions/workflows/{DISPATCH_WORKFLOW_FILE}/dispatches` עם `{"ref":"main"}`, אימות דרך `Bearer ${env.GITHUB_DISPATCH_TOKEN}`. אם ה-API מחזיר לא-2xx → `throw` (נראה ב-Cron Events בלוח הבקרה וב-`npx wrangler tail`).
+- **`GITHUB_DISPATCH_TOKEN`:** GitHub **fine-grained PAT**, מוגבל לריפו `PersonalNews` בלבד, הרשאה יחידה `Actions: Read and write`. תפוגה **30.8.2027** — צריך לחדש לפני. קיים בשני מקומות נפרדים (כמו `GEMINI_API_KEY`): secret ב-Cloudflare (`npx wrangler secret put`, המשתמש הזין בעצמו) + שורה ב-`.env` המקומי (ל-`wrangler dev --remote --test-scheduled`).
+- **`harvest.yml`:** ה-`schedule` (`23 2`, `11 4`) יורד לתפקיד **רשת ביטחון בלבד** — רץ רק אם Cloudflare עצמו נפל. ה-`guard` עודכן: התנאי "הפעלה ידנית → תמיד רץ" הוחלף ב-"רק `workflow_dispatch` עם `inputs.force == true` → תמיד רץ". כל `workflow_dispatch` רגיל (כולל הטריגר מ-Cloudflare) כפוף לבדיקת "כבר רץ היום". `workflow_dispatch` קיבל `inputs.force` (boolean, ברירת מחדל false) לכפיית בנייה מחדש ידנית.
+
+**היגיון החפיפה:** מי שיורה ראשון והצליח באותו יום (UTC) — מנצח; כל השאר (Cloudflare או schedule) רואים ריצת `success`/`in_progress` ומדלגים. אין גיליון כפול.
+
+**אומת מקצה לקצה (31.8):** `npx wrangler dev --remote --test-scheduled` → פתיחת `http://localhost:8787/__scheduled` → `GET /__scheduled 200 OK` בלי שגיאה → ריצה 25 מסוג `workflow_dispatch` נפתחה ב-GitHub, רצה 2 דקות, הפיקה גיליון 31.8. פרוס לפרודקשן (`npm run worker:deploy`, `schedule: 20 3 * * *` באישור) + commit `51585f6` ב-`main`.
+
+**מה נשאר (לא דחוף):**
+- ה-watchdog בענן (`trig_01Jh8zb8tFCYoHEXxPhe1LBd`, `0 6 * * *`) עדיין מכוון לשעה שרלוונטית ל-schedule הישן — שווה להזיז לאחרי 03:20 UTC, או להשאיר כי הוא notify-only וממילא בודק "יש ריצה של היום?".
+- Node.js 20 ב-`harvest.yml` deprecated (נכפה ל-24 עם warning).
+
+**לקח נוסף:** `wrangler dev` (גם `--remote`, בגרסה 4.121) מושך vars/secrets מ-`.env` המקומי, **לא** מ-secrets שהועלו ב-`wrangler secret put`. בלי שורה ב-`.env`, `env.GITHUB_DISPATCH_TOKEN` יוצא `undefined` בבדיקה המקומית. בפרודקשן (`wrangler deploy`) זה כן מגיע מה-secret שהועלה.
 
 ---
 
