@@ -1,13 +1,925 @@
 {
-  "generatedAt": "2026-08-30T08:23:51.186Z",
+  "generatedAt": "2026-08-31T06:14:24.097Z",
   "windowHours": 24,
   "droppedDuplicates": 0,
   "items": [
     {
-      "title": "הרצאות מעולות, סדנאות ומנטורינג לג'וניוריות בסייבר: כנס Hackeriot חוזר",
-      "link": "https://www.geektime.co.il/hackeriot-2026/",
-      "pubDate": "2026-08-30T08:07:52.000Z",
-      "summary": "כנס האקריות חוזר: כל הפרטים (צילום: Unsplash) כנס Hackeriot חוזר לתל אביב עם הרצאות, סדנאות ופעילויות, ואלו חדשות מעולות לנשים בסייבר בכלל, ולג'וניוריות בפרט. השנה יתקיים האירוע במתכונת חדשה של יום אחד מרוכז, עם לו\"ז עשיר והזדמנויות ללמוד וליצור קשרים מקצועיים. הכנס יתקיים ב-7 בספטמבר באוניברסיטת תל אביב (9:00-20:00), וההשתתפות ללא עלות בהרשמה מראש . אירוע הדגל של ארגון האקריות מתקיים השנה בחסות כמה מחברות הסייבר הבולטות בשוק, בהן Cyera, צ'ק פוינט, VEGA ,EY, נומה, Clover ,Island ,Alice ,Mind ,La",
+      "title": "ג'וקוביץ' בכה בסיום ההפסד המפתיע: \"הגוף שלי פשוט התחיל לקרוס\"",
+      "link": "https://www.ynet.co.il/sport/article/b1md8czumx",
+      "pubDate": "2026-08-31T06:06:03.000Z",
+      "summary": "לראשונה מאז 2006 - הסרבי הודח בסיבוב הראשון של טורניר גראנד סלאם, כשנוצח בחמש מערכות על-ידי מריאנו נאבונה באליפות ארה\"ב במשחק בו קרס פיזית: \"חשבתי לפרוש לפני הסיום, היו לי התכווצויות וכאבים\". הארגנטינאי חגג: \"שיחקתי מול ה-GOAT, התחושה הטובה בחיי\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/SyhyXYM00Gx/SyhyXYM00Gx_0_55_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "כאוס במערכת החינוך: \"ילדים לא יודעים מי תהיה המחנכת שלהם\"",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-29907826ee450a1026.htm",
+      "pubDate": "2026-08-31T06:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "ראש מועצה נעצר עם בני משפחתו, החשד: שוחד, הטיית מכרזים והעסקה פיקטיבית",
+      "link": "https://www.ynet.co.il/news/article/h1bvttgdml",
+      "pubDate": "2026-08-31T05:40:24.000Z",
+      "summary": "בפשיטה של להב 433 נעצרו 7 חשודים, בהם ראש מועצה בדרום, ועוכבו 6 נוספים. לפי החשד, כספים הוצאו במרמה מקופת הרשות והועברו לכיסיהם. \"עבריינים במגזר הבדואי מנסים להפוך רשויות חוק למאחזי פשיעה\", מסרה המשטרה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/Sye11mYzuMe/Sye11mYzuMe_0_88_961_541_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "‏סמוטריץ' מגבה את החיילים שסירבו לצאת לסיור עם פרמדיקית בעזה: \"אדרוש תשובות\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/sk7eycgozx",
+      "pubDate": "2026-08-31T05:31:46.000Z",
+      "summary": "יו\"ר \"הציונות הדתית\" גיבה את 16 לוחמי גבעתי שסירבו לעלות לנמ\"ר, לאחר שנודע להם שהיא תחבור אליהם: \"התעקשו על זכותם וחובתם לשרת תוך שמירה על ערכיהם ואמונתם\". הוא הצהיר שיתערב בנושא, לאחר שצה\"ל הודיע שהם יישלחו למחבוש: \"קיוויתי שבצבא יתעשתו\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/07/08/r1slFSYD0/r1slFSYD0_0_94_1601_901_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "ביהמ\"ש דחה את העתירה: אור ירוק ל-750 דירות במקום מוסך דן בצפון ת\"א",
+      "link": "https://www.ynet.co.il/economy/article/h1qi0kz00me",
+      "pubDate": "2026-08-31T05:23:32.000Z",
+      "summary": "בית המשפט לעניינים מנהליים בת\"א דחה עתירה שהגישו 48 תושבים נגד התוכנית במתחם שבצומת הרחובות ראול ולנברג ופנחס רוזן. במוקד המחלוקת עמדו כ-7.5 דונם שייוותרו בבעלות פרטית אך ישמשו כשטח פתוח לציבור באמצעות זיקת הנאה. ביהמ\"ש קבע כי מדובר באיזון ראוי בין צורכי הציבור לזכויות בעלי הקרקע",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/16/H1ZtywpV1g/H1ZtywpV1g_0_0_2048_1368_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "הערכות: רע\"מ תודיע היום על צירוף סגלוביץ', הוא יוצב במקום השני ברשימה",
+      "link": "https://www.ynet.co.il/news/elections2026/article/sklkctm00zx",
+      "pubDate": "2026-08-31T05:07:29.000Z",
+      "summary": "מנסור עבאס פעל בימים האחרונים במוסדות המפלגה, כדי לצרף את סגן השר לביטחון לאומי לשעבר - שיהיה המועמד היהודי הראשון ברשימת רע\"מ אי-פעם. לפי הערכות, סגלוביץ' יקבל את המקום השני ברשימה לכנסת",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/31/B18K0k9SGl/B18K0k9SGl_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "בוחרות, ולא נבחרות: תמונת המצב המחפירה של ייצוג הנשים במערכת הפוליטית",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14883306",
+      "pubDate": "2026-08-31T04:56:56.000Z",
+      "summary": "50% מהאוכלוסיה - הרבה פחות בכנסת: אחרי שנים שבהן עלה אחוז הנשים בבית המחוקקים, נרשמת מפולת לפני הבחירות. בכנסת הבאה, כרגע, לא נראה שתהיה מנהיגה בראש מפלגה. בליכוד יש מעט מועמדות במקומות ריאליים, גם במפלגות הערביות המצב לא מזהיר - והחרדים כרגיל מדירים נשים מהרשימות. איזו מפלגה דווקא מצטיינת?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/yk14883056/yk14883056_0_0_3000_1690_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "הגשם הגיע גם למרכז, אחרי סוף השבוע ה\"מאכזב\": כל הנתונים - והתיעודים",
+      "link": "https://www.ynet.co.il/news/article/b1ogekzofg",
+      "pubDate": "2026-08-31T04:34:42.000Z",
+      "summary": "אחרי שהמערכת הנדירה פסחה ברובה על ישראל, גשם תועד הלילה ובשעות הבוקר המוקדמות לאורך מישור החוף ובמרכז. בצפון תל אביב ירדו 7.9 מ\"מ של גשם. היום הטמפרטורות יעלו במעט ויהיה מעונן חלקית",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/H1m6gtGOzl/H1m6gtGOzl_134_93_1014_571_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "ראש מועצה מכהן מאזור הדרום נעצר בחשד לעבירות שוחד",
+      "link": "https://www.mako.co.il/men-men_news/Article-7589aedd41650a1026.htm",
+      "pubDate": "2026-08-31T04:31:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "למלחמת המועדונים בענף התעופה יש רק מנצח אחד: הלקוח הישראלי",
+      "link": "https://www.ynet.co.il/economy/article/yokra14878285",
+      "pubDate": "2026-08-31T04:26:20.000Z",
+      "summary": "ההחלטה של אל–על להעביר את מועדון פלייקארד מחברת כרטיסי האשראי כאל לישראכרט הציתה מלחמת עולם: כאל השיקה במהירות עם איסתא את פלייאול וכבר צירפה אליו 130 אלף לקוחות, מיליונים הושקעו בקמפיינים אגרסיביים והתחרות הידרדרה להאשמות ואיומים בתביעות • עכשיו ענת צלדטי, המנכ\"לית של פלייאול, מספרת בראיון ראשון למה לא לקחה אישית את המתקפות נגדה ומתייחסת לשאלות בנוגע לאותיות הקטנות מאחורי המבצעים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/rJ3s28hPzx/rJ3s28hPzx_0_307_3000_1689_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "שיא של כל הזמנים: מחיר הדלק החל מחצות - 8.25 שקלים",
+      "link": "https://www.ynet.co.il/economy/article/s15aobwogg",
+      "pubDate": "2026-08-31T04:25:26.000Z",
+      "summary": "עלייה של 6% במחיר הבנזין בשוק הבינלאומי, לצד עדכון רכיב הבלו של רשות המסים, הובילו לזינוק משמעותי נוסף במחיר ליטר בנזין 95 - שווה לשיא כל הזמנים שנקבע בדיוק לפני 14 שנים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/09/rJ1Et5ht11l/rJ1Et5ht11l_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "בצל ההסלמה: טראמפ פרסם סרטון AI של השמדת האי ח'ארג",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-ea1e12d42f550a1026.htm",
+      "pubDate": "2026-08-31T04:11:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "הצעירות שעזבו הכל כדי למכור צנצנות מלפפונים חמוצים שוות היום מיליונים",
+      "link": "https://www.ynet.co.il/economy/article/hkiildzdfx",
+      "pubDate": "2026-08-31T04:04:58.000Z",
+      "summary": "סרטון ויראלי של משפיענית שמתקשה לפתוח צנצנת חמוצים הפך לפרסומת הכי טובה ש-\"Hot Girl Pickles\" יכול היה לבקש. מאחורי המותג הצבעוני שכובש את דור ה-Z עם מיתוג נועז ואירוניה עצמית, עומדות שתי בוגרות קולג' שהחליטו להמר על מלפפון חמוץ - וזה השתלם: החברה שלהן מוערך כיום במיליוני דולרים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/rkDTSObOMg/rkDTSObOMg_283_47_705_397_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "מבחן השבת: איזו עיר היא הכי חופשית בישראל?",
+      "link": "https://www.ynet.co.il/economy/article/bybncpbofg",
+      "pubDate": "2026-08-31T04:04:46.000Z",
+      "summary": "באילו ערים אפשר להתנייד בקלות, לקנות מצרכים חיוניים או ליהנות מפעילות פנאי בשבת, ובאילו רשויות הכל נסגר דווקא ביום החופשי של התושבים? \"ישראל חופשית\" בדקה 60 ערים: \"הממצאים מוסיפים לשקף פערים עמוקים בין הרשויות המקומיות. ולמרות ניסיונות מקומיים בחלקן, המצב הארצי עדיין מגביל במידה ניכרת את חופש הבחירה בשבת\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/11/01/Hy11jjhuCVj/Hy11jjhuCVj_0_128_1600_901_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "שווי שימוש: אותו רכב בדיוק, ופער של אלפי שקלים בין שני עובדים",
+      "link": "https://www.mako.co.il/news-money/calculators/Article-d83812d42f550a1026.htm",
+      "pubDate": "2026-08-31T04:03:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "גולדהאר, תתעורר | תוכן גולשים",
+      "link": "https://www.ynet.co.il/sport/article/bygw261100me",
+      "pubDate": "2026-08-31T04:00:00.000Z",
+      "summary": "ישוב שבעלי מכבי ת\"א ידבר ויסביר לאן פניו, כי לשתיקה שלו יש פרשנויות שונות וקיצוניות. אי אפשר כבר להתעלם מכל הסימנים שמעידים על משבר קיצוני בינו לבין הקבוצה שלו. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/04/22/rkuQgqZmn/rkuQgqZmn_0_312_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "סנסציה באליפות ארה\"ב: נובאק ג'וקוביץ' הודח כבר בסיבוב הראשון",
+      "link": "https://www.ynet.co.il/sport/article/s13znvg00zx",
+      "pubDate": "2026-08-31T03:56:14.000Z",
+      "summary": "מי היה מאמין? הסרבי בן ה-39 - אולי בטורניר האחרון שלו בניו יורק - נכנע למריאנו נאבונה הארגנטינאי (48 בעולם) 7:6 (5), 5:7, 4:6, 6:2, 6:1. ג'וקוביץ' כבר הוביל 1:2, אך קרס לחלוטין פיזית במערכה הרביעית והחמישית ואף הקיא מספר פעמים. לראשונה מאז אליפות אוסטרליה ב-2006 - 'נולה' מודח בסיבוב הראשון של טורניר גראנד סלאם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/SkgwNOzOfe/SkgwNOzOfe_0_158_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "ההנחיה של בן גביר לאנשי הקמפיין: הצניעו את תוכנית התנינים",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14883662",
+      "pubDate": "2026-08-31T03:54:12.000Z",
+      "summary": "אחרי שהתפאר בהקמת תעלות עם תנינים לאבטחת בתי הכלא חושש יו\"ר עוצמה יהודית כי המהלך פוגע בקמפיין הבחירות. הוא הנחה: אל תבליטו את התוכנית. הטענה של בן גביר: זה נתפס כגימיק, מהלך לא רציני. לשכת השר: \"לא עוסקים בספינים תקשורתיים\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/Bks00gqzufx/Bks00gqzufx_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "שיטפונות ענק בגרנד קניון באריזונה: לפחות 15 בני אדם נעדרים",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-c042341f35550a1026.htm",
+      "pubDate": "2026-08-31T03:45:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "תורג'מן כבש והשלים מהפך ב-1:3 של ניו אינגלנד",
+      "link": "https://www.ynet.co.il/sport/article/one532066",
+      "pubDate": "2026-08-31T03:38:53.000Z",
+      "summary": "החלוץ ששיחק 87 דקות מול קולומבוס, הבקיע משחק שני ברצף והגיע ל-6 שערים העונה, פיינגולד עלה בדקה ה-89. בנימין נכנס בדקה ה-59 ב-3:3 של דאלאס",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/one1885199/one1885199_0_0_800_444_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "אחרי הקמפיין העגום, בנבחרת ישראל מודים: \"היינו צריכים את כולם איתנו\"",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/rkmf8gg00fg",
+      "pubDate": "2026-08-31T03:30:00.000Z",
+      "summary": "הכחולים-לבנים נעלו את חלון אוגוסט עם 85:70 ללטביה ומאזן 6:2 במוקדמות אליפות העולם. אחרי קמפיין ממנו נעדרו שחקנים בולטים, בית הלחמי הודה: \"באופן הזה, קשה להטמיע צורת משחק\", סורקין: \"אנחנו לא יכולים להיראות ככה\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/rJOh5bMOMx/rJOh5bMOMx_50_10_1067_601_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "ביקורת בהפועל ת\"א: \"אין לנו שחקן אחד עם מספרים בהתקפה\"",
+      "link": "https://www.ynet.co.il/sport/article/rjr2r8g00zg",
+      "pubDate": "2026-08-31T03:30:00.000Z",
+      "summary": "האדומים התקשו לייצר מצבים ב-0:0 המאכזב מול הפועל חיפה, שחקנים בקבוצה הודו: \"אין פה סקוררים, ואז מביאים מגן שמאלי כחיזוק\". טוריאל החטיא פנדל, ליידנר הגן עליו: \"מי שלא מחטיא גם לא מבקיע\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/SJbvk6eG00Gg/SJbvk6eG00Gg_0_173_2494_1405_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "מדוע בלינגהאם פורח תחת מוריניו? זו כנראה הסיבה האמיתית",
+      "link": "https://www.ynet.co.il/sport/worldsoccer/article/sjkeixm00zx",
+      "pubDate": "2026-08-31T03:30:00.000Z",
+      "summary": "עם שני שערים ושני בישולים בשלושה מחזורים, הקשר האנגלי שוב כבש והצטיין, הפעם ב-0:4 על מלאגה: \"יש לי את החופש לעלות יותר למעלה, בגלל זה אני משחק טוב יותר\". מוריניו: \"הוא מאוד תובעני מעצמו ומהאחרים. אני אוהב את זה\" | צפו בתקציר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/S11LclG00fg/S11LclG00fg_200_387_1864_1050_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "רגע לפני פתיחת העונה: המבוי הסתום של מכבי ת\"א וסורקין",
+      "link": "https://www.ynet.co.il/sport/article/r1sjbwfdgx",
+      "pubDate": "2026-08-31T03:30:00.000Z",
+      "summary": "הסנטר, שמחזיק בחוזה לשלוש עונות נוספות בשכר של כ-900 אלף דולר לעונה, ביקש לפתוח אותו בעקבות השינויים בשוק. מכבי הציעה להעלות את שכרו לכ-1.2 מיליון דולר, אך נציגיו דורשים סכום גבוה יותר. בסביבתו מצביעים על הפער בשכר בינו לבין ים מדר ותמיר בלאט ומבהירים: הוא אינו מרוצה מהמצב",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/18/HkOjT4RWQ11l/HkOjT4RWQ11l_403_286_2442_1375_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "בני הנוער שהפכו את האלימות הקשה לתוכן ויראלי",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-373105e00a350a1026.htm",
+      "pubDate": "2026-08-31T03:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "האו\"ם הספיד אותו כמחנך - חמאס הספיד אותו כשהיד",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-ce073c449dd30a1027.htm",
+      "pubDate": "2026-08-31T03:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "pubDate": "2026-08-31T02:34:00.000Z",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "pubDate": "2026-08-31T02:18:57.000Z",
+      "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been promising since 2022.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "התחזית: עלייה בטמפרטורות | זו הסיבה שהתחזית ל\"גשם חריג\" נגמרה בטפטוף",
+      "link": "https://www.ynet.co.il/news/article/rjq0irbuzx",
+      "pubDate": "2026-08-31T02:08:15.000Z",
+      "summary": "אחרי התחזיות לעשרות מ\"מ ולהצפות, אירוע הגשם הסתיים ברוב האזורים עם מילימטרים בודדים בלבד. בשירות המטאורולוגי מסבירים כי שקע רום חריג אכן הגיע לאזור - אך מוקדו נע צפונה, והגשמים העזים ירדו בסוריה ובלבנון. בישראל נרשמו דווקא רוחות וגלים חריגים, ובחרמון צנחה הטמפרטורה ל-8 מעלות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/07/10/rynllzYF3/rynllzYF3_0_640_961_541_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "הקרב על הימין: למה נתניהו מפחד מעופר וינטר?",
+      "link": "https://www.ynet.co.il/news/theheadline/article/rdldsx7gz",
+      "pubDate": "2026-08-31T02:00:00.000Z",
+      "summary": "עופר וינטר השיק מפלגה חדשה שנתפסת אצל נתניהו כהרפתקה לא רצויה. מאחורי הקלעים וינטר סירב להצעות שיריון ולאיחוד עם סמוטריץ', אך מצהיר תמיכה בנתניהו כמועמד לראשות הממשלה - סתירה שעלולה לעלות לו ביוקר. הכתבת הפוליטית של ynet מורן אזולאי מסבירה מאיפה וינטר שואב את כוחו הפוליטי, ולמה בליכוד חוששים שהוא \"סוס טרויאני\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/HkmFIYbOfe/HkmFIYbOfe_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "ארה\"ב הפציצה משגרים באיראן, ירדן יירטה טילים: \"הותקפו בסיסים אמריקנים\"",
+      "link": "https://www.ynet.co.il/news/article/bkpz8bzoze",
+      "pubDate": "2026-08-30T22:45:40.000Z",
+      "summary": "חילופי אש ליליים במזרח התיכון: אחרי שבועות של שקט נשמעו פיצוצים באי לאראק. בכיר אמריקני: \"הותקפו משגרים שנערכו לשיגור מוקשים ימיים לעבר הורמוז\". בהמשך דווח שאיראן תקפה כוחות אמריקניים בירדן - וגם בסיס צבאי באמירויות. טראמפ פרסם סרטון AI: \"האי חארג מופצץ לרסיסים\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/01/ryRUDejHMg/ryRUDejHMg_0_72_800_451_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "מעצמות בשקיעה: המשבר של מכבי חיפה ומכבי ת\"א",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/hyut3zzdme",
+      "pubDate": "2026-08-30T22:30:00.000Z",
+      "summary": "מכבי ת\"א ומכבי חיפה נפגשות בבלומפילד למאבק חזיתי, אך מתחת לכותרת \"קלאסיקו ישראלי\" שתיהן סובלות בשנים האחרונות מאותן המחלות: ניהול כושל, החלטות מקצועיות תמוהות, ניתוק מהשוק המקומי וקרע חריף מול ארגוני האוהדים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/ry79nWzuGg/ry79nWzuGg_0_0_3000_2090_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "מעיר קטנה יותר משכונת יד אליהו: הנסיקה המטאורית של סנסציית הבונדסליגה",
+      "link": "https://www.ynet.co.il/sport/worldsoccer/article/bkme3bzogl",
+      "pubDate": "2026-08-30T22:30:00.000Z",
+      "summary": "איך אומרים סינדרלה בגרמנית? אלברסברג. כך הפכה קבוצה צנועה מהליגה המחוזית שמייצגת עיר בת 13 אלף תושבים וחדר ההלבשה שלה היה במרתף של מוסך למועדון בבונדסליגה שמפרק את באייר לברקוזן 2:3 עם כדורגל התקפי וסוחף",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/Bkrrp11f00Gx/Bkrrp11f00Gx_0_83_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "הנבחרת של בית הלחמי נכנעה ללא קרב | טור",
+      "link": "https://www.ynet.co.il/sport/article/h1bzqwgozg",
+      "pubDate": "2026-08-30T22:30:00.000Z",
+      "summary": "בלי אבדיה, שמגיע רק לטורנירים גדולים, מדובר באחת הנבחרות החלשות שהיו לנו. חוץ מזה, כל תחום המתאזרחים בנוי עקום ולא ברור למה המאמן התעקש לשחק סמול־בול",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/By4wcbMuGx/By4wcbMuGx_0_32_2400_1352_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "pubDate": "2026-08-30T21:40:56.000Z",
+      "summary": "Here at Ars, we're intimately familiar with data leaks surrounding Valve's games , hardware , and the workings of Steam itself . But nothing could have prepared us for this weekend's \"terarelease\" encompassing more than 12TB of content related to seemingly every title available on Steam between 2003 to 2013. What's being sold as an \"as-complete-as-possible ... content server dump\" of Steam's defunct \"Steam2\" server architecture from that time period is now circulating around via a BitTorrent tra",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "16 לוחמים שסירבו למשימה בגלל נוכחות חיילת נשפטו למאסר",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-b511e6e746450a1027.htm",
+      "pubDate": "2026-08-30T21:32:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+      "link": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+      "pubDate": "2026-08-30T21:18:59.000Z",
+      "summary": "I recently dug out my CDs and started reripping them all . I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you to let loose, dance like no one was watching, and just have some damn fun. Few embodied that as much as New York dance punk band Professor Murder. LCD Soundsystem and The Rapture were the biggest names of ",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "אישה איבדה את עוברה לאחר שנפלה בכביש - ותפוצה בסכום עתק",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-6c21e096fe250a1027.htm",
+      "pubDate": "2026-08-30T21:12:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "מה קרה במיאמי?",
+      "link": "https://www.ynet.co.il/news/article/yokra14883017",
+      "pubDate": "2026-08-30T21:05:00.000Z",
+      "summary": "הצורך להבין מה בדיוק קרה במיאמי בדצמבר 25' עונה על ההגדרה הבסיסית ביותר של \"עניין לציבור\", ממש כמו התדרוך לפיו בארגון \"מזהים נכונות גוברת בחמאס לחיכוך\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/06/SkpSa3KJbx/SkpSa3KJbx_0_0_2000_1126_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "16 הלוחמים שסירבו לצאת לסיור עם פרמדיקית בעזה נשלחו לכלא",
+      "link": "https://www.ynet.co.il/news/article/sk5nfjguze",
+      "pubDate": "2026-08-30T21:03:55.000Z",
+      "summary": "5 מהלוחמים שהובילו את האירוע נשלחו ל-10 ימי מחבוש, ו-11 נוספים ל-5 ימים. סירובם לצאת לפעילות הוביל לביטול פעילות מבצעית ברצועה, וחלק מהחיילים יעברו ועדת הערכה לפני חזרתם ללחימה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/Hkef41RtwGl/Hkef41RtwGl_0_97_1601_901_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "תעודת עניות: איפה הנשים ברשימות?",
+      "link": "https://www.ynet.co.il/news/article/yokra14883251",
+      "pubDate": "2026-08-30T21:03:00.000Z",
+      "summary": "העובדה שבבחירות לכנסת ה-26 אין נשים שעומדות בראשות מפלגה שתצליח להיבחר, היא תעודת עניות לחברה הישראלית",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/17/SkDJbBlDze/SkDJbBlDze_0_307_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "קח אותי, איתמר",
+      "link": "https://www.ynet.co.il/news/article/yokra14883450",
+      "pubDate": "2026-08-30T21:03:00.000Z",
+      "summary": "מבחינת האג'נדה שלו, אין ולו שר אחד בממשלה הכושלת הזאת שיכול להשתוות לסמוטריץ'. אף על פי כן, שום מפלגה לא מוכנה לתת לו מקלט ברשימתה: הוא מבריח מצביעים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/Hyn3JxrSGx/Hyn3JxrSGx_162_305_1648_928_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "מערכת הבריאות בישראל דועכת לאיטה, בשקט ובעקביות",
+      "link": "https://www.ynet.co.il/news/article/yokra14883084",
+      "pubDate": "2026-08-30T21:03:00.000Z",
+      "summary": "אין תורים, אין מספיק רופאים ואין מענים בזמן. בשקט ובעקביות דועכים להם שירותי הבריאות בארץ, והחולים מוצאים עצמם נלחמים בבירוקרטיה במקום להתרכז בהחלמה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/02/26/4482772/4482772_0_0_1000_667_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "משיח לא בא",
+      "link": "https://www.ynet.co.il/news/article/yokra14883525",
+      "pubDate": "2026-08-30T21:03:00.000Z",
+      "summary": "וינטר אינו הסיפור עצמו; הוא רק בבואה לשטחיות המאפיינת את השיח הפוליטי, שבו נעדרת הבחינה המעמיקה שאמורה לקבוע לא רק למי להצביע, אלא לשם מה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/SJeUh24sPze/SJeUh24sPze_0_0_1280_721_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "ביבי נגרר ימינה",
+      "link": "https://www.ynet.co.il/news/article/yokra14881669",
+      "pubDate": "2026-08-30T21:00:00.000Z",
+      "summary": "תחושת \"הסכנה מימין\" עלולה לדחוק את ביבי לאימוץ שיח לאומני ואנטי-דמוקרטי, למעשים הרפתקניים חסרי אחראיות ולשיסוי לוחמני בוטה נגד \"השמאל\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/SJNyEEUjDMg/SJNyEEUjDMg_0_37_1280_721_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "התחבורה הציבורית בשבת בקדמת הבמה: עמדות המפלגות - והסקר בקרב המצביעים",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14883243",
+      "pubDate": "2026-08-30T21:00:00.000Z",
+      "summary": "לאחרונה התחדדה ההבנה כי הקרב על צביון המדינה חורג מנושא הקצאות הכספים והשירות בצה\"ל, אחרי שחרדים חסמו בגופם אוטובוסים שהסיעו בשבתות חיילים לבסיסים ואנשים לבתי חולים. בשל כך, תחבורה ציבורית בשבת עשויה להיות יותר מהותית לחלק מהמצביעים. מצעי המפלגות - ומי מהן תואמת לעמדת תומכיה?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/rJeIhQYgdGg/rJeIhQYgdGg_0_207_1280_721_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "בחברה הערבית שבים לכיתות בצל הפשיעה: \"קשה לצפות שילמדו כאילו לא קורה כלום\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14881525",
+      "pubDate": "2026-08-30T21:00:00.000Z",
+      "summary": "הפשיעה פוגעת להם בתפקוד ובהישגים, וגורמת לחלקם לא להתייצב בבית הספר. מסמך של המרכז לקידום ביטחון בחברה הערבית מתריע מנזק קשה לנוער ולאנשי החינוך במגזר, וטוען כי אין מדיניות רוחבית בנושא: \"שמירה על הילדים והצוות - תנאי ליכולת המערכת להגן עליהם\". משרד החינוך: \"יש תוכנית לחיזוק המוגנות\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/yk14883481/yk14883481_0_118_1181_665_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "נהג אוטובוס סירב להוריד נוסע בצומת והוכה קשות: \"התעוררתי באמבולנס\" | תיעוד מחריד",
+      "link": "https://www.ynet.co.il/news/article/h1zzbmgdzl",
+      "pubDate": "2026-08-30T20:51:22.000Z",
+      "summary": "ע', נהג בקו 2 בבית שמש, התבקש להוריד נוסע במקום לא חוקי וסירב לפתוח את הדלת. בתגובה, הנוסע תקף אותו באגרופים עד לאובדן הכרה: \"היה לו חפץ מתכתי ביד, אלה לא היו אגרופים רגילים\", סיפר. \"הספקתי לשמוע את התוקף צועק 'תקפתי אותו' - והתעוררתי רק באמבולנס. בפעם הבאה מי יודע אם אתעורר?\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/SygctEfG00Ml/SygctEfG00Ml_0_158_1280_721_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "שיטפונות בזק בגרנד קניון, לפחות 15 מטיילים נעדרים",
+      "link": "https://www.ynet.co.il/news/article/bjowrffume",
+      "pubDate": "2026-08-30T20:50:08.000Z",
+      "summary": "הרשויות פתחו בחיפושים אחר המטיילים, יותר מ-62 בני אדם פונו מהאזור, וגשרים באזור נהרסו בעקבות השיטפונות. סרטונים מהמקום תיעדו מפולות בוץ וזרמי מים ששטפו את הקניון",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/08/14/rylDsRPh3/rylDsRPh3_0_105_1000_563_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "אחרי שלושה חודשי מצוד: העבריין הנמלט נעצר בדירת מסתור בדימונה",
+      "link": "https://www.mako.co.il/men-men_news/Article-f94be6e746450a1027.htm",
+      "pubDate": "2026-08-30T20:50:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "אימה בתל אביב: בעל הדירה חיפש את השוכרת ומצא אותה מתה בדירה",
+      "link": "https://www.mako.co.il/men-men_news/Article-cb376b94c4450a1027.htm",
+      "pubDate": "2026-08-30T20:37:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "מעצרים, פינויים ו\"פגיעה בכיס\": כך נערכים במערכת הביטחון לבלום את הפרעות ביו\"ש",
+      "link": "https://www.ynet.co.il/news/article/h1x6o1fdzg",
+      "pubDate": "2026-08-30T20:28:37.000Z",
+      "summary": "במשטרה ובשב\"כ ממשיכים בחקירת הפרעות בקוסרה, ושמות של כמה מהחשודים כבר מוכרים. במשטרה טוענים כי הצבא הגיע למקום, לא עצר איש ואף הפנה את הכוחות לזירה אחרת - בצה\"ל דוחים: \"הכוח היה קטן\". במערכת הביטחון מזהירים מהחדירה לשטחי B: \"פוגעים בכל מפעל ההתיישבות ועלולים להצית את השטח\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/rkUbZPWdfl/rkUbZPWdfl_196_24_865_487_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "הוועדה המייעצת תמליץ לשרים לאשר אבטחה לאיזנקוט",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-8073c9c692450a1027.htm",
+      "pubDate": "2026-08-30T20:15:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "באוצר הודפים את טענות מערכת הביטחון: \"משקף ניהול רשלני בכל הקשור לתקציב\"",
+      "link": "https://www.ynet.co.il/news/article/skpwuawofg",
+      "pubDate": "2026-08-30T20:14:08.000Z",
+      "summary": "אחרי שבמערכת הביטחון התריעו כי אגף התקציבים בולם העברת 15 מיליארד שקלים בזמן של מחסור חמור בהאמרים וחימושים, יוצאים בכירי האוצר למתקפת נגד. לדבריהם, \"התקציב 'שוכב' בוועדת הכספים של הכנסת. זאת חוצפה שאין שנייה לה לומר שזה תקוע באוצר. הם מפריחים ספינים שנועדו להפחדת הציבור\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/06/ryxdJ2PHxx/ryxdJ2PHxx_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "שריפה בראשון לציון: אדם נהרג ברכב בחניון תת-קרקעי",
+      "link": "https://www.mako.co.il/men-men_news/Article-36afc9c692450a1027.htm",
+      "pubDate": "2026-08-30T19:49:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "בעל הבית: בטורינה כיכב, 1:2 לקומו על נאפולי",
+      "link": "https://www.ynet.co.il/sport/article/one532053",
+      "pubDate": "2026-08-30T19:35:26.000Z",
+      "summary": "צפו: הבן של אקס בני יהודה הצטיין עם שער ובישול לדוביקאס, באצטדיון המראדונה מול הפרטנופיי, והוביל את קבוצתו לניצחון בכורה. הוילון איזן זמנית",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885188/one1885188_0_0_800_444_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "הוועדה הציבורית המייעצת תמליץ לשרים: אשרו אבטחת שב\"כ לאיזנקוט עד הבחירות",
+      "link": "https://www.ynet.co.il/news/article/bjjnfwz00gg",
+      "pubDate": "2026-08-30T19:32:11.000Z",
+      "summary": "הוועדה הציבורית הודיעה בתום דיון עם גורמי הביטחון שתמליץ לוועדת השרים לענייני שב\"כ לאשר להעניק אבטחה לאיזנקוט, אף שעד כה ראש השב\"כ התנגד לכך. את ההכרעה הסופית יקבלו השרים, אבטחת יאיר גולן תדון בהמשך",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/B1EavF811Pzx/B1EavF811Pzx_329_546_2145_1207_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "הרוג בשרפה בחניון של בנייני מגורים בראשון לציון",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-b24048b622450a1026.htm",
+      "pubDate": "2026-08-30T19:31:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "לראשונה מזה חודש: האמריקנים תקפו שני משגרים באיראן",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-ffa52c2bc0450a1027.htm",
+      "pubDate": "2026-08-30T19:31:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "אליפות ארה\"ב: ג'סיקה פגולה פתחה ברגל ימין",
+      "link": "https://www.ynet.co.il/sport/article/bj1rrgzdfe",
+      "pubDate": "2026-08-30T19:26:58.000Z",
+      "summary": "המדורגת 3 בעולם ניצחה 3:6, 2:6 את אלנה-גבריאלה רוסה מרומניה ותפגוש את המנצחת בין סופיה קנין לוונוס וויליאמס. הלילה: ג'וקוביץ' יתחיל את המסע",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/rJ7U7bzOGx/rJ7U7bzOGx_0_43_3000_1688_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+      "link": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+      "pubDate": "2026-08-30T19:14:08.000Z",
+      "summary": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked . We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-Life 2: Episode 3 , content cut from Portal 2 , and a build of a game called F-Stop that's set in the Portal universe but is built around a camera mechanic. The leak also includes titles from third-party developers. Early versions of Call of",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "רכב חשמלי התלקח בחניון תת-קרקעי בראשון לציון, כבן 80 שאותר בתוכו נספה",
+      "link": "https://www.ynet.co.il/news/article/hyjwj11gdme",
+      "pubDate": "2026-08-30T19:11:19.000Z",
+      "summary": "כמה כלי רכב עלו באש בחניון של בניין מגורים בן 20 קומות בשכונת נווה חוף, מותו של הגבר נקבע לאחר כיבוי השריפה. הערכה ראשונית: תאונה עצמית הובילה להתנגשות הרכב בקיר ולהתלקחותו, לפי המשטרה לא עולה חשד לפלילים. בשל העשן הונחו הדיירים להסתגר בדירותיהם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/ryeNqRzGdGl/ryeNqRzGdGl_0_20_1280_721_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "הרב יוסף במתקפה על בן גביר: \"תתרגל לשמוע לגדולי הדור\"",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-0f6dd8412f350a1027.htm",
+      "pubDate": "2026-08-30T19:11:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "\"מה תיתני לי כדי שאוותר?\": עלילות שוטר התנועה שחשוד בהטרדה מינית של נהגות",
+      "link": "https://www.ynet.co.il/news/article/h100w71mume",
+      "pubDate": "2026-08-30T18:42:35.000Z",
+      "summary": "3 מקרים שהובאו לפתחו של המפכ\"ל לוי במקביל לחקירת מח\"ש הובילו לפיטורי השוטר. אחרי שהורה לאחת הנשים לעצור בצד, הוא ביקש ממנה לחשוב כיצד היא יכולה \"לבוא לקראתו\". לאחרת אמר: \"אם אגיד שאני רוצה אותך, את רווקה נכון?\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/12/HkBUcEGlF/HkBUcEGlF_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "pubDate": "2026-08-30T18:33:44.000Z",
+      "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "נטעלי שם טוב ממפלגתו של וינטר: \"נתניהו אחראי למחדל 7 באוקטובר\"",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-05075dc3f7350a1027.htm",
+      "pubDate": "2026-08-30T18:30:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "בכיר רבני ש\"ס נגד נתניהו: \"לא מאמינים לו, נצטרף לממשלה הבאה רק אחרי חוק פטור\"",
+      "link": "https://www.ynet.co.il/news/article/sjmbfjzdfx",
+      "pubDate": "2026-08-30T18:17:08.000Z",
+      "summary": "הרב משה מאיה, זקן חברי מועצת חכמי התורה של ש\"ס, נשמע בהקלטה תוקף את רה\"מ: \"ביבי הבטיח המון, לא אאמין לו לכלום\". לדבריו, גם התחייבות להעביר חוק פטור מגיוס תוך 30 יום לא תספיק - וש\"ס לא תצטרף לממשלה לפני שיאושר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/06/SyO91h5Nbx/SyO91h5Nbx_0_72_1280_721_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "הפרעות בקוסרה: המשטרה הוציאה צווי מעצר למעורבים, חלקם מסתתרים",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-58a60662fa350a1027.htm",
+      "pubDate": "2026-08-30T18:15:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "חגיגה: 0:4 לאייאקס על טלסטאר, אוסקר גלוך בישל",
+      "link": "https://livegame.ynet.co.il/games/531992",
+      "pubDate": "2026-08-30T17:42:08.000Z",
+      "summary": "האורחת הציגה כדורגל חיובי והביסה משערים של דייבי קלאסן, סטיבן ברחאוס, טולו ארוקודארה ולאונרדו. הישראלי השלים 73 דקות ובישל את השער השני. צפו",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885127/one1885127_0_0_800_444_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "Why it matters that President Trump just dialed into a NASA news conference",
+      "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+      "pubDate": "2026-08-30T17:40:30.000Z",
+      "summary": "As is standard procedure for major NASA missions, the US space agency held a post-launch news conference on Sunday morning at Kennedy Space Center in Florida to provide information about how the Nancy Grace Roman Space Telescope was faring during its initial maneuvers. What was not standard, however, is what happened in the middle of the news conference. A little less than half an hour in, NASA Administrator Jared Isaacman looked down at his mobile phone, and then stood up and walked away from t",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "3:4 מטורף לצ'לסי מול ברייטון, שלושער לפרננדש בניצחון של יונייטד",
+      "link": "https://www.ynet.co.il/sport/worldsoccer/article/sk4ryabufg",
+      "pubDate": "2026-08-30T17:28:44.000Z",
+      "summary": "הבלוז כבר הוליכו 0:3 מול השחפים, שכמעט השלימו קאמבק מרשים. אחרי שני מחזורים הקבוצה של צ'אבי אלונסו שומרת על מאזן מושלם. השדים האדומים חגגו ניצחון בכורה: 2:5 על איפסוויץ', הקפטן להט",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/S1Yc5aWufl/S1Yc5aWufl_0_165_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "הפועל ת״א פתחה עונה עם 0:0 חלש נגד הפועל חיפה",
+      "link": "https://livegame.ynet.co.il/games/531988",
+      "pubDate": "2026-08-30T17:15:13.000Z",
+      "summary": "החבורה של ברדה סיפקה חצי ראשון חלש, התעוררה במחצית השנייה, אך לא ניצחה ואכזבה. טוריאל החמיץ פנדל, ג׳ראפי הצטיין. קריצ׳אק ואלטמן הורחקו באדום",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885156/one1885156_0_0_800_444_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "אחרי התלונה במשטרה, בליכוד עדכנו רשמית: גמליאל נדחקה למקום ה-35",
+      "link": "https://www.ynet.co.il/news/elections2026/article/rjvzgyzdme",
+      "pubDate": "2026-08-30T17:11:43.000Z",
+      "summary": "ספירת הקולות המחודשת בבאר יעקב קבעה רשמית - שרת החדשנות נדחקה למקום לא-ריאלי ואת מקומה במקום ה-25 תתפוס ח\"כ אתי עטיה, המקורבת לשר חיים כץ, שהגיב: \"עובר מסכת שקרים והשמצות מצד הגברת גמליאל\". השרה טענה לאי-סדרים והתלוננה במשטרה, בעלה תועד צועק: \"גונבים בחירות\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rkC7oBjwGl/rkC7oBjwGl_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "סימנים ראשונים לאופטימיות: דן ביטון החל באימונים קלים",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/ryqsykg00gg",
+      "pubDate": "2026-08-30T16:58:21.000Z",
+      "summary": "קשר הקבוצה, שהחמיץ כמעט את כל משחקי הפלייאוף בשל דלקת באזור שריר הלב, קיבל אישור לחזור לפעילות מדורגת מאוד. חברו ליאל פרץ שיתף את הרגע בעמוד האינסטגרם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/SJJIkJzuze/SJJIkJzuze_0_149_362_204_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "בפגישה בארבע עיניים: נתניהו הציע לווינטר שריון - וסורב",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-e8ee5dc3f7350a1027.htm",
+      "pubDate": "2026-08-30T16:55:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "pubDate": "2026-08-30T16:54:25.000Z",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "טעות בצ'אט? מוחקים. טעות בעולם האמיתי? אסון",
+      "link": "https://www.geektime.co.il/physical-ai-real-world-challenges/",
+      "pubDate": "2026-08-30T16:47:16.000Z",
+      "summary": "תמונה: Dreamstime.com מאת: פרופ' נדב כהן נדמה שאי אפשר לפתוח את פיד הטכנולוגיה בלי להיתקל בעוד הכרזה על גיוס ענק בתחום ה- Physical AI . מעבדות וחברות מרכזות כיום מאמץ חסר תקדים סביב מודלים שיאפשרו למכונות לפעול בעולם הפיזי, החל מרובוטים ורכבים אוטונומיים, ועד רחפנים, מפעלים ותשתיות קריטיות. אבל מאחורי ההייפ מסתתרת שאלה שרוב האנשים לא שואלים: למה AI שפותר בעיות פתוחות במתמטיקה עדיין מתקשה להפעיל מנוע? בבינה מלאכותית יוצרת רגילה, אם המודל מפיק פלט שגוי אפשר למחוק, לתקן או לחשב מחדש. ב-Physical AI ",
       "image": null,
       "source": "גיקטיים",
       "sourceUrl": "https://www.geektime.co.il",
@@ -16,15 +928,1167 @@
       ]
     },
     {
+      "title": "נאשמים בפרשת רצח ימנו זלקה יחזרו לבתי הספר: \"למה הבן שלי צריך לפחד?\"",
+      "link": "https://www.ynet.co.il/news/article/rjojasbuzl",
+      "pubDate": "2026-08-30T16:44:51.000Z",
+      "summary": "יומיים ל-1 בספטמבר, הורים לתלמידים באחד מבתי הספר בפתח תקווה גילו שנער הנאשם בפרשת רצח ימנו זלקה ועולה לכיתה י' אמור לשוב למוסד החינוכי. \"לא נסכן את הילדים שלנו\", אומר אב לילד שבנו עולה לאותה שכבה. בעירייה ובמשרד החינוך מחפשים מסגרת חלופית, ההורים מודאגים: \"לא רוצה שיישב ליד הבן שלי\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/24/ByODKJt6Ze/ByODKJt6Ze_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+      "link": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+      "pubDate": "2026-08-30T16:36:39.000Z",
+      "summary": "NASA’s Nancy Grace Roman Telescope blasts off. | Photo: NASA / John Kraus After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched . It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman will conduct an unprecedented survey of the universe . Its field of view is 100 times larger than Hubble's and, according to NASA, it can survey the s",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "אקדמיית הטניס הלאומית הושקה: \"נחזיר את הענף לגדולתו\"",
+      "link": "https://www.ynet.co.il/sport/article/hy8d50b00mx",
+      "pubDate": "2026-08-30T16:31:34.000Z",
+      "summary": "האקדמיה החדשה במכון וינגייט תיפתח עם שמונה מהשחקנים והשחקניות הצעירים המבטיחים בישראל, ותספק להם מעטפת מקצועית בדרך לבוגרים. המבנה שיוקם עבורה צפוי להיקרא על שמו של רס\"ן יובל עזרא ז\"ל, בנה של עובדת המכון, שנפל בקרב בחטיבת שומרון",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/r1D8c0buMe/r1D8c0buMe_0_0_3000_2000_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "קפץ מהרכב בזמן נסיעה - וניצל מחיסול: \"קיבל חיים חדשים, נורו 12 קליעים\" | תיעוד",
+      "link": "https://www.ynet.co.il/news/article/r1yhepzdgg",
+      "pubDate": "2026-08-30T16:11:39.000Z",
+      "summary": "צעיר שחזר מחתונה בצפון הצליח לפתוח את דלת הנוסע ולהימלט, בזמן שחמוש שירד מאופנוע ירה לעברו לפחות 12 קליעים. בתיעוד מהתקרית הרכב נראה ממשיך בנסיעה איטית גם ללא נהג, בזמן שהחמוש פותח במרדף וממשיך בירי. שני חשודים נעצרו, קרובי הצעיר סיפרו: \"הוא ניצל ממוות, צריך לשים קץ לפשיעה\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/HkJ6x0Z00Mg/HkJ6x0Z00Mg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "מפקדי צבא ארה\"ב הזהירו את הגסת': \"המשך המערכה מול איראן יפגע בנו\"",
+      "link": "https://www.ynet.co.il/news/article/sj3xrszozg",
+      "pubDate": "2026-08-30T16:10:52.000Z",
+      "summary": "לפי \"וושינגטון פוסט\", מפקדים בכירים הזהירו את שר ההגנה כי הפעילות הצבאית הנרחבת במזרח התיכון אינה יכולה להימשך לאורך זמן, ועלולה לפגוע ביכולת להתמודד עם איומים בזירות אחרות - ואף בהגנה על ארה\"ב עצמה. מפקדי הזירות באירופה, באוקיינוס השקט ובאמריקה הלטינית התנגדו להמשך העברת כוחות לאזור, מפקד הצי הזהיר: רק כרבע מהמשחתות כשירות כעת לפריסה מבצעית",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/07/rJbvYeMcFWe/rJbvYeMcFWe_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "נמלי תעופה בבריטניה הותקפו בכופרה; נגנב מידע ממיליוני לקוחות",
+      "link": "https://www.pc.co.il/featured/457437/",
+      "pubDate": "2026-08-30T16:05:24.000Z",
+      "summary": "האקרים גנבו פרטי מידע של כ-8.7 מיליון לקוחות שטסו מבריטניה – משלושה שדות תעופה גדולים בממלכה. זאת, בעקבות \"תקרית אבטחת סייבר\", כפי שמכנה זאת קבוצת MAG , שהייתה הקורבן למתקפה. בבעלות MAG נמצאים נמל התעופה הבינלאומי של מנצ'סטר, וכן נמלי התעופה איסט מידלנדס, שממוקם ליד דרבי ונוטינגהם, וסטנסטד שבלונדון. יצוין כי נכון להיום, אין טיסות ישירות מנמלי תעופה אלה לישראל. מ-MAG נמסר כי בידי ההאקרים נמצאים פרטי הקשר של הלקוחות, נתוני המכוניות שחנו בנמל התעופה וכן פרטי מיקוד. ההאקרים דרשו דמי כופר – בסכום שלא",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/shutterstock_1894525291.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "pubDate": "2026-08-30T16:03:00.000Z",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "המשיכה בשלה: הפועל ראשל\"צ גברה 1:2 על כפר קאסם",
+      "link": "https://www.ynet.co.il/sport/article/one531993",
+      "pubDate": "2026-08-30T16:02:28.000Z",
+      "summary": "החבורה מעיר היין בפסגת הליגה הלאומית עם 9 מ-9 נק'. אזולאי (3') והנטי (7') כבשו למארחת, מרעב צימק (59'). כפר סבא, כפר שלם ואחי נצרת גם ניצחו",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885144/one1885144_0_0_800_444_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "הודחה סופית: נבחרת ישראל הפסידה 85:70 ללטביה",
+      "link": "https://www.ynet.co.il/sport/article/one531995",
+      "pubDate": "2026-08-30T16:02:22.000Z",
+      "summary": "החבורה של אריאל בית הלחמי הציגה נחישות ואינטנסיביות, אך התקשתה לייצר נקודות ברגעים החשובים ואיבדה כל סיכוי אפשרי לעלות אל טורניר המונדובאסקט",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885166/one1885166_0_0_800_444_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "הסכום ששילם משרד רה\"מ לקמפיין משפעיניות",
+      "link": "https://www.mako.co.il/news-politics/2026_q3/Article-bf7cc7c7ff250a1026.htm",
+      "pubDate": "2026-08-30T15:50:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "pubDate": "2026-08-30T15:35:10.000Z",
+      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft. Flock cameras have increasingly drawn ire from across the political spectrum as they've become the subject of pr",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "סיסקו ממשיכה להיות מתחרה של אנבידיה – אבל הופכת גם לשותפה שלה",
+      "link": "https://www.pc.co.il/featured/457433/",
+      "pubDate": "2026-08-30T15:30:37.000Z",
+      "summary": "סיסקו , מיצרניות המתגים והנתבים הגדולות ביותר בעולם, הקפידה לאורך השנים להישאר בדיוק בתחום הזה. היא ייצרה רכיבים שמרכיבים את הרשתות שמעבירות כמה שיותר מהר את הנתונים בין המחשבים השונים בדאטה סנטרים, במיוחד בעידן ה-AI. היריבה הכי גדולה שלה בשוק הזה היא מלכת ה-AI אנבידיה , בעקבות הרכישה המפורסמת של מלאנוקס , שהפכה לאנבידיה ישראל. עוד לפני עידן הבינה המלאכותית, מלאנוקס הייתה מחברות ציוד הרשת המובילות בעולם, ובשנים האחרונות העמיקה את המעמד שלה בתחום, עם InfiniBand, פלטפורמת Spectrum-X, רכיבי חומרה ו",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/bef85390-b7f0-415b-9867-4a54064e6365.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "התגרשה ותבעה: הדירות והקרקעות הן שלי בלבד",
+      "link": "https://www.ynet.co.il/economy/article/bjmb9pwoge",
+      "pubDate": "2026-08-30T15:25:00.000Z",
+      "summary": "לאחר נישואים ארוכים, ואף שלא נחתם הסכם ממון, טענה האישה שכל צד יקבל את הנכסים שצבר. אבל ביהמ\"ש קבע: למעט דירה אחת הרכוש יתחלק שווה בשווה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/02/01/ByxDsz3HeO/ByxDsz3HeO_0_142_3000_1689_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "ההחלטה הזו עלולה לייקר פרויקטים של פינוי-בינוי",
+      "link": "https://www.ynet.co.il/economy/article/skaetawuzg",
+      "pubDate": "2026-08-30T15:24:33.000Z",
+      "summary": "פסק דין בבית המשפט המחוזי ישפיע על חישוב היטל ההשבחה. כעת המחיר כנראה לא ייעצר אצל היזם, אלא יתגלגל אל בעלי הדירות ויעכב התחדשות עירונית",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/12/21/S1kXJDJiY/S1kXJDJiY_0_93_1000_563_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "במערכת הביטחון מזהים: עלייה בהתרעות על הכוונות לביצוע פיגועים",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-73f512ca72350a1027.htm",
+      "pubDate": "2026-08-30T15:21:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "לגוגל נמאס מאפליקציות שתוקעות לכם את המכשיר, אז היא עוברת לשלב האיומים",
+      "link": "https://www.geektime.co.il/google-announces-android-ram-policy/",
+      "pubDate": "2026-08-30T15:14:04.000Z",
+      "summary": "תמונה: גוגל אני לא יודע אם שמתם לב, אבל אנחנו נמצאים בשיאו של משבר RAM . המחירים של כל הגאדג'טים לא מפסיקים לעלות, החברות מפסיקות לייצר דגמים מסויימים, ועכשיו גם יצרניות סמארטפונים משיקות דגמים חדשים עם פחות RAM, כולל במכשירי דגל כמו ה- Pixel 11 Pro . אז אין פלא שדווקא עכשיו, גוגל מודיעה למפתחים: תתחילו לחסוך בשימוש שלכם ב-RAM, או ש… רף חדש לשימוש ב-RAM גוגל הודיעה בבלוג המפתחים שלה על יוזמות חדשות עם מטרה משותפת: להתמקד בשימוש נכון וחכם יותר של אפליקציות בזיכרון RAM באנדרואיד. בדומה למדדים אחרי",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "\"אין לנו זמן\": כ-120 חברות קוראות \"לפעול בנחישות\" להגנה ממודלי ה-AI",
+      "link": "https://www.pc.co.il/featured/457423/",
+      "pubDate": "2026-08-30T15:08:19.000Z",
+      "summary": "יותר מ-100 חברות טכנולוגיה, בהן רבות מענקיות הבינה המלאכותית, חתמו על מכתב שקורא למקבלי ההחלטות ולגופים עסקיים \"לפעול בנחישות\" לחיזוק הגנות הסייבר מפני מודלי וסוכני ה-AI המתקדמים. המכתב מגיע על רקע אירועי אבטחת הסייבר המשמעותיים שקרו בחודשים האחרונים, ובהם התקיפה של \"הסוכנים הסוררים\" של OpenAI את האגינג פייס. \"יש לנו חלון זמן מוגבל לחיזוק הגנות הסייבר\", נכתב במכתב, עליו חתומות 116 חברות, ביניהן OpenAI , אנת'רופיק , מיקרוסופט , גוגל . לצד חברות מובילות בתחום הבינה המלאכותית, חתומות עליו חברות בול",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/b8b0f3da-19cd-4493-8640-ea447d63fd51.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "עדיין מושלמת: ריאל מדריד הביסה 0:4 את מלאגה",
+      "link": "https://livegame.ynet.co.il/games/531999",
+      "pubDate": "2026-08-30T15:02:14.000Z",
+      "summary": "צפו: הבלאנקוס לא התקשו מול העולה החדשה ורשמו 9 מ-9. בלינגהאם (18), אמבפה (30), גולר (90) והררו (ע') הכריעו. קורטואה לא ספג לראשונה העונה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885125/one1885125_0_0_800_444_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
+      "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
+      "pubDate": "2026-08-30T15:00:21.000Z",
+      "summary": "FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG initially disclosed. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "1/4 מהישראלים שוקלים להתייעץ עם AI כדי להחליט למי להצביע",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-05e33b9651250a1026.htm",
+      "pubDate": "2026-08-30T15:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "pubDate": "2026-08-30T15:00:00.000Z",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "הפועל ירושלים דורשת מהפועל ת\"א: 2.3 מיליון שקל על קאדין קרינגטון",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/s1kzgtwume",
+      "pubDate": "2026-08-30T14:46:56.000Z",
+      "summary": "המועדון מהבירה הגיש תביעת בוררות ודורש דמי השבחה עבור השחקן, ששיחק אצלה בארבע העונות האחרונות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/10/B1ym24Lbfl/B1ym24Lbfl_0_193_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "גיא רם ימונה לסמנכ\"ל הטכנולוגיות של ישראכרט",
+      "link": "https://www.pc.co.il/featured/457420/",
+      "pubDate": "2026-08-30T14:45:37.000Z",
+      "summary": "מנמ\"ר חדש ל ישראכרט : החברה הודיעה היום (א') על מינויו של גיא רם לתפקיד סמנכ\"ל הטכנולוגיות. הוא יחליף את עופר לוינגר , שהודיע על פרישתו מהתפקיד ביוני האחרון, לאחר שלוש שנים. בנוסף, דביר בן אהרון משמש כ-CTO של החברה. רם הוא בעל כ-20 שנות ניסיון בהובלת מערכי טכנולוגיה, מערכות מידע וחדשנות בארגונים שונים. לאורך הקריירה שלו מילא רם שורת תפקידי ניהול בכירים, שבהם ניהל יחידות גדולות, והוביל תהליכים עסקיים וטכנולוגיים שונים, בהם טרנספורמציה דיגיטלית ופיתוח מערכות מידע. הוא יגיע לישראכרט מ שב\"א , שם הוא",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/02/guy-1.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "משרד הבריאות: אותר חיידק ליסטריה בקממבר של מחלבות גד",
+      "link": "https://www.ynet.co.il/economy/article/bkvdkt11dfl",
+      "pubDate": "2026-08-30T14:40:16.000Z",
+      "summary": "המחלבה הודיעה על ריקול של גבינת קממבר 33% שומן שתוקפה פג ב-7 בספטמבר 2026:\"בבדיקה שנערכה על ידי היצרן נמצא במוצר חיידק ליסטריה מונוציטוגנס. צרכנים שברשותם המוצר מתבקשים להימנע מצריכתו\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/ryTGa3WOGe/ryTGa3WOGe_0_102_999_563_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+      "pubDate": "2026-08-30T14:30:25.000Z",
+      "summary": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "גוגל מתיישרת לפי טראמפ: מחליפה את השם של ימת אונטריו",
+      "link": "https://www.geektime.co.il/google-maps-lake-america/",
+      "pubDate": "2026-08-30T14:22:57.000Z",
+      "summary": "תמונה: Unsplash נשיא ארצות הברית, דונאלד טראמפ, חתם במהלך סוף השבוע על צו נשיאותי, שמשנה רשמית את שמה של \"ימת אונטריו\" ל\"ימת אמריקה\". המהלך מתרחש על רקע מלחמת הסחר שפרצה בין ארצות הברית לקנדה, וכוללת הטלת מכסים הדדיים על סחורות בשווי מיליארדי דולרים. עכשיו, בעקבות ההטרלה המוצלחת של טראמפ, גם האגם, שמהווה גבול טבעי בין שתי המדינות, הופך למוקד חיכוך עם נגיעות טכנולוגיות. גוגל מעדכנת את המפה, אבל לא לכולם ככה זה נראה כרגע מחוץ לצפון אמריקה. צילום מסך גוגל הודיעה כי תעדכן את השם באפליקציית המפות שלה",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
+      "link": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
+      "pubDate": "2026-08-30T14:17:44.000Z",
+      "summary": "Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "מנכ\"ל רפאל על עיכוב התשלומים: \"מקבלים מהאוצר אמפתיה, לא פתרונות\"",
+      "link": "https://www.ynet.co.il/economy/article/rkerqn11dge",
+      "pubDate": "2026-08-30T14:14:44.000Z",
+      "summary": "יואב תורג'מן מותח ביקורת חריפה על משרד האוצר בעקבות עיכוב התשלומים לחברה, ומזהיר כי רפאל נאלצת לקחת הלוואות כדי לעמוד בהתחייבויותיה לספקים. החברה רשמה ברבעון השני זינוק של 20% במכירות וצבר הזמנות של 75.8 מיליארד שקל",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/08/Hk1J60Q6lx/Hk1J60Q6lx_0_0_1920_1080_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "כלכלת בחירות? סמוטריץ' הורה למנוע את התייקרות הדלק - אך לא בטוח שמותר לו",
+      "link": "https://www.ynet.co.il/economy/article/sy11xphz00gg",
+      "pubDate": "2026-08-30T14:10:12.000Z",
+      "summary": "שר האוצר הורה לגורמים המקצועיים במשרד האוצר לקדם הוזלה של מס הבלו - יום לפני התייקרות משמעותית ב-16 אגורות. אלא שגורמים משפטיים טוענים כי לא ניתן לקדם צעד כזה 90 יום לפני הבחירות, ובמקרים דומים בעבר הייעוץ המשפטי התערב. וגם: למה הדלק מתייקר למרות שמחיר הנפט ירד החודש",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/04/30/rJkABWnXh/rJkABWnXh_0_0_640_360_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "אחרי שנתיים: כמה כסף מחכה לכם בתלוש הקרוב?",
+      "link": "https://www.mako.co.il/finances-news/Article-8cf8c7c7ff250a1026.htm",
+      "pubDate": "2026-08-30T14:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "בתקופת בחירות: סמוטריץ' מתכוון לבלום את התייקרות הדלק",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-c709e096fe250a1027.htm",
+      "pubDate": "2026-08-30T14:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "מתי הפכה המתנה הגדולה של היהדות לאויב? סערת עדיקה והשבת / טור",
+      "link": "https://www.ynet.co.il/economy/article/h1afpuwugx",
+      "pubDate": "2026-08-30T13:53:47.000Z",
+      "summary": "שמירת השבת הפכה בישראל לזירת קרב: אתר אופנה שסגר את מכירותיו ליום אחד ספג גל ביקורת, מסעדות שהוסבו לכשרות כדי לשרוד בענף שנפגע במלחמה מוקעות בכיכר העיר, ותושבות בת\"א פועלות נגד הקמת מקווה. מה עובר עלינו?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/07/rJ11nnZQbA1e/rJ11nnZQbA1e_0_0_2016_1135_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "מירוץ האהבה תפוזינה סינגלס ראן חוזר: כך תתכוננו אליו",
+      "link": "https://www.ynet.co.il/sport/article/rjg7xnwumx",
+      "pubDate": "2026-08-30T13:45:03.000Z",
+      "summary": "האירוע ייערך ב-10 בספטמבר בנמל ת\"א, וישלב ריצה, מוזיקה ומתחמי היכרויות. מאמני ריצה מסבירים איך להיערך אליו בחודשים שלפני – ומדוע לא כדאי לפתוח את הריצה בקצב מהיר מדי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/18/rJrhAhTKjgg/rJrhAhTKjgg_0_182_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "יולי אדלשטיין מאשר: יהיה איחוד עם גנץ בקרוב",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-27aa7bbd5c250a1026.htm",
+      "pubDate": "2026-08-30T13:36:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
       "title": "כמה עולה קנייה בסופר? שאלנו ילדים על כסף - והתשובות הפתיעו אותנו",
       "link": "https://www.ynet.co.il/economy/article/hkzualwofg",
-      "pubDate": "2026-08-30T08:05:48.000Z",
+      "pubDate": "2026-08-30T13:31:54.000Z",
       "summary": "אוגוסט הוא כנראה אחד החודשים שבהם ילדים שומעים הכי הרבה את המילה \"כסף\". עוד גלידה, עוד אטרקציה, עוד בילוי עם חברים, עוד משהו ש\"ממש חייבים\" לקנות לפני שחוזרים לבית הספר. אבל כמה הם באמת יודעים על הכסף שמאחורי כל הדברים האלה?",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/Ske5RyvWuMl/Ske5RyvWuMl_54_0_1226_690_0_medium.jpg",
       "source": "Ynet — כלכלה",
       "sourceUrl": "https://www.ynet.co.il/economy",
       "columns": [
         2
+      ]
+    },
+    {
+      "title": "אוהדי מכבי ת\"א שמתלוננים ומוחים נגד גולדהאר הם מפונקים | טור",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/sykmf3xdgx",
+      "pubDate": "2026-08-30T13:21:14.000Z",
+      "summary": "כפיות הטובה של חלק מאוהדי הצהובים מקוממת: רגע אחרי שקיטרו על שוליות הקונפרנס־ליג, הם מתלוננים על חורף נטול מפעל אירופי. גולדהאר לא שופך מיליונים כמו פעם? נכון, הוא לא חייב להרגיש פראייר. תקציב שפוי זו לא מילה גסה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/24/Bkzdo00yzxl/Bkzdo00yzxl_0_104_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "בלעדי | אזרחים באיראן ל-N12: \"חיים בהישרדות\"",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-6f32064060250a1027.htm",
+      "pubDate": "2026-08-30T13:18:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "דיווח: ברצלונה קרובה לסגור את העברת גבריאל ז'סוס מארסנל",
+      "link": "https://www.ynet.co.il/sport/worldsoccer/article/hjxqwjzdme",
+      "pubDate": "2026-08-30T13:15:14.000Z",
+      "summary": "אחרי שאופציית חוליאן אלבארס נפלה סופית, אלופת ספרד סימנה את החלוץ הברזילאי כאלטרנטיבה. לפי דיווחים, העסקה בין הצדדים על סף חתימה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/09/18/r1QnS9EZi/r1QnS9EZi_0_29_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "גמ\"חים, עמותות ופעילות קהילתית: כשהעשייה החברתית פוגשת רגולציה",
+      "link": "https://www.mako.co.il/news-business/duns_100-markets/Article-40df7bbd5c250a1026.htm",
+      "pubDate": "2026-08-30T13:15:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "הטעות שהובילה למעצר החשוד ברצח ראש המאפייה הקווקזית",
+      "link": "https://www.mako.co.il/men-men_news/Article-fc4a5c944c250a1027.htm",
+      "pubDate": "2026-08-30T13:04:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "Chess.com launched a poker site and is planning even more classic games",
+      "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+      "pubDate": "2026-08-30T13:00:00.000Z",
+      "summary": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit , a free online poker website where players can learn the game without risking any real money. Now Gambit's ready to really get the ball rolling with its first livestreamed event and collaborations with content creators, and Chess.com is planning to branch out into even more ga",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "הוארך בפעם השישית מעצר אשתו של אייל נגר: \"לא משתפת פעולה\"",
+      "link": "https://www.mako.co.il/men-men_news/Article-5d3f69548b250a1027.htm",
+      "pubDate": "2026-08-30T12:56:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "אב הורשע בגרימת מוות ברשלנות של בנו בן ה-4 חודשים",
+      "link": "https://www.mako.co.il/men-men_news/Article-90cc69548b250a1027.htm",
+      "pubDate": "2026-08-30T12:54:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "\"הבינה המלאכותית תשנה את תוכנית הלימודים – ואת כיתת הלימוד\"",
+      "link": "https://www.pc.co.il/featured/457412/",
+      "pubDate": "2026-08-30T12:44:20.000Z",
+      "summary": "משרד החינוך צפוי להרחיב בשנת הלימודים הקרובה, שתיפתח מחרתיים (ג'), את לימודי הבינה המלאכותית ושילובה בתוכניות הלימודים, בבגרויות ובתהליכי ההוראה והלמידה. בנוסף, ייפתחו במהלכה 266 כיתות חינוך טכנולוגי חדשות, לעומת 242 כיתות שנפתחו בשנה הקודמת, ובמשרד נבחנות 70 בקשות לפתיחת כיתות חדשות, בהשוואה ל-64 בשנה שעברה. בשני המקרים מדובר בעלייה של כ-10%. כמו כן, בתחום מדעי הנתונים צפויות להיפתח 25-26 כיתות חדשות, ובתחום התקשוב – 25 כיתות\". \"שנה של העמקה\" לדברי מירב זרביב , סמנכ\"לית ומנהלת מינהל חדשנות וטכנ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/17f39330-9b6c-4551-95d9-3f09577e6e47.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "דוחות כספיים:החברה שמכרה 128 דירות ברבעון השני",
+      "link": "https://www.ynet.co.il/economy/article/bkgk8911ozl",
+      "pubDate": "2026-08-30T12:43:57.000Z",
+      "summary": "חברת אאורה מסכמת את הרבעון השני של 2026: החברה מדווחת על מכירת 291 דירות במחצית הראשונה של 2026. במקביל, החברה מציינת כי במסגרת מבצע מכירות בו ניתנו הנחות של עד 12% במחירי הדירות נחתמו עוד למעלה מ-100 חוזים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/83n85zw1n/83n85zw1n_295_204_1475_831_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "מעבורת עמוסת נוסעים התהפכה מול חופי קפריסין: 6 נהרגו",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-523276e2e9250a1027.htm",
+      "pubDate": "2026-08-30T12:31:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "\"עשיתי טעות\": ההתקפלות של עבדול אל-סייד מול היהודים",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-32826f0be5150a1026.htm",
+      "pubDate": "2026-08-30T12:29:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "המהפכה הבאה של עולם הרובוטיקה: הפיזיקל AI כבר כאן",
+      "link": "https://www.pc.co.il/editorial/white-papers/457407/",
+      "pubDate": "2026-08-30T12:27:31.000Z",
+      "summary": "אולי לא כולם מודעים לכך, אבל המהפכה הרובוטית הגדולה – אם תרצו תקראו לה השנייה – כבר נמצאת ממש מעבר לפינה. לא, זה לא רובוטים הומנואידים, בגדלים כאלה או אחרים, שמתחילים להתהלך ברחובות כחלק מהתרבות האנושית המודרנית, כמו בסרטי מדע בדיוניים כאלה או אחרים – זה בדרך, אבל יש עוד כמה שנים לחכות – אלא הכוונה היא לרובוטים החדשים שיגיעו לרצפות הייצור. כבר היום יש הרבה מאוד כלים רובוטיים בתעשייה, בהרבה מאוד ורטיקלים, אבל הרובוטים הללו מוגדרים לבצע בדרך כלל כמה פעולות אשר חוזרות על עצמן. הפיזיקל AI, מילת הבאז",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/הדבר-הבא-שכבר-קורה.-פיזיקל-AI.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "שחקן כדורמים טבע למוות. משפחתו תקבל מיליוני שקלים",
+      "link": "https://www.ynet.co.il/economy/article/bj21lswdze",
+      "pubDate": "2026-08-30T12:26:19.000Z",
+      "summary": "בן 53 שקע לקרקעית באימון בקיבוץ שמיר ונמשה רק כעבור כשש דקות. בביהמ\"ש נקבע שהיעדר מציל היווה רשלנות. בנו, שפיתח פוסט-טראומה, יפוצה בנפרד",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/01/19/one1576942/one1576942_12_74_658_371_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "בית הדין: שלמה סיקסט תפצה עובדים ב-4.7 מיליון שקלים",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-dccb76e2e9250a1027.htm",
+      "pubDate": "2026-08-30T12:24:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "לעיני הנהגים בכביש 6: לוחמי אתג\"ר עצרו נהג בחשד שגנב מכולה יקרה",
+      "link": "https://www.mako.co.il/men-men_news/Article-1717244029250a1027.htm",
+      "pubDate": "2026-08-30T12:21:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "לפני שנת הלימודים: מיקרוסופט מזכירה שאתם יכולים לקבל אופיס בחינם",
+      "link": "https://www.geektime.co.il/microsoft-365-copilot-free-students-israel/",
+      "pubDate": "2026-08-30T12:20:02.000Z",
+      "summary": "תמונה: מיקרוסופט רגע לפני ששנת הלימודים מתחילה, שערי הבלונים מקשטים את בתי הספר ומכל עבר אנחנו שומעים את \"כל עוד\" של יוני רכטר… מיקרוסופט מזכירה לכם שאתם יכולים לקבל את חבילת אופיס (או Microsoft 365 בשם הרשמי) ללא תוספת תשלום. כלומר, אם יש לכם ילדים במערכת החינוך. איך משיגים אופיס בחינם? נזכיר שבמסגרת ההסכם של מיקרוסופט עם המדינה, מציעה החברה רישיון מלא ל-Microsoft 365 בחינם לכל התלמידים במערכת החינוך, מכיתה א' ועד י\"ב, וגם למורים המועסקים ישירות על ידי המשרד. הזכאות הזו תקפה לכל אורך שנות הלימו",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "במשכורת הקרובה תקבלו יותר כסף - זו הסיבה",
+      "link": "https://www.ynet.co.il/economy/article/b1btj5zuml",
+      "pubDate": "2026-08-30T12:16:23.000Z",
+      "summary": "תעריף יום הבראה במגזר הפרטי יתעדכן ל-451.50 שקל ליום, עלייה מ-418 שקל. הסיבה: עלייה במדד המחירים לצרכן. העדכון צפוי להיות משולם כבר במשכורת הקרובה, או במשכורת הבאה. וגם: מה יקרה לאלה שקיבלו כבר את דמי ההבראה השנה לפני העדכון?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/03/08/9833322/9833322_0_0_8688_4892_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "אחרי תרופות ההרזיה: וול סטריט מצאה את הלהיט הבא - והוא נמצא על הראש",
+      "link": "https://www.ynet.co.il/economy/article/sygt4ywdml",
+      "pubDate": "2026-08-30T12:09:31.000Z",
+      "summary": "נשירת שיער פוגעת בהמוני גברים ברחבי העולם, אך מאז סוף שנות ה-90 לא אושרה שום תרופה חדשה. בחודשים האחרונים החל גל פיתוחים חדש בתחום, שגרם לזינוק של מאות אחוזים במניות החברות המפתחות. אנליסטים מעריכים שמכירות התרופות והטיפולים יכולים להגיע למיליארדי דולרים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/B17yIt11dfg/B17yIt11dfg_0_23_1946_1096_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "איים על אביו בסכין: \"אם לא תיתן לי כסף לסמים - אני אהרוג אותך\"",
+      "link": "https://www.mako.co.il/men-men_news/Article-f329244029250a1027.htm",
+      "pubDate": "2026-08-30T12:09:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "העברת ענק בליגת הנשים: דניאל רבר מצטרפת לאליצור רמלה",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/b1xlccwozl",
+      "pubDate": "2026-08-30T12:02:15.000Z",
+      "summary": "שחקנית נבחרת ישראל ומי שכיכבה בעונה שעברה באולימפיאקוס היוונית - חוזרת ארצה. רבר: \"מגיעה רעבה כדי לעזור לקבוצה להתמודד על כל התארים בארץ ובאירופה\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/10/HJBPq6TtWg/HJBPq6TtWg_0_0_1600_901_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "China’s robots race ahead",
+      "link": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "pubDate": "2026-08-30T12:00:00.000Z",
+      "summary": "Humanoid robot competes in the optional boxing routine event during the 2nd World Humanoid Robot Games at National Speed Skating Oval on August 26, 2026 in Beijing, China. | Image: Getty Images This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart . The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here . How it started I've admitted my f",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "Two new small, powerful Macs",
+      "link": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+      "pubDate": "2026-08-30T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 142, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, how is it almost September already, and also you can read all the old editions at the Installer homepage .) This week, I've been remembering Dolly Parton , Tim Curry , and Peter Cullen , absorbing everything in Rockstar's big GTA VI preview , wondering if Apple will announce a foldable iPhone at its September event , getting sucked into Summoning Salt's latest speed",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "ולד ברנין מונה למנהל חטיבת מוצר באגף הטכנולוגיה באוצר",
+      "link": "https://www.pc.co.il/featured/457389/",
+      "pubDate": "2026-08-30T11:55:45.000Z",
+      "summary": "משרד האוצר הודיע על מינויו של ולד ברנין , לתפקיד מנהל חטיבת מוצר (CPO – Chief Product Officer), חטיבה חדשה שהוקמה במסגרת אגף הטכנולוגיות של האוצר. ברנין מגיע מעולם ההיי-טק, כיהן לאחרונה כסמנכ\"ל המוצר ב- Mesh Payments , ולפני כן מילא תפקידי מפתח בחברות ובהן Gett , Zooz , Shift4 ו- Max , ובתפקידו יוביל את המעבר לניהול מוצר במגזר הציבורי. באוצר מסבירים, כי הקמת החטיבה החדשה היא חלק ממהלך רחב, שנועד לשנות את התפיסה של אופן הפיתוח והניהול של שירותים ומערכות לגישה ממוקדת מוצר, כפי שמקובל בחברות היי-טק",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/ולד-ברנין.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "בגלל זיהום הקרקע בשדה דב: ביהמ\"ש עצר את הגרלת הזכויות בגוש הגדול בת\"א",
+      "link": "https://www.ynet.co.il/economy/article/rjxns51100mx",
+      "pubDate": "2026-08-30T11:47:28.000Z",
+      "summary": "אי הוודאות סביב זיהום PFAS שהתגלה בשטחי רובע שדה דב מעכבת את חלוקת הזכויות בין אלפי בעלי הקרקע הפרטיים במתחם הגוש הגדול. בית משפט השלום בהרצליה קבע כי בשלב זה אין לבצע את הגרלת המתחמים, מחשש שהבדלים בהיקף הזיהום, בעלויות הטיפול ובמשך העיכוב בין המתחמים ישפיעו על שוויים ויובילו לחלוקה לא שוויונית של זכויות בשווי מיליארדי שקלים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/26/H1Wr81aqJl/H1Wr81aqJl_0_0_800_600_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "דרמה בצרפת: מונאקו הודחה מהליגה הבכירה - צפויה לשחק בליגה השלישית",
+      "link": "https://www.ynet.co.il/sport/worldbasketball/article/ryezn9w00mx",
+      "pubDate": "2026-08-30T11:41:43.000Z",
+      "summary": "אלופת צרפת בכדורסל ספגה מכה קשה: איגוד הכדורסל הצרפתי דחה את בקשתה לבחינה מחודשת של מצבה, ובכך מנע ממנה להשתתף בעונה הקרובה בשתי הליגות הבכירות. הקבוצה, שרק בעונה שעברה זכתה בארבעה תארים והגיעה ב-2025 לגמר היורוליג, עלולה למצוא את עצמה בליגה השלישית",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/B1nuE5bOMg/B1nuE5bOMg_0_125_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "בלי דוכן ובלי סמול-טוק, כנס סוכני AI יוצא לדרך: \"יותר מ-100 סטארטאפים נרשמו\"",
+      "link": "https://www.mako.co.il/nexter-news/Article-93404db527250a1027.htm",
+      "pubDate": "2026-08-30T11:41:00.000Z",
+      "summary": "פלטפורמת Quantum Hub מקיימת כנס ראשון מסוגו לדבריה, שבו סוכני בינה מלאכותית מנהלים את שלב הסינון וההיכרות הראשוני בין חברות ענק לסטארטאפים. במקום להשקיע משאבים בעשרות \"שיחות מסדרון\", המערכת מאתרת התאמה מדויקת בין צורכי התעשייה לטכנולוגיות הרלוונטיות - ומעבירה לשיחה אנושית רק כשיש היתכנות ממשית",
+      "image": "https://img.mako.co.il/2026/08/30/AutoCms_EDDDC4662_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "לפני סייברארק: פאלו אלטו תכננה לרכוש את דאטהדוג ואוקטה",
+      "link": "https://www.pc.co.il/news/world-news/457399/",
+      "pubDate": "2026-08-30T11:36:44.000Z",
+      "summary": "ניקש ארורה , מנכ\"ל פאלו אלטו (Palo Alto Networks), ניהל שיחות על רכישה עתידית של אוקטה (Okta) ושל דאטהדוג (Datadog). ענקית הסייבר ניהלה את הדיונים בסוף 2024 ובמהלך 2025. רק לאחר כישלון השיחות, היא חתמה על הסכם לרכישת סייברארק (CyberArk) הישראלית תמורת 25 מיליארד דולר. לפי דיווח של The Information , שחשף את המגעים, יעדי הרכישה הבאים של פאלו אלטו הם קריבל (Cribl) ו- קליק-האוס (ClickHouse). על פי הדיווח, בין סוף 2024 לתחילת 2025, ארורה קיים סדרת פגישות עם טוד מקינון , מנכ\"ל אוקטה. השיחות התקדמו מאו",
+      "image": "https://www.pc.co.il/wp-content/uploads/2025/12/Nikesh-2-credit-Mooli-Goldberg.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "הזמינו מונית - ואז תקפו את הנהג בכביש: שלושה נאשמים בניסיון שוד",
+      "link": "https://www.mako.co.il/men-men_news/Article-39d107e755250a1027.htm",
+      "pubDate": "2026-08-30T11:09:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "כ-1.4 מיליון שקל במזומן אותרו בדופן כפולה ברכב",
+      "link": "https://www.mako.co.il/men-men_news/Article-d41d07e755250a1027.htm",
+      "pubDate": "2026-08-30T11:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "pubDate": "2026-08-30T11:03:47.000Z",
+      "summary": "Meta is testing robots that can plug in cables, reset servers, and handle other tasks inside its data centers , according to several current and former workers familiar with the projects. The ongoing effort, which has not been previously reported, may eventually allow Meta to operate its rapidly expanding data center footprint with fewer humans, keeping labor costs in check as its spending on AI infrastructure soars . Meta is using robots and related hardware from several different vendors, incl",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "הסתיר שהוא נשוי לשתי נשים - והונה את הביטוח הלאומי",
+      "link": "https://www.mako.co.il/men-men_news/Article-bf7882d1b4250a1027.htm",
+      "pubDate": "2026-08-30T10:51:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "\"אנחנו בידיים הנכונות\": אקו רוכשת את המתחרה הישירה",
+      "link": "https://www.mako.co.il/news-business/hi_tech/Article-b65a293e64250a1026.htm",
+      "pubDate": "2026-08-30T10:48:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "\"קניתי פרחים כדי להניח על הקבר שלך\": תושב ת\"א נאשם באיומים",
+      "link": "https://www.mako.co.il/men-men_news/Article-2d8122f9e3250a1027.htm",
+      "pubDate": "2026-08-30T10:45:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "השיחות לרכישת פייפאל – קרסו",
+      "link": "https://www.pc.co.il/news/457394/",
+      "pubDate": "2026-08-30T10:39:52.000Z",
+      "summary": "התוכניות לעסקת רכישה – שנועדה להפוך לאחת מרכישות המינוף הגדולות בהיסטוריה של ענף הפינטק – הסתיימו במפתיע. הקונסורציום המורכב מענקית התשלומים הפרטית סטרייפ (Stripe) ומחברת השקעות הפרייבט אקוויטי אדוונט אינטרנשיונל (Advent International), שניהל את המגעים הללו מול חלוצת התשלומים הדיגיטליים פייפאל (PayPal) בכוונה ל רכישתה , החליט לסגת רשמית מכוונתיו, כך על פי דיווחים אחרונים בנדון. ההחלטה לסגת מהעסקה, ששוויה העתידי הוערך ביותר מ-53 מיליארד דולר (לפי הצעה של 60.50 דולר למניה), הובילה מייד לקריסה חדה ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/סטרייפ-ואדוונט-כבר-לא-רוצות-לרכוש-אותה.-פייפאל.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "הסנסציה הבאה של גרמניה? הסינדרלה שהדהימה במשחקה הראשון בבונדסליגה",
+      "link": "https://www.ynet.co.il/sport/worldsoccer/article/bktagkb00zx",
+      "pubDate": "2026-08-30T10:35:09.000Z",
+      "summary": "אין לה תחנת רכבת, מתגוררים בה כ-13 אלף תושבים בלבד, ורק לפני כמה שנים היא שיחקה בליגות האזוריות. אבל אחרי שלוש עליות ליגה בתוך חמש שנים, אלברסברג הגיעה לראשונה לבונדסליגה - וכבר במשחק הבכורה חוללה הפתעה גדולה כשניצחה 2:3 את באייר לברקוזן. עכשיו היא רוצה להוכיח שהסיפור שלה הוא הרבה יותר מהבלחה חד-פעמית",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/BkI11BFbdGx/BkI11BFbdGx_1_119_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "השוטרים הופתעו לגלות מי עומד מאחורי הפריצה לגן הילדים",
+      "link": "https://www.mako.co.il/men-men_news/Article-792507ae33250a1027.htm",
+      "pubDate": "2026-08-30T10:34:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "פיקסל 11, Google TV ומצלמות Nest מגיעים לישראל בייבוא חדש",
+      "link": "https://www.geektime.co.il/pixel-11-google-tv-and-nest-are-coming-to-israel/",
+      "pubDate": "2026-08-30T10:32:37.000Z",
+      "summary": "תמונה: גוגל זה לא סוד שגוגל לא ממש סופרת את הקהל הישראלי בכל מה שנוגע למכשירים המעניינים שלה. למעשה, בביקורת שלנו ל-Fitbit Air החדש , גילינו שהיא אפילו לא מאפשרת לישראלים להשתמש בכל הפיצ'רים של הצמיד – גם אם הם מוכנים לשלם תוספת מחיר עבורם. אבל היום (א') יש לנו חדשות קצת יותר טובות לחובבי גוגל בארץ, עם זכיין חדש לייבוא והפצה של מוצרי הדגל של גוגל. אז מה מגיע לישראל וכמה יעלה לכם? יש גם בשורות אלקטרה קמעונאות הודיעה הבוקר כי היא החלה לייבא ולהפיץ את סדרת Pixel 11 ; בנוסף, היא תייבא לישראל גם את G",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "נתפס נוהג ללא רישיון - בדרך לביצוע עבודות שירות",
+      "link": "https://www.mako.co.il/men-men_news/Article-8c9f07ae33250a1027.htm",
+      "pubDate": "2026-08-30T10:32:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "פרסום ראשון: תחקיר פנימי קובע - זאת הסיבה לכאוס בנתב\"ג",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-77a3c8ec12250a1026.htm",
+      "pubDate": "2026-08-30T10:30:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "נתפסו על חם בכביש 6: סוכל משלוח רימוני רסס לעבריין מוכר",
+      "link": "https://www.mako.co.il/men-men_news/Article-2561922ca2250a1027.htm",
+      "pubDate": "2026-08-30T10:21:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "מתנה לחג: התוספת שאלפי עובדים יקבלו בתלוש השכר הקרוב",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-1860b404d1250a1027.htm",
+      "pubDate": "2026-08-30T10:07:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "אלטמן נגד מאסק: OpenAI תנתק את Cursor מהמודלים שלה אחרי רכישת הכלי בידי SpaceXAI",
+      "link": "https://www.mako.co.il/nexter-news/Article-eb2042914f150a1027.htm",
+      "pubDate": "2026-08-30T10:06:00.000Z",
+      "summary": "החברה הודיעה שהגישה למודלים שלה ב-Cursor, כלי AI לכתיבת קוד, תסתיים ב-12 בנובמבר 2026, והכל בגלל חשש שמאסק, אשר רכש את Cursor, ישתמש בהם בניגוד לתנאי השירות",
+      "image": "https://img.mako.co.il/2026/05/18/W_grid_fdsfkjasldkdfjaskdjfasdf_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "נפצע אנושות בג'באליה וחזר לגלוש: \"אני לא נכנע לשום מוגבלות\"",
+      "link": "https://www.ynet.co.il/sport/article/byn6cnedfl",
+      "pubDate": "2026-08-30T10:02:54.000Z",
+      "summary": "תמיר דודי נפצע בקרב מול מחבלים, עבר 17 ניתוחים ולבסוף נאלץ להיפרד מידו. עכשיו, כשהוא מכוון לפודיום באליפות העולם בגלישת גלים, קצין סיירת נח\"ל מספר על רגעי ההישרדות בג'באליה, הדרך הארוכה בחזרה למים והאהבה שהתחילה מפוסט בפייסבוק: \"אם הייתי צריך, הייתי יוצא עוד אלף פעם להילחם למען המדינה\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/r1tqyplOfg/r1tqyplOfg_142_16_1017_573_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "קרב ענקיות הטק: OpenAI מנתקת את קורסור מהמודלים שלה",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/457386/",
+      "pubDate": "2026-08-30T09:48:30.000Z",
+      "summary": "עסקת הרכישה מיוני, שבמסגרתה העבירה SpaceX של אילון מאסק את עורך הקוד קורסור (Cursor) לבעלותה תמורת כ-60 מיליארד דולר, הובילה כעת לתגובת נגד חריפה מצד OpenAI – שהכריזה על ניתוק מוחלט של המודלים שלה מהפלטפורמה שבבעלות מאסק, החל מאמצע נובמבר הקרוב. יצרנית ChatGPT נימקה את המהלך הדרמטי בחוסר אמון עמוק ובחשש מהפרת חוזים מצד מאסק, תוך שהיא מונעת מ-קורסור גישה למודל העתיד המתקדם שלה, Astra. הצעד הדרמטי ממחיש כיצד הפכו מודלי השפה לכלי נשק אסטרטגי במלחמות השליטה הטכנולוגיות של ענקיות הבינה המלאכותית. העי",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/סם-אלטמן-מנכל-OpenAIחסם-את-המודלים-של-החברה-שלו-מקורסור-שכיום-נמצא-בבעלות-SpaceX-של-אילון-מאסק.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "סערה: פיצוץ מחוץ לביתו של עיתונאי בכיר הוביל לפיטוריו",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-9977d610bf150a1027.htm",
+      "pubDate": "2026-08-30T09:34:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "הפורעים בקוסרה נראים עם פנים גלויות, אך איש עדיין לא נעצר",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-300bd55f5d150a1026.htm",
+      "pubDate": "2026-08-30T09:33:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "מכה לבנט? \"יריקה בפרצוף. שוקלים לעזוב את המפלגה\"",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-d07b3b4a76150a1027.htm",
+      "pubDate": "2026-08-30T09:29:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "אביו של הנרצח נתפס עם אקדח טעון: \"חשד שתכנן לנקום\"",
+      "link": "https://www.mako.co.il/men-men_news/Article-7529aa005e150a1027.htm",
+      "pubDate": "2026-08-30T09:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "\"שבר את החלון בדירתה של בת זוגו לשעבר ומרח צואה בכניסה לבית\"",
+      "link": "https://www.mako.co.il/men-men_news/Article-e488aa005e150a1027.htm",
+      "pubDate": "2026-08-30T08:59:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "הסכם הממון העניק לה שתי דירות – ובית המשפט ביטל אותו",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-f814d55f5d150a1026.htm",
+      "pubDate": "2026-08-30T08:58:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "ריבונות ללא בחירה היא לא ריבונות אמיתית",
+      "link": "https://www.pc.co.il/editorial/457379/",
+      "pubDate": "2026-08-30T08:55:43.000Z",
+      "summary": "ארגונים באירופה ממהרים לבנות תשתיות AI ריבוניות, כאשר לפי חברת מקינזי , השקעות ציבוריות ופרטיות בהיקפים עצומים מופנות כיום להקמת מרכזי הנתונים הנדרשים כדי לענות על הצפי לשילוש יכולת המחשוב באירופה עד 2030, תוך התמקדות ברורה בשילוב בין יעילות אנרגטית וריבונות נתונים. מיליארדי דולרים מושקעים במרכזי נתונים אזוריים, מסגרות התאימות הולכות ומתרבות וספקים הנעים מספקי תשתיות ריבוניות אירופיים וחברות תקשורת מקומיות ועד לספקיות ענן גלובליות גדולות המשתפות פעולה עם גופים מקומיים, מתחרים על השוק עם פתרונות ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/הנס-רות_צילום-יחצ-003.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "בשביל זה צריך AI: הסרטונים שמחזירים לחיים את הממים הכי אהובים",
+      "link": "https://www.mako.co.il/nexter-news/Article-749616a0ea150a1026.htm",
+      "pubDate": "2026-08-30T08:50:00.000Z",
+      "summary": "מדי פעם נולד לו טרנד AI, לרוב זה בעיקר AI SLOP. אבל הנה מצאנו משהו שאפשר להתחבר אליו. יוצר תוכן בינה מלאכותית יצר סרטון בו נראים כל הממים הכי מוכרים מדור הזהב של האינטרנט והופכים לדמויות ברחבי ניו יורק. מהר מאוד נולדו חקיינים וסרטוני המשך. כמה מהממים אתם מכירים? כנראה שזה תלוי בגיל ובכמה זמן בזבזתם ברשת",
+      "image": "https://img.mako.co.il/2026/08/30/AutoCms_6AA9FBBB3_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "בני 14 ו-16 מקריית מוצקין נאשמים בריגול עבור איראן",
+      "link": "https://www.mako.co.il/news-law/2026_q3/Article-4d655e053c150a1026.htm",
+      "pubDate": "2026-08-30T08:46:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "פרץ לדירה בתל אביב בזמן שהדיירים בבית - ונרדם על הספה",
+      "link": "https://www.mako.co.il/men-men_news/Article-fc2074532d150a1027.htm",
+      "pubDate": "2026-08-30T08:45:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "בעקבות הרכישה של מאסק: OpenAI חוסמת את Cursor",
+      "link": "https://www.geektime.co.il/openai-will-end-deal-with-cursor-because-of-elon-musk/",
+      "pubDate": "2026-08-30T08:44:04.000Z",
+      "summary": "תמונה נוצרה בעזרת AI אם תהיתם iOS נגד אנדרואיד. פלייסטיישן נגד אקסבוקס, AWS נגד Azure. לא חסרות יריבויות בעולם הטכנולוגיה, אבל נדמה שאין יריבות לוהטת יותר מזו של OpenAI. מה אין שם? כסף גדול, טכנולוגיה, מאבק על טאלנטים, התחום הכי חם בעולם כרגע, ובעיקר בעיקר הרבה ביף אישי בין סם אלטמן לאילון מאסק. השותפים לשעבר לא מפסיקים להתקוטט בכל הזדמנות, ועכשיו אלטמן מנסה להכאיב למאסק בדרך עקיפה עם הבייבי החדש שלו, וככל הנראה גם אתם תיפגעו. לא סומכים מראש על חברות של מאסק בסוף השבוע האחרון פירסמה OpenAI פוסט ",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "דרמה בשחקים: מטס אווירי נראה \"קרוב מדי\" לתאונה",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-32d974532d150a1027.htm",
+      "pubDate": "2026-08-30T08:40:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ]
+    },
+    {
+      "title": "הפועל ת\"א הודיעה לשאנדה סילבה על שחרורו, ללינדאל ינחת היום",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/h1flqax00ml",
+      "pubDate": "2026-08-30T08:31:33.000Z",
+      "summary": "האדומים החליטו להיפרד מהזר שלא הצליח להתאקלם, והוא צפוי לקבל פיצוי על חוזהו לעונה הקרובה. המחליף כבר בדרך: המגן הסורינאמי יגיע לישראל, יעבור בדיקות רפואיות ויחתום. וגם: לצ'ה ניסתה לשפר את הצעתה על סתיו טוריאל – וקיבלה מסר חד-משמעי: הוא לא למכירה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/26/S1XcW58rUZe/S1XcW58rUZe_706_170_1852_1043_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ]
+    },
+    {
+      "title": "באה לבקר במאורת הנמר: הילה סידי, 222 אימפקט, דה מומנט",
+      "link": "https://www.pc.co.il/kehila/457371/",
+      "pubDate": "2026-08-30T08:25:52.000Z",
+      "summary": "בשבוע האחרון אירחתי במאורת הנמר את הילה סידי המרתקת, מייסדת הפלטפורמה הבינלאומית 222 אימפקט (222impac), מחברת ספרים ומנהיגת מיזם דה מומנט (The Moment) ומיזם מדד האנושיות בי היומן (Be Human – see and act). ביקשתי מהילה שתספר לי קצת על עצמה ועל הדרך שעברה. \"עד גיל 30 חייתי במסלול הקלאסי, ואז החיים הגדירו את המסלול שלי מחדש: בתוך שנה וחצי עברתי שלוש תאונות דרכים קשות\", היא סיפרה. \"סבלתי משבע פריצות דיסק, תזזית בלסת ושבר בעצם החזה\", הוסיפה. אלא שסידי המשיכה וגוללה: \"יצאתי לתהליך שיקום פיזי ותודעתי ש",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/הילה-סידי.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "ריב בוואטסאפ של הגן הפך לוויראלי - והמנצחת הגדולה בכלל לא הייתה שם",
+      "link": "https://www.ynet.co.il/economy/article/sj11v2bzdml",
+      "pubDate": "2026-08-30T08:23:54.000Z",
+      "summary": "עימות בקבוצת הורים בארה\"ב על האם מותר לשים אוראו בתיק אוכל של הילדים גרר מיליוני צפיות, יצר טרנדים של שליחת יותר עוגיות בתיקים בכוונה וגרם למותג לרכוב על הפרשה ולהפוך אותה לקמפיין שיווקי ענק. אבל מי בעצם התחיל את העימות, ולמה זה נשאר תעלומה?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/rkQhvDZuMl/rkQhvDZuMl_0_17_1248_703_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ]
+    },
+    {
+      "title": "נשים ומחשבים: מור חסון-טל, יזמקו פרו",
+      "link": "https://www.pc.co.il/editorial/457372/",
+      "pubDate": "2026-08-30T08:19:02.000Z",
+      "summary": "שם ותפקיד: מור חסון-טל, מנהלת מחלקת אוטומציה ו- AI ביזמקו פרו. תפקידים קודמים : מנהלת מוצר, מנהלת פרויקטים. השכלה ושירות צבאי: תואר ראשון בטכנולוגיות למידה מ המכון הטכנולוגי חולון (HIT), תואר שני בלימודי עבודה מ אוניברסיטת תל אביב . שירות לאומי כמדריכת מחשבים בעמותת תפוח (הדרכת ילדים, נשים ובני גיל הזהב ביישומי מחשב ואינטרנט). מה הביא אותך לתחום הטכנולוגיה? החיבור שלי לטכנולוגיה הוא לא תגלית מאוחרת, הוא שזור בחיים שלי עוד מימי הילדות וחוגי המחשבים. כבר כמדריכה, בתחילת דרכי, כשלימדתי ילדים, נשים ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/מור-חסון-טל.-צילום-קרן-לגזיאל.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ]
+    },
+    {
+      "title": "הרצאות מעולות, סדנאות ומנטורינג לג'וניוריות בסייבר: כנס Hackeriot חוזר",
+      "link": "https://www.geektime.co.il/hackeriot-2026/",
+      "pubDate": "2026-08-30T08:07:52.000Z",
+      "summary": "כנס האקריות חוזר: כל הפרטים (צילום: Unsplash) כנס Hackeriot חוזר לתל אביב עם הרצאות, סדנאות ופעילויות, ואלו חדשות מעולות לנשים בסייבר בכלל, ולג'וניוריות בפרט. השנה יתקיים האירוע במתכונת חדשה של יום אחד מרוכז, עם לו\"ז עשיר והזדמנויות ללמוד וליצור קשרים מקצועיים. הכנס יתקיים ב-7 בספטמבר באוניברסיטת תל אביב (9:00-20:00), וההשתתפות ללא עלות בהרשמה מראש . אירוע הדגל של ארגון האקריות מתקיים השנה בחסות כמה מחברות הסייבר הבולטות בשוק, בהן Cyera, Checkpoint, VEGA ,Zafran security, Noma, Clover ,Island ,A",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
       ]
     },
     {
@@ -40,23 +2104,11 @@
       ]
     },
     {
-      "title": "הצעירים החרדים שבחרו להתגייס: \"אחי שירת בעזה - הוא נתן לי השראה\"",
-      "link": "https://www.ynet.co.il/news/article/byn3pl11ozx",
-      "pubDate": "2026-08-30T08:00:16.000Z",
-      "summary": "כ-500 צעירים חרדים יגיעו במהלך היום ללשכת הגיוס בתל השומר - ויתגייסו גם לתפקידי לחימה. בחוץ כבר עמדו הבוקר קיצונים שקראו לעבר המתגייסים \"נמות ולא נתגייס\". יוסף פרידמן ממודיעין עילית לא התרגש מהמחאה: \"זו זכות גדולה להגן על המדינה\", סיפר. שמואל כהן הוסיף: \"חשוב לתרום למדינה\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/SkpfXLWufl/SkpfXLWufl_0_223_1280_721_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
       "title": "בחירה במסלול סייבר מאתגר, שישה ילדים והמון תשוקה לזירה העסקית",
       "link": "https://www.pc.co.il/advertisements/457365/",
       "pubDate": "2026-08-30T07:53:53.000Z",
       "summary": "עליתי לארץ בגיל 7, ואני חושבת שיש מכנה משותף להרבה ילדים שעברו שינוי גדול בגיל כל כך מעצב: הם לומדים אדפטציה על ספידים. כיום זה משרת אותי נפלא, כי כל יום של איש מכירות לא דומה לשום יום קודם. אני זוכה להכיר אנשים חדשים מדי יום. עולם אבטחת המידע והתשתיות הוא בעיקר תחום שמרביתו גברים. עוד בגיל צעיר סיגלתי לי ״חיישני שפת גוף' רגישים לזולת, לנסות לקרוא את המפה העסקית הכי מדויק שאני יכולה. אני מאמינה שגם בעסקים הכל אישי. אנשים אוהבים לעשות עסקים עם אנשים שגורמים להם להרגיש טוב. את דרכי המקצועית התחלתי",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/לוגו-אינטנסיטי.jpg",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/a-5.jpg",
       "source": "אנשים ומחשבים",
       "sourceUrl": "https://www.pc.co.il",
       "columns": [
@@ -76,15 +2128,15 @@
       ]
     },
     {
-      "title": "הרוגה ופצועים קשה בירי במסיבת טכנו בשווייץ: \"התחבאנו מתחת לעמדת הדי ג'יי\"",
-      "link": "https://www.ynet.co.il/news/article/bj007y8bogx",
-      "pubDate": "2026-08-30T07:44:01.000Z",
-      "summary": "אלמוני פתח באש בזירת מרוצי סוסים בעיר אראו שבה נערך פסטיבל Aarauer Rave בהשתתפות 3,500 איש. עדת ראייה סיפרה: \"מישהו צעק 'כולם להשתטח'!\", אחר העיד: \"חשבתי שזה זיקוקים, ואז אמרו לי להתחבא מאחורי המקרר\". לפי אחת העדויות, היורה שלף רובה סער ואחר כך ברח ליער, מצוד מתנהל אחריו",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/ByMJA8W00fl/ByMJA8W00fl_0_0_3000_2000_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
+      "title": "בחירות ה-AI הראשונות: 71% מהציבור נתקלו במידע כוזב ברשת סביב הבחירות",
+      "link": "https://www.mako.co.il/nexter-news/Article-413219aa99150a1027.htm",
+      "pubDate": "2026-08-30T07:45:00.000Z",
+      "summary": "סקר איגוד האינטרנט לקראת בחירות 2026: 69% מהציבור חוששים מהחרפת האלימות ברשת, ולמעלה ממחצית נתקלים בחשבונות מתחזים. לצד חשיפה לשימוש פוגעני ב-AI, מפרסם האיגוד מדריך להתמודדות עם מידע כוזב ומדגיש: כלי בינה מלאכותית יכולים לסייע בהשוואת עמדות, אך אינם תחליף לשיקול דעת",
+      "image": "https://img.mako.co.il/2026/07/14/rashim_half_1407_3I_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
       "columns": [
-        1
+        4
       ]
     },
     {
@@ -109,6 +2161,18 @@
       "sourceUrl": "https://www.ynet.co.il/economy",
       "columns": [
         2
+      ]
+    },
+    {
+      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+      "pubDate": "2026-08-30T07:36:33.000Z",
+      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxriybAzLw0daA0mtL3sZd04fy8Sal4s0mrBAz2-ksjwfP2V08YK_KbCJY57hKG28Kt6gn2mKq4HFSpkG2MNvA3Oz6MhNUe77_1Nvpahn2nnCFHPpxIlp5Ix4DvAZw08qXtxt1M-4zCtSENbBkODQyP_WDp9j3PXACc0XKYk1BK1K-2Xabho1cBPqerW9/s1600/cf-clickfix.jpg",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com",
+      "columns": [
+        4
       ]
     },
     {
@@ -160,18 +2224,6 @@
       ]
     },
     {
-      "title": "שיא של כל הזמנים: מחיר הדלק החל ממחר בחצות - 8.25 שקלים",
-      "link": "https://www.ynet.co.il/economy/article/s15aobwogg",
-      "pubDate": "2026-08-30T07:22:06.000Z",
-      "summary": "עלייה של 6% במחיר הבנזין בשוק הבינלאומי, לצד עדכון רכיב הבלו של רשות המסים, הובילו לזינוק משמעותי נוסף במחיר ליטר בנזין 95 - שווה לשיא כל הזמנים שנקבע בדיוק לפני 14 שנים",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/09/rJ1Et5ht11l/rJ1Et5ht11l_0_0_3000_1689_0_medium.jpg",
-      "source": "Ynet — כלכלה",
-      "sourceUrl": "https://www.ynet.co.il/economy",
-      "columns": [
-        2
-      ]
-    },
-    {
       "title": "הדאטה הסמויה של עולם הנדל\"ן: מה אפשר ללמוד מהלקוחות שאמרו \"לא\"?",
       "link": "https://shivuk.me/articles/39486",
       "pubDate": "2026-08-30T07:19:59.000Z",
@@ -208,7 +2260,7 @@
       ]
     },
     {
-      "title": "תיעוד מעזה חושף: כך נמשכות ההברחות ממצרים לרצועה",
+      "title": "בזמן שחיילי צה\"ל על הקרקע, חמאס מקבל אספקה מעל הראש שלהם",
       "link": "https://www.mako.co.il/news-military/2026_q3/Article-cb233b4a76150a1027.htm",
       "pubDate": "2026-08-30T07:04:00.000Z",
       "summary": "",
@@ -217,30 +2269,6 @@
       "sourceUrl": "https://www.mako.co.il/news-israel",
       "columns": [
         1
-      ]
-    },
-    {
-      "title": "הזאב בחורף: המלחמה האחרונה של נובאק ג'וקוביץ'",
-      "link": "https://www.ynet.co.il/sport/article/r1a00dhxdme",
-      "pubDate": "2026-08-30T07:02:25.000Z",
-      "summary": "בגיל 39, עם 24 תארי גראנד סלאם וגוף שכבר מתחיל לבגוד בו, נובאק ג'וקוביץ' עדיין מסרב לרדת מהבמה. הדוקו החדש עליו חוזר לילדות תחת ההפצצות בבלגרד, לכעס שהפך לדלק ולמרדף אחר האהבה שפדרר ונדאל קיבלו באופן טבעי. עכשיו, באליפות ארה\"ב ה־20 שלו, נותרה רק שאלה אחת: האם נשאר בו עוד תואר אחד?",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/10/BkzJUBqCmGe/BkzJUBqCmGe_533_398_2468_1390_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "האם מיץ' גולדהאר החליט למכור את מכבי ת\"א? \"זה הליך שהתחיל\"",
-      "link": "https://www.ynet.co.il/sport/israelisoccer/article/r1kky8bome",
-      "pubDate": "2026-08-30T06:49:51.000Z",
-      "summary": "גורמים בכדורגל הישראלי וגם בקהילה העסקית בקנדה טוענים כי בעלי הצהובים שוקל את המשך דרכו, אך גם אם זה יקרה - זה לא יהיה מיידית: \"לא סתם הוא כבר לא מגיע לארץ הרבה זמן\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/24/rJGfdodkMle/rJGfdodkMle_0_244_3000_1689_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
       ]
     },
     {
@@ -256,34 +2284,10 @@
       ]
     },
     {
-      "title": "\"עשיתי טעות\": ההתקפלות של עבדול אל-סייד מול היהודים",
-      "link": "https://www.mako.co.il/news-world/2026_q3/Article-32826f0be5150a1026.htm",
-      "pubDate": "2026-08-30T06:40:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "סופ\"ש של מתקפות הדדיות מול טורקיה: \"הציונות רצחנית. ההסברה - כמו גבלס\"",
-      "link": "https://www.ynet.co.il/news/article/rki11hhzofx",
-      "pubDate": "2026-08-30T06:37:19.000Z",
-      "summary": "ארדואן אמר שישראל \"מכורה למלחמה\" ומנסה לערער את היציבות באזור, משרד החוץ מיהר להגיב: \"הוא כמו האנטישמים הגרועים בהיסטוריה\". באנקרה לא נותרו חייבים: \"הקהילה הבינלאומית אינה מאמינה עוד לשקרים של ממשלת נתניהו\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/07/29/By9YefrFC/By9YefrFC_0_0_850_479_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
       "title": "עטרה בילר מנתחת: כרטיסים למופע סטנדאפ של אודי כגן",
       "link": "https://shivuk.me/articles/atara/39471",
       "pubDate": "2026-08-30T06:37:18.000Z",
-      "summary": "״למה בכיתי עכשיו מפרסומת למופע סטנדאפ״ – זו רק אחת התגובות לפרסומת של אודי כגן למופע הסטנדאפ שלו. אכן היו מעטים שגרמו לנו לבכות ולצחוק יחד. למשל הגששים. אבל מעטים מאוד וכגן מחזיר את הז׳אנר לחיינו ביג טיים. שניתן לו שם? בכוק? זה נשמע לגמרי כמו אחד מאינספור הקליפים שמקפלים בתוכם פילוסופיית חיים עם פאנצ׳ שגורמים לנו לעצור, לבלוע דמעה ולהעביר את הלאה ליקרים לנו. ההפתעה מגיעה אחרי שהתמסרנו למחשבה הזו… בקולו של דמות האב הפולני שיצר, מדקלם אודי כגן טקסט נוגע ללב על חמקמקותו של האושר, ועל הקושי שלנו לזה",
+      "summary": "״למה בכיתי עכשיו מפרסומת למופע סטנדאפ״ – זו רק אחת התגובות לפרסומת של אודי כגן למופע הסטנדאפ שלו. אכן היו מעטים שגרמו לנו לבכות ולצחוק יחד. למשל הגששים. אבל מעטים מאוד וכגן מחזיר את הז׳אנר לחיינו ביג טיים. שניתן לו שם? בכוק? זה נשמע לגמרי כמו אחד מאינספור הקליפים שמקפלים בתוכם פילוסופיית חיים עם פאנצ׳ שגורמים לנו לעצור, לבלוע דמעה ולהעביר את זה הלאה ליקרים לנו. ההפתעה מגיעה אחרי שהתמסרנו למחשבה הזו… בקולו של דמות האב הפולני שיצר, מדקלם אודי כגן טקסט נוגע ללב על חמקמקותו של האושר, ועל הקושי שלנו ",
       "image": "https://shivuk.me/wp-content/uploads/2026/08/KAGAN.webp",
       "source": "מנהלי שיווק מצייצים",
       "sourceUrl": "https://shivuk.me",
@@ -328,1179 +2332,15 @@
       ]
     },
     {
-      "title": "\"מקבלי החלטות ולא עבדים\": עימות בצמרת סלובניה על התמיכה בישראל",
-      "link": "https://www.ynet.co.il/news/article/h1kqlne00zx",
-      "pubDate": "2026-08-30T06:13:41.000Z",
-      "summary": "אחרי שהטיל ווטו על גינוי תוכנית E1, ר\"מ סלובניה יאנז יאנשה ממשיך בקו הפרו-ישראלי, ויצא בפומבי נגד נשיאת המדינה שקראה לתמוך בעמדה האירופית נגד ההתנחלויות. \"אף מוסד מוסמך לפי המשפט הבינ\"ל לא קבע שיש רצח עם\", אמר - ויצא נגד אימוץ אוטומטי של \"עמדות חיצוניות\": \"יוגוסלביה איננה\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/19/rkR11HEFkMe/rkR11HEFkMe_0_69_1050_591_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "כך ינסו בנתב\"ג למנוע מעריקים לצאת לאומן",
-      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-55994ab5a0050a1026.htm",
-      "pubDate": "2026-08-30T06:10:00.000Z",
+      "title": "צה\"ל השמיד תשתיות בעלי טאהר; מחבלים נהרגו בתוואי - חלקם נמלטו",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-401809aa95150a1027.htm",
+      "pubDate": "2026-08-30T06:15:00.000Z",
       "summary": "",
       "image": null,
       "source": "mako / N12 — חדשות (sitemap)",
       "sourceUrl": "https://www.mako.co.il/news-israel",
       "columns": [
         1
-      ]
-    },
-    {
-      "title": "יונתן רגב מונה לסמנכ״ל שיווק של Fly Card ומועדון הנוסע המתמיד באל על",
-      "link": "https://shivuk.me/news/marketingnews/39488",
-      "pubDate": "2026-08-30T06:01:19.000Z",
-      "summary": "אל על ממשיכה בשורת המהלכים והשינויים שהיא מובילה בתקופה האחרונה סביב מועדון הנוסע המתמיד ו-Fly Card , כרטיס האשראי של החברה. לאחר חשיפת Fly Card החדש והחבירה לישראכרט, ובהמשך להשקת השפה המיתוגית החדשה והפרזנטורים החדשים של המותג, מגיע כעת גם מינוי בצמרת השיווקית: יונתן רגב , מבכירי קבוצת פרטנר, ששימש עד לאחרונה כמנהל התקשורת השיווקית של החברה, מונה לסמנכ״ל השיווק של Fly Card ומועדון הנוסע המתמיד, ויחליף בתפקיד את לילך בן ארצי לוי . במסגרת תפקידו החדש רגב צפוי לקחת חלק בהמשך פיתוח המותג, בחיזוק פ",
-      "image": "https://shivuk.me/wp-content/uploads/2026/08/new_fc_header_desktop_greece-768x293.webp",
-      "source": "מנהלי שיווק מצייצים",
-      "sourceUrl": "https://shivuk.me",
-      "columns": [
-        3
-      ]
-    },
-    {
-      "title": "רוסיה פנתה לאו\"ם - וטענה: \"ההיסטוריון הרוסי נעצר ע\"י שב\"כ, דורשים הסבר\"",
-      "link": "https://www.ynet.co.il/news/article/sywwrn11dgg",
-      "pubDate": "2026-08-30T05:49:53.000Z",
-      "summary": "ברוסיה דורשים לדעת מה עלה בגורלו של ארטיום קירפיצ'ונוק, שמתח ביקורת על מדיניות הממשלה, נחת בארץ ב-2 באוגוסט - ונעלם. בפנייה לאו\"ם ציינו כי עילת מעצרו לא ידועה - ומבקשים לאפשר לו מפגש עם עורך דין וטיפול רפואי: \"ניתן להאמין שהמעצר נובע מהשקפותיו הפוליטיות\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/HyhiNWP8fx/HyhiNWP8fx_0_410_951_535_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "\"אנחנו קבוצה אחרת\": הנקמה של רוני לוי ומכבי נתניה בבית\"ר ירושלים",
-      "link": "https://www.ynet.co.il/sport/israelisoccer/article/by8t1szome",
-      "pubDate": "2026-08-30T05:47:59.000Z",
-      "summary": "לפני חצי שנה ספגו היהלומים 8:2 משפיל מסגנית האלופה שבדרך. אתמול הם ענו עם 1:4 מהדהד, שנראה כמו הצהרת כוונות ומלמד על שינוי התפיסה בקבוצה. המאמן מנסה להישאר עם רגליים על הקרקע: \"נצטרך לצרף שחקנים נוספים כדי להצליח\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/ryv49frbOGl/ryv49frbOGl_0_182_3000_1689_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "באמצעות חיילים מלוב, למצרים - ולישראל: קוף אותר בביתו של ישראלי",
-      "link": "https://www.mako.co.il/men-men_news/Article-d9a9869292150a1027.htm",
-      "pubDate": "2026-08-30T05:33:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "תיעוד דרמטי מרהט: צעיר נכנס לרכב, רעולי פנים פותחים את דלתו - ויורים מטווח קצר",
-      "link": "https://www.ynet.co.il/news/article/b1qvk41100ml",
-      "pubDate": "2026-08-30T05:15:00.000Z",
-      "summary": "ארבו לו ליד הבית: בתיעוד דרמטי נראה הצעיר נכנס למכוניתו, בזמן שרכב אחר נעצר לידו. רעולי פנים חמושים פותחים את הדלת - ויורים בו מטווח קצר. מצבו של בן ה-25 קשה. הרקע: סכסוך בין עבריינים",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/ryzh5E11dfe/ryzh5E11dfe_0_77_672_379_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "אופטימיות כ-KPI: איך מנהלים שיווק ומכירות נדל\"ן כשהשוק נע בין חרדה להמתנה?",
-      "link": "https://shivuk.me/articles/39483",
-      "pubDate": "2026-08-30T05:12:54.000Z",
-      "summary": "מאת: דן מויאל, סמנכ\"ל שיווק ומכירות, שיכון ובינוי אם הייתם שואלים את מנהל השיווק הממוצע לפני כמה שנים מה הכלים הראשיים בארגז שלו, הוא היה מדבר איתכם על קריאייטיב זכיר, פריסת מדיה רחבה ומיקוד בפנייה לרגש ולסגנון חיים. אבל כשהשוק סוער – בין תנודות ריבית, אי-ודאות כלכלית וסביבה לאומית מורכבת – סגנון חיים לבדו כבר לא מוכר דירות. בשנתיים האחרונות, הצרכן הישראלי ירד אל השטח, פתח את טבלאות האקסל והפך לאנליסט. הוא קורא דוחות למ\"ס, עוקב אחר החלטות בנק ישראל ועושה חישוב מסלול מחדש על כל צעד. במצב כזה, האת",
-      "image": "https://shivuk.me/wp-content/uploads/2026/08/DANMOYAL-768x534.webp",
-      "source": "מנהלי שיווק מצייצים",
-      "sourceUrl": "https://shivuk.me",
-      "columns": [
-        3
-      ]
-    },
-    {
-      "title": "שלושער למסי ב-1:7 המטורף של מיאמי, עבדה וטוקלומטי כבשו לשארלוט",
-      "link": "https://www.ynet.co.il/sport/worldsoccer/article/sywcg41100zg",
-      "pubDate": "2026-08-30T04:35:37.000Z",
-      "summary": "\"הפרעוש\" ואלופת ה-MLS התפוצצו על מונטריאול ושבו למסלול הניצחונות לאחר חמישה משחקים רצופים. הישראלים הבקיעו ב-0:2 של קבוצתם על אטלנטה",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/HJl0kVbuze/HJl0kVbuze_0_119_3000_1689_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "גורמי ביטחון: \"מתחילה לחמאס בעיה משילותית בעזה\"",
-      "link": "https://www.mako.co.il/news-military/2026_q3/Article-5f8914ddc2050a1026.htm",
-      "pubDate": "2026-08-30T04:32:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "בבאר-שבע מרוצים אחרי הניצחון הדרמטי: \"פעם זה נגדך - ופעם לטובתך\"",
-      "link": "https://www.ynet.co.il/sport/israelisoccer/article/s1ho3mwoze",
-      "pubDate": "2026-08-30T04:31:51.000Z",
-      "summary": "האלופה חזרה לחייך אחרי ההדחה הכואבת בליגת האלופות עם 1:2 על הפועל ר\"ג במשחקה הראשון העונה בליגת העל, הודות לשער ניצחון של אליאל פרץ בתוספת הזמן. איתי רוטמן: \"שמח שידענו להרים את עצמנו היום והוכחנו שגם בדקות האחרונות אנחנו יכולים לתת גול ולנצח\". קוז'וך על הגרלת הליגה האירופית: \"מאמין מאוד גדול בקבוצה הזאת, אבל זה לא יהיה פשוט\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/rydLiZ4buze/rydLiZ4buze_0_63_1280_721_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "שיטפונות וחילוצים דרמטיים: התיעודים מלבנון - ואיפה ירד הלילה גשם בישראל",
-      "link": "https://www.ynet.co.il/news/article/ry0vr3xoge",
-      "pubDate": "2026-08-30T04:26:15.000Z",
-      "summary": "בלבנון תועדו \"צעיר שמסכן את חייו כדי להציל אנשים בים וילד שנסחף בשיטפון במחנה פליטים\", בסוריה \"התעופפו\" פאנלים סולאריים ועצים נפלו - ואצלנו ירד קצת גשם, בצפון וגם במרכז. ממטרים מקומיים צפויים בצפון, זו התחזית לתחילת השבוע",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/Hke00o0cedGl/Hke00o0cedGl_0_182_436_246_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "המשחק הכפול של חברת נאט\"ו: ביקורת על רצח עם - ורכישת קלע דוד במאות מיליונים",
-      "link": "https://www.ynet.co.il/news/article/rjnz4hldzx",
-      "pubDate": "2026-08-30T04:22:45.000Z",
-      "summary": "הצהרות לחוד, אינטרסים לחוד: בפינלנד דיווחו כי הסכם עם ישראל נחתם עד 2034, ובמסגרתו יירכשו מערכות הגנה אווירית בשווי 317 מיליון אירו. בצל הביקורת החריפה על המלחמה: \"משרד ההגנה מסתיר מידע על השת\"פ עם ישראל\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/11/BJ3jGnYPWl/BJ3jGnYPWl_1_190_2875_1618_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "\"אם יגיבו, תהיה מלחמת עולם שלישית\": הבכיר הרוסי מאיים לתקוף את בריטניה",
-      "link": "https://www.ynet.co.il/news/article/bkfbnzbdzx",
-      "pubDate": "2026-08-30T04:17:47.000Z",
-      "summary": "\"בריטניה היא רוע מספר אחד\", אמר יועצו הבכיר של פוטין, ואיים לתקוף מטרות בממלכה. למרות שמאז תחילת המלחמה באוקראינה רוסיה כבר מימשה איומים שונים על מדינות באירופה, לא כל מנהיגי היבשת חשים מאויימים: \"אם למישהו יש כדור בדולח - נהדר, אבל אני לא רואה ראיות שתומכות בכך שרוסיה תתקוף\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/SyjWG1MDMx/SyjWG1MDMx_0_0_850_479_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "תאונה קטלנית בכביש החוף: אישה כבת 50 נהרגה, גבר נפצע קשה",
-      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-c64a5c1b2d050a1026.htm",
-      "pubDate": "2026-08-30T04:16:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "אחרי ההשפלה, ביקורת קשה בבית\"ר ירושלים: \"אברמוב לא משקיע כלום\"",
-      "link": "https://www.ynet.co.il/sport/israelisoccer/article/r1n1a3g00gx",
-      "pubDate": "2026-08-30T04:05:04.000Z",
-      "summary": "הרביעייה שספגה בית\"ר ירושלים ממכבי נתניה הגבירה את הביקורת על ההשקעה המינימלית בסגל ועל מינוי אלמוג כהן במקום ברק יצחקי: \"שום שדרוג מקצועי\". המאמן לקראת הפועל ת\"א: \"שלא יספידו אותנו כל כך מהר, נצא מזה חזקים יותר\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/15/r1zagFR7Uel/r1zagFR7Uel_0_295_3000_1689_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "תאונת שרשרת קטלנית בכביש החוף: אישה נהרגה, 6 נפצעו",
-      "link": "https://www.ynet.co.il/news/article/hkoy5mzugl",
-      "pubDate": "2026-08-30T04:04:06.000Z",
-      "summary": "מותה של האישה בתאונה סמוך לעתלית נקבע במקום. גבר נפצע באורח קשה ועוד חמישה פונו לבית החולים הלל יפה כשמצבם מוגדר קל. הפרמדיק והחובשת תיארו זירה קשה: \"אחד הרכבים היה מרוסק, אחר התהפך\". תוך פחות מ-24 שעות: חמישה הרוגים בתאונות דרכים",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/BkRTz4ZOMg/BkRTz4ZOMg_0_177_1280_721_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "איפה נמכרה דירת 2.5 חדרים ב-3.4 מיליון שקל?",
-      "link": "https://www.ynet.co.il/economy/article/6839kvkof",
-      "pubDate": "2026-08-30T04:01:25.000Z",
-      "summary": "וגם: בכמה נמכרה דירת 4 חדרים עם מרפסת בי-ם, מה היה מחיר דירת 4 חדרים בטבריה ואיפה נמכרה דירת 5 חדרים בפחות ממיליון וחצי שקל? עסקאות יד שנייה",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/04/10/6931255/6931255_0_0_1831_986_0_medium.jpg",
-      "source": "Ynet — כלכלה",
-      "sourceUrl": "https://www.ynet.co.il/economy",
-      "columns": [
-        2
-      ]
-    },
-    {
-      "title": "מה הסיכוי שבנק ישראל יוריד שוב את הריבית ביום שלישי?",
-      "link": "https://www.ynet.co.il/economy/article/byntvcluze",
-      "pubDate": "2026-08-30T04:01:09.000Z",
-      "summary": "הירידה באינפלציה והשקל החזק תומכים בהפחתה שלישית ברציפות מחרתיים. מנגד, הגידול בהוצאות הממשלה ואי-הוודאות הביטחונית מעוררים חשש שהמחירים ישובו לזנק, ולכן בנק ישראל עשוי להותיר את הריבית ללא שינוי ברמה של 3.5%",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/21/B1UP0qmgke/B1UP0qmgke_0_0_800_534_0_medium.jpg",
-      "source": "Ynet — כלכלה",
-      "sourceUrl": "https://www.ynet.co.il/economy",
-      "columns": [
-        2
-      ]
-    },
-    {
-      "title": "\"חפצו בעסקה בכל מחיר\": סירבו לשלם דמי תיווך ויפצו את המתווכת ב-120 אלף שקל",
-      "link": "https://www.ynet.co.il/economy/article/hj5rtoxome",
-      "pubDate": "2026-08-30T04:00:53.000Z",
-      "summary": "פרסום ראשון: ביהמ\"ש דחה טענות בני זוג שרכשו בית בסך כ-6 מיליון שקל כי הוטעו ע\"י המתווכת בנוגע לחריגות בנייה וליקויים בנכס שרכשו, וקבע כי המתווכת פעלה כדין. השופטת: \"הנתבעים בחרו להתקשר בעסקה עם המוכרים בעיניים פקוחות ותוך נטילת הסיכונים הכרוכים בכך מאחר והנכס מצא חן בעיניהם\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/02/25/6842487/6842487_238_179_787_443_0_medium.jpg",
-      "source": "Ynet — כלכלה",
-      "sourceUrl": "https://www.ynet.co.il/economy",
-      "columns": [
-        2
-      ]
-    },
-    {
-      "title": "האזהרה החריפה מצמרת מערכת הביטחון: \"אנחנו על פי תהום\"",
-      "link": "https://www.ynet.co.il/news/article/yokra14881398",
-      "pubDate": "2026-08-30T03:50:07.000Z",
-      "summary": "\"מחיר שלא ישולם כעת בכסף ישולם מחר בביטחון המדינה\": במערכת הביטחון מתריעים שבאגף התקציבים בולמים העברת 15 מיליארד שקלים שכבר סוכמה, ואושרה על ידי הממשלה. התוצאה: מחסור חמור בהאמרים ובחימושים, ועסקאות מול ארה\"ב שלא יצאו לפועל. החשש: שיתוק בתקופת בחירות",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/03/SJecag00Scgl/SJecag00Scgl_0_189_2937_1654_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "הפוליטיקה של הערגליות: כך הפכו חוגי הבית לזירה אלקטורלית לוהטת",
-      "link": "https://www.ynet.co.il/news/article/yokra14877344",
-      "pubDate": "2026-08-30T03:40:52.000Z",
-      "summary": "תפגשו שם מלא ישראלים נחמדים ומודאגים, ולכל אחת ואחד מהם תהייה מקורית שנשאלה אלף פעם קודם (מה יהיה עם עזה?), עצה טובה שלא תסולא בפז (אתם צריכים לוותר על האגו) ונזיפה שבאה בדיוק בזמן (איפה הייתם עד היום?). דרור פויר יצא למרתון בין חוגי הבית, אחד השרידים האחרונים למפגש בלתי אמצעי בין פוליטיקאי לקהל הבוחרים, וחזר עם המתכון המדויק לתקן את כל מה שמקולקל במדינה",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/ryLKxViDfl/ryLKxViDfl_0_0_1920_1080_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "יש כסף, אין מורים: למה תקציב החינוך לא מגיע לכיתות?",
-      "link": "https://www.ynet.co.il/news/theheadline/article/bj4p52eab",
-      "pubDate": "2026-08-30T02:00:00.000Z",
-      "summary": "תקציב החינוך בישראל עומד על כ-6% מהתמ\"ג ועד לפני המלחמה כמעט השתווה לתקציב הביטחון. ובכל זאת, בפועל ההשקעה לכל תלמיד נמוכה יחסית, שכר המורים מפגר אחרי מקבילותיו ב-OECD, וההסכמים הקיבוציים הנוקשים מונעים מהמערכת גמישות ניהולית בדיוק כשהיא הכי זקוקה לה. פרופ' איריס בן דוד הדר מאוניברסיטת בר אילן, מסבירה למה הבעיה היא לא רק כסף — וכיצד קיצוצים \"שוויוניים\" על הנייר מעמיקים בפועל את הפערים בין המרכז לפריפריה",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H1RZgQsPzx/H1RZgQsPzx_0_0_850_479_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "\"צילמו פה כדי להגיד 'העיר הזאת מתה'\": הכיכר של קריית שמונה חוזרת לחיים",
-      "link": "https://www.ynet.co.il/news/article/yokra14881539",
-      "pubDate": "2026-08-30T00:52:30.000Z",
-      "summary": "קבוצה של משפחות שעלו צפונה וקבעו את מגוריהן בקריית שמונה חונכות מרכז תרבות בכיכר חרמון, הסמל של העיר, אחרי שנים שעמדה שוממת. דני קוטן, שהגיע מתל אביב: \"רוצים להחזיר לפה את תנועת האנשים, להפוך למרכז העניינים\". ז'קלין אלחרר, מוותיקי קריית שמונה: \"המשפחות האלה נותנות לנו אור\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/B1EJ4hgdzl/B1EJ4hgdzl_0_1_850_479_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "הקריא קדיש בנקודה שבה נפל אביו בדרום לבנון: \"אמא אמרה - יש לך משימה לסיים\"",
-      "link": "https://www.ynet.co.il/news/article/yokra14878277",
-      "pubDate": "2026-08-30T00:23:22.000Z",
-      "summary": "כשנתיים חלפו מאז היום שבו הלב של משפחת מויאל נשבר, כששאול, אב ל-10, נפל בקרב בדרום לבנון. בנו יהודה התגייס כעבור כמה חודשים, ובשבוע שעבר סגר מעגל: הוא אמר קדיש בנקודה שבה נהרג אביו, בסרטון שהפך לוויראלי. \"אני ממשיך את דרכו\", מספר בראיון מיוחד. \"הוא בחר בחוד, כשידע שיש דורות שימשיכו אחריו\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/S1x9drsPMx/S1x9drsPMx_176_233_736_415_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-      "pubDate": "2026-08-29T23:11:51.000Z",
-      "summary": "Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]",
-      "image": null,
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "גבר בן 30 נרצח בתל אביב, צעיר נוסף פונה במצב קשה מרחוב סמוך",
-      "link": "https://www.mako.co.il/news-law/2026_q3/Article-93c6dc05f5f40a1026.htm",
-      "pubDate": "2026-08-29T22:48:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "חשד לרצח ביפו: גבר נורה למוות, וכעבור דקות - פצוע קשה מירי ברחוב הסמוך",
-      "link": "https://www.ynet.co.il/news/article/syexjkzufl",
-      "pubDate": "2026-08-29T22:39:32.000Z",
-      "summary": "165 נרצחים בחברה הערבית: ב-1:11 התקבל דיווח על ירי ברחוב לייב בן שרה, ומותו של מוחמד קטואן, תושב ג'לג'וליה בעל עבר פלילי, נקבע במקום. \"הייתה המולה רבה, ראינו את הפצוע כשהוא מחוסר הכרה, עם פציעות חודרות קשות\", סיפרו במד\"א. 6 דקות לאחר מכן דווח על פצוע קשה מירי נוסף ברחוב הרבי מלילוב",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/rkPS0Rg00fg/rkPS0Rg00fg_0_167_1600_901_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "נפצע אנושות בג'באליה וחזר לגלוש: \"אני לא נכנע לשום מוגבלות\"",
-      "link": "https://www.ynet.co.il/sport/article/byn6cnedfl",
-      "pubDate": "2026-08-29T22:30:00.000Z",
-      "summary": "תמיר דודי נפצע בקרב מול מחבלים, עבר 17 ניתוחים ולבסוף נאלץ להיפרד מידו. עכשיו, כשהוא מכוון לפודיום באליפות העולם בגלישת גלים, קצין סיירת נח\"ל מספר על רגעי ההישרדות בג'באליה, הדרך הארוכה בחזרה למים והאהבה שהתחילה מפוסט בפייסבוק: \"אם הייתי צריך, הייתי יוצא עוד אלף פעם להילחם למען המדינה\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/r1tqyplOfg/r1tqyplOfg_142_16_1017_573_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "אוהדי מכבי ת\"א שמתלוננים ומוחים נגד גולדהאר הם מפונקים | טור",
-      "link": "https://www.ynet.co.il/sport/israelisoccer/article/sykmf3xdgx",
-      "pubDate": "2026-08-29T22:30:00.000Z",
-      "summary": "כפיות הטובה של חלק מאוהדי הצהובים מקוממת: רגע אחרי שקיטרו על שוליות הקונפרנס־ליג, הם מתלוננים על חורף נטול מפעל אירופי. גולדהאר לא שופך מיליונים כמו פעם? נכון, הוא לא חייב להרגיש פראייר. תקציב שפוי זו לא מילה גסה",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/24/Bkzdo00yzxl/Bkzdo00yzxl_0_104_3000_1689_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "בן גביר פסל סופית, וינטר רוצה להיות \"כליא ברק\" | האופציות הפוחתות של נתניהו",
-      "link": "https://www.ynet.co.il/news/elections2026/article/skhd45g00ze",
-      "pubDate": "2026-08-29T21:33:42.000Z",
-      "summary": "נתניהו יצא לבחירות במטרה לעצב 4 רשימות ימין שיאפשרו הסכמי עודפים ויבטיחו שכולן יעברו את אחוז החסימה. סירובם של וינטר ובן גביר להתאחד הוא אירוע הרסני מבחינת רה\"מ: בן גביר עשוי לצמוח על חשבון הליכוד, בעוד שווינטר פונה ל\"ימין המאוכזב\" - גם ממפלגת השלטון. \"פגישה משולשת\"? בן גביר לא זומן",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/HktrY2xOMl/HktrY2xOMl_0_0_850_479_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "הרב יצחק יוסף משתלח ביועמ\"שית: \"רשעה, הקב\"ה יכלה אותה\" | צפו",
-      "link": "https://www.mako.co.il/news-politics/2026_q3/Article-10ce949765f40a1027.htm",
-      "pubDate": "2026-08-29T21:22:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "הגנרל בפרונט",
-      "link": "https://www.ynet.co.il/news/article/yokra14881662",
-      "pubDate": "2026-08-29T21:06:00.000Z",
-      "summary": "כתבת השער בגיליון האחרון של \"אלמג'לה\" מוקדשת לדמות מוכרת היטב אצלנו - גדי איזנקוט, שתצלומו הענק על השער מלווה בכותרת \"האם יצליח איזנקוט להדוף את קללת הגנרלים בישראל?",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/H1W6DtIbPMe/H1W6DtIbPMe_0_823_2001_1127_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "מנהיג ש\"ס משתלח ביועמ\"שית: \"רשעה, משוגעת, הקב\"ה יכלה אותה\"",
-      "link": "https://www.ynet.co.il/news/article/ryzvu6x00zx",
-      "pubDate": "2026-08-29T21:04:27.000Z",
-      "summary": "לאחר שבהרב-מיארה דרשה לדחות את אירועי ההנצחה לרב עובדיה יוסף מחשש לתעמולת בחירות, בנו הרב יצחק יוסף פתח במתקפה חריפה והשווה לעצרת לזכר רבין שאותה לא ביקשה לדחות: \"הקב\"ה ייתן לה את המכה, זה לא יעבור בשתיקה\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/S1ghFHqEPzx/S1ghFHqEPzx_148_19_424_239_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "משותפת לגברים בלבד",
-      "link": "https://www.ynet.co.il/news/article/yokra14882194",
-      "pubDate": "2026-08-29T21:04:00.000Z",
-      "summary": "כאשר חיברו את הרשימות של המפלגות הערביות, חיברו גם את ההיררכיות הגבריות שלהן. האיחוד פתר את משוואת חלוקת המושבים בין המפלגות, אך לא תיקן את אי-השוויון",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/SyqG3S88Gx/SyqG3S88Gx_0_437_961_541_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "ביהודה ושומרון ייקבע גורלנו",
-      "link": "https://www.ynet.co.il/news/article/yokra14882187",
-      "pubDate": "2026-08-29T21:03:39.000Z",
-      "summary": "ערב הבחירות נוצר מצב שבו הטרנספר לגיטימי וכל הסדרה בגדה היא רעיון מופקר • אך עלינו לזכור שיש חשש כי האלימות ביו\"ש תגלוש לכל ישראל",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/S1iGl9xuzx/S1iGl9xuzx_0_0_3000_2000_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "או קוּסרה או הסברה",
-      "link": "https://www.ynet.co.il/news/article/yokra14881973",
-      "pubDate": "2026-08-29T21:02:00.000Z",
-      "summary": "במקום לבזבז עשרות מיליוני דולרים על מאמרי AI שמציגים את עמדות ישראל, עדיף להתמקד באיתור ומעצר החוליגנים ביהודה ושומרון. זה יועיל יותר למעמדנו בעולם",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/SJZoMlqldMg/SJZoMlqldMg_0_0_3000_2000_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "‏\"לא יכולתי להמשיך\": המחיר התעסוקתי הנסתר של 7 באוקטובר",
-      "link": "https://www.ynet.co.il/economy/article/yokra14881532",
-      "pubDate": "2026-08-29T21:00:00.000Z",
-      "summary": "בעוד נזקי הנפש של המלחמה מדוברים, ההיבט התעסוקתי נדיר יותר – וכך גם המענים. מחקר חדש מגלה ‏שנפגעי 7 באוקטובר נעדרו יותר, החליפו תפקיד בשיעורים גבוהים, ומקומות עבודה רבים אינם יודעים כיצד ‏להתמודד. \"פעם הייתי עושה מיליון ואחד דברים, היום אם יש לי משימה אחת אני נלחצת\", אומרת מיכל, שבתה נרצחה במסיבת הנובה",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/yk14881834/yk14881834_0_22_1084_611_0_medium.jpg",
-      "source": "Ynet — כלכלה",
-      "sourceUrl": "https://www.ynet.co.il/economy",
-      "columns": [
-        2
-      ]
-    },
-    {
-      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-      "link": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
-      "pubDate": "2026-08-29T20:59:26.000Z",
-      "summary": "Inspired by Oregon Trail, but minus the dysentery. | Screenshot: Terrence O’Brien / The Verge I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing to reconnect with my love of the outdoors and just recently took my kids on their first camping trip. So I disc",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "סיבוב הפרסה של עיריית בני ברק - שמודה: \"אישרנו לסגור את הגשר, הרוב שומר שבת\"",
-      "link": "https://www.ynet.co.il/news/article/syytwixdze",
-      "pubDate": "2026-08-29T20:24:20.000Z",
-      "summary": "למרות ההכחשה כי ניתנה הוראה לחסום את הגישה לשכונת הסופרים שבה גרים גם חילונים, העירייה מבהירה שהסגירה אושרה. במשטרה אמרו שלא הועברה החלטה כנדרש, יו\"ר האופוזיציה בעירייה: \"יש אינטרס שיהיה בלגן על השבת\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/HJGp39D1uze/HJGp39D1uze_24_0_825_464_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "הטעות שעשה מי שמימן את רצח ראש המאפייה הקווקזית",
-      "link": "https://www.mako.co.il/men-men_news/Article-d7fa21d872f40a1026.htm",
-      "pubDate": "2026-08-29T20:16:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "הלחצים שנתניהו מתכנן להפעיל על בן גביר, ועקיצת השר",
-      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-6ac0c9cb5fe40a1027.htm",
-      "pubDate": "2026-08-29T20:15:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "Alt-right troll Milo Yiannopoulos has been deported",
-      "link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
-      "pubDate": "2026-08-29T19:49:59.000Z",
-      "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, a final order of removal was issued ​on July 22. The British national made a name for himself as an editor at Steve Bannon's Breitbart and an early supporter of Donald Trum",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "המועמד הבולט שלא יודח מהמשותפת למרות הטענות להטרדה - ומיעוט הנשים",
-      "link": "https://www.ynet.co.il/news/elections2026/article/s1bc2ql00mg",
-      "pubDate": "2026-08-29T19:32:04.000Z",
-      "summary": "ג'עפר פרח, מספר 2 בחד\"ש ששובץ במקום הרביעי ברשימה המשותפת, לא יודח בינתיים - למרות הסערה סביב טענות שהטריד מינית נשים לפני כ-20 שנה. פרח מכחיש, ובמפלגה ימשיכו \"לעקוב אחר ההתפתחויות\". ברקע: הביקורת על הייצוג הדל של נשים במשותפת",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/16/HJ5OlbIJzg/HJ5OlbIJzg_0_92_1280_721_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "הכבאים גילו: קצין הבטיחות נהרג בתאונה לצד בן 17",
-      "link": "https://www.ynet.co.il/news/article/rkvpxoxomg",
-      "pubDate": "2026-08-29T19:30:08.000Z",
-      "summary": "בתאונה בגליל נהרג הנער ריאן אסעד מכסרא ותושב חורפיש סרור עאמר, ראש מדור בטיחות בעבודה והדרכות במטה הארצי בכבאות: \"פעל לאורך השנים לשמירה על חייהם ובטיחותם של לוחמי האש\". טרם אותר הנהג מהפגע וברח הקטלני באשכול",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/B1N0xnxOze/B1N0xnxOze_0_0_850_479_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "בית\"ר ירושלים חטפה רביעייה מנתניה, אוהדי הקבוצה פרצו למגרש",
-      "link": "https://www.ynet.co.il/sport/israelisoccer/article/r1ka6ilugg",
-      "pubDate": "2026-08-29T19:24:48.000Z",
-      "summary": "מספר אוהדים הצליחו להיכנס לכר הדשא אחרי השער השני של מכבי נתניה. המשחק נעצר למספר דקות לפני שחודש. האורחת חגגה עם הצגה ענקית על חשבון הקבוצה של אלמוג כהן, שלושער לדאבו",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/H1br4Z2x00Mx/H1br4Z2x00Mx_0_339_1998_1125_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "פותחת מול דינמו זאגרב, יובנטוס בדצמבר: לוח המשחקים של הפועל באר-שבע",
-      "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjerysgofl",
-      "pubDate": "2026-08-29T19:13:22.000Z",
-      "summary": "פורסם הלוח המלא של האלופה בליגה האירופית: המשחק המסקרן מול מול האימפריה האיטלקית ב-10 בדצמבר בבוקרשט",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rJx2xhUswzg/rJx2xhUswzg_0_100_900_507_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "הודחו ברגע האחרון - מגזין",
-      "link": "https://www.mako.co.il/news-n12_magazine/2026_q3/Article-a3e86515dee40a1027.htm",
-      "pubDate": "2026-08-29T19:06:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — מגזין ודעות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/weekend",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "אבטחת איזנקוט וגולן על הפרק: הוועדה המייעצת תתכנס מחר, זה העומד בראשה",
-      "link": "https://www.ynet.co.il/news/article/r1xxvsgoge",
-      "pubDate": "2026-08-29T18:51:45.000Z",
-      "summary": "יו\"ר ועדת הבחירות המרכזית סולברג כתב לראש המל\"ל כי יש לדון באבטחת ראשי המפלגות גם אם אינם ח\"כים - והוועדה המייעצת לאבטחת אישים תתכנס מחר. תישמע בה המלצת שב\"כ, אחרי סערת אי-אבטחת יו\"ר ישר!. בראשה - אל\"מ במיל' רונן כהן, שאמר בחודש שעבר: \"על המצח של איזנקוט כתוב 7/10\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/Hy6ZqixuGx/Hy6ZqixuGx_0_0_850_479_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "pubDate": "2026-08-29T18:41:59.000Z",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "האיום על יאיר נתניהו: על השב\"כ הופעל לחץ כבד \"לסגור את הפער\"",
-      "link": "https://www.mako.co.il/news-military/2026_q3/Article-dd9510869ae40a1027.htm",
-      "pubDate": "2026-08-29T18:35:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "בעל הצימר ביקש להנמיך מוזיקה - והותקף: \"פחדתי שיהרוג אותי\"",
-      "link": "https://www.mako.co.il/men-men_news/Article-48e72651bae40a1026.htm",
-      "pubDate": "2026-08-29T18:23:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "הבן האברך לא עודכן: פרטים חדשים על בריחת מלי וליאל יהלומי",
-      "link": "https://www.mako.co.il/news-world/2026_q3/Article-24fdfc0ae6e40a1026.htm",
-      "pubDate": "2026-08-29T18:22:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "pubDate": "2026-08-29T18:19:53.000Z",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount. This is just the latest high-profile",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "למרות הסקרים, גנץ מתחייב: כחול לבן תמשיך",
-      "link": "https://www.mako.co.il/news-politics/2026_q3/Article-5e9be110a4a40a1026.htm",
-      "pubDate": "2026-08-29T18:13:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "הפתרון שיחסוך למצביעים מחו\"ל אלפי דולרים - ולמה ישראל לא מאמצת אותו",
-      "link": "https://www.ynet.co.il/news/elections2026/article/bkbksjjvml",
-      "pubDate": "2026-08-29T18:10:29.000Z",
-      "summary": "ישראל מפעילה קלפיות ביותר מ-100 נציגויות בעולם, אבל האזרחים אינם רשאים להשתמש בהן - ולקראת הבחירות הם לוקחים ימי חופש, משלמים ועולים על מטוס רק כדי להצביע. אז למה שליח מדינה יכול להצביע בחו\"ל אבל סטודנט או עובד ברילוקיישן לא? איך זה עובד במדינות אחרות? והאם בעידן שבו מאות אלפי ישראלים חיים מעבר לים, החוק עדיין מתאים למציאות? ynet מסביר",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/SJoLgj3vMx/SJoLgj3vMx_2_0_1279_720_0_cid_62_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "התאבל על מות דולי פרטון: \"זה היה צריך להיות נתניהו\" | פרטי החקירה בבריטניה",
-      "link": "https://www.ynet.co.il/news/article/sk11prcedgx",
-      "pubDate": "2026-08-29T17:51:35.000Z",
-      "summary": "פקיד במשרד הממשלה הבריטי נחקר לאחר ששיתף באינסטגרם פוסטים שמקוננים על כך שזמרת הקאנטרי האגדית הלכה לעולמה - ולא רה\"מ. פוסטים נוספים ששיתף כללו מסרים דומים: \"היא הייתה מבוגרת מישראל בשנתיים כשמתה\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/SJNOO5euze/SJNOO5euze_0_0_850_479_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "pubDate": "2026-08-29T17:51:10.000Z",
-      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "קיללה ילדים יהודים ליד בית ספר בלונדון, משכה בזקן אחד האבות - ולא נשלחה לכלא",
-      "link": "https://www.ynet.co.il/news/article/h1kw900gdfe",
-      "pubDate": "2026-08-29T17:49:14.000Z",
-      "summary": "סיידה חאטון (39) הורשעה בתקיפה על רקע גזעני לאחר שקיללה אם שהחזיקה בתינוק, ילדים שחזרו מטיול - ואף משכה בזקנו של אחד האבות שניסה לגרום לה להפסיק. \"איש לא צריך לחשוש לנהל את חייו בגלל גזעו, דתו או זהותו. זו הייתה תקיפה מתועבת\", אמר התובע הבכיר. עונשה: 12 חודשי מאסר על תנאי",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/HJ1JSFxOGe/HJ1JSFxOGe_0_0_850_479_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "עדיין מושלמת: מכבי פ\"ת ניצחה 1:2 את בני סכנין",
-      "link": "https://livegame.ynet.co.il/games/531878",
-      "pubDate": "2026-08-29T17:48:06.000Z",
-      "summary": "קבוצתו של אריה נקלעה לפיגור כבר לאחר פחות מדקה, אך סמואל אווסו ולירן חזן כבשו והפכו את התוצאה. המלאבסים עדיין במאזן מושלם לאחר שני מחזורים",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884911/one1884911_0_0_800_444_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "השחקנית מ\"אופוריה\" טוענת: כדורגלן נבחרת איראן דרש ממני סרטונים מיניים",
-      "link": "https://www.ynet.co.il/news/article/bynmlux00fx",
-      "pubDate": "2026-08-29T17:46:32.000Z",
-      "summary": "במהלך המונדיאל השחקנית האיראנית-אמריקנית ג'וול פרשאד קיבלה פנייה מהשחקן רמין רזאיאן, שלדבריה הפכה לשטף הודעות מטרידות שבהן ביקש סרטונים שלה נוגעת בעצמה ושאל על חוויותיה המיניות. \"זה עבר מאפס למאה\", תיארה בריאיון ל\"דיילי מייל\". כשפרסמה על כך פוסט הואשמה: \"סוכנת מוסד\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/rJll8Yxdfx/rJll8Yxdfx_0_0_850_479_0_medium.jpg",
-      "source": "Ynet — חדשות",
-      "sourceUrl": "https://www.ynet.co.il/news",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "השב\"כ מבהיר: \"היה איום משמעותי לפגיעה ביאיר נתניהו\"",
-      "link": "https://www.mako.co.il/news-military/2026_q3/Article-0918840579e40a1027.htm",
-      "pubDate": "2026-08-29T17:43:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "חייל התחזה לנער - וסחט מינית קטינות בטיקטוק",
-      "link": "https://www.mako.co.il/men-men_news/Article-e95b228779e40a1026.htm",
-      "pubDate": "2026-08-29T17:39:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "pubDate": "2026-08-29T17:36:47.000Z",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "ככה פותחים עונה? בית\"ר הובסה 4:1 מול נתניה",
-      "link": "https://livegame.ynet.co.il/games/531876",
-      "pubDate": "2026-08-29T17:29:25.000Z",
-      "summary": "חארבו דאבו: סגנית האלופה הוממה בבלומפילד מול היהלומים, שהפכו יתרון של וורקו בזכות שלושער של החלוץ, לוי הצטרף לחגיגה. שלושה בישולים לבילו",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884951/one1884951_0_0_800_444_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "חשיפה: הרשות הפלסטינית פעלה לאיחוד הרשימה המשותפת",
-      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-17b4601481e40a1027.htm",
-      "pubDate": "2026-08-29T17:16:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "ניצחון ראשון לעונה: ק\"ש גברה 0:2 על טבריה",
-      "link": "https://livegame.ynet.co.il/games/531875",
-      "pubDate": "2026-08-29T16:58:38.000Z",
-      "summary": "סגנה (31') בהקפצה מעל שרון ועבדוללזדה (71') בשער מרהיב סידרו למארחים נקודות ראשונות. מנגד, החבורה של אלון זיו נותרה במינוס שלוש בתחתית הטבלה",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884868/one1884868_0_0_800_444_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "אופי של אלופה: הפועל ב\"ש גברה 1:2 על רמת גן",
-      "link": "https://livegame.ynet.co.il/games/531872",
-      "pubDate": "2026-08-29T16:58:33.000Z",
-      "summary": "החבורה של קוז'וק ניצחה בתוספת הזמן את העולה החדשה. אוחנה הבקיע שער סולו מדהים (61') ופרץ הכריע בחופשית (90+1), מנגד חוזז השווה זמנית (76')",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884935/one1884935_0_0_800_444_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "הראשון שלה: הפועל פ\"ת גברה 0:1 על הפועל י-ם",
-      "link": "https://livegame.ynet.co.il/games/531873",
-      "pubDate": "2026-08-29T16:58:27.000Z",
-      "summary": "לאחר ההפסד שלה במחזור הפתיחה, החבורה של עומר פרץ רשמה שלוש נקודות בכורה העונה לאחר שקימבידי הכריע מול הקבוצה מהבירה, לה היה זה הפסד שני ברצף",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884922/one1884922_0_0_800_444_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "נתניהו תוקף בחריפות את הפורעים: \"נפשע\"",
-      "link": "https://www.mako.co.il/news-military/2026_q3/Article-78d1fc0ae6e40a1026.htm",
-      "pubDate": "2026-08-29T16:58:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "\"אני המתווך\": ריאיון עם בכיר השב\"כ שניהל את המו\"מ עם חמאס",
-      "link": "https://www.mako.co.il/news-military/2026_q3/Article-32a57420f4e40a1027.htm",
-      "pubDate": "2026-08-29T16:54:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "מפירי סדר חוסמים את התנועה בכניסה לי-ם: \"חציית קו אדום\"",
-      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-12de479026e40a1027.htm",
-      "pubDate": "2026-08-29T16:51:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "סיכום חדשות השבת - 29.8.2026",
-      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-fb8901bce4d40a1027.htm",
-      "pubDate": "2026-08-29T16:38:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "pubDate": "2026-08-29T16:25:03.000Z",
-      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patchstack, are listed below - CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROOqCRPV4u9cWfJL8nvCYKi4Ake-ki3_uh8Qn8RJ0P20h3Mz_qxVfF856pJ9DQZMHy922CeLwOHDc37Gpb4p1UCTMx6cMT5HeeAP_w4RitCuQficYcGDDkqpDVfW_nA3M7qWT-WyM6A5Adk3J2e8kMWSG1GSUOatrcVBmc7fmb2-ovadVS3fOdkd1ubFx/s1600/wordpress-themes.jpg",
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Hollywood celebs are getting into microdrama apps",
-      "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-      "pubDate": "2026-08-29T16:10:00.000Z",
-      "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
-      "link": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
-      "pubDate": "2026-08-29T16:01:13.000Z",
-      "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text drafting. Certain users, though, need more. They want BYOK to take notes, they want to use it for writing screenplays, or maybe they want to organize a sprawling novel. Balancing t",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "3 אירועי טכנולוגיה שיהפכו את הסוכנים שלכם ליותר חכמים",
-      "link": "https://www.geektime.co.il/geek-events-3082026/",
-      "pubDate": "2026-08-29T15:58:41.000Z",
-      "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו . Hackeriot 2026 מתי? 7 בספטמבר (9:00-20:00) איפה? אוניברסיטת תל אביב כמה? חינם כנס האקריות חוזר לתל אביב עם הרצאות, סדנאות ופעילויות, ואלו חדשות מעולות לנשים בסייבר בכלל, ולג'וניוריות בפרט. השנה יתקיים האירוע במתכונ",
-      "image": null,
-      "source": "גיקטיים",
-      "sourceUrl": "https://www.geektime.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "אודיה ביקשה ואתר עדיקה המחודש - סגור בשבת",
-      "link": "https://www.ynet.co.il/economy/article/rymwhdedmg",
-      "pubDate": "2026-08-29T15:38:20.000Z",
-      "summary": "האתר שנסגר וחזר לפעילות עם הזמרת כפרזנטורית, היה פעיל יומיים לפני שנסגר עם ההודעה: \"צעדיקות, נתראה במוצ\"ש\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/25/Hyl4lGiMzl/Hyl4lGiMzl_0_74_1600_901_0_medium.jpg",
-      "source": "Ynet — כלכלה",
-      "sourceUrl": "https://www.ynet.co.il/economy",
-      "columns": [
-        2
-      ]
-    },
-    {
-      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
-      "link": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
-      "pubDate": "2026-08-29T15:00:00.000Z",
-      "summary": "10 out of 10 beard. | Photo: Ben Mekler Joseph Fink is the cocreator and cowriter of Welcome to Night Vale , arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead , which takes some of the conspiratorial cosmic horror of Night Vale and turns it into fodder for a more serious series about relationships, trauma, and the open road. There's also a sequel series out now called Don't Tell Alice that takes the story down an even dark",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "ארבעה הרוגים ופצוע קשה ברצף תאונות דרכים קטלניות ברחבי הארץ",
-      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-788abfbc9ed40a1026.htm",
-      "pubDate": "2026-08-29T14:38:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "Brave browser adds email aliases to help users evade tracking",
-      "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
-      "pubDate": "2026-08-29T14:19:23.000Z",
-      "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
-      "image": null,
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "pubDate": "2026-08-29T14:00:00.000Z",
-      "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed […]",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "הסיפור שלא נגמר: אדין דז'קו חוזר לבונדסליגה | תוכן גולשים",
-      "link": "https://www.ynet.co.il/sport/article/bjyz1163pfl",
-      "pubDate": "2026-08-29T13:36:18.000Z",
-      "summary": "בגיל 40, יותר מ-15 שנה לאחר הופעתו האחרונה בליגה הגרמנית הבכירה, החלוץ הבוסני שב אליה יחד עם שאלקה, לפרק שאולי יהיה האחרון בקריירה המפוארת שלו. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/24/one1875146/one1875146_0_0_800_443_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "צה\"ל: פורעים ישראלים יידו אבנים בקוסרה והתבצרו בבית פלסטיני",
-      "link": "https://www.mako.co.il/news-military/2026_q3/Article-95b4c95f57d40a1026.htm",
-      "pubDate": "2026-08-29T13:14:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "אחרי יותר מ-30 שנה, גם למק יש \"PowerToys\"",
-      "link": "https://www.geektime.co.il/this-is-macs-power-toys-alternative/",
-      "pubDate": "2026-08-29T13:00:16.000Z",
-      "summary": "מקור: Vorssaint משתמשי Windows תמיד נהגו להתגאות בכך שהמערכת שלהם פתוחה וניתנת להתאמה אישית עד לרמת הפיקסל עם שליטה בכל הגדרה של מערכת ההפעלה. אחד האחראיים לחופש הזה הוא כלי של מיקרוסופט עצמה – PowerToys המעולה. עכשיו מבטיח פרויקט חדש בקוד פתוח להפוך גם את המק שלכם למפלצת פרודוקטיביות בהתאמה אישית. מק טויז? תכירו את Vorssaint, כלי חדש בקוד פתוח שמבטיח להביא לכם משהו קרוב ככל הניתן לחוויית הפאוור טויז – רק בסביבת מערכת ההפעלה macOS. המפתחים שלו מסבירים שהוא מרכז פיצ'רים מתוך 12 אפליקציות שונות במ",
-      "image": null,
-      "source": "גיקטיים",
-      "sourceUrl": "https://www.geektime.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "pubDate": "2026-08-29T13:00:00.000Z",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
-      "link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
-      "pubDate": "2026-08-29T13:00:00.000Z",
-      "summary": "The Z Flip 8 is designed to be used shut more than ever before. | Photo: Dominic Preston / The Verge What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted on the former, even as some fans - and Razr rival Motorola - have pushed for the latter. With the Galaxy Z Flip 8, Samsung has given in. Although the ",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "pubDate": "2026-08-29T12:00:00.000Z",
-      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated , the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI , others have denied using the technology until increasing public scrutiny forced them to tell the truth . For musicians - especially those creating art in technologically-focu",
-      "image": null,
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "\"יש לנו יותר מ־20 מותגים. האתגר הוא לא לייצר בידול מלאכותי\"",
-      "link": "https://shivuk.me/meet/oneonone/39476",
-      "pubDate": "2026-08-29T11:54:11.000Z",
-      "summary": "כמה שיחות צריך סמנכ\"ל שיווק לנהל על גודל של גזר? מתברר שלא מעט. יום לפני השיחה עם עידו שני נתקלתי בשלט החוצות של Magimix, שבו גזר חתוך תופס חלק משמעותי מהשלט. \"אם היית יודעת כמה שיחות היו לי עם משרד הפרסום על גודל הגזר\", הוא צוחק. \"הוא צריך להיות בולט, אבל לא בולט מדי, כדי שלא יראו רק את הגזר ולא את Magimix\". האנקדוטה הזו מספרת במידה רבה את הסיפור השיווקי של ניופאן לקראת חגי תשרי. החברה מנהלת יותר מ־20 מותגים, בהם: Samsung, Haier, KitchenAid, Magimix, De'Longhi, Tefal ו־BOSE , ובתקופת החגים רבים",
-      "image": "https://shivuk.me/wp-content/uploads/2026/08/IDOSHANI-768x486.webp",
-      "source": "מנהלי שיווק מצייצים",
-      "sourceUrl": "https://shivuk.me",
-      "columns": [
-        3
-      ]
-    },
-    {
-      "title": "ריאל תפתח מול אינטר, ליברפל מול אתלטיקו - ומתי סיטי מול פ.ס.ז'?",
-      "link": "https://www.ynet.co.il/sport/worldsoccer/article/5lpigg6uy",
-      "pubDate": "2026-08-29T11:47:17.000Z",
-      "summary": "הלו\"ז הרשמי של ליגת האלופות פורסם. החבורה של מוריניו תפתח מול האלופה האיטלקית, והמייטי רדס מול הקולצ'ונרוס. הלוח המלא בפנים",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884543/one1884543_72_0_433_244_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "שוחרר בעסקת שליט ונעצר בחשד לגניבת אופנוע בתל אביב",
-      "link": "https://www.mako.co.il/men-men_news/Article-8b1f8c1d33d40a1027.htm",
-      "pubDate": "2026-08-29T11:13:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "I asked 100 companies for my data. Some deleted it instead.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-      "pubDate": "2026-08-29T10:50:31.000Z",
-      "summary": "I filed a request with McDonald’s earlier this month to access all of the personal data the fast food company collected about me, and I received a stunning 515-page report a few days later that detailed my app interactions in granular detail and predicted I would never stop eating there. Under the California Consumer Privacy Act , I have the legal right to request access to information from large companies that collect personal data. So I was curious what others might have on me, and I spent the",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "ישראלים בקפריסין קיבלו התרעת \"מזג אוויר חריג\"",
-      "link": "https://www.mako.co.il/news-world/2026_q3/Article-60f9568840d40a1027.htm",
-      "pubDate": "2026-08-29T10:44:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "המגעים בין רסיסי המפלגות שלא עוברות את אחוז החסימה",
-      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-35e013329ec40a1027.htm",
-      "pubDate": "2026-08-29T10:27:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — חדשות (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-israel",
-      "columns": [
-        1
-      ]
-    },
-    {
-      "title": "למדו מהישראלים? הקומבינה שתעקוף את קטאר כדי לייצר רכיבי כיפת ברזל בגרמניה",
-      "link": "https://www.ynet.co.il/economy/article/rkv0hxl00ml",
-      "pubDate": "2026-08-29T10:22:23.000Z",
-      "summary": "ממשלת סקסוניה תחתית תשקיע 200 מיליון אירו במפעל באוסנברוק בו היו אמורים להיות מיוצרים הרכיבים, תשתלט עליו, וכך העסקה תתבצע בין רפאל לממשלה המקומית ולא עם פולקסווגן בה מחזיקה קטאר בזכות וטו. המהלך יציל אלפי מקומות עבודה",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/SJbZWEeuGl/SJbZWEeuGl_43_0_2900_1631_0_medium.jpg",
-      "source": "Ynet — כלכלה",
-      "sourceUrl": "https://www.ynet.co.il/economy",
-      "columns": [
-        2
-      ]
-    },
-    {
-      "title": "19 שנה למותו של אנסופוואה: \"שניות לפני שהיה צריך להיות מוחלף\"",
-      "link": "https://www.ynet.co.il/sport/israelisoccer/article/hjskg7gdml",
-      "pubDate": "2026-08-29T09:30:00.000Z",
-      "summary": "רגע לפני פתיחת המסע להגנה על האליפות, מציינים בהפועל באר-שבע את היום שבו החלוץ הזמבי התמוטט במשחק אימון. סוכנו ניר קרין מספר על היום הטראגי",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/03/29/9877067/9877067_213_0_3381_1903_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ]
-    },
-    {
-      "title": "הרכבים של Volvo יזהירו אחד את השני מסכנות בכביש",
-      "link": "https://www.geektime.co.il/volvo-evs-are-about-to-warn-each-other/",
-      "pubDate": "2026-08-29T08:42:23.000Z",
-      "summary": "תמונה: Volvo שמעו. אני לא אוהב להתרברב, אבל אתם מדברים כאן עם \"משתמש Waze אלוף\" עם 442,836 נקודות נכון למועד כתיבת שורות אלו. סורי ליידיז, אני תפוס. אבל יכול להיות שבקרוב כל העבודה הקשה והרקורד שלי לאורך כמעט 20 שנים יהפכו לנחלת העבר, כיוון שיצרנית הרכב השוודית-סינית וולבו הופכת אותה לאוטומטית. ההתראות הופכות לאוטומטיות Volvo הכריזה כי תשחרר עדכון תוכנה חדש למספר רכבים חשמליים שלה. מלבד תמיכה בסאונד תלת מימדי ב-CarPlay, שדרוג חביב בפני עצמו, היא גם עומדת לשדרג גם את מערכת ה-Connected Safety שלה.",
-      "image": null,
-      "source": "גיקטיים",
-      "sourceUrl": "https://www.geektime.co.il",
-      "columns": [
-        4
-      ]
-    },
-    {
-      "title": "אחרי שעסקת הענק סוכמה: בראדלי ברקולה יחתום בליברפול עד 2031",
-      "link": "https://www.ynet.co.il/sport/worldsoccer/article/byimzmedge",
-      "pubDate": "2026-08-29T08:30:09.000Z",
-      "summary": "הצרפתי בן ה-23 שעוזב את פ.ס.ז' תמורת 123 מיליון ליש\"ט, יחתום במהלך סוף השבוע על חוזה לחמש שנים - ויהפוך לרכש השני היקר בתולדות המועדון. ליברפול תשלם 106 מיליון ליש\"ט באופן מיידי. בעקבות העסקה, גאקפו עשוי לעזוב",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/B1YvOfxuzg/B1YvOfxuzg_402_0_1985_1118_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
       ]
     }
   ],
@@ -1508,25 +2348,25 @@
     {
       "name": "mako / N12 — חדשות (sitemap)",
       "feedUrl": "https://www.mako.co.il/SiteMap/Mako-News-SitemapIndex.xml",
-      "totalItems": 56,
+      "totalItems": 81,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 32,
+      "itemsInWindow": 54,
       "error": null
     },
     {
       "name": "mako / N12 — מגזין ודעות (sitemap)",
       "feedUrl": "https://www.mako.co.il/SiteMap/Mako-News-SitemapIndex.xml",
-      "totalItems": 3,
+      "totalItems": 1,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 1,
+      "itemsInWindow": 0,
       "error": null
     },
     {
       "name": "mako / N12 — כלכלה (sitemap)",
       "feedUrl": "https://www.mako.co.il/SiteMap/Mako-News-SitemapIndex.xml",
-      "totalItems": 4,
+      "totalItems": 12,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 2,
+      "itemsInWindow": 10,
       "error": null
     },
     {
@@ -1534,7 +2374,7 @@
       "feedUrl": "https://rcs.mako.co.il/rss/cd0c4e8fc83b8310VgnVCM2000002a0c10acRCRD.xml",
       "totalItems": 20,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 0,
+      "itemsInWindow": 4,
       "error": null
     },
     {
@@ -1542,7 +2382,7 @@
       "feedUrl": "https://shivuk.me/feed",
       "totalItems": 15,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 6,
+      "itemsInWindow": 3,
       "error": null
     },
     {
@@ -1574,7 +2414,7 @@
       "feedUrl": "https://www.geektime.co.il/feed",
       "totalItems": 30,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 6,
+      "itemsInWindow": 9,
       "error": null
     },
     {
@@ -1582,7 +2422,7 @@
       "feedUrl": "https://www.pc.co.il/feed",
       "totalItems": 30,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 1,
+      "itemsInWindow": 14,
       "error": null
     },
     {
@@ -1606,7 +2446,7 @@
       "feedUrl": "https://arstechnica.com/feed",
       "totalItems": 20,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 1,
+      "itemsInWindow": 3,
       "error": null
     },
     {
@@ -1622,7 +2462,7 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "totalItems": 15,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 2,
+      "itemsInWindow": 3,
       "error": null
     },
     {
@@ -1638,7 +2478,7 @@
       "feedUrl": "https://www.ynet.co.il/Integration/StoryRss6.xml",
       "totalItems": 30,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 11,
+      "itemsInWindow": 21,
       "error": null
     },
     {
@@ -1646,7 +2486,7 @@
       "feedUrl": "https://www.ynet.co.il/Integration/StoryRss3.xml",
       "totalItems": 30,
       "itemsWithoutDate": 0,
-      "itemsInWindow": 19,
+      "itemsInWindow": 30,
       "error": null
     },
     {
