@@ -11,9 +11,17 @@ name: Daily Harvest + Edit
 # 02:23 UTC ≈ 05:23 בישראל, 04:11 UTC ≈ 07:11 בישראל (תלוי בשעון קיץ/חורף — קירוב מכוון).
 on:
   schedule:
-    - cron: "23 2 * * *"   # ראשי
-    - cron: "11 4 * * *"   # השלמה — רץ רק אם הראשי נבלע (guard מחליט)
-  workflow_dispatch: {}
+    # רשת ביטחון בלבד מאז 30.8.2026 — הטריגר הראשי הוא Cloudflare Cron ב-03:20 UTC
+    # (worker/index.js). ה-cron-ים כאן רצים רק אם Cloudflare עצמו נפל; guard מדלג
+    # עליהם אם כבר יש גיליון היום.
+    - cron: "23 2 * * *"
+    - cron: "11 4 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "הרץ גם אם כבר הופק גיליון היום (עוקף את guard)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -21,9 +29,10 @@ permissions:
 
 jobs:
   # job קטן שרץ ראשון. מחליט אם ה-job הכבד צריך לרוץ בכלל:
-  #   - הפעלה ידנית (workflow_dispatch) → תמיד רץ.
-  #   - הפעלה מתוזמנת → רץ רק אם אין עדיין ריצה של היום שהצליחה או שרצה כרגע.
-  # כך המועד ה"השלמה" לא מייצר גיליון כפול כשהראשי כבר עשה את העבודה.
+  #   - workflow_dispatch עם force=true → תמיד רץ (עקיפה ידנית מכוונת).
+  #   - כל השאר (schedule + הטריגר מ-Cloudflare, שהוא workflow_dispatch רגיל) →
+  #     רץ רק אם אין עדיין ריצה של היום שהצליחה או שרצה כרגע.
+  # כך אם Cloudflare וגם cron של GitHub יורים באותו יום — נוצר רק גיליון אחד.
   guard:
     runs-on: ubuntu-latest
     outputs:
@@ -33,8 +42,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if [ "${{ github.event_name }}" != "schedule" ]; then
-            echo "הפעלה ידנית — רצים בכל מקרה"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
+            echo "workflow_dispatch עם force=true — רצים בכל מקרה"
             echo "run=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi

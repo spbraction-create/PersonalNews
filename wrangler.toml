@@ -5,6 +5,18 @@ compatibility_date = "2024-09-23"
 [vars]
 # הריפו הציבורי שממנו ה-Worker קורא את data/daily-edition.json (README.md שלב 5, גרסה בסיסית בלי KV).
 DATA_REPO_RAW_BASE = "https://raw.githubusercontent.com/spbraction-create/PersonalNews/main"
+# הריפו וקובץ ה-workflow שה-scheduled handler מפעיל דרך GitHub REST API (ראה worker/index.js).
+DISPATCH_REPO = "spbraction-create/PersonalNews"
+DISPATCH_WORKFLOW_FILE = "harvest.yml"
+
+# תזמון אמין להפקת הגיליון. הרקע: ה-schedule של GitHub Actions הוא best-effort — בסוף
+# אוגוסט 2026 הוא איחר 6–12 שעות ופעם אחת נבלע לגמרי. Cloudflare Cron Triggers יורים
+# בזמן, אז הם מחליטים "מתי" וה-scheduled handler ב-worker/index.js רק לוחץ על הכפתור
+# של harvest.yml דרך workflow_dispatch. ה-cron של GitHub נשאר כרשת ביטחון אם Cloudflare
+# עצמו ייפול, וה-job בשם guard ב-harvest.yml מונע גיליון כפול כששני הטריגרים יורים.
+# "20 3 * * *" UTC ≈ 06:20 בישראל בקיץ (UTC+3), 05:20 בחורף (UTC+2) — קירוב מכוון.
+[triggers]
+crons = ["20 3 * * *"]
 
 [[kv_namespaces]]
 # מטמון עמוד הסיכום ה-lazy (README.md שלב 5.2, EDITORIAL.md §3.3). מפתח = hash של כתובת המקור.

@@ -84,6 +84,36 @@ async function handleReadPage(request, env) {
   });
 }
 
+/**
+ * מפעיל את workflow הקציר+עריכה ב-GitHub Actions דרך REST API (workflow_dispatch).
+ * נקרא מתוך ה-scheduled handler למטה, לפי [triggers] crons ב-wrangler.toml.
+ * הרקע: ה-schedule של GitHub Actions לא אמין (איחר 6–12 שעות בסוף אוגוסט 2026);
+ * Cloudflare Cron Triggers יורים בזמן — הם מחליטים "מתי", GitHub רק מבצע.
+ */
+async function triggerHarvestWorkflow(env) {
+  const url =
+    `https://api.github.com/repos/${env.DISPATCH_REPO}` +
+    `/actions/workflows/${env.DISPATCH_WORKFLOW_FILE}/dispatches`;
+
+  const response = await fetch(url, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${env.GITHUB_DISPATCH_TOKEN}`,
+      Accept: "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28",
+      // GitHub API דוחה בקשות בלי User-Agent.
+      "User-Agent": "daily-digest-cron",
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ ref: "main" }),
+  });
+
+  if (!response.ok) {
+    const detail = await response.text();
+    throw new Error(`הפעלת ה-workflow נכשלה: ${response.status} ${detail}`);
+  }
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -91,5 +121,11 @@ export default {
       return handleReadPage(request, env);
     }
     return handleMainPage(env);
+  },
+
+  // רץ אוטומטית לפי [triggers] crons ב-wrangler.toml — אין קשר לבקשות HTTP.
+  // אם ההפעלה נכשלת, ה-error יופיע ב-Cron Events בלוח הבקרה וב-`wrangler tail`.
+  async scheduled(event, env, ctx) {
+    await triggerHarvestWorkflow(env);
   },
 };
