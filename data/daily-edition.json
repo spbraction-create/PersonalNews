@@ -1,97 +1,97 @@
 {
-  "generatedAt": "2026-08-31T06:14:39.508Z",
+  "generatedAt": "2026-09-01T03:21:28.751Z",
   "columns": [
     {
       "column": 1,
       "name": "חדשות / אקטואליה",
-      "brief": "הסלמה ביטחונית נרשמה הלילה במזרח התיכון בעקבות חילופי מהלומות ישירים בין ארצות הברית לאיראן: כוחות אמריקניים הפציצו משגרי מוקשים ימיים באי לאראק, ובתגובה שיגרה טהראן טילים לעבר בסיסים של ארה\"ב בירדן ובאיחוד האמירויות. במקביל, המאמץ האיראני לגיוס סוכנים נמשך, כאשר הוגש כתב אישום נגד נערים בני 14 ו-16 מקריית מוצקין בגין ריגול למען איראן. בזירה הצפונית, צה\"ל השמיד תשתיות טרור וחיסל מחבלים במרחב עלי טאהר.\n\nבתוך צה\"ל נרשם אירוע משמעתי חריג, כאשר 16 לוחמים נשלחו למחבוש לאחר שסירבו לצאת לסיור ברצועת עזה עם פרמדיקית, סירוב שהוביל לביטול הפעילות. ברקע, יום גיוס חרדים נוסף נפתח הבוקר בצל מחאות בבקו\"ם ומשבר פוליטי מחריף, לאחר שבכיר רבני ש\"ס, הרב משה מאיה, הצהיר כי המפלגה לא תצטרף לממשלה הבאה ללא חוק פטור מובטח מראש. לצד זאת, עימות חריף פרץ בין משרד האוצר למערכת הביטחון סביב עיכוב תקציב של 15 מיליארד שקלים לרכש וחימושים.\n\nבמפה הפוליטית נרשמים שינויים לקראת הבחירות: ח\"כ יולי אדלשטיין אישר איחוד קרוב עם בני גנץ, ואילו ברע\"מ צפויים להציב את יואב סגלוביץ' במקום השני ברשימה כמועמד היהודי הראשון בתולדותיה. במישור הפלילי, ראש מועצה בדרום ובני משפחתו נעצרו בפשיטת להב 433 בחשד לשוחד והטיית מכרזים.",
+      "brief": "בזירה הבין-לאומית, המתיחות האזורית גוברת: נשיא ארצות הברית דונלד טראמפ איים להכות בעוצמה באיראן בעקבות הירי שביצעה לעבר ירדן. במקביל, בצמרת הביטחונית בוושינגטון נרשם זעזוע עם התפטרותו של מזכיר הצבא האמריקני, דן דריסקול, על רקע מתיחות ממושכת מול שר ההגנה הגסת'.\n\nבישראל, עולם המדע מרכין ראש עם פטירתה של כלת פרס נובל לכימיה, פרופ' עדה יונת, שהלכה לעולמה בגיל 87. \n\nבמערכת הפוליטית נרשמו שני מהלכים חסרי תקדים: ניצב בדימוס וסגן השר לשעבר יואב סגלוביץ' הצטרף לרשימת רע\"מ והפך למועמד היהודי הראשון בתולדותיה, בעוד במפלגת דגל התורה הליטאית שוקלים לראשונה לדרוש תפקידי שרים סביב שולחן הממשלה. בצה\"ל אישרו רשמית את סבב המינויים במטה הכללי, ובמרכזו כניסתו המתוכננת של דדו בר כליפא לתפקיד אלוף פיקוד המרכז.\n\nבחזית האזרחית, עכירות חריגה במי הים הובילה להשבתת רוב מתקני ההתפלה הפרטיים ולצמצום צריכת המים בתל אביב — אירוע שלגביו הבהיר מערך הסייבר כי אינו נובע ממתקפה. במקביל, פריצת דרך נרשמה בפרשת הרעלת הפעוטות: המשטרה עצרה חשוד במעורבות בהחדרת חומרי ההרדמה למחיות המזון, ושללה מניע לאומני.",
       "cards": [
         {
-          "title": "ארה\"ב הפציצה משגרים באיראן, ירדן יירטה טילים: \"הותקפו בסיסים אמריקנים\"",
-          "summary": "חילופי אש ליליים במזרח התיכון: אחרי שבועות של שקט נשמעו פיצוצים באי לאראק. בכיר אמריקני: \"הותקפו משגרים שנערכו לשיגור מוקשים ימיים לעבר הורמוז\". בהמשך דווח שאיראן תקפה כוחות אמריקניים בירדן - וגם בסיס צבאי באמירויות. טראמפ פרסם סרטון AI: \"האי חארג מופצץ לרסיסים\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/01/ryRUDejHMg/ryRUDejHMg_0_72_800_451_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/bkpz8bzoze",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-08-30T22:45:40.000Z"
-        },
-        {
-          "title": "בני 14 ו-16 מקריית מוצקין נאשמים בריגול עבור איראן",
+          "title": "פרופ' עדה יונת הלכה לעולמה בגיל 87",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-law/2026_q3/Article-4d655e053c150a1026.htm",
+          "link": "https://www.mako.co.il/news-israel/2026_q3/Article-88632c7b67850a1027.htm",
           "source": "mako / N12 — חדשות (sitemap)",
-          "pubDate": "2026-08-30T08:46:00.000Z"
+          "pubDate": "2026-08-31T16:02:00.000Z"
         },
         {
-          "title": "16 הלוחמים שסירבו לצאת לסיור עם פרמדיקית בעזה נשלחו לכלא",
-          "summary": "5 מהלוחמים שהובילו את האירוע נשלחו ל-10 ימי מחבוש, ו-11 נוספים ל-5 ימים. סירובם לצאת לפעילות הוביל לביטול פעילות מבצעית ברצועה, וחלק מהחיילים יעברו ועדת הערכה לפני חזרתם ללחימה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/Hkef41RtwGl/Hkef41RtwGl_0_97_1601_901_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/sk5nfjguze",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-08-30T21:03:55.000Z"
-        },
-        {
-          "title": "בצל מחאה ליד הבקו\"ם: יום גיוס חרדים לצה\"ל יוצא לדרך",
+          "title": "טראמפ מאיים אחרי הירי האיראני לעבר ירדן: \"נכה בהם בעוצמה\"",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-military/2026_q3/Article-3719d6d3f4150a1027.htm",
+          "link": "https://www.mako.co.il/news-world/2026_q3/Article-340bc735bc750a1026.htm",
           "source": "mako / N12 — חדשות (sitemap)",
-          "pubDate": "2026-08-30T06:41:00.000Z"
+          "pubDate": "2026-08-31T12:32:00.000Z"
         },
         {
-          "title": "בכיר רבני ש\"ס נגד נתניהו: \"לא מאמינים לו, נצטרף לממשלה הבאה רק אחרי חוק פטור\"",
-          "summary": "הרב משה מאיה, זקן חברי מועצת חכמי התורה של ש\"ס, נשמע בהקלטה תוקף את רה\"מ: \"ביבי הבטיח המון, לא אאמין לו לכלום\". לדבריו, גם התחייבות להעביר חוק פטור מגיוס תוך 30 יום לא תספיק - וש\"ס לא תצטרף לממשלה לפני שיאושר",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/06/SyO91h5Nbx/SyO91h5Nbx_0_72_1280_721_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/sjmbfjzdfx",
+          "title": "השבתת מתקני ההתפלה: אין מים בברזים בחוף בת\"א; מערך הסייבר: זו לא מתקפה",
+          "summary": "עיריית ת\"א החליטה לצמצם את השימוש במקורות מים \"לא חיוניים\" בעקבות השבתת רוב מתקני ההתפלה הפרטיים בישראל. מערך הסייבר: \"זה לא אירוע סייבר\". הרקע הוא עכירות חמורה במי הים שנגרמה ממזג האוויר. מתקן אחד חזר לעבוד, הערכה: מתקנים שונים, גם אם הם קרובים גאוגרפית, יחזרו לפעול בזמנים שונים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/SJeZuMXuze/SJeZuMXuze_0_388_961_541_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/s1f0zfmomg",
           "source": "Ynet — חדשות",
-          "pubDate": "2026-08-30T18:17:08.000Z"
+          "pubDate": "2026-08-31T15:05:28.000Z"
         },
         {
-          "title": "יולי אדלשטיין מאשר: יהיה איחוד עם גנץ בקרוב",
+          "title": "אחרי הסערה: דדו בר כליפא ימונה לאלוף פיקוד המרכז - וייכנס לתפקידו בשנה הבאה",
+          "summary": "פחות מחודש אחרי ההכרזה של כ\"ץ בריאיון בטלוויזיה על המינוי הצפוי, אישר צה\"ל כי בר כליפא יחליף את בלוט בפיקוד המרכז. \"הקצין יחל את תפקידו ב-2027, בהתאם להערכת המצב המבצעית\", נמסר. בנוסף, בדיון איוש בראשות הרמטכ\"ל הוחלט על מינוי מפקד חדש לשייטת 13, וכן על מינוי מפקדי אוגדות וחטיבות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/17/HJIo9UNILeg/HJIo9UNILeg_143_0_988_556_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/b1coznqoge",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-08-31T16:56:55.000Z"
+        },
+        {
+          "title": "סגלוביץ': אי אפשר לקיים שותפות עם מפלגות ערביות אחרי 7/10? זה מופרך ושקרי",
+          "summary": "מנסור עבאס הכריז על הצטרפותו של סגן השר לביטחון פנים לשעבר לרשימת רע\"מ, היהודי הראשון אי פעם. \"זו הדרך היחידה שבה המדינה ניצחה את הפשע. רע\"מ בחרה לחזור לממשלה\", הוא אמר. סגלוביץ', לשעבר ניצב במשטרה, הדף את הטענות שמדובר במעשה של חולשה פוליטית: \"אי אפשר להוביל תיקון במדינה ללא חיבור\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/rJg9Yj4Qufe/rJg9Yj4Qufe_0_133_1280_721_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/elections2026/article/sjamoqq00ge",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-08-31T17:01:56.000Z"
+        },
+        {
+          "title": "מזכיר צבא ארה\"ב הודיע לטראמפ על התפטרותו",
+          "summary": "המזכיר הצבאי דן דריסקול מסר לנשיא את מכתב ההתפטרות שלו, אחרי מתיחות ארוכה עם שר ההגנה הגסת' - שהדיח את חברו. לפי ה\"וול סטריט ג'ורנל\", גם סגנו יעזוב את התפקיד בשבוע הקרוב",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/H1L5uK7dMl/H1L5uK7dMl_0_21_800_451_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/bjgafymugl",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-08-31T23:05:54.000Z"
+        },
+        {
+          "title": "חומרי ההרדמה במחית לתינוקות: נעצר חשוד במעורבות במקרה",
+          "summary": "כחודשיים וחצי לאחר שילדים קטנים הובהלו לבית חולים במצב ישנוני עם סימני חולשה ואפאטיה - ובבדיקות הדם שלהם נמצאו שאריות של חומרי הרגעה והרדמה - השיגה המשטרה פריצת דרך ואיתרה חשוד במעורבות בפרשה. הוא נעצר לחקירה, ומחר יובא לדיון הארכת מעצר בבית המשפט. אין חשד לאירוע לאומני",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/18/H1P5IL11fMl/H1P5IL11fMl_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/h1wdmmx00mg",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-08-31T15:58:46.000Z"
+        },
+        {
+          "title": "לראשונה: הליטאים שוקלים לדרוש תפקידי שרים בממשלה",
+          "summary": "עד כה נמנעו נציגי דגל התורה לשבת סביב שולחן הממשלה מטעמים עקרוניים - בין היתר בשל אחריות המשרדים על חילול שבת. ח\"כ משה גפני צפוי לעמוד בראש רשימת יהדות התורה בבחירות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/04/BJmgxN3Qy8Gx/BJmgxN3Qy8Gx_0_75_1280_721_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/elections2026/article/hj3ta11xdzl",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-08-31T14:44:40.000Z"
+        },
+        {
+          "title": "ראש מועצה מכהן מאזור הדרום נעצר בחשד לעבירות שוחד",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-israel-elections/2026/Article-27aa7bbd5c250a1026.htm",
+          "link": "https://www.mako.co.il/men-men_news/Article-7589aedd41650a1026.htm",
           "source": "mako / N12 — חדשות (sitemap)",
-          "pubDate": "2026-08-30T13:36:00.000Z"
+          "pubDate": "2026-08-31T04:31:00.000Z"
         },
         {
-          "title": "הערכות: רע\"מ תודיע היום על צירוף סגלוביץ', הוא יוצב במקום השני ברשימה",
-          "summary": "מנסור עבאס פעל בימים האחרונים במוסדות המפלגה, כדי לצרף את סגן השר לביטחון לאומי לשעבר - שיהיה המועמד היהודי הראשון ברשימת רע\"מ אי-פעם. לפי הערכות, סגלוביץ' יקבל את המקום השני ברשימה לכנסת",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/31/B18K0k9SGl/B18K0k9SGl_0_0_850_479_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/elections2026/article/sklkctm00zx",
+          "title": "רגעים לפני החטיפה: התיעוד של יהלי בן ה-10 על במגרש המשחקים",
+          "summary": "כ-6 שעות חלפו מאז דווח למשטרה על היעדרותו של יהלי ועד שאותר יחד עם יהודי בן 20 מירושלים - שחטף אותו באוטובוס לבני ברק. בתיעוד האחרון מפתח תקווה נראה הילד על הקורקינט במגרש המשחקים. אימו סיפרה ל-ynet: \"הוא הפעיל עליו מניפולציות\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/r1G000VXdfl/r1G000VXdfl_82_72_451_254_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/r1hxaeqdge",
           "source": "Ynet — חדשות",
-          "pubDate": "2026-08-31T05:07:29.000Z"
-        },
-        {
-          "title": "באוצר הודפים את טענות מערכת הביטחון: \"משקף ניהול רשלני בכל הקשור לתקציב\"",
-          "summary": "אחרי שבמערכת הביטחון התריעו כי אגף התקציבים בולם העברת 15 מיליארד שקלים בזמן של מחסור חמור בהאמרים וחימושים, יוצאים בכירי האוצר למתקפת נגד. לדבריהם, \"התקציב 'שוכב' בוועדת הכספים של הכנסת. זאת חוצפה שאין שנייה לה לומר שזה תקוע באוצר. הם מפריחים ספינים שנועדו להפחדת הציבור\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/06/ryxdJ2PHxx/ryxdJ2PHxx_0_0_850_479_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/skpwuawofg",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-08-30T20:14:08.000Z"
-        },
-        {
-          "title": "ראש מועצה נעצר עם בני משפחתו, החשד: שוחד, הטיית מכרזים והעסקה פיקטיבית",
-          "summary": "בפשיטה של להב 433 נעצרו 7 חשודים, בהם ראש מועצה בדרום, ועוכבו 6 נוספים. לפי החשד, כספים הוצאו במרמה מקופת הרשות והועברו לכיסיהם. \"עבריינים במגזר הבדואי מנסים להפוך רשויות חוק למאחזי פשיעה\", מסרה המשטרה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/Sye11mYzuMe/Sye11mYzuMe_0_88_961_541_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/h1bvttgdml",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-08-31T05:40:24.000Z"
-        },
-        {
-          "title": "צה\"ל השמיד תשתיות בעלי טאהר; מחבלים נהרגו בתוואי - חלקם נמלטו",
-          "summary": "",
-          "image": null,
-          "link": "https://www.mako.co.il/news-military/2026_q3/Article-401809aa95150a1027.htm",
-          "source": "mako / N12 — חדשות (sitemap)",
-          "pubDate": "2026-08-30T06:15:00.000Z"
+          "pubDate": "2026-08-31T18:07:56.000Z"
         }
       ]
     },
     {
       "column": 2,
       "name": "כלכלה / עסקים",
-      "brief": "מחיר הדלק בישראל משתווה לשיא כל הזמנים ויעמוד מחצות על 8.25 שקלים לליטר, בעקבות עלייה של 6% במחיר הבנזין בעולם ועדכון הבלו, כאשר במשרד האוצר בוחנים צעדים לבלימת ההתייקרות. במקביל, מתיחות חריגה נרשמת בין האוצר לתעשיות הביטחוניות: מנכ\"ל רפאל התריע כי עיכוב תשלומים מצד המדינה מאלץ את החברה ליטול הלוואות כדי לשלם לספקים, וזאת חרף זינוק של 20% במכירות וצבר הזמנות שהגיע ל-75.8 מיליארד שקל.\n\nבגזרת הנדל\"ן נרשמו שתי הכרעות משפטיות משמעותיות בתל אביב: בית המשפט עצר את הגרלת הזכויות במתחם שדה דב בשל אי-ודאות סביב זיהום קרקע מסוג PFAS, שעלול לשבש חלוקת שווי של מיליארדי שקלים. מנגד, ניתן אור ירוק להקמת 750 דירות במתחם מוסך דן בצפון העיר לאחר שעתירת תושבים נדחתה. בשוק המגורים, חברת אאורה סיכמה את המחצית הראשונה עם מכירת 291 דירות, תוך הישענות על מבצעי הנחות של עד 12%.\n\nבמישור העסקי, חברת אקו דיווחה על רכישת המתחרה הישירה שלה, ובית הדין לעבודה חייב את שלמה סיקסט בתשלום פיצויים בסך 4.7 מיליון שקלים לעובדיה. בתוך כך, מחלבות גד ומשרד הבריאות הודיעו על איסוף יזום של גבינת קממבר בעקבות גילוי חיידק ליסטריה במוצר.",
+      "brief": "יוקר המחיה בישראל רושם שיא חדש: מחיר ליטר בנזין 95 מזנק הלילה לרמתו הגבוהה בכל הזמנים – 8.25 שקלים לליטר. ההתייקרות נובעת משילוב של עלייה בשיעור של 6% במחירי הבנזין בשווקים הבינלאומיים לצד עדכון רכיב הבלו ברשות המסים. מנגד, עובדים שכירים צפויים לראות הקלה מסוימת בתלוש השכר של חודש אוגוסט, עם כניסתו לתוקף של עדכון דמי ההבראה.\n\nבגזרת הנדל\"ן והתשתיות נרשמו התפתחויות משמעותיות בהיצע המגורים. הרשות הממשלתית להתחדשות עירונית הקצתה 100 מיליון שקל לסבסוד פרויקטים בערד ובדימונה, שבמסגרתם ייבנו כ-760 דירות במתחמים שנפגעו מירי טילים, במטרה להבטיח את כדאיותם הכלכלית ליזמים. במקביל, בית המשפט לעניינים מנהליים בתל אביב דחה עתירת תושבים ונתן אור ירוק להקמת 750 דירות במתחם מוסך דן בצפון העיר. \n\nבזירה המשפטית והתאגידית, בית הדין לעבודה אישר ניהול תביעה ייצוגית נגד ארבע קופות החולים בטענה להפליה מגדרית במתן החזרים כספיים לגברים על שירותי טיפול בתינוקות לאחר לידה. לצד זאת, פורסם כי רעיית הרמטכ\"ל מכהנת כדירקטורית בחברה המשמשת ספקית מזון לצה\"ל. בדרום, עיריית באר שבע וחברת ליים השיקו פיילוט ראשון של קורקינטים ואופניים שיתופיים בעיר.",
       "cards": [
         {
           "title": "שיא של כל הזמנים: מחיר הדלק החל מחצות - 8.25 שקלים",
@@ -99,31 +99,23 @@
           "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/09/rJ1Et5ht11l/rJ1Et5ht11l_0_0_3000_1689_0_medium.jpg",
           "link": "https://www.ynet.co.il/economy/article/s15aobwogg",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-08-31T04:25:26.000Z"
+          "pubDate": "2026-08-31T21:01:13.000Z"
         },
         {
-          "title": "מנכ\"ל רפאל על עיכוב התשלומים: \"מקבלים מהאוצר אמפתיה, לא פתרונות\"",
-          "summary": "יואב תורג'מן מותח ביקורת חריפה על משרד האוצר בעקבות עיכוב התשלומים לחברה, ומזהיר כי רפאל נאלצת לקחת הלוואות כדי לעמוד בהתחייבויותיה לספקים. החברה רשמה ברבעון השני זינוק של 20% במכירות וצבר הזמנות של 75.8 מיליארד שקל",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/08/Hk1J60Q6lx/Hk1J60Q6lx_0_0_1920_1080_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/rkerqn11dge",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-08-30T14:14:44.000Z"
-        },
-        {
-          "title": "בתקופת בחירות: סמוטריץ' מתכוון לבלום את התייקרות הדלק",
+          "title": "דמי ההבראה שלכם עלו, בדקו את התלוש של אוגוסט",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-money/2026_q3/Article-c709e096fe250a1027.htm",
+          "link": "https://www.mako.co.il/finances-news/Article-e224b0830f750a1027.htm",
           "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-08-30T14:00:00.000Z"
+          "pubDate": "2026-09-01T03:00:00.000Z"
         },
         {
-          "title": "בגלל זיהום הקרקע בשדה דב: ביהמ\"ש עצר את הגרלת הזכויות בגוש הגדול בת\"א",
-          "summary": "אי הוודאות סביב זיהום PFAS שהתגלה בשטחי רובע שדה דב מעכבת את חלוקת הזכויות בין אלפי בעלי הקרקע הפרטיים במתחם הגוש הגדול. בית משפט השלום בהרצליה קבע כי בשלב זה אין לבצע את הגרלת המתחמים, מחשש שהבדלים בהיקף הזיהום, בעלויות הטיפול ובמשך העיכוב בין המתחמים ישפיעו על שוויים ויובילו לחלוקה לא שוויונית של זכויות בשווי מיליארדי שקלים",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/26/H1Wr81aqJl/H1Wr81aqJl_0_0_800_600_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/rjxns51100mx",
+          "title": "100 מיליון שקל לדימונה וערד: כ-760 דירות ייבנו במתחמים שנפגעו מטילים",
+          "summary": "הרשות הממשלתית להתחדשות עירונית הקצתה תקציב לסבסוד מיזמי התחדשות עירונית במתחמים שנפגעו מטילים במלחמה עם איראן בערים דימונה וערד, במטרה להפוך אותם לכדאיים כלכלית עבור היזמים. מדובר ב-253 דירות שנפגעו",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/16/S1AQMXRnWg/S1AQMXRnWg_67_166_1214_683_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/sky0acmdgg",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-08-30T11:47:28.000Z"
+          "pubDate": "2026-08-31T06:35:58.000Z"
         },
         {
           "title": "ביהמ\"ש דחה את העתירה: אור ירוק ל-750 דירות במקום מוסך דן בצפון ת\"א",
@@ -134,154 +126,242 @@
           "pubDate": "2026-08-31T05:23:32.000Z"
         },
         {
-          "title": "דוחות כספיים:החברה שמכרה 128 דירות ברבעון השני",
-          "summary": "חברת אאורה מסכמת את הרבעון השני של 2026: החברה מדווחת על מכירת 291 דירות במחצית הראשונה של 2026. במקביל, החברה מציינת כי במסגרת מבצע מכירות בו ניתנו הנחות של עד 12% במחירי הדירות נחתמו עוד למעלה מ-100 חוזים",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/83n85zw1n/83n85zw1n_295_204_1475_831_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/bkgk8911ozl",
+          "title": "אושרה ייצוגית נגד קופות החולים: \"מפלות גברים בשירותי היריון ולידה\"",
+          "summary": "פרסום ראשון: ביה\"ד לעבודה אישר לנהל תביעה ייצוגית נגד כללית, מכבי, מאוחדת ולאומית בטענה שהן מפלות גברים בהחזרים כספיים על שירותים הקשורים לטיפול בתינוקות לאחר הלידה, בהם: ייעוץ שינה וביקור אחות בבית. הקופות טוענות כי פעלו לפי תקנונים שאושרו על ידי משרד הבריאות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/06/HJPkP6tyWg/HJPkP6tyWg_303_290_2414_1359_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/hyeu8jxomg",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-08-30T12:43:57.000Z"
+          "pubDate": "2026-08-31T12:12:05.000Z"
         },
         {
-          "title": "\"אנחנו בידיים הנכונות\": אקו רוכשת את המתחרה הישירה",
+          "title": "אשת הרמטכ\"ל מכהנת כדירקטורית בספקית מזון של צה\"ל",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-business/hi_tech/Article-b65a293e64250a1026.htm",
+          "link": "https://www.mako.co.il/news-money/2026_q3/Article-47db01378a650a1026.htm",
           "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-08-30T10:48:00.000Z"
+          "pubDate": "2026-08-31T07:39:00.000Z"
         },
         {
-          "title": "בית הדין: שלמה סיקסט תפצה עובדים ב-4.7 מיליון שקלים",
-          "summary": "",
-          "image": null,
-          "link": "https://www.mako.co.il/news-money/2026_q3/Article-dccb76e2e9250a1027.htm",
-          "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-08-30T12:24:00.000Z"
-        },
-        {
-          "title": "מתנה לחג: התוספת שאלפי עובדים יקבלו בתלוש השכר הקרוב",
-          "summary": "",
-          "image": null,
-          "link": "https://www.mako.co.il/news-money/2026_q3/Article-1860b404d1250a1027.htm",
-          "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-08-30T10:07:00.000Z"
-        },
-        {
-          "title": "משרד הבריאות: אותר חיידק ליסטריה בקממבר של מחלבות גד",
-          "summary": "המחלבה הודיעה על ריקול של גבינת קממבר 33% שומן שתוקפה פג ב-7 בספטמבר 2026:\"בבדיקה שנערכה על ידי היצרן נמצא במוצר חיידק ליסטריה מונוציטוגנס. צרכנים שברשותם המוצר מתבקשים להימנע מצריכתו\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/ryTGa3WOGe/ryTGa3WOGe_0_102_999_563_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/bkvdkt11dfl",
+          "title": "שופטת נזפה בביטוח על חוסר רגישות כלפי מפונה מ-7/10",
+          "summary": "\"איילון\" סירבה לפצות תושב שדרות על תאונה כי רישיונו נשלל. אלא שהודעת השלילה נשלחה לביתו כשהיה מפונה אחרי הטבח. ביהמ\"ש העמיד אותה במקומה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/08/16/rkXaU3ztCq/rkXaU3ztCq_1_48_1000_563_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/rjqzthz00me",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-08-30T14:40:16.000Z"
+          "pubDate": "2026-08-31T08:58:13.000Z"
+        },
+        {
+          "title": "החלטה נדירה בעליון: אומן יפונה מביתו בשל חובות עתק",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-money/2026_q3/Article-a808bc0fb1750a1026.htm",
+          "source": "mako / N12 — כלכלה (sitemap)",
+          "pubDate": "2026-08-31T09:24:00.000Z"
+        },
+        {
+          "title": "מכרה דירה ב-700 אלף שקל – ותבעה: \"נעקצתי\"",
+          "summary": "אישה טענה שנפלה קורבן לנוכלים ששכנעו אותה להעביר להם כסף. בית המשפט הסכים שהייתה תרמית, אבל קבע שלא הוכח שהרוכשים בפועל היו חלק ממנה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/12/03/10402268/10402268_0_0_981_552_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/bj2hxazogl",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-08-31T08:57:43.000Z"
+        },
+        {
+          "title": "לא רק בת\"א: הקורקינטים השיתופיים מגיעים לבאר-שבע",
+          "summary": "הפיילוט העירוני, יחד עם חברת ליים, יחל בפריסה ראשונית של 100 זוגות אופניים ו-100 קורקינטים. תעריף הנסיעה יעמוד על 6 שקלים לפתיחת כלי ו-1.1 שקלים לכל דקת רכיבה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/06/23/HJ0v36l3O/HJ0v36l3O_0_166_1601_901_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/yokra14884040",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-08-31T21:00:00.000Z"
         }
       ]
     },
     {
       "column": 3,
       "name": "שיווק / פרסום",
-      "brief": "רשת \"המשביר\" משיקה מהלך שיווקי ופרסומי חדש תחת הסלוגן \"יש לכם את זה\", בהובלת הסטייליסטית ויוצרת התוכן הילה רביבו, שתשמש כפנים של המותג ותוביל את פעילות הפרסום שלו. הפעילות החדשה תתמקד במגוון קטגוריות מרכזיות ברשת, בהן תחום הביוטי, קולקציות נשים, הלבשה תחתונה, אופנת גברים ולייף סטייל, ותשלב בין אופנה לתוכן והשראה לחיי היום-יום. \n\nהמהלך הוא חלק מאסטרטגיית הצמיחה של המשביר, שמטרתה לחזק את מעמד הרשת כיעד מוביל ואיכותי בתחומי האופנה וסגנון החיים, בין היתר באמצעות הבלטת מגוון המותגים הבינלאומיים שהיא מציעה. הבחירה ברביבו משקפת את המשך המגמה הקמעונאית של רתימת יוצרי תוכן ומובילי דעה מעולמות הסטיילינג לחיזוק הקשר והרלוונטיות מול קהלי היעד.",
+      "brief": "ציון דרך משמעותי בעולם הפרסום והטכנולוגיה: OpenAI חצתה לראשונה את רף מיליארד הדולר בהכנסות שנתיות מקוצבות מפרסום ב-ChatGPT, נתון הממחיש את הפיכתה של הפלטפורמה לשחקנית מפתח בשוק המדיה. במקביל, עולם ה-AI ממשיך לחלחל לקריאייטיב המסורתי, כשסניקרס רותמת את התופעה בקמפיין חדש המציג צ'אטבוטים ש\"מאבדים את זה\" כשהם רעבים.\n\nבגזרת הבכירים נרשמו תנודות גלובליות ומקומיות: אוליבייה פרנסואה, סמנכ\"ל השיווק הוותיק של תאגיד הרכב סטלנטיס, פורש מתפקידו ויעבור לשמש כיועץ. בישראל, לאה ריינר, לשעבר סמנכ\"לית השיווק של נסטלה גלידות, מונתה לתפקיד סמנכ\"לית השיווק של אדידס ישראל.\n\nבזירת הקמפיינים הבינלאומית, פרננדו מצ'אדו השיק מהלך ראשון עבור רשת צ'יפוטלה שבמסגרתו הכניס 100 יוצרי תוכן למטבחי הרשת, מותג הארוחות Factor גייס את סרינה וויליאמס לקידום תפריטים ייעודיים למשתמשי תרופות GLP-1, ו-BetMGM מינתה את סוכנות Cape כסוכנות הפרסום הרשמית שלה לצד מהלך בהובלת ג'ון האם. בישראל, רשת אושר עד השיקה קמפיין לקראת החגים בכיכובו של שולי רנד.\n\nבגזרת הצרכנות המקומית לקראת פתיחת שנת הלימודים, נתוני וולט מצביעים על זינוק חד של 660% בהזמנות של חולצות בית ספר ב-48 השעות האחרונות, לצד עלייה של מאות אחוזים ברכישת מחברות וציוד לימודי נוסף ברגע האחרון.",
       "cards": [
         {
-          "title": "המשביר עולה בקמפיין תחת הסלוגן: \"יש לכם את זה\"",
-          "summary": "המשביר משיק קמפיין חדש בהובלת הסטייליסטית, יוצרת התוכן הילה רביבו , תחת הסלוגן: \"יש לכם את זה\". הילה תוביל את פעילות הפרסום והשיווק של הרשת ותהיה הפנים של המותג במגוון קטגוריות. הפעילות החדשה תתמקד בין היתר בביוטי, קולקציות נשים, הלבשה תחתונה, לייף סטייל, Work Life Balance וקולקציית הגברים, ותשלב בין אופנה, תוכן והשראה לחיי היום יום. המהלך הוא חלק מאסטרטגיית הצמיחה של המשביר, הממשיכה להשקיע בפיתוח תחומי האופנה והלייף סטייל ובחיזוק מעמדה כמותג אמין ואיכותי, באמצעות מגוון רחב של מותגים בינלאומיים ",
-          "image": "https://shivuk.me/wp-content/uploads/2026/08/MASHBIRNEW-768x432.webp",
-          "link": "https://shivuk.me/campaigns/39480",
+          "title": "ChatGPT Surpasses $1 Billion in Annualized Ads Revenue",
+          "summary": "The milestone underscores how important the business has become to parent company OpenAI.",
+          "image": null,
+          "link": "https://www.adweek.com/programmatic/chatgpt-openai-billion-advertising-revenue/",
+          "source": "Adweek",
+          "pubDate": "2026-08-31T13:48:19.000Z"
+        },
+        {
+          "title": "Fernando Machado Just Let 100 Creators Loose in 50 Chipotle Kitchens",
+          "summary": "In his first campaign for the burrito chain, Machado is building on its long-running \"Behind the Foil\" campaign",
+          "image": null,
+          "link": "https://www.adweek.com/brand-marketing/fernando-machado-just-let-100-creators-loose-in-50-chipotle-kitchens/",
+          "source": "Adweek",
+          "pubDate": "2026-08-31T07:53:00.000Z"
+        },
+        {
+          "title": "Stellantis’ Olivier Francois Steps Down, But Hasn’t Driven Off Into the Sunset Yet",
+          "summary": "The auto company's long-serving CMO will continue on in an advisory role",
+          "image": null,
+          "link": "https://www.adweek.com/brand-marketing/stellantis-olivier-francois-steps-down-but-hasnt-driven-off-into-the-sunset-yet/",
+          "source": "Adweek",
+          "pubDate": "2026-08-31T16:39:24.000Z"
+        },
+        {
+          "title": "לאה ריינר מונתה לסמנכ\"לית השיווק של אדידס ישראל",
+          "summary": "אדידס ישראל, הזרוע המקומית של חברת אדידס העולמית, הפועלת בהובלת המנכ\"ל יאיר בל, מודיעה על מינויה של לאה ריינר לתפקיד סמנכ\"לית השיווק של החברה. אדידס ישראל מנהלת את פעילות המותג בישראל, הכוללת פעילות קמעונאית וסיטונאית רחבה באמצעות רשת חנויות, אתר הסחר ושותפים עסקיים מובילים ברחבי הארץ. ריינר מצטרפת לאדידס ישראל לאחר למעלה מעשור בתפקידי ניהול ושיווק בכירים בחברות מוצרי צריכה וקמעונאות מובילות. בתפקידה האחרון כיהנה כסמנכ\"לית השיווק של נסטלה גלידות, שם הובילה מהלכים אסטרטגיים בתחומי הצמיחה, החדשנות",
+          "image": "https://shivuk.me/wp-content/uploads/2026/08/7536.webp",
+          "link": "https://shivuk.me/news/marketingnews/39500",
           "source": "מנהלי שיווק מצייצים",
-          "pubDate": "2026-08-30T06:35:17.000Z"
+          "pubDate": "2026-08-31T08:17:49.000Z"
+        },
+        {
+          "title": "אושר עד שוברת את השוק: שולי רנד מככב בקמפיין עם שיחה מפתיעה | צפו",
+          "summary": "הזמר והיוצר המוערך הגיע לערוך קניות לחג ברשת המזון, אך שיחת טלפון בלתי צפויה מאדם שנראה בדיוק כמוהו שלחה אותו למסע קומי ומסובך בזמן שהוציא את העגלה משליטה",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_618/rsz_615_346_0133010926.png",
+          "link": "https://www.ice.co.il/advertising-marketing/news/article/1128035",
+          "source": "אייס",
+          "pubDate": "2026-09-01T01:28:09.000Z"
+        },
+        {
+          "title": "Snickers Says Even Your AI Chatbot Isn’t Itself When It’s Hungry",
+          "summary": "Snickers and BBDO have created two films that demonstrate AI acting unlike itself",
+          "image": null,
+          "link": "https://www.adweek.com/creativity/snickers-says-even-your-ai-chatbot-isnt-itself-when-its-hungry/",
+          "source": "Adweek",
+          "pubDate": "2026-08-31T09:00:00.000Z"
+        },
+        {
+          "title": "Factor Serves Up a GLP-1 Meal Plan in New Serena Williams Ad Spot",
+          "summary": "The meal kit brand’s “Let’s Eat Real” campaign depicts the tennis star preparing for the US Open.",
+          "image": "https://static-www.adweek.com/wp-content/uploads/2026/08/Factor-x-Serena-Williams-01.png?w=1024",
+          "link": "https://www.adweek.com/brand-marketing/factor-serves-up-a-glp-1-meal-plan-in-new-serena-williams-ad-spot/",
+          "source": "Adweek",
+          "pubDate": "2026-08-31T14:55:37.000Z"
+        },
+        {
+          "title": "Jon Hamm Ad Kicks Off BetMGM’s AOR Partnership With Indie Agency Cape",
+          "summary": "After two years of successful projects, Cape is officially the betting platform’s agency of record",
+          "image": null,
+          "link": "https://www.adweek.com/agencies/jon-hamm-ad-kicks-off-betmgms-aor-partnership-with-indie-agency-cape/",
+          "source": "Adweek",
+          "pubDate": "2026-08-31T08:30:00.000Z"
+        },
+        {
+          "title": "Cheez-It Brings Game-Day Hot Takes From the Stands to the Couch",
+          "summary": "Cheez-It's new creative direction centers on college football culture.",
+          "image": null,
+          "link": "https://www.adweek.com/creativity/cheez-it-brings-game-day-hot-takes-from-the-stands-to-the-couch/",
+          "source": "Adweek",
+          "pubDate": "2026-08-31T09:00:00.000Z"
+        },
+        {
+          "title": "רגע לקראת פתיחת שנת הלימודים: זינוק של כ-660% בהזמנת חולצות בית ספר ב-48 השעות האחרונות",
+          "summary": "לקראת פתיחת שנת הלימודים, נתוני וולט מצביעים על עלייה בהזמנת ציוד בחזרה למסגרות הלימודיות. העלייה החדה ביותר נרשמה בהזמנת מחברות, עם זינוק של כ-320%, ואחריה קופסאות אוכל שעלו בכ-260%. בשבוע האחרון הזמנת חולצות בית ספר עלתה בכ-180%, כלי כתיבה כמו סרגלים, מספריים ומחדדים עלו בכ-135%, עפרונות בכ-120%, טושים בכ־115%, קלמרים בכ־90% ובקבוקי שתייה בכ־80%. חולצות עם סמל בית ספר בולטות במיוחד כפריט של הרגע האחרון: ב-48 השעות האחרונות שנבדקו נרשמה עלייה של כ-660% בהזמנת חולצות עם סמל בית ספר, לעומת התקופה",
+          "image": "https://shivuk.me/wp-content/uploads/2026/08/44558-768x422.webp",
+          "link": "https://shivuk.me/news/%d7%a6%d7%a8%d7%9b%d7%a0%d7%95%d7%aa/39503",
+          "source": "מנהלי שיווק מצייצים",
+          "pubDate": "2026-08-31T12:19:10.000Z"
         }
       ]
     },
     {
       "column": 4,
       "name": "טק / טכנולוגיה",
-      "brief": "עסקת הענק לרכישת פייפאל ביותר מ-53 מיליארד דולר בידי קונסורציום בהובלת סטרייפ ואדוונט קרסה במפתיע. במקביל בזירת המיזוגים, נחשף כי פאלו אלטו נטוורקס ניהלה מגעים לרכישת אוקטה ודאטהדוג לפני שחתמה על רכישת סייברארק הישראלית ב-25 מיליארד דולר. בינתיים, היריבות בין סם אלטמן לאילון מאסק מסלימה: OpenAI הודיעה כי תחסום את כלי פיתוח הקוד Cursor מהמודלים שלה בעקבות רכישתו בידי SpaceXAI של מאסק.\n\nבעולם ה-AI והסייבר, קואליציה חסרת תקדים של כ-120 חברות טכנולוגיה, בהן OpenAI, גוגל ומיקרוסופט, פרסמה קריאה דחופה לפעול להגנת מערכות מפני סוכני AI מתקדמים. החששות מקבלים משנה תוקף כשאנת'רופיק מזהירה מנוזקות הפורצות לחשבונות Claude, בעוד גוגל מצידה מרחיבה את יכולות הסוכנים ומשלבת ב-AI Mode הזמנה אוטונומית של טיסות ומלונות. \n\nאירועי אבטחה בולטים נרשמו גם מחוץ לתחום ה-AI: מתקפת כופרה על נמלי תעופה מרכזיים בבריטניה חשפה את פרטיהם של כ-8.7 מיליון נוסעים, ודליפת ענק של 12 טרה-בייט משרתי Steam חשפה עשור של היסטוריית גיימינג. מחוץ לאטמוספרה, נאס\"א רשמה הישג עם שיגורו המוצלח של טלסקופ החלל \"רומן\", שייצא למסע לחקר החומר האפל עם שדה ראייה רחב פי 100 מזה של האבל.",
+      "brief": "עידן חדש באפל: טים קוק מסיים היום רשמית את תפקידו כמנכ\"ל החברה לאחר כ-13 שנה, שבמהלכן ביצר את מעמדה כמעצמה טכנולוגית עולמית. במקביל, ענקיות הטק ניצבות מול לחץ רגולטורי גובר: נציבות הסחר הפדרלית בארה\"ב (FTC) ו-22 תובעים כלליים הגישו תביעה נגד אמזון בטענה שגבתה עמלות פרסום נסתרות שייקרו מחירים לצרכנים, בעוד האיחוד האירופי הכפיף את ChatGPT, רדיט ורובלוקס לכללי הפיקוח והבטיחות המחמירים ביותר תחת חוק השירותים הדיגיטליים (DSA).\n\nהטמעת הבינה המלאכותית מעמיקה גם במגזר הממשלתי, כאשר הפנטגון צירף גרסאות מותאמות של ChatGPT ו-Grok של xAI לפורטל הכלים המרכזי שלו. מנגד, האתגרים סביב הטכנולוגיה מתרבים: אינסטגרם החלה להגביל את תפוצתם של פרופילי AI שאינם מזוהים בבירור, ואפל הציגה ראיות לכך שעובד לשעבר גנב מידע עסקי לטובת OpenAI והשמיד ממצאים.\n\nבזירת ההון סיכון, אנדריסן הורוביץ (a16z) הרחיבה את קרן הצמיחה שלה להיקף של 8.5 מיליארד דולר, ופלטפורמת החיזוי Polymarket גייסה 300 מיליון דולר בהובלת קרן 1789 Capital. בחזית הסייבר נרשמו שתי פגיעות משמעותיות: ענקית הבריאות האמריקאית McKesson נפלה קורבן לפריצה שבה נגנבו לכאורה מיליוני רשומות רפואיות, וקבוצת ריגול המקושרת לסין (Fire Ant) פיתחה יכולת תקיפה מתוחכמת המשתלטת על נתבי סיסקו ברשתות ארגוניות רגישות.",
       "cards": [
         {
-          "title": "אלטמן נגד מאסק: OpenAI תנתק את Cursor מהמודלים שלה אחרי רכישת הכלי בידי SpaceXAI",
-          "summary": "החברה הודיעה שהגישה למודלים שלה ב-Cursor, כלי AI לכתיבת קוד, תסתיים ב-12 בנובמבר 2026, והכל בגלל חשש שמאסק, אשר רכש את Cursor, ישתמש בהם בניגוד לתנאי השירות",
-          "image": "https://img.mako.co.il/2026/05/18/W_grid_fdsfkjasldkdfjaskdjfasdf_autoOrient_a.jpg",
-          "link": "https://www.mako.co.il/nexter-news/Article-eb2042914f150a1027.htm",
-          "source": "mako / N12 — דיגיטל (Nexter)",
-          "pubDate": "2026-08-30T10:06:00.000Z"
+          "title": "Read Tim Cook’s final message to Apple staff as CEO",
+          "summary": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most dominant forces in the daily lives of billions of people. Today is his last day as CEO. Sending lots of love to the Apple community on my last day as CEO. My title changes tomorrow, but the love I have for the Apple community never will. Thank you for being a constant source of inspiration. My gratitude ",
+          "image": null,
+          "link": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
+          "source": "The Verge",
+          "pubDate": "2026-08-31T16:30:45.000Z"
         },
         {
-          "title": "השיחות לרכישת פייפאל – קרסו",
-          "summary": "התוכניות לעסקת רכישה – שנועדה להפוך לאחת מרכישות המינוף הגדולות בהיסטוריה של ענף הפינטק – הסתיימו במפתיע. הקונסורציום המורכב מענקית התשלומים הפרטית סטרייפ (Stripe) ומחברת השקעות הפרייבט אקוויטי אדוונט אינטרנשיונל (Advent International), שניהל את המגעים הללו מול חלוצת התשלומים הדיגיטליים פייפאל (PayPal) בכוונה ל רכישתה , החליט לסגת רשמית מכוונתיו, כך על פי דיווחים אחרונים בנדון. ההחלטה לסגת מהעסקה, ששוויה העתידי הוערך ביותר מ-53 מיליארד דולר (לפי הצעה של 60.50 דולר למניה), הובילה מייד לקריסה חדה ",
-          "image": "https://www.pc.co.il/wp-content/uploads/2026/08/סטרייפ-ואדוונט-כבר-לא-רוצות-לרכוש-אותה.-פייפאל.jpg",
-          "link": "https://www.pc.co.il/news/457394/",
-          "source": "אנשים ומחשבים",
-          "pubDate": "2026-08-30T10:39:52.000Z"
+          "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+          "summary": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices \"were largely passed on to American consumers.\" According to the complaint , Amazon violated the FTC Act and over a dozen state laws. This lawsuit comes almost a year after Amazon agreed to pay $2.5 billion to settle an earlier FTC lawsuit over Pri",
+          "image": null,
+          "link": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+          "source": "The Verge",
+          "pubDate": "2026-08-31T21:41:42.000Z"
         },
         {
-          "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
-          "summary": "Here at Ars, we're intimately familiar with data leaks surrounding Valve's games , hardware , and the workings of Steam itself . But nothing could have prepared us for this weekend's \"terarelease\" encompassing more than 12TB of content related to seemingly every title available on Steam between 2003 to 2013. What's being sold as an \"as-complete-as-possible ... content server dump\" of Steam's defunct \"Steam2\" server architecture from that time period is now circulating around via a BitTorrent tra",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
-          "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+          "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+          "summary": "OpenAI’s ChatGPT will have to comply with tougher EU rules such as removing illegal content or face potential fines, the European Commission said on Monday, as Brussels grapples with how its existing digital regulation applies to rapidly evolving AI services. The Commission said the chatbot, social media forum Reddit, and gaming platform Roblox would be classified as so-called very large online platforms under the EU Digital Services Act, its landmark online safety regime. The designation means ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg",
+          "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
           "source": "Ars Technica",
-          "pubDate": "2026-08-30T21:40:56.000Z"
+          "pubDate": "2026-08-31T13:41:40.000Z"
         },
         {
-          "title": "נמלי תעופה בבריטניה הותקפו בכופרה; נגנב מידע ממיליוני לקוחות",
-          "summary": "האקרים גנבו פרטי מידע של כ-8.7 מיליון לקוחות שטסו מבריטניה – משלושה שדות תעופה גדולים בממלכה. זאת, בעקבות \"תקרית אבטחת סייבר\", כפי שמכנה זאת קבוצת MAG , שהייתה הקורבן למתקפה. בבעלות MAG נמצאים נמל התעופה הבינלאומי של מנצ'סטר, וכן נמלי התעופה איסט מידלנדס, שממוקם ליד דרבי ונוטינגהם, וסטנסטד שבלונדון. יצוין כי נכון להיום, אין טיסות ישירות מנמלי תעופה אלה לישראל. מ-MAG נמסר כי בידי ההאקרים נמצאים פרטי הקשר של הלקוחות, נתוני המכוניות שחנו בנמל התעופה וכן פרטי מיקוד. ההאקרים דרשו דמי כופר – בסכום שלא",
-          "image": "https://www.pc.co.il/wp-content/uploads/2026/08/shutterstock_1894525291.jpg",
-          "link": "https://www.pc.co.il/featured/457437/",
-          "source": "אנשים ומחשבים",
-          "pubDate": "2026-08-30T16:05:24.000Z"
-        },
-        {
-          "title": "לפני סייברארק: פאלו אלטו תכננה לרכוש את דאטהדוג ואוקטה",
-          "summary": "ניקש ארורה , מנכ\"ל פאלו אלטו (Palo Alto Networks), ניהל שיחות על רכישה עתידית של אוקטה (Okta) ושל דאטהדוג (Datadog). ענקית הסייבר ניהלה את הדיונים בסוף 2024 ובמהלך 2025. רק לאחר כישלון השיחות, היא חתמה על הסכם לרכישת סייברארק (CyberArk) הישראלית תמורת 25 מיליארד דולר. לפי דיווח של The Information , שחשף את המגעים, יעדי הרכישה הבאים של פאלו אלטו הם קריבל (Cribl) ו- קליק-האוס (ClickHouse). על פי הדיווח, בין סוף 2024 לתחילת 2025, ארורה קיים סדרת פגישות עם טוד מקינון , מנכ\"ל אוקטה. השיחות התקדמו מאו",
-          "image": "https://www.pc.co.il/wp-content/uploads/2025/12/Nikesh-2-credit-Mooli-Goldberg.jpg",
-          "link": "https://www.pc.co.il/news/world-news/457399/",
-          "source": "אנשים ומחשבים",
-          "pubDate": "2026-08-30T11:36:44.000Z"
-        },
-        {
-          "title": "\"אין לנו זמן\": כ-120 חברות קוראות \"לפעול בנחישות\" להגנה ממודלי ה-AI",
-          "summary": "יותר מ-100 חברות טכנולוגיה, בהן רבות מענקיות הבינה המלאכותית, חתמו על מכתב שקורא למקבלי ההחלטות ולגופים עסקיים \"לפעול בנחישות\" לחיזוק הגנות הסייבר מפני מודלי וסוכני ה-AI המתקדמים. המכתב מגיע על רקע אירועי אבטחת הסייבר המשמעותיים שקרו בחודשים האחרונים, ובהם התקיפה של \"הסוכנים הסוררים\" של OpenAI את האגינג פייס. \"יש לנו חלון זמן מוגבל לחיזוק הגנות הסייבר\", נכתב במכתב, עליו חתומות 116 חברות, ביניהן OpenAI , אנת'רופיק , מיקרוסופט , גוגל . לצד חברות מובילות בתחום הבינה המלאכותית, חתומות עליו חברות בול",
-          "image": "https://www.pc.co.il/wp-content/uploads/2026/08/b8b0f3da-19cd-4493-8640-ea447d63fd51.jpg",
-          "link": "https://www.pc.co.il/featured/457423/",
-          "source": "אנשים ומחשבים",
-          "pubDate": "2026-08-30T15:08:19.000Z"
-        },
-        {
-          "title": "בלי 30 טאבים פתוחים: ה-AI של גוגל יזמין לכם עכשיו מלונות וטיסות (גם בנקודות)",
-          "summary": "תמונה: גוגל כל מי שמתכנן חופשה או טיסה יודע שלרוב זה דורש מכם לפתוח עשרות טאבים בדפדפן, להשוות מחירים בצורה מסורבלת בכמה אתרים במקביל, לנהל ידנית טבלאות אקסל… בקיצור, כיף כמו לשבת טיסה טרנס-אטלנטית במושב אמצע. עכשיו גוגל מנסה לדחוס את כל כאב הראש הזה לצ'אט AI אחד והיא מכריזה על שורת עדכונים לממשק חיפוש ה-AI ה-AI Mode. על פי גוגל, העדכונים האלו הופכים את הכלי למעין סוכן נסיעות וירטואלי חכם, שיעביר את המשתמשים מחיפוש מידע לטיפול אקטיבי מלא בכל שלבי התכנון וההזמנה. מעקב אחרי מחירים ותשלום בנקודות h",
+          "title": "The Pentagon now has its own version of ChatGPT and Grok",
+          "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
           "image": null,
-          "link": "https://www.geektime.co.il/google-ai-mode-flights-hotels-miles/",
-          "source": "גיקטיים",
-          "pubDate": "2026-08-30T07:27:19.000Z"
+          "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+          "source": "TechCrunch",
+          "pubDate": "2026-08-31T20:13:45.000Z"
         },
         {
-          "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
-          "summary": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
+          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+          "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
           "image": null,
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-          "source": "BleepingComputer",
-          "pubDate": "2026-08-30T14:30:25.000Z"
+          "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+          "source": "TechCrunch",
+          "pubDate": "2026-09-01T00:13:00.000Z"
         },
         {
-          "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
-          "summary": "NASA’s Nancy Grace Roman Telescope blasts off. | Photo: NASA / John Kraus After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched . It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman will conduct an unprecedented survey of the universe . Its field of view is 100 times larger than Hubble's and, according to NASA, it can survey the s",
+          "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+          "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
           "image": null,
-          "link": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
-          "source": "The Verge",
-          "pubDate": "2026-08-30T16:36:39.000Z"
+          "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+          "source": "TechCrunch",
+          "pubDate": "2026-08-31T23:14:14.000Z"
         },
         {
-          "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-          "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft. Flock cameras have increasingly drawn ire from across the political spectrum as they've become the subject of pr",
+          "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+          "summary": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
           "image": null,
-          "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-          "source": "The Verge",
-          "pubDate": "2026-08-30T15:35:10.000Z"
+          "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
+          "source": "TechCrunch",
+          "pubDate": "2026-08-31T18:10:09.000Z"
+        },
+        {
+          "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+          "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks. Sygnia, the incident response firm that investigated the intrusion, said the actor",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYI5Ntk3CPoEGUHNQbd80hij-0QLnz3V_HBU3aXV-mvQq98IE6xsRlbuwZ2PNbbSV7dA-HlNfqRWj0_bd3XpQCOPt9R2gS3PJMm8lfMP_9IoKyhDNbY9NOotNDHO68v2DSUT_R-0UYTqZQc16DJM7OqS8_35iVUMqyy3GrUt7iMaIWz6iW6OSP2ddiDc/s1600/cisco-creds.jpg",
+          "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+          "source": "The Hacker News",
+          "pubDate": "2026-08-31T09:04:55.000Z"
+        },
+        {
+          "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+          "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+          "source": "TechCrunch",
+          "pubDate": "2026-08-31T23:41:10.000Z"
+        },
+        {
+          "title": "Instagram puts new limits on undisclosed AI profiles",
+          "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+          "source": "TechCrunch",
+          "pubDate": "2026-08-31T19:16:59.000Z"
         }
       ]
     },
     {
       "column": 5,
       "name": "ספורט",
-      "brief": "סנסציית ענק נרשמה באליפות ארצות הברית הפתוחה, כאשר נובאק ג'וקוביץ' הודח כבר בסיבוב הראשון לאחר הפסד בחמש מערכות למריאנו נאבונה הארגנטינאי – הדחתו המוקדמת ביותר של הסרבי מטורניר גראנד סלאם מאז 2006, לאחר שקרס פיזית במערכות המכריעות. \n\nבכדורגל האירופי, ריאל מדריד שמרה על מאזן מושלם בליגה הספרדית עם 0:4 על מלאגה משערים של ג'וד בלינגהאם וקיליאן אמבפה, בעוד יריבתה ברצלונה נמצאת על סף החתמתו של חלוץ ארסנל, גבריאל ז'סוס. באנגליה נרשמו משחקים רבי-שערים: צ'לסי גברה 3:4 על ברייטון, ומנצ'סטר יונייטד רשמה ניצחון בכורה עם 2:5 על איפסוויץ' בזכות שלושער של ברונו פרננדש. באיטליה, קומו הפתיעה את נאפולי עם 1:2, ובהולנד בישל אוסקר גלוך בתבוסה 0:4 שהנחילה אייאקס לטלסטאר. \n\nבגזרת הכדורסל, דרמה חסרת תקדים פקדה את צרפת כאשר מונאקו, אלופת המדינה ופיינליסטית היורוליג לשעבר, הורדה לליגה השלישית לאחר שבקשתה להשתתף בליגות הבכירות נדחתה. במישור המקומי, נבחרת ישראל איבדה סופית סיכוי להעפיל למונדובאסקט בעקבות הפסד 85:70 ללטביה, ובמכבי תל אביב נרשם מבוי סתום מול רומן סורקין הדורש פתיחה ושדרוג של חוזהו. בליגת העל בכדורגל, הפועל תל אביב פתחה עונה ב-0:0 חלש מול הפועל חיפה, במשחק שכלל פנדל מוחמץ ושני כרטיסים אדומים.",
+      "brief": "סוף עידן בכדורגל העולמי: לאו מסי הודיע על פרישה מנבחרת ארגנטינה לאחר 21 שנה וזכייה במונדיאל, בנימוק שנתן את כל שהיה לו למדים הלאומיים. במקביל, סנסציית ענק נרשמה באליפות ארצות הברית הפתוחה בטניס, כאשר נובאק ג'וקוביץ' הודח כבר בסיבוב הראשון לאחר קריסה פיזית והפסד בחמש מערכות למריאנו נאבונה הארגנטינאי – הדחתו המוקדמת ביותר בטורניר גראנד סלאם מאז 2006.\n\nבכדורגל האירופי, ליברפול השלימה עסקת ענק כשהחתימה את בראדלי ברקולה מפריז סן-ז'רמן תמורת 123 מיליון ליש\"ט, בעוד בספרד ברצלונה שמרה על מאזן מושלם והביסה 2:5 את ראיו וייקאנו בזכות צמדים של לאמין ימאל וראפיניה. \n\nבזירה המקומית, מכבי תל אביב כיכבה על הדשא ומחוצה לו: הצהובים גברו 1:3 על מכבי חיפה בצמד של דור פרץ, צירפו מחדש את גבי קניקובסקי, סיכמו עם ג'יימס טברנייר ומכרו את אבו פרחי לקולורדו מה-MLS תמורת 5.4 מיליון דולר. \n\nבכדורסל, נבחרת ישראל נעלה חלון מוקדמות עגום עם הפסד 85:70 ללטביה והודעה חריפה מאיגוד הכדורסל שהגדיר את הקמפיין ככישלון מקצועי, בעוד דני אבדיה הבהיר ברשתות כי היעדרותו נבעה מדרישתה של פורטלנד שלא לסכן את בריאותו.",
       "cards": [
+        {
+          "title": "סוף עידן: לאו מסי הודיע על פרישה מנבחרת ארגנטינה",
+          "summary": "אחרי 21 שנה במדים הלאומיים, שיאי הופעות ושערים וזכייה אחת במונדיאל, הפרעוש נפרד מארגנטינה: \"נתתי את כל מה שהיה לי, אין לי יותר מה לתת\". מסי חשף כי כתב את הודעת הפרישה יומיים אחרי ההפסד לספרד בגמר המונדיאל, והוסיף כי מות אביו חיזק את החלטתו: \"זה כואב בנשמה, אבל אני מבין שזה הזמן\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/B1WVwZiNfx/B1WVwZiNfx_0_0_1794_1010_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/bkagkfmdmx",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-08-31T15:14:49.000Z"
+        },
         {
           "title": "סנסציה באליפות ארה\"ב: נובאק ג'וקוביץ' הודח כבר בסיבוב הראשון",
           "summary": "מי היה מאמין? הסרבי בן ה-39 - אולי בטורניר האחרון שלו בניו יורק - נכנע למריאנו נאבונה הארגנטינאי (48 בעולם) 7:6 (5), 5:7, 4:6, 6:2, 6:1. ג'וקוביץ' כבר הוביל 1:2, אך קרס לחלוטין פיזית במערכה הרביעית והחמישית ואף הקיא מספר פעמים. לראשונה מאז אליפות אוסטרליה ב-2006 - 'נולה' מודח בסיבוב הראשון של טורניר גראנד סלאם",
@@ -291,76 +371,68 @@
           "pubDate": "2026-08-31T03:56:14.000Z"
         },
         {
-          "title": "עדיין מושלמת: ריאל מדריד הביסה 0:4 את מלאגה",
-          "summary": "צפו: הבלאנקוס לא התקשו מול העולה החדשה ורשמו 9 מ-9. בלינגהאם (18), אמבפה (30), גולר (90) והררו (ע') הכריעו. קורטואה לא ספג לראשונה העונה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885125/one1885125_0_0_800_444_0_medium.jpg",
-          "link": "https://livegame.ynet.co.il/games/531999",
+          "title": "עסקת הענק נחתמה: בראדלי ברקולה הוצג בליברפול",
+          "summary": "הצרפתי בן ה-23 עזב את פ.ס.ז' תמורת 123 מיליון ליש\"ט, סיכם על חוזה לחמש שנים - והפך לרכש השני היקר בתולדות המועדון. ליברפול תשלם 106 מיליון ליש\"ט באופן מיידי. בעקבות העסקה, גאקפו עשוי לעזוב",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/B1YvOfxuzg/B1YvOfxuzg_402_0_1985_1118_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/lgp1dok9i",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-08-30T15:02:14.000Z"
+          "pubDate": "2026-08-31T13:19:21.000Z"
         },
         {
-          "title": "דיווח: ברצלונה קרובה לסגור את העברת גבריאל ז'סוס מארסנל",
-          "summary": "אחרי שאופציית חוליאן אלבארס נפלה סופית, אלופת ספרד סימנה את החלוץ הברזילאי כאלטרנטיבה. לפי דיווחים, העסקה בין הצדדים על סף חתימה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/09/18/r1QnS9EZi/r1QnS9EZi_0_29_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/worldsoccer/article/hjxqwjzdme",
+          "title": "במעמד צד אחד: מכבי ת\"א חגגה עם 1:3 על מכבי חיפה",
+          "summary": "הקלאסיקו הראשון של העונה נצבע בצהוב: דור פרץ המשיך את פתיחת העונה האדירה שלו עם צמד והגיע לחמישה שערים בשני מחזורי ליגה בלבד, אושר דוידה הוסיף שער נפלא והצהובים התאוששו מההדחה הכואבת מאירופה. איתן אזולאי רק צימק בפנדל בדקה ה-88 עבור הירוקים, שהתעוררו מאוחר מדי ורשמו הפסד ראשון העונה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/HyleigHQOMe/HyleigHQOMe_0_92_1789_1008_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/byxt2czufl",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-08-30T13:15:14.000Z"
+          "pubDate": "2026-08-31T19:30:39.000Z"
         },
         {
-          "title": "3:4 מטורף לצ'לסי מול ברייטון, שלושער לפרננדש בניצחון של יונייטד",
-          "summary": "הבלוז כבר הוליכו 0:3 מול השחפים, שכמעט השלימו קאמבק מרשים. אחרי שני מחזורים הקבוצה של צ'אבי אלונסו שומרת על מאזן מושלם. השדים האדומים חגגו ניצחון בכורה: 2:5 על איפסוויץ', הקפטן להט",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/S1Yc5aWufl/S1Yc5aWufl_0_165_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/worldsoccer/article/sk4ryabufg",
+          "title": "דני אבדיה: \"לא מוכן שיטילו בספק את המחויבות שלי לנבחרת ישראל ולמדינה\"",
+          "summary": "אחרי הביקורת על היעדרותו ממשחקי הנבחרת בחלון הנוכחי, שחקן ה-NBA הגיב בעמוד האינסטגרם שלו: \"פורטלנד לא הייתה מוכנה לקחת סיכון עם הבריאות שלי, ובמצב שנוצר פשוט לא הייתה לי אפשרות לעלות ולשחק\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/09/08/ByiMqjwls/ByiMqjwls_0_206_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelibasketball/article/skrnhsfofe",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-08-30T17:28:44.000Z"
+          "pubDate": "2026-08-31T06:57:23.000Z"
         },
         {
-          "title": "הודחה סופית: נבחרת ישראל הפסידה 85:70 ללטביה",
-          "summary": "החבורה של אריאל בית הלחמי הציגה נחישות ואינטנסיביות, אך התקשתה לייצר נקודות ברגעים החשובים ואיבדה כל סיכוי אפשרי לעלות אל טורניר המונדובאסקט",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885166/one1885166_0_0_800_444_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/one531995",
+          "title": "איגוד הכדורסל: \"כישלון מקצועי שלא עומד בסטנדרטים של נבחרת ישראל\"",
+          "summary": "הכחולים-לבנים נעלו את חלון אוגוסט עם 85:70 ללטביה ומאזן 6:2 במוקדמות אליפות העולם. אחרי קמפיין ממנו נעדרו שחקנים בולטים. באיגוד פרסמו הודעה חריפה: \"אין בכוונתנו לייפות את המציאות או לחפש תירוצים\". על המשך דרכו של המאמן: \"החלטה שתתקבל באופן ענייני ולא מתוך סערת הרגע\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/rJOh5bMOMx/rJOh5bMOMx_50_10_1067_601_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelibasketball/article/rkmf8gg00fg",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-08-30T16:02:22.000Z"
+          "pubDate": "2026-08-31T10:30:47.000Z"
         },
         {
-          "title": "דרמה בצרפת: מונאקו הודחה מהליגה הבכירה - צפויה לשחק בליגה השלישית",
-          "summary": "אלופת צרפת בכדורסל ספגה מכה קשה: איגוד הכדורסל הצרפתי דחה את בקשתה לבחינה מחודשת של מצבה, ובכך מנע ממנה להשתתף בעונה הקרובה בשתי הליגות הבכירות. הקבוצה, שרק בעונה שעברה זכתה בארבעה תארים והגיעה ב-2025 לגמר היורוליג, עלולה למצוא את עצמה בליגה השלישית",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/B1nuE5bOMg/B1nuE5bOMg_0_125_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/worldbasketball/article/ryezn9w00mx",
+          "title": "רשמית: גבי קניקובסקי חתם במכבי ת\"א",
+          "summary": "אחרי עונה אחת בפרנצווארוש , הקשר בן ה-29 שב לקריית שלום תמורת מיליון אירו ויחתום לארבע שנים וירוויח חצי מיליון אירו בעונה. קניקובסקי, שזכה בשלוש אליפויות רצופות בישראל ובהונגריה, יחזור ללבוש את החולצה מספר 16 ויחזק את מרכז השדה של הצהובים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/SJ0wYmQdfx/SJ0wYmQdfx_0_0_818_460_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/rkgiyq7ogl",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-08-30T11:41:43.000Z"
+          "pubDate": "2026-08-31T16:21:29.000Z"
         },
         {
-          "title": "רגע לפני פתיחת העונה: המבוי הסתום של מכבי ת\"א וסורקין",
-          "summary": "הסנטר, שמחזיק בחוזה לשלוש עונות נוספות בשכר של כ-900 אלף דולר לעונה, ביקש לפתוח אותו בעקבות השינויים בשוק. מכבי הציעה להעלות את שכרו לכ-1.2 מיליון דולר, אך נציגיו דורשים סכום גבוה יותר. בסביבתו מצביעים על הפער בשכר בינו לבין ים מדר ותמיר בלאט ומבהירים: הוא אינו מרוצה מהמצב",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/18/HkOjT4RWQ11l/HkOjT4RWQ11l_403_286_2442_1375_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/r1sjbwfdgx",
+          "title": "חיזוק ענק בדרך: מלך שערי הליגה האירופית בעבר סיכם במכבי ת\"א",
+          "summary": "ג'יימס טברנייר (34) שעזב את גלזגו ריינג'רס אחרי 11 שנים - יגיע לישראל אחרי שהעדיף את ההצעה של הצהובים על פני שארלוט מה-MLS",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/05/17/ByDBtrUbvq/ByDBtrUbvq_0_26_1300_732_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/by11lhs700gg",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-08-31T03:30:00.000Z"
+          "pubDate": "2026-08-31T18:29:28.000Z"
         },
         {
-          "title": "הפועל ת״א פתחה עונה עם 0:0 חלש נגד הפועל חיפה",
-          "summary": "החבורה של ברדה סיפקה חצי ראשון חלש, התעוררה במחצית השנייה, אך לא ניצחה ואכזבה. טוריאל החמיץ פנדל, ג׳ראפי הצטיין. קריצ׳אק ואלטמן הורחקו באדום",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885156/one1885156_0_0_800_444_0_medium.jpg",
-          "link": "https://livegame.ynet.co.il/games/531988",
+          "title": "עוזב את מכבי ת\"א: אבו פרחי חתם בקולורדו",
+          "summary": "החלוץ יחתום לארבע שנים בקבוצה מה-MLS ויוצג מחר באופן רשמי. מחזיקת הגביע תקבל עבורו 5.4 מיליון דולר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/12/B1HFRqYUzx/B1HFRqYUzx_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/132lpfy3n",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-08-30T17:15:13.000Z"
+          "pubDate": "2026-08-31T14:15:40.000Z"
         },
         {
-          "title": "חגיגה: 0:4 לאייאקס על טלסטאר, אוסקר גלוך בישל",
-          "summary": "האורחת הציגה כדורגל חיובי והביסה משערים של דייבי קלאסן, סטיבן ברחאוס, טולו ארוקודארה ולאונרדו. הישראלי השלים 73 דקות ובישל את השער השני. צפו",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885127/one1885127_0_0_800_444_0_medium.jpg",
-          "link": "https://livegame.ynet.co.il/games/531992",
+          "title": "צמד חמד: ברצלונה הביסה 2:5 את ראיו וייקאנו",
+          "summary": "האלופה נקלעה לפיגור, אך חזרה מהר והשלימה 9 מ-9. ראפיניה ולאמין ימאל הבקיעו שני שערים כל אחד ולז'ן (עצמי) הצטרף. צמד לקאמייו מנגד. צפו בתקציר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/one1885423/one1885423_0_0_800_444_0_medium.jpg",
+          "link": "https://livegame.ynet.co.il/games/532096",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-08-30T17:42:08.000Z"
-        },
-        {
-          "title": "בעל הבית: בטורינה כיכב, 1:2 לקומו על נאפולי",
-          "summary": "צפו: הבן של אקס בני יהודה הצטיין עם שער ובישול לדוביקאס, באצטדיון המראדונה מול הפרטנופיי, והוביל את קבוצתו לניצחון בכורה. הוילון איזן זמנית",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885188/one1885188_0_0_800_444_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/one532053",
-          "source": "Ynet — ספורט",
-          "pubDate": "2026-08-30T19:35:26.000Z"
+          "pubDate": "2026-08-31T19:34:23.000Z"
         }
       ]
     }
