@@ -1,11 +1,431 @@
 {
-  "generatedAt": "2026-09-09T03:21:26.625Z",
+  "generatedAt": "2026-09-10T03:20:48.192Z",
   "note": "עדיין לא מחובר לשום תור אמיתי (KV) — ימתין לשלב שבו נבנה את תור מוסף/ירחון.",
   "items": [
     {
-      "title": "כמה מרוויח אדריכל? זוטר 12 עד 16 אלף, שותף מטפס ל-35",
-      "link": "https://www.mako.co.il/news-money/2026_q3/Article-9f9c736981280a1026.htm",
-      "pubDate": "2026-09-08T17:42:00.000Z",
+      "title": "הצעיר שנפל קורבן לעוקץ מתוחכם של 147 אלף שקלים",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-28b179e8a3880a1026.htm",
+      "pubDate": "2026-09-09T22:45:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "זה לא אותו צבא: התנאים שבלעדיהם צה\"ל לא יוכל להשתקם",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-2645fba84b900a1027.htm",
+      "pubDate": "2026-09-09T22:32:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "\"פתילי פיצוץ מרובים\": ערוץ הקשר הסודי עם חמאס, וההתרעה לנתניהו חודשיים וחצי לפני 7/10",
+      "link": "https://www.ynet.co.il/news/article/rjispaaugl",
+      "pubDate": "2026-09-09T21:24:02.000Z",
+      "summary": "רה\"מ טוען שהאזהרות שקיבל לפני הטבח עסקו רק בחיזבאללה ואיראן, אבל כעת ניתן לחשוף קטע ממכתב אזהרה של בכיר באמ\"ן מ-23 ביולי 2023, עם ציטוט מהערוץ החשאי \"סרוגים\", שהעביר מסרים מסינוואר דרך אחיו של בכיר בחמאס: \"הקיצוניים בממשלתכם מובילים להצתת האזור, אתם לבדכם תישאו באחריות\". כך נוהל קו המסרים החשאי, שבספטמבר הביא גם לאזהרה על \"רעידת אדמה\" שמתכנן סינוואר - בנפרד מהאזהרה שלפי הדיווח ב\"הארץ\" העביר נשיא האמירויות לנתניהו",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/rJQFQg1YMe/rJQFQg1YMe_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "לא חזן – שליח ציבור!",
+      "link": "https://www.ynet.co.il/news/article/yokra14895066",
+      "pubDate": "2026-09-09T21:04:00.000Z",
+      "summary": "בר שנים ארוכות שאנחנו אוכלים את פירות הביאושים של מנהיגי ה\"אני ואני ואני\". הבו לנו מנהיגות משרתת, המבוססת על אמון ושותפות במקום על כוח ושליטה. ישראל לא צריכה חזן וגם לא מנהיג. היא צריכה פשוט שליח ציבור",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/SJCbio9ufx/SJCbio9ufx_97_125_594_335_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "כשהאמת דופקת בדלת",
+      "link": "https://www.ynet.co.il/news/article/yokra14895517",
+      "pubDate": "2026-09-09T21:03:00.000Z",
+      "summary": "עכשיו – בתום שלוש שנים נמרצות של הכחשה ששוייפה היטב ונמרחה בלק מבריק של אחריות צבאית – נתניהו עומד עם הגב לקיר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/S173yX6OGe/S173yX6OGe_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "התפקיד הכי נחוץ - שר החוץ",
+      "link": "https://www.ynet.co.il/news/article/yokra14895073",
+      "pubDate": "2026-09-09T21:03:00.000Z",
+      "summary": "בשנים האחרונות ממשלות נתניהו הפכו את תפקיד שר החוץ לבדיחה. במשך שנתיים (2017–2019) נתניהו בכלל לא מינה שר למשרד, ולאחר מכן התפקיד הפך לפרס ניחומים שישראל כ\"ץ ואלי כהן חלקו בו ברוטציה. לאחרונה התפקיד עבר לגדעון סער, כדי לשכנעו לחבור בחזרה לליכוד לאחר שנשבע להילחם בו",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/SJljGjadGx/SJljGjadGx_0_0_1280_721_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "לא עומדים בסף",
+      "link": "https://www.ynet.co.il/news/article/yokra14895627",
+      "pubDate": "2026-09-09T21:02:00.000Z",
+      "summary": "במקום לטפל בעניין כל כך רגיש בדלת אמות, הפצ\"רית פרסמה ברבים את ההודעה על הנעשה בשדה-תימן והפילה על כולנו אשמה של מעשה מחריד שלא קרה. הכרעת בג\"ץ השבוע, שפרקליט המדינה יכריע אם להגיש נגדה כתב אישום - מבטיחה שהפרשה תיעלם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/07/rJixGdEjk11x/rJixGdEjk11x_0_0_1445_814_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "תרבות ארגונית חשובה מהאסטרטגיה",
+      "link": "https://www.ynet.co.il/news/article/yokra14895099",
+      "pubDate": "2026-09-09T21:00:00.000Z",
+      "summary": "גיורא איילנד תוהה איך ייתכן שב-7 לאוקטובר 2023 אלפי אנשים, נשים וילדים היו נצורים בעוטף המותקף ולא רק שאלו איפה צה\"ל הגדול והחזק לעזאזל, אלא גם שילמו מחיר דמים כל כך נורא שעד היום, עוד מעט שלוש שנים, קשה להאמין ולעכל שאכן כך התרחשו הדברים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/05/17/Sk2WxkZP9/Sk2WxkZP9_0_0_1280_721_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "התסיסה והח\"כים ש\"מחכים בסיבוב\": \"נתניהו מתחיל קדנציה עם הרבה ממורמרים\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/h1pd7z1kzg",
+      "pubDate": "2026-09-09T17:05:50.000Z",
+      "summary": "בחוץ שקט, בפנים פחות: הרוחות בליכוד סוערות לאור זהות המשוריינים. \"ברדוגו שר משפטים או תקשורת? זה לא מתעכל טוב\", אמר בכיר בליכוד, שהוסיף כי ח\"כים מחכים \"לסגור חשבון\". אחד השרים הוסיף: \"נתניהו ידע שהשריון הזה יגרום פגיעה גדולה. לא יורים בנגמ\"ש כי מחכים לראות ניצחון. אם זה יוביל לכך - הכול נסבל\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/Hy87000hT00fl/Hy87000hT00fl_0_399_3000_1688_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "אם נתניהו ימין - למה הוא מפחד להשתמש במילה הזאת?",
+      "link": "https://www.mako.co.il/news-columns/2026_q3/Article-f12419a914680a1026.htm",
+      "pubDate": "2026-09-09T15:48:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "\"עטלף על סטרואידים\": הצצה ראשונה למסוק הימי החדש של צה\"ל",
+      "link": "https://www.mako.co.il/news-n12_magazine/2026_q3/Article-9e5accfacbd50a1026.htm",
+      "pubDate": "2026-09-09T15:21:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "קיבלתם SMS על קנס תנועה? כדאי שתקראו את זה",
+      "link": "https://www.mako.co.il/men-men_news/Article-7551a49c6b680a1027.htm",
+      "pubDate": "2026-09-09T15:18:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "כך תכננו לבנות ברחבת הכותל מבנה ענק עם חנויות ומשרדים",
+      "link": "https://www.mako.co.il/news-n12_magazine/2025_q3/Article-e2f4e42331f9891027.htm",
+      "pubDate": "2026-09-09T15:12:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "השמות והרשימות: אלה המועמדים של בחירות 2026",
+      "link": "https://www.ynet.co.il/news/elections2026/article/zhxwpouks",
+      "pubDate": "2026-09-09T14:04:29.000Z",
+      "summary": "הליך הגשת הרשימות לוועדת הבחירות הושלם - ועמו עוצבה המפה הפוליטית שתלווה אותנו עד ליום הבוחר. 38 רשימות מתמודדות על הקולות, רק 15-13 מהן עשויות להיות ריאליות לפי הסקרים | אלו הפנים שמהם ככל הנראה תורכב הכנסת ה-26",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/BJ4AXU3OGl/BJ4AXU3OGl_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "נחיל קטלני, בלי GPS, בידיים של חייל אחד: \"צבא הרובוטים\" נחשף",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-ec75eccd82680a1027.htm",
+      "pubDate": "2026-09-09T13:44:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "\"הפתעה לא נעימה\": דוברי הרוסית נדחקו כמעט לחלוטין מהכנסת הבאה",
+      "link": "https://www.ynet.co.il/news/elections2026/article/syfiao0ofl",
+      "pubDate": "2026-09-09T13:27:45.000Z",
+      "summary": "בכנסת האחרונה כיהנו 7 נציגי חבר העמים - ובבאה צפויים עוד פחות. \"יש לך נציג, אתה מדבר איתו עכשיו\", אמר נתניהו לערוץ 9, אך אלקין שובץ רק במקום ה-32. אצל איזנקוט נציגה אחת ריאלית, וב\"ביחד\", ח\"כ בליאק נדחק למקום ה-16 בלבד: \"אתם הבוחרים, אתם מחליטים\". ליברמן שיבץ רק 3 מלבדו בעשירייה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/H1h000aRufe/H1h000aRufe_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "זירות הפשע הגדולות ביותר - והרגע שבו החוקרים נשברו",
+      "link": "https://www.mako.co.il/news-n12_magazine/2026_q3/Article-08273fb1c5770a1026.htm",
+      "pubDate": "2026-09-09T11:42:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "באוויר, בים וביבשה - בלי לוחמים: המהפכה הרובוטית של צה\"ל",
+      "link": "https://www.mako.co.il/news-columns/2026_q3/Article-2854e8be77280a1026.htm",
+      "pubDate": "2026-09-09T11:33:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "עד 120: הרשימה הכי משכילה, וזו עם הכי הרבה מועמדים חדשים",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-47b54dc587180a1026.htm",
+      "pubDate": "2026-09-09T11:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "\"אף אחד מהם לא חסין\": מאחורי הקלעים של חיסול צמרת הטרור",
+      "link": "https://www.mako.co.il/news-n12_magazine/2026_q3/Article-cf2a3a07ae180a1026.htm",
+      "pubDate": "2026-09-09T10:57:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "\"בנות יודעות לשים לך סכין בלב\": יאיר ניצני ודני בסן בריאיון",
+      "link": "https://www.mako.co.il/news-n12_magazine/nussbaum_typing/Article-09859925f8f70a1026.htm",
+      "pubDate": "2026-09-09T09:49:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "למרות הביקורת: בתחום אחד אירופה מתקרבת מאוד לישראל",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-879850fc28580a1027.htm",
+      "pubDate": "2026-09-09T09:32:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "מה באמת קרה לאיש השמן ולאיש הרזה מהמשל של נתניהו?",
+      "link": "https://www.mako.co.il/news-n12_magazine/2026_q3/Article-10bfca9e29b50a1027.htm",
+      "pubDate": "2026-09-09T09:02:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "לשבור את הגושים: המהלך הגדול שישנה את הפוליטיקה בישראל",
+      "link": "https://www.mako.co.il/news-n12_magazine/2026_q3/Article-6e2e05ebdcb70a1027.htm",
+      "pubDate": "2026-09-09T08:37:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "המלחמה של דרעי - והשאלה שגרמה לו להתפוצץ",
+      "link": "https://www.mako.co.il/news-n12_magazine/2026_q3/Article-7c13e41828a70a1027.htm",
+      "pubDate": "2026-09-09T08:22:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "איראן בדרך לעלות מדרגה בהסלמה: הטילים החדשים שבמוקד",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-549c4c04c3580a1026.htm",
+      "pubDate": "2026-09-09T08:17:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "גיבורי העמק מול טרור הפרוטקשן: \"גם אם נצטרך לסגור את העסק\"",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-b8d0cd8d9e480a1026.htm",
+      "pubDate": "2026-09-09T07:35:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "שיחת הצעקות הלילית שקדמה להחלטה לשריין את ברדוגו",
+      "link": "https://www.mako.co.il/news-politics/2026_q3/Article-ca39fa9c02280a1027.htm",
+      "pubDate": "2026-09-09T05:30:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "החוקר התפטר מענקית ה-AI: \"מהמרים בחיים של כולנו\"",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-4b915a0595480a1026.htm",
+      "pubDate": "2026-09-09T04:44:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "המסע לקברו של רבי נחמן באומן | \"הברסלבים\" - פרק שלישי",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-51ac44d8cd280a1027.htm",
+      "pubDate": "2026-09-09T04:35:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "כמה מרוויח טייס? משנה 20 עד 40 אלף, קברניט מטפס ל-80",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-67f926db3b780a1026.htm",
+      "pubDate": "2026-09-09T19:47:00.000Z",
       "summary": "",
       "image": null,
       "source": "mako / N12 — כלכלה (sitemap)",
@@ -17,23 +437,9 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "בחסות יום כיפור: זה לכאורה הכסף הכי קל שתוכלו לעשות בפולימרקט",
-      "link": "https://www.mako.co.il/news-money/2026_q3/Article-ca3c34aa22080a1026.htm",
-      "pubDate": "2026-09-08T15:50:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — כלכלה (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/news-money",
-      "columns": [
-        2
-      ],
-      "column": 2,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "קרוסאובר או משפחתי? הרכב שהישראלים באמת מחפשים",
-      "link": "https://www.mako.co.il/news-money/consumer/Article-1a624dc587180a1026.htm",
-      "pubDate": "2026-09-08T14:56:00.000Z",
+      "title": "כמה מרוויח רואה חשבון? מתמחה 9 עד 12 אלף, שותף בפירמה גדולה עובר",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-6dd226db3b780a1026.htm",
+      "pubDate": "2026-09-09T17:00:00.000Z",
       "summary": "",
       "image": null,
       "source": "mako / N12 — כלכלה (sitemap)",
@@ -45,51 +451,9 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "היקף הפגיעה הצפוי מהסנקציות על ההתנחלויות והתעשיות שבסכנה",
-      "link": "https://www.ynet.co.il/economy/article/r1wsjq6dml",
-      "pubDate": "2026-09-08T14:38:23.000Z",
-      "summary": "במשרד הכלכלה מעריכים כי היקף הייצוא מהשטחים מבריטניה ו-11 המדינות שהצטרפו אליה עומד על 34 מיליון דולר בלבד, אך החשש הוא שמדובר בתחילתו של גל אליו יצטרפו מדינות רבות נוספות. החקלאים, ובעיקר מגדלי התמרים, צפויים להיפגע משמעותית, וגם הפועלים מהרשות הפלסטינית שעובדים בחברות הישראליות באיזור",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2012/09/09/4151557/4151557_0_117_1000_563_0_medium.jpg",
-      "source": "Ynet — כלכלה",
-      "sourceUrl": "https://www.ynet.co.il/economy",
-      "columns": [
-        2
-      ],
-      "column": 2,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "מה עולים צריכים לדעת לפני שהם מעבירים את חייהם הפיננסיים לישראל",
-      "link": "https://www.ynet.co.il/economy/article/hksok7aufg",
-      "pubDate": "2026-09-08T14:30:00.000Z",
-      "summary": "מבחירת בנק ועד התמצאות בשוק המשכנתאות הישראלי ותכנון תקציב לשנה ראשונה יקרה - מומחים בוועידת העלייה של ynet Global מסבירים מדוע הכנה, סבלנות וכרית ביטחון כספית גדולה מהצפוי יכולות להפוך את המעבר לישראל לחלק בהרבה",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/HkwKtV600zg/HkwKtV600zg_0_60_800_451_0_medium.jpg",
-      "source": "Ynet — כלכלה",
-      "sourceUrl": "https://www.ynet.co.il/economy",
-      "columns": [
-        2
-      ],
-      "column": 2,
-      "depthBucket": "אברגרין"
-    },
-    {
-      "title": "ראש השנה בפתח: מה התייקר מה הוזל ולמה הרשתות בלחץ?",
-      "link": "https://www.ynet.co.il/economy/article/r1zwq9tume",
-      "pubDate": "2026-09-08T13:57:25.000Z",
-      "summary": "\"כולם יודעים שהמכירות השנה יהיו פחות טובות משנה שעברה\", אומרים ברשתות השיווק. בגלל חידוש הטיסות לחו\"ל יהיו פה פחות חוגגים ובגלל שהחגים נופלים בסופ\"ש הצרכנים יקנו פחות, אם כי בזכות זה גם לא צפויים מחסורים בעוף או במוצרי חלב. שימו לב שיש מוצרים שהתייקרו ברוב הרשתות כמו רימון וכרעיים",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/09/26/9510655/9510655_33_0_604_340_0_medium.jpg",
-      "source": "Ynet — כלכלה",
-      "sourceUrl": "https://www.ynet.co.il/economy",
-      "columns": [
-        2
-      ],
-      "column": 2,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "הרווח המצרי מהמלחמה נגד איראן: הסיבה לזינוק בהכנסות",
-      "link": "https://www.mako.co.il/news-money/2026_q3/Article-c8c869dfb4180a1026.htm",
-      "pubDate": "2026-09-08T13:54:00.000Z",
+      "title": "קודם ההתנחלויות, אחר כך כל ישראל? הסכנה בסנקציות החדשות",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-1fa255a73a680a1026.htm",
+      "pubDate": "2026-09-09T14:55:00.000Z",
       "summary": "",
       "image": null,
       "source": "mako / N12 — כלכלה (sitemap)",
@@ -101,9 +465,23 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "איך להצמיד את הכסף למדד תשומות הבנייה?",
-      "link": "https://www.mako.co.il/news-money/real_estate/Article-e28920d3de080a1027.htm",
-      "pubDate": "2026-09-08T12:11:00.000Z",
+      "title": "דירה לכל מגיני המולדת",
+      "link": "https://www.mako.co.il/news-business/duns_100-realestate/Article-4afb977658680a1026.htm",
+      "pubDate": "2026-09-09T14:16:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "לאן נעלמו המיליונים? הקריפטו הופך לשדה הקרב החדש בגירושין",
+      "link": "https://www.mako.co.il/news-business/duns_100-law/Article-b966373108680a1026.htm",
+      "pubDate": "2026-09-09T14:12:00.000Z",
       "summary": "",
       "image": null,
       "source": "mako / N12 — כלכלה (sitemap)",
@@ -115,9 +493,51 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "מה הפיל את רכישת הענק הישראלית של אנת'רופיק: כל התשובות",
-      "link": "https://www.mako.co.il/news-money/tech12/Article-4b6fc389bb080a1026.htm",
-      "pubDate": "2026-09-08T11:23:00.000Z",
+      "title": "איך המשטרה מנהלת קמפיין תקשורתי נגד חשודים?",
+      "link": "https://www.mako.co.il/news-business/duns_100-law/Article-3b2c373108680a1026.htm",
+      "pubDate": "2026-09-09T14:09:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "לא כל האופציות פתוחות: חלוקת אופציות בהליכי גירושין היא מורכבת",
+      "link": "https://www.mako.co.il/news-business/duns_100-law/Article-5da2176b87680a1026.htm",
+      "pubDate": "2026-09-09T14:04:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "האם כלים מקצועיים של AI יגרמו למהפכה בעולם תביעות הנזקין והרשלנות",
+      "link": "https://www.mako.co.il/news-business/duns_100-law/Article-8138aaab66680a1026.htm",
+      "pubDate": "2026-09-09T13:41:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "האם שוק ההון בישראל ימשיך לעלות?",
+      "link": "https://www.mako.co.il/news-business/duns_100-podcasts/Article-0c8aa19994680a1026.htm",
+      "pubDate": "2026-09-09T13:09:00.000Z",
       "summary": "",
       "image": null,
       "source": "mako / N12 — כלכלה (sitemap)",
@@ -129,9 +549,9 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "דן אריאלי נכנס לפוליטיקה ולא רוצה שתצביעו לו",
-      "link": "https://www.mako.co.il/finances-news/Article-d5ae0df80b080a1027.htm",
-      "pubDate": "2026-09-08T11:11:00.000Z",
+      "title": "היטל השבחה: מה שלא תמיד מספרת לכם",
+      "link": "https://www.mako.co.il/news-business/duns_100-podcasts/Article-01f2a2e044680a1026.htm",
+      "pubDate": "2026-09-09T13:06:00.000Z",
       "summary": "",
       "image": null,
       "source": "mako / N12 — כלכלה (sitemap)",
@@ -140,12 +560,26 @@
         2
       ],
       "column": 2,
-      "depthBucket": "עכשווי"
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "אילו תמורות מגיעות לכם בפרויקטים של התחדשות עירונית?",
+      "link": "https://www.mako.co.il/news-business/duns_100-podcasts/Article-01fb19a914680a1026.htm",
+      "pubDate": "2026-09-09T13:01:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "אברגרין"
     },
     {
       "title": "לקראת רכישת דירה? אלה המושגים שחשוב להכיר",
       "link": "https://www.ynet.co.il/economy/article/q5km7cbau",
-      "pubDate": "2026-09-08T11:06:38.000Z",
+      "pubDate": "2026-09-09T11:55:18.000Z",
       "summary": "מדירה על הנייר ועד ערבות חוק מכר, פרוטוקול מסירה ומדד תשומות הבנייה. מה כל רוכש חייב לדעת על שפת הנדל\"ן הבסיסית, ואיך ההיכרות הזו יכולה לחסוך לכם כסף?",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/H1XjsHp00Gx/H1XjsHp00Gx_2_0_1599_901_0_medium.jpg",
       "source": "Ynet — כלכלה",
@@ -157,9 +591,37 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "עד 120: מיום הולדת בסלון להפקה ב-30 אלף שקל",
-      "link": "https://www.mako.co.il/news-money/2026_q3/Article-b86eae1285c70a1026.htm",
-      "pubDate": "2026-09-08T05:15:00.000Z",
+      "title": "שנתיים לרפורמת החשמל: הערים שמובילות במעבר לספקים פרטיים",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-dd1e970ad5580a1026.htm",
+      "pubDate": "2026-09-09T11:29:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "נמאס לכם לחפש חניה בת\"א? האתר שיסייע ועל הדרך יחסוך לכם כסף",
+      "link": "https://www.ynet.co.il/economy/article/bylfz3aofg",
+      "pubDate": "2026-09-09T10:58:49.000Z",
+      "summary": "יוזמה פרטית חדשה מנסה לאתגר את מחירי החניה המאמירים בגוש דן באמצעות מאגר ראשון מסוגו המציג את תעריפי החניונים, מיקומם וחיזוי מצב התפוסה בהם. המפתח גלעד כהן-טל: \"הבנתי שזה צורך שקיים, הציבור מחפש את החניון הכי זול והכי קרוב\". בקרוב תהיה גם אפליקציה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/rybG2pNSMg/rybG2pNSMg_144_679_2115_1191_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "חברת החימושים המעופפים מישראל, ארה\"ב וגרמניה נחשפת",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-b7f6d7a1f9580a1026.htm",
+      "pubDate": "2026-09-09T10:17:00.000Z",
       "summary": "",
       "image": null,
       "source": "mako / N12 — כלכלה (sitemap)",
@@ -171,53 +633,67 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "ביבי עסוק בבחירות - ועשרות מיליארדי שקלים עבור מערכת הביטחון תקועים",
-      "link": "https://www.ynet.co.il/economy/article/yokra14892526",
-      "pubDate": "2026-09-08T04:41:24.000Z",
-      "summary": "ראש הממשלה טרם מסר לאוצר מה יהיה היקף התוספת שעליה סוכם במגעים עם סמוטריץ'. בלי סכום סופי אי אפשר להתחיל בפריצת התקציב, שדורשת גם החלטת ממשלה ואישור הכנסת",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/20/Bkli811k9Zex/Bkli811k9Zex_0_173_3000_1688_0_medium.jpg",
+      "title": "לא רק בגלל \"קיל ביל\": הסניקרס שנמכרות כמו לחמניות חמות",
+      "link": "https://www.ynet.co.il/economy/article/r1bcy5cogx",
+      "pubDate": "2026-09-09T09:38:54.000Z",
+      "summary": "המותג אוניצוקה טייגר (Onitsuka Tiger), שזכה לתהילה עולמית בזכות הנעליים הצהובות של אומה תורמן ב\"קיל ‏ביל\", נהנה מקאמבק מסחרר. אופנת הרטרו, המטבע המקומי החלש וגל התיירות ליפן סייעו לחברה-האם ‏אסיקס להקפיץ את המכירות בעשרות אחוזים - והפכו את החנויות בטוקיו ליעד חובה עבור תיירים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/Hkv4i50dze/Hkv4i50dze_811_2186_1295_729_0_medium.jpg",
       "source": "Ynet — כלכלה",
       "sourceUrl": "https://www.ynet.co.il/economy",
       "columns": [
         2
       ],
       "column": 2,
-      "depthBucket": "עכשווי"
+      "depthBucket": "אברגרין"
     },
     {
-      "title": "זו העיר המפתיעה עם העלייה החדה ביותר במחירי השכירות - ואיפה העיר שלכם?",
-      "link": "https://www.ynet.co.il/economy/article/yokra14892044",
-      "pubDate": "2026-09-08T04:05:59.000Z",
-      "summary": "למה מחירי השכירות מזנקים? בדיקת ynet: בכל 18 הערים הגדולות בישראל נרשמה עלייה בשכר הדירה לעומת 2025. הנתון המעניין: מוקדי ההתייקרות החדים הם דווקא מחוץ לגוש דן. העלייה החדה ביותר נרשמה בבית שמש – כמעט 10%",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/yk14891998/yk14891998_0_0_865_575_0_medium.jpg",
+      "title": "מפת הסופרמרקטים של ישראל: בדקו כמה יש בעיר שלכם - ומה בנוגע למחירים?",
+      "link": "https://www.ynet.co.il/economy/article/h1e311oaufx",
+      "pubDate": "2026-09-09T03:46:45.000Z",
+      "summary": "שופרסל היא הרשת הגדולה ביותר עם 327 סניפים שמהווים כ-19.6% מכלל הסניפים בארץ. למרות ריבוי הסניפים בת\"א, אין תחרות מחירים אמיתית. וגם: מהי השכונה שבה יש הכי הרבה סופרים לנפש?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/28/HkgpQ00hIhgl/HkgpQ00hIhgl_0_0_1000_563_0_medium.jpg",
       "source": "Ynet — כלכלה",
       "sourceUrl": "https://www.ynet.co.il/economy",
       "columns": [
         2
       ],
       "column": 2,
-      "depthBucket": "עכשווי"
+      "depthBucket": "אברגרין"
     },
     {
-      "title": "הגזבר הלאומי: מי יהיה שר האוצר הבא של מדינת ישראל?",
-      "link": "https://www.ynet.co.il/economy/article/b1pzfvnufg",
-      "pubDate": "2026-09-08T04:04:58.000Z",
-      "summary": "תפקיד שר האוצר בישראל נחשב לאחד המאתגרים בעולם, כשבמרכז עומדת, בטח עכשיו, סוגיית תקציב הביטחון. בין המועמדים הבולטים לרשת את בצלאל סמוטריץ' נמנים אנשי מקצוע מוכחים כמו שאול מרידור וקרן טרנר-אייל, פוליטיקאים ותיקים דוגמת אביגדור ליברמן ואלי כהן, ושמות פחות צפויים כמו נעמה לזימי",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/H10Gjvh00Me/H10Gjvh00Me_0_0_850_479_0_medium.jpg",
-      "source": "Ynet — כלכלה",
-      "sourceUrl": "https://www.ynet.co.il/economy",
+      "title": "המהפכה של נטפליקס: הצעד המפתיע שיכניס מיליארדי דולרים",
+      "link": "https://www.ice.co.il/advertising-marketing/news/article/1129371",
+      "pubDate": "2026-09-10T03:00:00.000Z",
+      "summary": "ענקית הסטרימינג מציגה זינוק אדיר במסלול המוזל שמושך כבר 250 מיליון צופים, אך האם המהלך יציל אותה מההאטה הדרמטית בשאר מנועי הצמיחה של החברה",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_584/rsz_615_346_12ice19012026.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
       "columns": [
-        2
+        3
       ],
-      "column": 2,
-      "depthBucket": "עכשווי"
+      "column": 3,
+      "depthBucket": "אברגרין"
     },
     {
-      "title": "הנקניקייה ב-5 שקלים ששיגעה את המדינה: yellow חושפת נתוני עתק",
-      "link": "https://www.ice.co.il/advertising-marketing/news/article/1129217",
-      "pubDate": "2026-09-09T03:16:50.000Z",
-      "summary": "מה שהתחיל כמוצר זול שנועד למשוך נהגים הפך לטירוף של 250 אלף מכירות, אך ברשתות החברתיות דווקא לעגו לגודל שלה. סמנכ\"ל השיווק חושף כעת את הנתונים המפתיעים, ומה הרווח?",
-      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_256/rsz_615_346_11ice31012021.jpg",
+      "title": "סקר קובע: אלו הרחובות הכי טובים בישראל - ויש הפתעות",
+      "link": "https://www.ice.co.il/research/news/article/1129358",
+      "pubDate": "2026-09-09T22:41:00.000Z",
+      "summary": "סקר רחב של מינהל התכנון, שבו השתתפו 2,808 איש, בחן יותר מ-800 רחובות ברחבי הארץ. ניתוח הנתונים מגלה אילו מאפיינים גורמים לרחוב להפוך ממקום שחולפים בו למרחב שאנשים רוצים להישאר בו – וגם איזה רחוב הגיע לפסגה",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_418/rsz_615_346_פלאש90.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "הקרב על הכסף שלכם: מי אשם במכת ההונאות הפיננסיות?",
+      "link": "https://www.ice.co.il/local-news/news/article/1129352",
+      "pubDate": "2026-09-09T21:52:00.000Z",
+      "summary": "איגוד הבנקים ומשרד התקשורת מתבצרים בעמדותיהם ומטילים אחריות הדדית על הפקרת הציבור למתקפות סייבר ופישינג, רגע לפני עתירה דחופה לבג\"ץ שתכריע את הגבולות",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_522/rsz_615_346_22ice30032025.jpg",
       "source": "אייס",
       "sourceUrl": "https://www.ice.co.il",
       "columns": [
@@ -227,10 +703,10 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "Kitchen Table Finances: Intuit on AI and Everyday Money Management",
-      "link": "https://www.adweek.com/brand-marketing/kitchen-table-finances-intuit-on-ai-and-everyday-money-management/",
-      "pubDate": "2026-09-08T14:47:27.000Z",
-      "summary": "Mark Notarainni the three marketing and technology elements redefining consumer financial empowerment.",
+      "title": "Publishers Are Spending Hundreds of Millions a Month Buying Traffic",
+      "link": "https://www.adweek.com/media/publishers-buying-search-traffic/",
+      "pubDate": "2026-09-09T19:00:00.000Z",
+      "summary": "Exclusive data reveals that publishers’ paid search budgets have risen 274% in the last three years, part of an industry-wide response to traffic declines",
       "image": null,
       "source": "Adweek",
       "sourceUrl": "https://www.adweek.com",
@@ -241,10 +717,24 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "How to Modernize Marketing in a Legacy Industry With Danielle Wuschke Paige of Nixon Peabody",
-      "link": "https://www.adweek.com/brand-marketing/how-to-modernize-marketing-in-a-legacy-industry-with-danielle-wuschke-paige-of-nixon-peabody/",
-      "pubDate": "2026-09-08T14:21:24.000Z",
-      "summary": "Why great B2B marketing thrives on complexity.",
+      "title": "Cutbacks in GLP-1 Insurance Coverage Are Forcing Marketers to Pivot",
+      "link": "https://www.adweek.com/brand-marketing/cutbacks-in-glp-1-insurance-coverage-are-forcing-marketers-to-pivot/",
+      "pubDate": "2026-09-09T15:28:30.000Z",
+      "summary": "Employer health costs are projected to spike in the upcoming year, forcing many companies that recently expanded coverage of GLP-1 drugs to reverse course.",
+      "image": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2258364669.jpg?w=1024",
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "Publicis Really Didn’t Have to Choose Between Coke and Pepsi",
+      "link": "https://www.adweek.com/agencies/publicis-really-didnt-have-to-choose-between-coke-and-pepsi/",
+      "pubDate": "2026-09-09T11:37:02.000Z",
+      "summary": "Agencies seem to be the only business still beholden to conflict of interest.",
       "image": null,
       "source": "Adweek",
       "sourceUrl": "https://www.adweek.com",
@@ -255,24 +745,10 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "The Innovation Playbook: Mastercard, Newell Brands, and Uber Advertising Leaders on AI, Data, and Brand Growth",
-      "link": "https://www.adweek.com/brand-marketing/the-innovation-playbook-mastercard-newell-brands-and-uber-advertising-leaders-on-ai-data-and-brand-growth/",
-      "pubDate": "2026-09-08T14:13:11.000Z",
-      "summary": "How Mastercard, Newell Brands, and Uber Advertising are balancing performance marketing with brand building.",
-      "image": null,
-      "source": "Adweek",
-      "sourceUrl": "https://www.adweek.com",
-      "columns": [
-        3
-      ],
-      "column": 3,
-      "depthBucket": "אברגרין"
-    },
-    {
-      "title": "Advertisers Want More Brand Safety, Prompt-Matching, Incrementality Tracking From ChatGPT Ads",
-      "link": "https://www.adweek.com/programmatic/advertisers-want-brand-safety-prompt-matching-incrementality-tracking-chatgpt-ads/",
-      "pubDate": "2026-09-08T14:06:51.000Z",
-      "summary": "The request comes as OpenAI's ad business surpassed $1 billion in annualized revenue in August.",
+      "title": "2026 NFL Ad Tracker: A Running List of the Best Early Season Ads",
+      "link": "https://www.adweek.com/brand-marketing/2026-nfl-ad-tracker-football-ads/",
+      "pubDate": "2026-09-09T10:42:27.000Z",
+      "summary": "The fan's guide to which brands are getting in the game for the NFL in 2026.",
       "image": null,
       "source": "Adweek",
       "sourceUrl": "https://www.adweek.com",
@@ -283,13 +759,13 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "Established Brands Should Learn From Insurgents Without Trying to Become One",
-      "link": "https://www.adweek.com/brand-marketing/established-brands-should-learn-from-insurgents-without-trying-to-become-one/",
-      "pubDate": "2026-09-08T13:59:55.000Z",
-      "summary": "Insurgents seem to defy convention, they convert devoted communities and achieve extraordinary visibility with modest resources. But it’s false to assume their success comes from marketing techniques that can be imitated by more established brands.",
-      "image": null,
-      "source": "Adweek",
-      "sourceUrl": "https://www.adweek.com",
+      "title": "כשילדה בת 9 מתיישבת מול המיקרופון, היא מלמדת אותנו משהו על שיווק לילדים",
+      "link": "https://shivuk.me/meet/oneonone/39580",
+      "pubDate": "2026-09-09T08:06:19.000Z",
+      "summary": "אנחנו משקיעים במחקרים, בקבוצות מיקוד ולא מעט כסף בניסיון להבין ילדים: מה מעניין אותם, באיזו שפה לדבר איתם ואיזה תוכן יגרום להם לעצור. אבל מה קורה כשבמקום לדבר עליהם, פשוט נותנים להם לדבר? סדרת השיחות של לירון בן יעקב עם בתה אליענה בת ה־9 הפכה כמעט במקרה למעבדת מחקר קטנה על קהל צעיר: היא חשפה עד כמה ילדים יודעים מה מעניין אותם, כמה מהר הם מזהים כשמבוגרים מנסים לנהל את השיחה, ולמה דווקא כשאנחנו משחררים שליטה – אנחנו עשויים לגלות עליהם הרבה יותר . לירון בן יעקב רגילה להיות בצד ששואל את השאלות. כבר ",
+      "image": "https://shivuk.me/wp-content/uploads/2026/09/2026-09-09-100633-768x435.webp",
+      "source": "מנהלי שיווק מצייצים",
+      "sourceUrl": "https://shivuk.me",
       "columns": [
         3
       ],
@@ -297,10 +773,52 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "Sony isn’t phasing out discs quite as quickly as we thought",
-      "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
-      "pubDate": "2026-09-08T21:52:13.000Z",
-      "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed , the company's discmaking division now says that one widely reported detail was wrong. Originally, it sounded like the division's president said the Thalgau plant would produce 90 percent fewer discs in 2028 - but the reality is it will only produce ",
+      "title": "מחלבות גד יוצאת מהחלב: מה עומד מאחורי הכניסה של המותג לעולם הצומח?",
+      "link": "https://shivuk.me/meet/oneonone/39575",
+      "pubDate": "2026-09-09T07:34:43.000Z",
+      "summary": "יש משהו כמעט פרדוקסלי במהלך החדש של מחלבות גד. חברה שהשם שלה עצמו מתחיל במילה “מחלבות”, ושבמשך שנים בנתה את המוניטין שלה סביב גבינות ומוצרי חלב, משיקה לראשונה סדרה רחבה של מוצרים מהצומח. Feel Gad כוללת 11 מוצרים בארבע קטגוריות: גבינות וממרחים, יוגורטים, משקאות וקינוחים. אלא שההשקה הזו אינה עומדת בפני עצמה. היא מגיעה אחרי השקת “החלב החדש” בשיתוף חברת הפודטק הישראלית Remilk ורכישת השליטה במשק ויילר, ומתחילה לשרטט כיוון אסטרטגי רחב יותר של החברה. תמר ציונוב שוחחה עם מעין דר, סמנכל\"ית שיווק ומכירות ",
+      "image": "https://shivuk.me/wp-content/uploads/2026/09/33456-768x474.webp",
+      "source": "מנהלי שיווק מצייצים",
+      "sourceUrl": "https://shivuk.me",
+      "columns": [
+        3
+      ],
+      "column": 3,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "Amid AI Hype, Autodesk Turns the Spotlight on Human Makers",
+      "link": "https://www.adweek.com/creativity/amid-ai-hype-autodesk-turns-the-spotlight-on-human-makers/",
+      "pubDate": "2026-09-09T06:00:00.000Z",
+      "summary": "Autodesk's campaign puts real customers at the center of an emotional pitch for human creativity.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "פרק 424 בפודקאסט השיווק: גיל הרשברג, סמנכ\"ל טכנולוגיות בקבוצת תקשוב",
+      "link": "https://shivuk.me/on-the-go/39572",
+      "pubDate": "2026-09-09T03:42:36.000Z",
+      "summary": "מקור: פרק 424 בפודקאסט השיווק: גיל הרשברג, סמנכ\"ל טכנולוגיות בקבוצת תקשוב",
+      "image": "https://shivuk.me/wp-content/uploads/2026/09/424-768x432.webp",
+      "source": "מנהלי שיווק מצייצים",
+      "sourceUrl": "https://shivuk.me",
+      "columns": [
+        3
+      ],
+      "column": 3,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+      "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+      "pubDate": "2026-09-09T23:00:04.000Z",
+      "summary": "New AirPods Pro with cameras were thankfully not announced at the September Apple event. | Photo by Amelia Holowaty Krales / The Verge September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to the Watch Series 12 and Watch Ultra 4.",
       "image": null,
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com",
@@ -311,38 +829,10 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "pubDate": "2026-09-08T21:11:46.000Z",
-      "summary": "Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two months ago that Microsoft patched a then-record 570 vulnerabilities. Then, last month, Microsoft patched some 620 of them. Google and other companies have also published record numbers of vulnerabilities in recent months. Two weeks ago, OpenAI, Anthropic, Amazon Web Services, Google, Microsoft, and 100 companies and or",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "pubDate": "2026-09-08T21:04:06.000Z",
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "pubDate": "2026-09-08T20:53:52.000Z",
-      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired . In a blog post on Tuesday , OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems , each of",
+      "title": "The black iPhone Pro returns",
+      "link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+      "pubDate": "2026-09-09T22:37:51.000Z",
+      "summary": "Black is back. | Photo: Nilay Patel / The Verge Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice . But there was no black (or dark gray) for the first time since the start of the iPhone Pro lineup, which Apple first introduced in September 2019 with the iPhone 11 Pro and Pro Max. I care about this because I al",
       "image": null,
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com",
@@ -353,13 +843,13 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "The universal language of space is... Star Trek? Mais oui.",
-      "link": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
-      "pubDate": "2026-09-08T20:20:20.000Z",
-      "summary": "Sixty years after television audiences first tuned in to see the voyages of the Starship Enterprise , an astronaut on board the International Space Station has paid tribute to Star Trek by flying the badge of the franchise's latest fictional captain. Expedition 75 flight engineer Sophie Adenot with European Space Agency (ESA) donned the Delta badge originally worn by actor Anson Mount for a video recorded from aboard the space station. Mount portrays Christoper Pike in the Paramount+ streaming s",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090826a-lg-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com",
+      "title": "The incomplete history of Duo devices",
+      "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+      "pubDate": "2026-09-09T22:23:35.000Z",
+      "summary": "Apple announced the company's first device with a folding screen today, the iPhone Duo , but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google , but it's also not the first product to be called the Duo. Former Apple CEO Steve Jobs popularized the saying \"good artists copy, great artists steal,\" but will the iPhone Duo's folding screen, which features a custom nano-texture display material to help minimize the vi",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
       "columns": [
         4
       ],
@@ -367,24 +857,10 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "pubDate": "2026-09-08T19:00:00.000Z",
-      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "pubDate": "2026-09-08T19:00:00.000Z",
-      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up to rivals like OpenAI, Anthropic, and Google. Muse is a \"personal AI agent\" designed to help out with everyday tasks and projects, like online shopping, sending emails, and pla",
+      "title": "It’s the year of smartphone price hikes",
+      "link": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
+      "pubDate": "2026-09-09T21:52:43.000Z",
+      "summary": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by opting for an older iPhone, either, because Apple raised prices on those by $100, too . And it's not just Apple. This year, the $100 price hike has been a trend across the industry. Google and Samsung followed the same formula as Apple when they each launched new ph",
       "image": null,
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com",
@@ -395,38 +871,10 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-      "pubDate": "2026-09-08T18:43:09.000Z",
-      "summary": "Meta took days to remove ads containing AI-generated child sexual abuse material (CSAM) on Facebook and Instagram. Some ads featured photos of real kids, including a press photo of a young member of a European royal family and images swiped from a popular Instagram profile of a preteen girl deemed an influencer. In an investigation published Tuesday, the Tech Transparency Project (TTP) reported that Meta failed to detect 332 ads containing CSAM this year. The “vast majority” of ads promoted AI a",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1975339882-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "pubDate": "2026-09-08T17:32:15.000Z",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "image": null,
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "Nintendo isn’t scared of GTA VI",
-      "link": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
-      "pubDate": "2026-09-08T17:13:51.000Z",
-      "summary": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI . Everyone, that is, except for Nintendo. The company held a 30-minute showcase this morning focused entirely on its Legend of Zelda franchise , which is celebrating its 40th anniversary. We got a title for the live-action movie , a series of orchestral concerts , and a very glittery special edition ",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "pubDate": "2026-09-09T21:16:34.000Z",
+      "summary": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images) OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics . But before it was even formally announced, the breakthrough had been complicated by the unusual circumstances that",
       "image": null,
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com",
@@ -437,24 +885,10 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "The secret to protecting next-gen spacecraft might be eggshells",
-      "link": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
-      "pubDate": "2026-09-08T16:20:58.000Z",
-      "summary": "In 2007, a piece of space debris punched a bullet-like hole through the radiator panel of the US space shuttle Endeavor . The shuttle program ended in 2011, but the space debris problem has only intensified as we launch more and more satellite constellations, telescopes, and spacecraft into orbit. That's why Chinese scientists have devised a new aluminum material inspired by eggshells that they believe could offer enhanced protection against debris fragments, according to a new paper published i",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/eggshells-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "אברגרין"
-    },
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "pubDate": "2026-09-08T16:20:31.000Z",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+      "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+      "pubDate": "2026-09-09T20:58:09.000Z",
+      "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
       "image": null,
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com",
@@ -465,11 +899,39 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "EV batteries last longer than drivers feared",
-      "link": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
-      "pubDate": "2026-09-08T13:56:38.000Z",
-      "summary": "Electric vehicle batteries are lasting longer than previously feared by drivers, with most used EVs able to retain about 90 percent of their original usable battery capacity after 150,000 kilometers, a new study has shown. Despite a surge in global EV sales on the back of rising fuel prices, long-term battery durability continues to be one of the key concerns for drivers when they consider switching from a petrol model to an electric car. EV battery warranties typically cover eight years or 100,",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293339723-1024x648.jpg",
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "pubDate": "2026-09-09T20:44:43.000Z",
+      "summary": "At Wednesday's iPhone Duo launch event , Apple announced a handful of new Siri AI Audio Intelligence features , including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new features \"is handled within dedicated hardware, is not saved as a file, and is not accessible to the operating system, apps, or Apple.\" Apple ex",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "How the new Apple Watches compare to the last-gen models",
+      "link": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
+      "pubDate": "2026-09-09T20:42:51.000Z",
+      "summary": "The new Apple Watches come in a variety of material and strap combinations. Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at its \"Surprise and shine\" event. The new watches feature sizable improvements to their health sensors and tracking, plus the ability to create brief audio transcriptions and summaries, plus a ceramic case option for the Series 12. Despite the new features, the watches start at the same base prices as their previous iterations. The Apple Watch Series 12 ",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+      "link": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+      "pubDate": "2026-09-09T20:27:40.000Z",
+      "summary": "All of a sudden, French entrepreneur Hèlene Huby is seemingly everywhere. This week she is serving as one of two envoys, alongside astronaut Thomas Pesquet, at a high-profile International Space Summit convened by French President Emmanuel Macron. The government's website for the event describes her as chief executive of \"the fastest-growing space company in Europe.\" Also this week, that firm, The Exploration Company, announced a significant capital raise of $450 million in Series C funding. Alt",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com",
       "columns": [
@@ -479,41 +941,13 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "בהמשך לחשיפת DseWiki: כך סוכני OpenAI עקפו את האבטחה",
-      "link": "https://www.pc.co.il/news/%d7%90%d7%91%d7%98%d7%97%d7%aa-%d7%9e%d7%99%d7%93%d7%a2-%d7%95%d7%a1%d7%99%d7%99%d7%91%d7%a8/457953/",
-      "pubDate": "2026-09-08T13:18:02.000Z",
-      "summary": "הביקורת הציבורית והרגולטורית סביב התנהלותה של ענקית הבינה המלאכותית OpenAI מגיעה ביממות האחרונות לנקודת רתיחה. פרסומים חושפים מחלוקת קשה באשר להחלטתה של ענקית ה-AI להסתיר במשך חודשים את השתלטות סוכניה על אתר הוויקי הגרמני DseWiki – אירוע שהתרחש עוד באביב (מאי-יוני) ודווח רק באחרונה בתקשורת. מהדיווחים האחרונים ניתן ללמוד כי OpenAI בחרה לסווג את המקרה באופן פנימי כ\"תקרית חוסר מתאם\" (Misalignment Incident) בלבד, ולא כ\"אירוע אבטחה\" (Security Incident) – הבחנה נוחה בהרבה, שאפשרה לה להתחמק מחובות דיוו",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/סוכני-AI-שלה-חדרו-לאתר-וויקי-גרמני.-OpenAI.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "כיצד לגנוב מידע מהצ'אט – מבלי לפרוץ לחשבון המשתמש?",
-      "link": "https://www.pc.co.il/news/%d7%90%d7%91%d7%98%d7%97%d7%aa-%d7%9e%d7%99%d7%93%d7%a2-%d7%95%d7%a1%d7%99%d7%99%d7%91%d7%a8/457844/",
-      "pubDate": "2026-09-08T13:01:17.000Z",
-      "summary": "נמצאה דרך שאפשרה להעביר מידע והוראות בין שתי סביבות ChatGPT, שפעלו תחת חשבונות נפרדים, למרות שהן אמורות להיות מבודדות לחלוטין זו מזו. לפי חוקרי צ'ק פוינט (Check Point), \"נקודת המפתח היא פער בבידוד בין סביבות הרצת הקוד של ChatGPT\". מהמחקר, המתפרסם היום אחה\"צ (ג'), עולה כי באמצעות ניצול המנגנון, החוקרים הצליחו לגרום לצ'אט לגשת למידע של משתמש אחר, כולל היסטוריית שיחות, קבצים שהועלו לצ'אט ומידע משירותים מחוברים – ולהחזיר את המידע. כך, ChatGPT ניגש לחשבון ג'ימייל (Gmail) שהיה מחובר לחשבון הקורבן והעב",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/07/חוות-פרצת-אבטחה.-האגינג-פייס.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "משתמשים ב-ChatGPT? חוקרים ישראלים מצאו דרך לשיחות ולקבצים שלכם",
-      "link": "https://www.geektime.co.il/cpr-research-show-chatgpt-vulnerability-access-gmail-and-files/",
-      "pubDate": "2026-09-08T13:00:17.000Z",
-      "summary": "בשנים האחרונות התרגלנו שכלי ה-AI השונים הם הרבה יותר מצ'אט. אנחנו מחברים אותם לתיבת הג'ימייל שלנו, נותנים להם גישה לקבצים אישיים, מעלים מסמכים, ובגדול, סומכים עליהם די בעיניים עצומות, כי מה כבר יכול להשתבש? ובכן, חוקרי צ'ק פוינט מפרסמים היום (ג') מחקר מדאיג, ועל פיו, שירות קטן ותמים שרץ בבקאנד של OpenAI אפשר לתוקפים לשאוב את המידע שלכם. רציתם מתכון חגיגי? קיבלתם גניבת מידע הבסיס לגילוי המטריד הזה נמצא בארכיטקטורה של ChatGPT. כשאתם מבקשים מהצ'אט לנתח נתונים או להריץ קוד, המערכת מרימה קונטיינר מבו",
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "pubDate": "2026-09-09T20:24:48.000Z",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
       "image": null,
-      "source": "גיקטיים",
-      "sourceUrl": "https://www.geektime.co.il",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
       "columns": [
         4
       ],
@@ -521,69 +955,27 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "קולולו… יומולדת 15 לסיילספורס ישראל",
-      "link": "https://www.pc.co.il/kehila/daily-zipi/457956/",
-      "pubDate": "2026-09-08T12:56:28.000Z",
-      "summary": "מאות עובדי סיילספורס ישראל התכנסו אתמול (ב') במועדון הבארבי בתל אביב כדי לחגוג 15 שנות פעילות וצמיחה מקומית. האירוע כלל ארוחת צהריים חגיגית, קוקטיילים ופינוקים נוספים. החגיגה בבארבי הגיעה לשיאה כשעל הבמה עלה המוזיקאי ברי סחרוף להופעה סוחפת ומלאת אנרגיה. במהלך 15 שנות פעילותה הפכה סיילספורס ישראל למרכז טכנולוגי משמעותי עבור החברה העולמית. הפעילות המקומית, שהחלה ב-2011 עם רכישת Navajo Systems , התרחבה לאורך השנים באמצעות שורה של רכישות של חברות טכנולוגיה ישראליות והשקעות בכוח אדם, והפכה לאחד ממוקד",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/ברי-סחרוף.-אירוע-סיילספורס.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "נשים ומחשבים: נטלי יעקובסון, Blueye AI",
-      "link": "https://www.pc.co.il/editorial/457945/",
-      "pubDate": "2026-09-08T11:56:21.000Z",
-      "summary": "שם ותפקיד: \" נטלי יעקובסון, מייסדת ומנכ\"לית חברת Blueye AI \". במסגרת תפקידי: \"אני מובילה את הכיוון העסקי והטכנולוגי של Blueye AI, מהגדרת החזון ועד לרגע שבו הפתרון עובד בתוך הארגון. התפקיד שלי כולל עבודה ישירה עם לקוחות, פיתוח והטמעה של פתרונות בינה מלאכותית, בניית הצוות ויצירת השותפויות שיאפשרו לחברה לגדול\". מבחינתי, המבחן האמיתי של טכנולוגיה הוא לא כמה היא מרשימה ב-דמו, אלא כמה היא מצליחה להשתלב בעבודה היומיומית של הארגון ולייצר תוצאה עסקית אמיתית ומורגשת. לכן אנחנו מתחילים בהבנת המטרות העסקיות",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/נטלי-יעקובסון-מייסדת-ומנכלית-Blueye-AI.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "אברגרין"
-    },
-    {
-      "title": "What It Took to Reach 1 Billion Build Manifests",
-      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-      "pubDate": "2026-09-08T11:49:02.000Z",
-      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those are the headline numbers, but I want to share what's actually behind them. The number itself is less interesting than the system that produced it, and why we had to fundamentally",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqJEqJ_CCrFzLtmEtLrrIWQv80hyY6xtGfdsad0NgYCYSs-ur2ObfnMgE8uBWlZ7idJHbjDcOwpo8_ESTMpCAWAUHUwbqhVr-zqxV-oxUWmR3PMwBD_vrDziQFaeL0VTzX8NUQRFGRzVQCuTPrvflnepbKlCgqH84MRNTJUhZRNfqwEtmBUxhIB5a8MfeE/s1600/chainguard.jpg",
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "אברגרין"
-    },
-    {
-      "title": "השקעת אינפורמטיקה באזור שירות ייעודי – הבעת אמון בשוק בישראל",
-      "link": "https://www.pc.co.il/editorial/%d7%a4%d7%95%d7%93%d7%a7%d7%90%d7%a1%d7%98-%d7%90%d7%a0%d7%a9%d7%99%d7%9d-%d7%95%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d/457936/",
-      "pubDate": "2026-09-08T11:08:45.000Z",
-      "summary": "חברת אינפורמטיקה העולמית חתמה לא מכבר על הסכם עם קבוצת אמן הישראלית להקמת אזור שירות ייעודי (POD) של יישומי החברה, שיישב על הענן המקומי של חברת AWS . פתרונות הענן של אינפורמטיקה אושרו בזירת המסחר של רובד 5 בענן הממשלתי. פעילות אינפורמטיקה בישראל נעשית במסגרת קבוצת אמן. כידוע, בשנה שעברה רכשה חברת הענן סיילספורס את אינפורמטיקה, וכרע מתנהלים מהלכים לחבר את הפעילויות. את פעילות אינפורמטיקה בישראל מנהל מזה 18 שנה ינאי מילשטיין , שאחראי גם על כלל פתרונות התוכנה של אמן בישראל. לפני שהצטרף ל-אמן, מילשט",
-      "image": "https://www.pc.co.il/wp-content/uploads/2025/07/YANAI-PIC22-1.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "למה אפילו הבונוס השנתי כבר לא מצליח לעצור את השחיקה של העובדים?",
-      "link": "https://www.geektime.co.il/why-bonuses-dont-prevent-burnout/",
-      "pubDate": "2026-09-08T11:00:52.000Z",
-      "summary": "הייאוש לא נעשה יותר נוח (צילום: Dreamstime) מאת סיגל טוויג במשך שנים, המאבק על עובדים בהייטק התנהל לפי נוסחה קבועה כמעט. כשהיה קשה לגייס, העלו את השכר. כשהמתחרים הציעו יותר, הוסיפו בונוס. כשעלה חשש שעובדים יעזבו, שדרגו את חבילת האופציות או הוסיפו רכב חברה. כאשר הביקוש לעובדים איכותיים רק הלך וגדל, היה נדמה שכמעט כל בעיה אפשר לפתור בעוד כמה אלפי שקלים בברוטו. אבל בשנים האחרונות משהו מתחיל להשתנות. למרות שחברות ממשיכות להשקיע סכומי עתק בשכר והטבות, עובדים רבים מדווחים על שחיקה, ירידה במוטיבציה ורצ",
+      "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
+      "link": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
+      "pubDate": "2026-09-09T19:45:00.000Z",
+      "summary": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rating, and all sorts of slick software tricks to make iOS feel more at home on the new device. Preorders start on October 16th ahead of availability on October 23rd, and it starts at $1,999 for 256GB of storage. It's a huge announcement for Apple, and we have many feelings about it. Here's our gut reacti",
       "image": null,
-      "source": "גיקטיים",
-      "sourceUrl": "https://www.geektime.co.il",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "When it comes to Beatles references, scientists can't let it be",
+      "link": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
+      "pubDate": "2026-09-09T19:31:55.000Z",
+      "summary": "Scientists have an indisputable playful side, evidenced by frequent allusions to popular culture in their research publications. That includes popular song lyrics. And the most popular musical group, in terms of how frequently their songs and lyrics appear in the scientific literature, is The Beatles, according to a new paper published in the journal PLoS ONE. “Some of these are genuinely brilliant,\" said co-author Gabriel Budel of Delft University of Technology in the Netherlands. \"'The lung an",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/beatles-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
       "columns": [
         4
       ],
@@ -591,11 +983,137 @@
       "depthBucket": "אברגרין"
     },
     {
-      "title": "IFA 2026: זוזי הצידה, בינה מלאכותית – הבינה הפיזית הגיעה",
-      "link": "https://www.pc.co.il/editorial/457918/",
-      "pubDate": "2026-09-08T10:43:33.000Z",
-      "summary": "OpenAI הציגה השבוע את Astra, המודל החדש שלה, שלטענתה הוא צעד גדול בדרך לבינה מלאכותית כללית. אבל הגביע הקדוש של ה-AGI מציג אתגר נוסף: בינה מלאכותית פיזית. כלומר, כזו שלא נמצאת רק בענן או בממשק קולי, אלא נמצאת פיזית בתוך הבית שלנו, אם במכשירים ואם כבר ברובוטים שמבוססים עליה ומסוגלים לבצע משימות. ג'ייק דייסון , הבן של והמנכ\"ל הנוכחי של חברת דייסון סבור שרובוטים תבוניים ראשונים הם עניין של שלוש שנים בלבד, אבל אנחנו מקדימים את המאוחר… אם כבר הזכרנו את דייסון, הרי שמברשת השיניים החדשנית שלהם, CameraJ",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/דייסון-ב-IFA-2026-בברלין.-ניב-ליליאן.jpg",
+      "title": "The quick guide to fall vaccines and when you should get them",
+      "link": "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
+      "pubDate": "2026-09-09T18:39:36.000Z",
+      "summary": "Labor Day is in the rearview mirror, kids are back to school, and a squall of pumpkin spice is upon us. It's that time again to prepare for the equally inevitable respiratory virus season with annual vaccines. With fervent anti-vaccine activist Robert F. Kennedy Jr. as the country's top health official, it might seem like the rollout of this year's shots could be a disaster. For instance, one of Kennedy's first actions as health secretary last year was to obliterate an ad campaign for flu shots ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/GettyImages-1231396408-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
+      "link": "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
+      "pubDate": "2026-09-09T17:11:46.000Z",
+      "summary": "Nearly every country represented in the United Nations General Assembly recently voted in favor of promoting world maps that more accurately show the size of various continents. But the UN resolution is unlikely to change how millions of people regularly see versions of 16th-century Mercator maps depicting skewed continent sizes in navigation apps. On September 4, the African-led resolution attracted 164 votes in favor, with six countries abstaining from voting. Only the United States voted to o",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/UN-correct-the-map-vote-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "Prime Video releases full trailer for Mike Flanagan's Carrie",
+      "link": "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
+      "pubDate": "2026-09-09T16:40:45.000Z",
+      "summary": "I'm on record expressing a certain amount of skepticism about Mike Flanagan's rebooted Carrie miniseries for Prime Video. We don’t need another disappointing remake , so what story is there left to tell—especially stretched out over six episodes? On the plus side, I'm a staunch fan of Flanagan's excellent Netflix horror fare, and he has a particular affinity for the works of Stephen King. He insists he has no intention of creating yet another straight adaptation of the novel. “ Carrie was writte",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/carrieTOP-1152x648-1788968889.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "Superintelligence is coming. Should we let it?",
+      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "pubDate": "2026-09-09T16:05:35.000Z",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "\"מיצינו את היכולת להקים דאטה סנטרים על כדור הארץ\"",
+      "link": "https://www.pc.co.il/news/datacenter/458066/",
+      "pubDate": "2026-09-09T14:26:42.000Z",
+      "summary": "\"עולם ה-AI מביא לצריכה של כמויות אנרגיה עצומות. היכולת להגדיל את הייצור של הבינה המלאכותית על פני כדור הארץ הולכת ואוזלת. הכדור נהיה קטן מדי למשימה. מיצינו את האנרגיה שמופקת על פני כדור הארץ לטובת דאטה סנטרים. אנחנו חייבים לצאת מהכדור על מנת לכרות אנרגיה בחלל ושם להקים את מרכזי הנתונים\", כך אמרה הילה חדד חמלניק , מנכ\"לית מייסדת של הסטארט-אפ מונשוט (Moonshot). לדבריה, \"לא רק אנחנו אומרים את זה, אלא גם בכירי הטק בעולם – ב- SpaceX , גוגל ו אנבידיה \". היא הוסיפה כי \"הבינה המלאכותית צורכת כמויות אנרג",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/IMG_1424-X3.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+      "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+      "pubDate": "2026-09-09T14:01:11.000Z",
+      "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account recovery into account takeover. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "NOAA is putting commercial fishing ahead of conservation",
+      "link": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
+      "pubDate": "2026-09-09T13:58:44.000Z",
+      "summary": "In July , the Trump administration relegated endangered leatherback turtles, sea lions, and whales to mere collateral damage in its race to profit from the oceans. Now, fisheries science is in the government’s crosshairs. The National Oceanic and Atmospheric Administration (NOAA) announced new agency priorities last week that they say are a commitment to “cutting bureaucracy, modernizing our science, and putting our fishing communities first.” But experts say the agency’s actions will erode fish",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-588701496-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "\"ה-Physical AI היא הדבר הבא, והיא הולכת לשנות את העולם\"",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/458047/",
+      "pubDate": "2026-09-09T13:23:03.000Z",
+      "summary": "\"ה-Physical AI היא הדבר הבא, והיא הולכת לשנות את העולם. איך? זה כבר תלוי בנו, בהחלטות שנקבל ובמה שנעשה כדי שהיא תשנה אותו לטובה\", כך אמר אלקנה אסולין , סגן נשיא להנדסת אימות מערכות בקבוצת מחשוב הלקוחות והבינה המלאכותית הפיזית ב אינטל העולמית. אסולין דיבר בכנס ה-Physical AI הראשון בישראל, שנערך אתמול (ג') במלון דיוויד אינטרקונטיננטל בתל אביב על ידי אנשים ומחשבים ו המטה הלאומי לבינה מלאכותית . באירוע השתתפו מאות מומחים ואנשי מקצוע בתחום והנחה אותו קובי מחט , מגיש ב ערוץ 13 . צילום ועריכת וידיאו: ל",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/IMG_0914-X3.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "אחרי הצ'טבוטים – תור הרובוטים: המרוץ על ה-Physical AI מתחיל",
+      "link": "https://www.pc.co.il/upcoming-conferences/458038/",
+      "pubDate": "2026-09-09T12:29:47.000Z",
+      "summary": "השלב הראשון במהפכת הבינה המלאכותית התרחש כמעט כולו בעולם הדיגיטלי. מודלי שפה למדו לחזות את המילה הבאה, מודלי תמונה למדו לייצר פיקסלים, ומודלי וידיאו למדו ליצור רצפים שנראים מציאותיים. עכשיו התעשייה מתחילה להתמודד עם בעיה מורכבת בהרבה: לא רק לייצר ייצוג של העולם, אלא להבין כיצד הוא מתנהג. זהו הבסיס ל-Physical AI – התחום שמנסה לחבר בין היכולות של מודלי AI לבין רובוטים, כלי רכב, מכונות ומערכות, הפועלים במרחב הפיזי. האתגר שונה באופן מהותי מזה של צ'טבוט. רובוט במחסן לא יכול להסתפק בתשובה שנשמעת סבירה",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/דר-זאב-פרבמן-מייסד-ומנכל-LTX.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "כך היינו? טרנד האייטיז משגשג ב-ChatGPT וברשתות החברתיות",
+      "link": "https://www.pc.co.il/news/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%97%d7%91%d7%a8%d7%aa%d7%99%d7%95%d7%aa/458025/",
+      "pubDate": "2026-09-09T12:09:26.000Z",
+      "summary": "אם פתחתם את אחת הרשתות החברתיות לאחרונה, בעיקר את אינסטגרם (Instagram), והרגשתם שהאלגוריתם החליט לשגר אתכם למסע בזמן של ארבעה עשורים לאחור, אתם ממש לא לבד. טרנד ססגוני ומלא הומור מציף את הרשתות החברתיות באמצעות מדבקת ה-Add Yours ('הוסף את שלך') באינסטגרם, כשגולשים מכל העולם משנים את תמונות הסלפי העדכניות שלהם לדיוקנאות רטרו מושקעים. התופעה הסוחפת הזו, שצוברת תנופה גם ב טיקטוק (TikTok) ואפילו ב פייסבוק (Facebook), מבוססת על העלאת תמונה אישית ל-ChatGPT (או לג'מיני) ובקשה לשחזר אותה באווירת שנות ה-",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/חדש.jpg",
       "source": "אנשים ומחשבים",
       "sourceUrl": "https://www.pc.co.il",
       "columns": [
@@ -605,53 +1123,25 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "מעבר לחדשנות: המדריך המלא לאבטחת סביבת ה-AI בארגון",
-      "link": "https://www.pc.co.il/editorial/457907/",
-      "pubDate": "2026-09-08T09:52:05.000Z",
-      "summary": "הבינה המלאכותית משנה את הדרך שבה ארגונים עובדים, מפתחים מוצרים ומקבלים החלטות. השימוש בבינה מלאכותית יוצרת (Generative AI), סוכנים (AI Agents) ומודלי שפה גדולים (LLMs) הולך ומתרחב, אך במקביל נוצר גם משטח תקיפה חדש, המצריך תפישת אבטחה ייעודית. הארגונים בישראל הם בין המאמצים המהירים ביותר בעולם של חדשנות דיגיטלית וטכנולוגיות מבוססות AI, והאיזון בין חדשנות לאבטחה הופך לעדיפות עסקית אסטרטגית. ככל שה-AI משתלבת יותר במגזרים קריטיים – החל משירותים פיננסיים, בריאות ועד לטכנולוגיה וייצור – ארגונים זקוקים",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/גורי-גבע-פורטינט-צילום-מירב-רביץ-מושל.jpg",
+      "title": "\"צריך לתחזק את ההיי-טק כדי שימשיך לנוע\"",
+      "link": "https://www.pc.co.il/%d7%a4%d7%95%d7%93%d7%a7%d7%90%d7%a1%d7%98-%d7%90%d7%a0%d7%a9%d7%99%d7%9d-%d7%95%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-2/458026/",
+      "pubDate": "2026-09-09T12:07:30.000Z",
+      "summary": "\"כדי שההיי-טק ימשיך להיות הקטר של המשק עלינו לתחזק אותו. רק כך הוא יוכל להמשיך לנוע\", כך אמר אבי טראוב , מנכ\"ל איגוד ההיי-טק הישראלי ב התאחדות התעשיינים , בראיון אופטימי לפודקאסט אנשים ומחשבים , לקראת השנה החדשה. לדבריו, \"אני מאמין שההיי-טק ינצח, הייצור יישאר בארץ והתעשיה תפרח\". יש לטראוב ניסיון רב בענף ההיי-טק – בתפקידי ניהול בכירים בארגוני אנטרפרייז וכשותף בסטארט-אפ. הוא החל את דרכו בענף לפני 26 שנים, כשהצטרף ל סאפ בתחילת דרכה בישראל, ועבד שם כ-10 שנים. בתקופה זו הוא מילא תפקידים גם במטה של סא",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/e229ba44-ea4f-43a0-a277-75b5f3ec3b19.jpg",
       "source": "אנשים ומחשבים",
       "sourceUrl": "https://www.pc.co.il",
       "columns": [
         4
       ],
       "column": 4,
-      "depthBucket": "אברגרין"
+      "depthBucket": "עכשווי"
     },
     {
-      "title": "רגע לפני שהאייג'נטים מוחקים לכם את הפרודקשן: כך תנהלו אותם כמו עובדים רגילים",
-      "link": "https://www.geektime.co.il/ai-agents-first-class-identities/",
-      "pubDate": "2026-09-08T08:39:54.000Z",
-      "summary": "בגישת First-Class Identities, כל סוכן משויך לבעלים אנושיים שלוקח עליו אחריות (צילום: Dreamstime) מאת איל מנדל שילוב סוכני AI בתהליכי העבודה הפך כמעט לסטנדרט: הם מקבלים החלטות, ניגשים למידע רגיש ומבצעים פעולות במהירות – לעתים בלי מעורבות אנושית ישירה, ואפילו מתחת לרדאר של צוותי האבטחה. בהנחה שהמודל הישן של Identity כבר לא רלוונטי, השאלה הגדולה שחייבים לשאול היא: מי מנהל אותם? מחקר של Okta מגלה כי כבר ב-2024 91% מהארגונים השתמשו בסוכני AI, אבל רק 10% מהם העידו שיש להם אסטרטגיה מגובשת לניהול הזהויו",
-      "image": null,
-      "source": "גיקטיים",
-      "sourceUrl": "https://www.geektime.co.il",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "אברגרין"
-    },
-    {
-      "title": "המקום הכי מעורר השראה בתל אביב",
-      "link": "https://www.pc.co.il/editorial/%d7%94%d7%a0%d7%9e%d7%a8-%d7%91%d7%93%d7%a8%d7%9b%d7%99%d7%9d/457887/",
-      "pubDate": "2026-09-08T08:13:47.000Z",
-      "summary": "ביקרתי באינספור משרדים, מרכזי חדשנות וחללי עבודה, אבל משהו ב-Floor47 של דלויט (Deloitte) גרם לי לעצור – זו לא עוד קומה עם נוף מרשים לתל אביב, אלא מרחב שנבנה כדי לגרום לאנשים לחשוב אחרת. חדר ישיבות ב-Floor47 של דלויט. צילום: לירון בוזגלו כאן פגשתי מקום שבו מנכ\"לים, הנהלות ויזמים יוצאים לרגע מהשגרה, מאתגרים את המובן מאליו, ומתרגמים רעיונות גדולים לתוכניות פעולה אמיתיות. זה בדיוק המקום שבו שיח אסטרטגי הופך להחלטות, ומחשבות הופכות לביצוע. לאונג' ב-Floor47 של דלויט. צילום: לירון בוזגלו הלאונג' ב-Floo",
-      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/47-148.jpg",
-      "source": "אנשים ומחשבים",
-      "sourceUrl": "https://www.pc.co.il",
-      "columns": [
-        4
-      ],
-      "column": 4,
-      "depthBucket": "אברגרין"
-    },
-    {
-      "title": "היזמית שמאחורי אלי הבוטית חוזרת עם סטארטאפ דייטינג חדש: \"מצפים לאלפי משתמשים בתוך ימים\"",
-      "link": "https://www.mako.co.il/nexter-news/Article-8a9c0b37f0080a1026.htm",
-      "pubDate": "2026-09-08T08:09:00.000Z",
-      "summary": "אליאנה ברבל חוזרת לעולם ההיכרויות עם סטארטאפ חדש בשם טנדו ביחד עם אשר ברק, שמבטיח למצוא לכם אהבה בעזרת שדכנית AI, בלי צורך לגלול בין פרופילים ולהחליק ימינה ושמאלה. בריאיון ל-mako היא מספרת מה גרם בסופו של דבר לסגירת \"אלי הבוטית\" ומה למדה מזה, למה הם פועלים במתכונת בוטסטראפ (\"יודעים שנצטרך להשקיע כסף בהתחלה\") ואיך עושים את כל זה עם תינוק בן שנה",
-      "image": "https://img.mako.co.il/2026/09/08/AutoCms_8407381D6_autoOrient_a.jpg",
+      "title": "עם רשימת המתנה: סוכן ה-AI בוואטסאפ שכולם משתגעים ממנו",
+      "link": "https://www.mako.co.il/nexter-news/Article-25cb3a5acd580a1027.htm",
+      "pubDate": "2026-09-09T11:54:00.000Z",
+      "summary": "סוכן ה-AI האישי אינסטינקט של היזם נואה שין בן ה-23, גייס מאות מיליוני דולרים ומבטיח לעשות עבורכם הכל – מעיצוב אלבומים ועד הזמנת טיסות. לצד ההתלהבות, תנאי שימוש פולשניים וכשלי אבטחה מעלים חשש כבד: \"כל תוקף שיצליח לתמרן אותו יקבל מפתח מאסטר לחשבון שלכם\". בינתיים, מטא משיקה מתחרה ישיר - הסוכן האישי Muse, שיהיה פעיל בינתיים רק בארה\"ב",
+      "image": "https://img.mako.co.il/2026/09/09/I_grid_dfadsfasdfadsdfadsfadsf_autoOrient_a.jpg",
       "source": "mako / N12 — דיגיטל (Nexter)",
       "sourceUrl": "https://www.mako.co.il/nexter",
       "columns": [
@@ -661,11 +1151,123 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "\"הטלוויזיות מהסלון עוברות לממ\"ד\": למה הישראלים מובילים בקניית מסכי ענק?",
-      "link": "https://www.mako.co.il/nexter-news/Article-2ec9076702c70a1027.htm",
-      "pubDate": "2026-09-08T07:15:00.000Z",
-      "summary": "חברת TCL הגיעה לתערוכת IFA 26 עם טלוויזיות, סמארטפונים ומסכי קונספט חדשים. בריאיון נדיר מספר עודד דגן, מנהל הפעילות של TCL בארץ, על הרגלי הצריכה של הישראלים והרצון להגדיל את המסך כמה שיותר: \"רבים נאלצו להסתפק ב-75 או 85 אינץ' רק בגלל שהקיר שלהם לא היה מספיק גדול\"",
-      "image": "https://img.mako.co.il/2026/09/07/AutoCms_4572C2C4C_autoOrient_a.jpg",
+      "title": "הדילמה הגדולה של מטלות הבית בהייטק: עם AI או בלי?",
+      "link": "https://www.geektime.co.il/rethinking-tech-take-home-assignment-with-ai/",
+      "pubDate": "2026-09-09T11:50:58.000Z",
+      "summary": "השאלה היא לא אם צריך לאפשר AI במטלות בית או לאסור זאת באופן גורף (צילום: Unsplash) מאת מאי לוי, ראש צוות גיוס ב-SQlink במשך שנים, מטלות הבית בהייטק היו רוטינה קבועה: הייתם מקבלים תרגיל של שעתיים-שלוש, יושבים לבד בבית ומנסים להוכיח שאתם יודעים לכתוב את הקוד הנכון או לבצע את האנליזה המדויקת. ואז הגיע ה-AI, והפך את רוב המשימות האלו לתרגיל בלחיצת כפתור. אבל במקום לוותר לגמרי על המטלה, יש חברות שהחליטו דווקא לנצל את השימוש ב-AI לטובת התרגיל – לדוגמה, לשתול שגיאות מכוונות בתוך הנתונים. המטרה שלהן היא ",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "pubDate": "2026-09-09T11:00:10.000Z",
+      "summary": "It took Michael Lines six months before he was ready to review the ChatGPT logs he said drove him into a religious mania that almost ended his life. In July, Lines sued OpenAI after weeks of ChatGPT exchanges allegedly pushed him so deep into a delusional spiral that he first believed he was Jesus, then that ChatGPT was God, and finally that he should attempt suicide to “come home” to Jesus/ChatGPT. The logs showed that ChatGPT persisted even when Lines told the chatbot that he worried he was be",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-jesus2-1-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "סערה מתמטית: האם סוכני OpenAI פתרו ראשונים בעיה סבוכה?",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/458002/",
+      "pubDate": "2026-09-09T09:42:12.000Z",
+      "summary": "הסיפור הבא הוא דרמטי, ואף גולש לדרמטיות טלנובלית של ממש, אבל הוא גם מטריד – חברת OpenAI יצרה שוב מהומה בתעשיית הטכנולוגיה, וזאת לאחר שהכריזה כי מערכת פנימית שלה הצליחה לייצר הוכחה מתמטית ממוחשבת לבעיית מנגנון הזרימה של נאבייה-סטוקס (Navier-Stokes equations). בעיה זו, הנחשבת לאחת מ\"בעיות המילניום\" היוקרתיות של מכון קליי למתמטיקה (Clay Mathematics Institute) – שפרס של מיליון דולר לפותר תלוי ועומד לצידה – בוחנת האם משוואות המתארות תנועת נוזלים וגזים יכולות להגיע בנסיבות מסוימות לנקודת \"קריסה\", שבה ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/האם-ה-AI-של-OPenAI-היא-שפתרה-אותה-ראשונה.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "הפרשה שמסעירה את עולם המתמטיקה: האם OpenAI גנבה קרדיט מחוקרים על פתרון בעיית המילניום?",
+      "link": "https://www.geektime.co.il/openai-math-revelation-scoops-human-researchers/",
+      "pubDate": "2026-09-09T09:16:13.000Z",
+      "summary": "מקור: AI, עיצוב תמונה פריצת דרך היסטורית או העתקה בוטה? OpenAI מכריזה כי פיצחה את אחת מבעיות המתמטיקה הגדולות והמפורסמות בעולם בעזרת מודל AI חשאי ועוצמתי. אלא ששני חוקרים מתחרים טוענים שהחברה פשוט שאבה את המחקר שלהם דרך הצ'אט, ועל הדרך גם דאגה לאיים על הקריירה שלהם. מי היה שם קודם? OpenAI חשפה כי סוכנים של החברה, שרצים על \"מודל שלא פורסם ועוצמתי משמעותית בהשוואה ל-GPT-6 Astra\", הצליחו לפתור לכאורה את בעיית נאוויה-סטוקס. הבעיה עוסקת באופן שבו נעים נוזלים וגזים ולפני שנמצא לה פתרון, והיא נחשבה לאח",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "המוח הדיגיטלי לניהול תשתיות ושירותים קריטיים",
+      "link": "https://www.pc.co.il/upcoming-conferences/458001/",
+      "pubDate": "2026-09-09T09:15:49.000Z",
+      "summary": "מאת יוסי עפרוני בעולם שבו רכבות נוסעות בתדירות גבוהה יותר, רשתות חשמל מתמודדות עם המעבר לאנרגיות מתחדשות, וערים הופכות לחכמות, מחוברות ומבוססות נתונים – הניהול התפעולי המסורתי כבר אינו מספיק. ארגוני שירות עתירי תשתיות פועלים כיום בסביבה מורכבת, דינמית ורבת סיכונים. כל תקלה, גם אם היא נראית נקודתית, עלולה ליצור תגובת שרשרת: לפגוע ברציפות התפקודית, להשפיע על רמת השירות, לייצר עלויות גבוהות, ואף להפוך לאירוע בעל חשיפה ציבורית. כדי להתמודד עם אתגרי ההווה והמחר, ארגוני שירות עתירי תשתיות ונכסים זקוקי",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/יוסי-עפרוני.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "המייל שמטלטל את הארכיטקטורה: למה הדאטה סנטרים בעידן ה-AI נזילים מאי פעם?",
+      "link": "https://www.pc.co.il/featured/457983/",
+      "pubDate": "2026-09-09T08:48:44.000Z",
+      "summary": "כל מי שמנהל תשתיות ענן או ארכיטקטורת תוכנה מכיר את רגע החרדה הקטן הזה, כשתיבת הדואר הנכנס מתרעננת, ומופיע בה מייל רשמי מספקית הענן עם כותרת שגרתית אך מלחיצה: Action required, Notice of Service Update or Policy Change. עבור משתמש מן השורה זה נראה כמו עדכון גרסה זניח, אבל עבור ארכיטקט ענן או מנהל תשתיות, המייל הזה יכול להיות תחילתו של פרויקט חירום. למה אנחנו מקבלים כאלה מיילים? אנחנו רגילים לחשוב על דאטה סנטרים ועל תשתיות ענן כעל יסודות בטון מוצקים ויציבים, אבל המציאות ב-2026 שונה לחלוטין. שוק הענ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/אסף-ליבוביץ-1.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "איראן וגורמים עוינים נוספים מרחיבים שימוש ב-GenAI למתקפות מתוחכמות",
+      "link": "https://www.pc.co.il/news/%d7%90%d7%91%d7%98%d7%97%d7%aa-%d7%9e%d7%99%d7%93%d7%a2-%d7%95%d7%a1%d7%99%d7%99%d7%91%d7%a8/457982/",
+      "pubDate": "2026-09-09T08:25:09.000Z",
+      "summary": "בתקופה האחרונה חל זינוק מדאיג בתחכום השימוש שעושים גורמים עוינים ומדינות בבינה מלאכותית יוצרת (GenAI): לצד שכלול הנדסת הפרומפטים ליצירת תוכן ומבצעי השפעה, חל מעבר להפעלת מערכות סוכני AI אוטונומיות – תהליכים המצמצמים דרמטית את זמן התגובה שעומד לרשותם של מגני הסייבר; כך לפי GTIG – קבוצת מודיעין האיומים של גוגל (Google) – שפרסמה אתמול (ג') את דו\"ח איומי הסייבר שלה לרבעון השני של 2026. קבוצת התקיפה הממשלתית האיראנית המכונה CALANQUE ION , המוכרת גם כ- APT42 , ממשיכה להרחיב את השימוש שלה במודלי שפה גד",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/הגבירו-שימוש-ב-AI.-האקרים-זדוניים-מאיראן-סין-ואחרים.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "20 דולר פה, 50 דולר שם: איך תצאו מהחור השחור בהוצאות ה-AI שלכם?",
+      "link": "https://www.geektime.co.il/managing-ai-shadow-spend/",
+      "pubDate": "2026-09-09T08:19:15.000Z",
+      "summary": "איך נותנים חופש פעולה לעובדים מצד אחד, ושליטה לארגון מצד שני? מאת איתמר ג'ובני עד לא מזמן, רכישת תוכנה ארגונית הייתה תהליך מסודר. מחלקת ה-IT בחנה פתרון, הרכש ניהל משא ומתן, הכספים אישרו תקציב, ההסכם נחתם – ורק אז התוכנה נכנסה לארגון. השינוי במודל הזה התחיל בעידן ה-SaaS, אבל מודלי ה-AI לוקחים את תהליך האימוץ למקום אחר לגמרי. היום, מנהלת פיתוח יכולה לרכוש כלי AI לצוות שלה, מחלקת השיווק מוסיפה כלי ליצירת תוכן, אנשי המכירות משתמשים בכלי תמלול וסיכום פגישות, צוות המוצר רוכש כלי מחקר ומפתח בודד יכול ל",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "כמעט ואין סודות: כל מה שיודעים על האייפונים שיוצגו הערב באירוע של אפל",
+      "link": "https://www.mako.co.il/nexter-news/Article-fe3db42aaf480a1027.htm",
+      "pubDate": "2026-09-09T07:32:00.000Z",
+      "summary": "ג'ון טרנוס יתעורר בקרוב ויגלה שהעולם יודע כמעט הכל על אירוע ההשקה הראשון שלו באפל. העיצוב דלף, גם השם החדש כבר ידוע ואפילו המחירים כבר די ברורים. אז האם יצליח המנכ\"ל החדש להפתיע אותנו באירוע המסורתי של החברה הערב? כל מה שיודעים על האייפונים החדשים שיוצגו היום",
+      "image": "https://img.mako.co.il/2026/09/09/ggfasfjsadlkfjaskfjasdskfjaedfaa_autoOrient_a.jpg",
       "source": "mako / N12 — דיגיטל (Nexter)",
       "sourceUrl": "https://www.mako.co.il/nexter",
       "columns": [
@@ -675,11 +1277,53 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "נולד בדור של דופלנטיס: הסגן הנצחי שמאיים על המלך",
-      "link": "https://www.ynet.co.il/sport/article/syriyy000fx",
-      "pubDate": "2026-09-08T22:30:00.000Z",
-      "summary": "אחרי שהתגבר על הגזענות ביוון ובעולם האתלטיקה, והוכיח ששחורים יכולים לקפוץ במוט, נאלץ עמנואל קראליס להתמודד עם האתגר הבלתי אפשרי: לרדוף אחרי העילוי ארמנד דופלנטיס. רגע לפני אליפות העולם הוא שבר את המחסום עם זהב בליגת היהלום, קפץ לגובה 6.20 מטרים והחל לנשוף בעורפו של יריבו האגדי",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/15/H1JLpW2Ckl/H1JLpW2Ckl_394_91_1929_1086_0_medium.jpg",
+      "title": "התבוסה למכבי ת\"א הוכיחה - הפועל באר-שבע הלכה אחורה | טור",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/rytvzh1fmg",
+      "pubDate": "2026-09-09T22:30:00.000Z",
+      "summary": "בניגוד למשחק נגד סבאח במוקדמות ליגת האלופות, אחרי המפלה מול הצהובים רן קוז'וך כבר לא הודה ליושב במרומים. וגם: הקאמבק הגדול של אושר דוידה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/ryrx00CBdGl/ryrx00CBdGl_0_99_1280_721_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5,
+      "depthBucket": "עכשווי"
+    },
+    {
+      "title": "מה היה רגע הספורט הגדול של השנה בכחול-לבן?",
+      "link": "https://www.ynet.co.il/sport/article/hysjysjyfx",
+      "pubDate": "2026-09-09T22:30:00.000Z",
+      "summary": "בנות נבחרת העתודה בכדורסל מפתיעות את אירופה, ארטיום דולגופיאט שוב עולה על הפודיום או דני אבדיה מגיע למשחק הכוכבים בליגה הטובה בעולם. מה היה הישג השיא של הספורט הישראלי?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/ry00TgmkFzx/ry00TgmkFzx_0_48_2327_1311_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "לנבחרת ישראל אין בית, וזה לא מעניין כבר אף אחד",
+      "link": "https://www.ynet.co.il/sport/article/b13r0vkkzl",
+      "pubDate": "2026-09-09T22:30:00.000Z",
+      "summary": "בלי לארח משחקים בינלאומיים, בלי ניהול ועם נרמול של מצב מעוות. וגם: בואו נפוצץ דרבי. הדברים הכי מעצבנים בשנה האחרונה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/04/BkPavaORgMg/BkPavaORgMg_1_125_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5,
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "\"עיר עם גאווה וחוסן\": שדרות מחלימה מה-7 באוקטובר בזכות הכדורגל",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/h1pkbeytmg",
+      "pubDate": "2026-09-09T22:30:00.000Z",
+      "summary": "סמל של בית\"ר ירושלים על הקווים, שחקן שלומד בישיבה ומרביץ תורה בחדר ההלבשה, קפטן שעושה מילואים כלוחם בעזה, מחלקת נוער שסוחפת מאות ילדים וקבוצה שהפכה לשיחת היום בבתי הקפה. אחרי 58 שנה, לשדרות יש שוב נציגה בליגה השלישית – ניצחון אדיר לעיר שעדיין מתמודדת עם פצעי 7 באוקטובר ומנסה לחזור לנורמליות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/rk00KM4yKfx/rk00KM4yKfx_0_201_2953_1663_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
@@ -691,7 +1335,7 @@
     {
       "title": "כוכב נבחרת הכדורעף לקראת אליפות אירופה: \"באים לתת בראש, לא רק להשתתף\"",
       "link": "https://www.ynet.co.il/sport/article/hyiuz10ufe",
-      "pubDate": "2026-09-08T22:30:00.000Z",
+      "pubDate": "2026-09-09T14:03:04.000Z",
       "summary": "הכחולים-לבנים יפתחו את הטורניר היוקרתי מחר (חמישי, 19:00) מול אוקראינה. שי ליברמן, אחד הכישרונות הגדולים שצמחו לנו בענף מדבר על ההישג ההיסטורי (\"מרגישים מאוד מוכנים\") ומספר על הגעגוע לאביו שנפטר לפני פחות משנה: \"הוא איתי כל הזמן\"",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/BkGom1Auzg/BkGom1Auzg_201_54_1015_571_0_medium.jpg",
       "source": "Ynet — ספורט",
@@ -703,23 +1347,37 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "מי שממהר להספיד את הפועל באר-שבע לא למד כלום | טור",
-      "link": "https://www.ynet.co.il/sport/israelisoccer/article/rj4mdj000ml",
-      "pubDate": "2026-09-08T22:30:00.000Z",
-      "summary": "אחרי ההשפלה מול מכבי ת\"א, הפציעות והתחושה שהעונה שוב בורחת, האלופה ניצבת בפני מבחן גדול. ההיסטוריה מלמדת שהאדומים של רן קוז'וך יודעים לצאת גם מהמשברים הקשים ביותר, אבל הפעם המאמן יצטרך למצוא פתרונות חדשים – במיוחד מול קני מילר, שכבר גבר עליו שלוש פעמים",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/r1jhQgp00fg/r1jhQgp00fg_129_12_2872_1617_0_medium.jpg",
+      "title": "נולד בדור של דופלנטיס: הסגן הנצחי שמאיים על המלך",
+      "link": "https://www.ynet.co.il/sport/article/syriyy000fx",
+      "pubDate": "2026-09-09T13:19:11.000Z",
+      "summary": "אחרי שהתגבר על הגזענות ביוון ובעולם האתלטיקה, והוכיח ששחורים יכולים לקפוץ במוט, נאלץ עמנואל קראליס להתמודד עם האתגר הבלתי אפשרי: לרדוף אחרי העילוי ארמנד דופלנטיס. רגע לפני אליפות העולם הוא שבר את המחסום עם זהב בליגת היהלום, קפץ לגובה 6.20 מטרים והחל לנשוף בעורפו של יריבו האגדי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/15/H1JLpW2Ckl/H1JLpW2Ckl_394_91_1929_1086_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
         5
       ],
       "column": 5,
-      "depthBucket": "עכשווי"
+      "depthBucket": "אברגרין"
+    },
+    {
+      "title": "סוף עידן: היורוליג הופכת למכונת כסף על חשבון האוהדים | תוכן גולשים",
+      "link": "https://www.ynet.co.il/sport/article/syxj3npofl",
+      "pubDate": "2026-09-09T13:00:00.000Z",
+      "summary": "24 קבוצות, שני מחוזות ו־21 מועדוני פרנצ'ייז. מה שנמכר כמהפכה שתפחית את העומס על השחקנים עלול לצמצם את מפגשי הענק, להציף את המפעל בקבוצות נטולות מסורת ולהפוך את הכדורסל האירופי לחיקוי חיוור של ה־NBA. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/12/08/ryky53yOs/ryky53yOs_0_114_3000_1660_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5,
+      "depthBucket": "אברגרין"
     },
     {
       "title": "ממינוי מאולץ למאמן הטוב בליגה: מילר ממשיך להוכיח שהוא האיש הנכון",
       "link": "https://www.ynet.co.il/sport/israelisoccer/article/bkmlujruml",
-      "pubDate": "2026-09-08T22:30:00.000Z",
+      "pubDate": "2026-09-09T09:30:23.000Z",
       "summary": "השחקנים התאהבו בו, דור פרץ התעקש שימשיך ומיץ' גולדהאר השתכנע לתת לו הזדמנות. ממינוי שנולד מתוך אילוץ למאמן הקבוצה הלוהטת בליגה – קני מילר מראה שהרכש החשוב ביותר של מכבי ת\"א העונה נמצא בכלל על הקווים. נוקאאוט כפול על רן קוז'וך ומאזן מושלם בליגה הספיקו כדי להשכיח את הכישלון האירופי",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/B1e2zhdwGe/B1e2zhdwGe_771_142_1510_851_0_medium.jpg",
       "source": "Ynet — ספורט",
@@ -731,11 +1389,11 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "מכתב של אוהד לרומן סורקין | תוכן גולשים",
-      "link": "https://www.ynet.co.il/sport/article/ska6ino00zx",
-      "pubDate": "2026-09-08T13:00:00.000Z",
-      "summary": "אני משוכנע שאם תדבר עם דני אבדיה, הוא יאמר לך: תהיה מקצוען, שחק כמקצוען ותאמר ל\"מקורבים\" שלא יקלקלו את התדמית שלך. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/22/SksjW3URll/SksjW3URll_0_0_1280_721_0_medium.jpg",
+      "title": "מי שממהר להספיד את הפועל באר-שבע לא למד כלום | טור",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/rj4mdj000ml",
+      "pubDate": "2026-09-09T08:30:02.000Z",
+      "summary": "אחרי ההשפלה מול מכבי ת\"א, הפציעות והתחושה שהעונה שוב בורחת, האלופה ניצבת בפני מבחן גדול. ההיסטוריה מלמדת שהאדומים של רן קוז'וך יודעים לצאת גם מהמשברים הקשים ביותר, אבל הפעם המאמן יצטרך למצוא פתרונות חדשים – במיוחד מול קני מילר, שכבר גבר עליו שלוש פעמים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/r1jhQgp00fg/r1jhQgp00fg_129_12_2872_1617_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
@@ -745,25 +1403,11 @@
       "depthBucket": "עכשווי"
     },
     {
-      "title": "ז'וזה מוריניו מחפש היסטוריה: ליגת האלופות חוזרת ובגדול",
-      "link": "https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-e42d36863e080a1026.htm",
-      "pubDate": "2026-09-08T12:11:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — ספורט (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/Sports",
-      "columns": [
-        5
-      ],
-      "column": 5,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "זכה עם מוריניו בטרבל כשחקן - ועכשיו פוגש אותו על הקווים",
-      "link": "https://www.ynet.co.il/sport/worldsoccer/article/bjylxutoml",
-      "pubDate": "2026-09-08T10:15:14.000Z",
-      "summary": "הבכורה המחודשת של \"המיוחד\" כמאמן ריאל מדריד בליגת האלופות הערב (22:00) לא יכולה הייתה להיות יותר פיקנטית, כאשר הוא יתמודד מול אינטר, איתה זכה בפעם האחרונה במפעל ומאמנה, כריסטיאן קיבו, ששיחק באותה קבוצה תחתיו. הפורטוגלי עצמו העדיף לא להתייחס יותר מדי להיסטוריה: \"אני רוצה לנצח, לא יהיה זמן לחשוב על דברים מהעבר\"",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/HyUHjUpdMl/HyUHjUpdMl_1_58_3000_1689_0_medium.jpg",
+      "title": "אליפות היא לא מילה גסה, הפועל ת\"א | תוכן גולשים",
+      "link": "https://www.ynet.co.il/sport/article/byd85na00gg",
+      "pubDate": "2026-09-09T04:00:00.000Z",
+      "summary": "הפועל תיתן פייט עד הסוף במאבק על האליפות. הגיע הזמן שלה לחזור לקדמת הבמה ולשחזר את השנים שבהן התוצאה הייתה ידועה מראש עוד לפני שהקבוצה עלתה לכר הדשא. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/HkgS9F2Ofx/HkgS9F2Ofx_0_250_3000_1689_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
@@ -771,90 +1415,6 @@
       ],
       "column": 5,
       "depthBucket": "עכשווי"
-    },
-    {
-      "title": "הלחוצה, המפתיעה - והזוכה הגדולה: ליגת האלופות חוזרת והרי התחזית",
-      "link": "https://www.ynet.co.il/sport/worldsoccer/article/rypiny3dzg",
-      "pubDate": "2026-09-08T08:30:17.000Z",
-      "summary": "האם פ.ס.ז' מסוגלת לעשות זאת בפעם השלישית ברציפות, למי התאכזרה ההגרלה, מאיפה תבוא הפתעת העונה ואיזו קבוצה מגיעה הכי לחוצה. ליגת האלופות חוזרת, יאיר קטן וזאב אברהמי עונים על כל השאלות החשובות ואפילו מהמרים מי תניף את הגביע עם האוזניים הגדולות",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/30/rktDRTOlMe/rktDRTOlMe_0_165_3000_1689_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ],
-      "column": 5,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "\"המשחק העשיר בהיסטוריה\": השתיים ששוות יחד כ-15 מיליארד דולר",
-      "link": "https://www.mako.co.il/news-sport/sports_others-2026_q3/Article-3c23e6d3cef70a1026.htm",
-      "pubDate": "2026-09-08T07:54:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — ספורט (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/Sports",
-      "columns": [
-        5
-      ],
-      "column": 5,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "ככל שהקיץ של מכבי ת\"א \"קשה\" יותר, כך היא חוזרת טובה יותר | טור",
-      "link": "https://www.ynet.co.il/sport/article/ry4pu9numl",
-      "pubDate": "2026-09-08T07:00:13.000Z",
-      "summary": "אחרי קיץ מלא בספקות, הצהובים הגיעו לטרנר, כבשו רביעייה מול האלופה והזכירו את מכבי של ימי איביץ'. אפילו כשדור פרץ לא בשיאו וטברנייר עדיין לא בעניינים, לקני מילר יש קבוצה עמוקה, רגועה ומפחידה. תשאלו את באר־שבע",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/rkgSjTF300Gx/rkgSjTF300Gx_0_121_3000_1689_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ],
-      "column": 5,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "בארה\"ב מתכוננים לעונת ה-NBA: \"לדני אבדיה יש את הכוח להעניש\"",
-      "link": "https://www.mako.co.il/news-sport/basketball-2026_q3/Article-54b06a19f9f70a1026.htm",
-      "pubDate": "2026-09-08T06:23:00.000Z",
-      "summary": "",
-      "image": null,
-      "source": "mako / N12 — ספורט (sitemap)",
-      "sourceUrl": "https://www.mako.co.il/Sports",
-      "columns": [
-        5
-      ],
-      "column": 5,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "הטעות החיפאית עם האחים חלאילי | תוכן גולשים",
-      "link": "https://www.ynet.co.il/sport/article/bydd00niomx",
-      "pubDate": "2026-09-08T04:00:00.000Z",
-      "summary": "המועדון הירוק לא זיהה בזמן את היכולות של ענאן, וגם איאד מקבל דגשים לא נכונים בתפקיד שגוי. והם לא יוצאי הנוער היחידים שסובלים מכך. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/15/rJerWhpIMg/rJerWhpIMg_2_0_1919_1080_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ],
-      "column": 5,
-      "depthBucket": "עכשווי"
-    },
-    {
-      "title": "אביזרי מין שנזרקים למגרש, טענות לגזענות ודיוני מגדר: כשהטראמפיזם פוגש את כדורסל הנשים",
-      "link": "https://www.ynet.co.il/sport/article/yokra14876081",
-      "pubDate": "2026-09-08T03:28:07.000Z",
-      "summary": "דווקא בתקופת השיא שלה נגררה ליגת הכדורסל המקצוענית לנשים, ה–WNBA, למלחמה החברתית–פוליטית שמפלגת את ארצות–הברית. פוליטיקאים מהימין, עיתונאים שמרנים וסתם טרולים מנצלים את ההייפ סביב הכישרון של קייטלין קלארק והפרובוקציות של סופי קנינגהם, כדי להבעיר מדורה שמערבבת גזע עם סכנה מדומיינת מטרנסיות ומליברלים. גם דונלד טראמפ לא הצליח להתאפק",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/r1Q3oINivzg/r1Q3oINivzg_0_383_3000_1689_0_medium.jpg",
-      "source": "Ynet — ספורט",
-      "sourceUrl": "https://www.ynet.co.il/sport",
-      "columns": [
-        5
-      ],
-      "column": 5,
-      "depthBucket": "אברגרין"
     }
   ]
 }

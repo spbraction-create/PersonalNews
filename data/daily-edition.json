@@ -1,351 +1,438 @@
 {
-  "generatedAt": "2026-09-09T03:21:26.625Z",
+  "generatedAt": "2026-09-10T03:20:48.192Z",
   "columns": [
+    {
+      "column": 1,
+      "name": "חדשות / אקטואליה",
+      "brief": "ישראל נפרדת מהרמטכ\"ל לשעבר גדי איזנקוט, שהלך לעולמו. \n\nברקע האבל הלאומי, המערכה האזורית מול איראן מחריפה: ראש הממשלה נתניהו הצהיר בביקור בחרמון כי ישראל קרובה להכרעת המשטר בטהראן, ובמערכת הביטחון הוחלט להגיב על כל זליגת ירי משטחה. המתיחות מגיעה על רקע תצלומי לוויין החושפים זינוק בבנייה באתר גרעין חשוד באיראן, והחלטה היסטורית של סבא\"א להפנות את טהראן למועצת הביטחון. בעוד דונלד טראמפ הצהיר כי המלחמה תסתיים מיד לאחר נובמבר, בכירים מזהירים כי העימות עלול להיגרר עד 2029. במקביל, ברצועת עזה מאשר צה\"ל כי חמאס החל להוציא אמצעי לחימה ממחסניו. \n\nבזירה הדיפלומטית נרשמת החרפה דרמטית ביחסים עם לונדון, כאשר בריטניה מאיימת בצעד חסר תקדים של הטלת סנקציות על בנקים בישראל. \n\nבזירת הפנים מתפתח עימות חסר תקדים בצמרת הביטחונית: מפכ\"ל המשטרה דני לוי האשים את השר לביטחון לאומי בן גביר ב\"פגיעה בביטחון הלאומי\", בעקבות עיכוב תקציב של 333 מיליון שקלים שלטענת הארגון מוחזק כ\"בן ערובה\" בשל מחלוקת על מינוי קצינה. \n\nבמישור המשפטי, 13 שנות מאסר נגזרו על צעיר שהורשע בהריגת עאישה א-ראבי ביידוי אבן ממניע לאומני. בתוך כך, המדינה מציינת נקודת ציון דמוגרפית היסטורית: לקראת ראש השנה תשפ\"ז, מנתה אוכלוסיית ישראל לראשונה יותר מ-10 מיליון בני אדם.",
+      "cards": [
+        {
+          "title": "הרמטכ\"ל לשעבר גדי איזנקוט נפטר",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-israel/Article-5e3e0b24dcd1c61026.htm",
+          "source": "mako / N12 — חדשות (sitemap)",
+          "pubDate": "2026-09-09T11:05:00.000Z"
+        },
+        {
+          "title": "נתניהו טוען: \"אנחנו מאוד קרובים להכרעת המשטר באיראן\"",
+          "summary": "בביקור בכתר החרמון בסוריה, אמר רה\"מ כי ישראל מחויבת להכריע את המשטר באיראן. \"אנחנו נעשה את זה, אנחנו יודעים שכל הציר ייפול סופית\", הצהיר. \"לא ניתן לשום צבא טרור להתבסס בגבולנו\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/SJ1rnAROzx/SJ1rnAROzx_0_140_1200_676_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/b1yx6caufe",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-09T13:34:44.000Z"
+        },
+        {
+          "title": "עימות חסרת תקדים: בריטניה מאיימת בסנקציות על בנקים בישראל",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-world/2026_q3/Article-57bf4ad555780a1026.htm",
+          "source": "mako / N12 — חדשות (sitemap)",
+          "pubDate": "2026-09-09T18:20:00.000Z"
+        },
+        {
+          "title": "התמונות חושפות: זינוק נרחב בבנייה באתר הגרעין החשוד",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-world/2026_q3/Article-0b7629298b580a1027.htm",
+          "source": "mako / N12 — חדשות (sitemap)",
+          "pubDate": "2026-09-09T10:44:00.000Z"
+        },
+        {
+          "title": "ההחלטה בישראל: להגיב על כל זליגת ירי מאיראן לשטחנו",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-military/2026_q3/Article-6f5f300243780a1026.htm",
+          "source": "mako / N12 — חדשות (sitemap)",
+          "pubDate": "2026-09-09T19:02:00.000Z"
+        },
+        {
+          "title": "המפכ\"ל במתקפה על בן גביר: \"פגיעה בביטחון הלאומי\". השר: \"הוא נשלט ע\"י היועמ\"שית\"",
+          "summary": "פרסום ראשון: רב-ניצב דני לוי כתב לשר לביטחון לאומי כי עיכוב 333 מיליון שקל למשטרה הוא \"פגיעה בביטחון הלאומי וביכולת להתמודד עם כלל המשימות\" - והעביר עותק לרה\"מ. בסביבת בן גביר טענו ל\"חשש לבזבוזים\", השר פרסם תגובה שבה כלל לא התייחס לכך - והודה שהמחלוקת היא סביב התנגדותו למינוי קצינה לסגנית יועמ\"ש המשטרה. בארגון האשימו: תקציב המשטרה מוחזק כ\"בן ערובה\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/20/ByVZD00zGkel/ByVZD00zGkel_238_465_2207_1243_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/ry1ere1ygx",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-09T15:06:56.000Z"
+        },
+        {
+          "title": "פירוק מנשק? בצה\"ל מאשרים: חמאס מוציא אמל\"ח מהמחסנים",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-military/2026_q3/Article-778c7a515c480a1026.htm",
+          "source": "mako / N12 — חדשות (sitemap)",
+          "pubDate": "2026-09-09T06:14:00.000Z"
+        },
+        {
+          "title": "טראמפ: המלחמה באיראן תסתיים אחרי נובמבר; בכירים הזהירו: \"עלולה להימשך עד 2029\"",
+          "summary": "בצל הערכות שהנשיא עשוי לחדש את המלחמה אחרי הבחירות בארה\"ב ב-3 בנובמבר, טראמפ הבטיח שהיא תסתיים \"מיד\" אחרי מאבק השליטה על הקונגרס - אך ב\"וול סטריט ג'ורנל\" דווח הנשיא הוזהר שהעימות עלול להימשך עד סוף כהונתו. במקביל: החלטה היסטורית בסוכנות הגרעין של האו\"ם - שהפנתה את איראן למועצת הביטחון בגלל הפרות גרעיניות, אבל פוטין וסין יספקו מטריית הגנה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/r1fRNO7JFzg/r1fRNO7JFzg_0_312_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/byfy6mytmx",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-10T00:52:00.000Z"
+        },
+        {
+          "title": "13 שנות מאסר לצעיר שהרג את עאישה א-ראבי בזריקת אבן על מכוניתה",
+          "summary": "בעודו בן 15 זרק הצעיר אבן ממניע לאומני לעבר הרכב שבו נסעה עאישה א-ראבי עם בעלה ובתם. היא נהרגה כתוצאה מפגיעת האבן. הוא הכחיש שביצע את המעשה. בית המשפט קבע כי עבר תהליך שיקום לאורך השנים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2018/10/13/8818863/8818863_0_376_980_552_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/rjpko0admg",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-09T13:09:20.000Z"
+        },
+        {
+          "title": "ראש השנה תשפ\"ז: אוכלוסיית ישראל מונה יותר מ-10 מיליון",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-israel/2026_q3/Article-67b54dbc91380a1027.htm",
+          "source": "mako / N12 — חדשות (sitemap)",
+          "pubDate": "2026-09-09T10:00:00.000Z"
+        }
+      ]
+    },
     {
       "column": 2,
       "name": "כלכלה / עסקים",
-      "brief": "עסקת הענק שהייתה עשויה לטלטל את ענף הבינה המלאכותית ירדה מהפרק: חברת אנתרופיק, מפתחת קלוד, החליטה שלא להשלים את רכישת הסטארט-אפ הישראלי דקארט (Decart) תמורת כ-6 מיליארד דולר. במקביל, בזירה המאקרו-כלכלית המקומית נרשמת מגמת התאוששות, כאשר הגירעון הממשלתי ירד באוגוסט לרמה של 3.2% מהתוצר, על רקע זינוק של 11.5% בהכנסות המדינה מאז תחילת השנה וריסון בצד ההוצאות.\n\nבמגזר העסקי נרשמו מספר זעזועים. חברת דור אלון דיווחה לבורסה על חשד לגניבת ענק של כ-40 מיליון שקל בשנתיים האחרונות במתחמי התדלוק שלה, לכאורה במעורבות עובדים. בזירה הבינלאומית, שותפות הנפט הישראלית נאוויטס פטרוליום נקלעה למחלוקת גיאופוליטית, לאחר שארגנטינה הודיעה כי תתבע אותה בשל פרויקט קידוח ענק שהיא מובילה באיי פוקלנד בשיתוף חברה בריטית.\n\nבשוק המשלוחים והקמעונאות המקומי, וולט זוכה להקלה בלחץ התחרותי בעקבות החלטת מותג המשלוחים הבינלאומי ג'אסט איט (תן ביס) שלא להרחיב את שירותיו לפריסה ארצית בישראל. מנגד, השפעות המלחמה ממשיכות לתת את אותותיהן במגזר הריאלי: חברות החקלאות הוותיקות של ציון סוויסה הגישו בקשה לעיכוב הליכים בגין חובות של כ-30 מיליון שקל, לאחר שספגו מחסור חריף בידיים עובדות, פגיעה בשוק המוסדי וחרמות בחו\"ל.",
+      "brief": "הסלמת העימות בין ארצות הברית לאיראן מזניקה הבוקר את מחירי האנרגיה בעולם, כאשר מחיר חבית נפט מסוג ברנט חוצה את רף 100 הדולרים לראשונה מאז יולי, ונפט מסוג WTI נסחר סביב 94 דולר. בזירה העסקית הבין-לאומית נרשם שיא חדש, לאחר שבית משפט בדרום קוריאה פסק כי מייסד חברת המשחקים סמייל-גייט יעביר לגרושתו מניות בשווי 1.9 מיליארד דולר — הסדר הגירושין הגבוה בתולדות המדינה.\n\nבישראל, נתוני הלמ\"ס לסיכום 2025 חושפים פער מעמיק בענף הנדל\"ן: לצד כמעט 80 אלף התחלות בנייה, נרשמה ירידה חדה במכירות (90.5 אלף דירות) וירידה מתונה במחירי הדירות, בעוד שמדד שכר הדירה זינק ב-4.3%. ענף הבנייה סוער גם ברמה הרגולטורית והפוליטית: התאחדות קבלני השיפוצים וההסתדרות יצאו בחריפות נגד הרחבת פעילותן של חברות בנייה זרות בארץ, בעוד ראש הממשלה בלם את ניסיונו של שר הבינוי והשיכון להדיח בשימוע את מ\"מ מנהל רשות מקרקעי ישראל, יהודה אליהו.\n\nבמגזר הקמעונאי ושוק ההון, אלקטרה מוצרי צריכה הגישה טיוטת תשקיף לקראת הנפקת רשת קרפור בבורסת תל אביב, במטרה לגייס כ-350 מיליון שקל; במקביל, טיב טעם חוברת לתאגיד גרנות בהקמת חברה משותפת לפירות וירקות לקראת הנפקת \"ישרקו\". בשוק האנרגיה המקומי, הרפורמה רושמת הישג כאשר כחצי מיליון בתי אב כבר עזבו את חברת החשמל ועברו למספקים הפרטיים.",
       "cards": [
         {
-          "title": "דיווח: המו\"מ נכשל ואנתרופיק לא תרכוש את דקארט הישראלית ב-6 מיליארד דולר",
-          "summary": "מפתחת קלוד החליטה שלא להשלים עסקה לרכישת הסטארטאפ הישראלי שמפתח פתרונות להוזלת עלויות אימון והפעלה של בינה מלאכותית, לפי דיווח בבלומברג",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/17/SJhjjMlvzx/SJhjjMlvzx_516_174_2040_1149_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/hjekg11a00zg",
+          "title": "לראשונה מאז יולי: הנפט מזנק ל-100 דולר לחבית",
+          "summary": "ההסלמה בין ארה\"ב לאיראן משפיעה על השווקים, וחבית ברנט נסחרת סביב 100 דולר. נפט מסוג קרוד (WTI) נסחר סביב 94 דולר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/08/BkzKLhQbfl/BkzKLhQbfl_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/s1xzr9rogg",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-09-08T03:40:07.000Z"
+          "pubDate": "2026-09-09T08:15:27.000Z"
         },
         {
-          "title": "הגירעון ממשיך לרדת: 3.2% מהתוצר",
-          "summary": "באוגוסט נרשם גירעון של 7.9 מיליארד שקל, לעומת 9.6 מיליארד שקל בחודש המקביל אשתקד. ההתאוששות מהמלחמה עם איראן הזניקה את הכנסות המדינה מתחילת השנה ב-11.5%, בעוד הוצאות הממשלה‏ גדלו ב-3.6% בלבד",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/SJP7fKhNBfe/SJP7fKhNBfe_0_17_807_455_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/rjj6zdtofl",
+          "title": "כמעט 80 אלף דירות החלו להיבנות ב-2025 - אבל הרוכשים לא הגיעו",
+          "summary": "לפי נתוני הלמ\"ס לסיכום שנת 2025, 79.7 אלף דירות החלו להיבנות בשנה שעברה, אך מספר הדירות שנמכרו ירד מ-102.8 אלף בשנת 2024 ל-90.5 אלף אשתקד. מדד מחירי הדירות ירד ב-1% ומחירי הדירות החדשות הופחתו ב-2.8%. לעומת זאת, מדד שכר הדירה עלה ב-4.3%. ומה היקף ההשקעה בבנייה? כל הפרטים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/15/ByCPQQ48gx/ByCPQQ48gx_0_0_3000_2000_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/by8pni000mg",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-09-08T10:36:53.000Z"
+          "pubDate": "2026-09-09T10:00:00.000Z"
         },
         {
-          "title": "חשד לגניבת ענק בהיקף של עשרות מיליוני שקלים מדור אלון ע\"י עובדי החברה",
-          "summary": "דור אלון אנרגיה דיווחה לבורסה על חשד לגניבה במספר מתחמי תדלוק שלה, ככל הנראה במעורבות עובדיה, בסכום של 40 מיליון שקל. לפי הערכת החברה, הגניבות בוצעו בשנתיים האחרונות. תלונה הוגשה למשטרה ואף נשכרו שירותיו של משרד חקירות חיצוני",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/03/21/rk0027pYC6/rk0027pYC6_0_46_800_450_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/ry8acqtuze",
+          "title": "קרפור מתקדמת אל עבר הנפקה בבורסת ת\"א - מבקשת לגייס 350 מיליון שקל",
+          "summary": "אלקטרה מוצרי צריכה, שמחזיקה כמעט מחצית מקרפור, הגישה טיוטת תשקיף ראשונה להנפקת הרשת על בסיס נתוני הרבעון הראשון של 2026. בעבר העריכה החברה את שווי קרפור בכ-900 מיליון שקל, אך מדובר בהערכה פנימית בלבד. כבר במרץ האחרון סירבו משקיעים חיצוניים להיכנס לרשת לפי שווי דומה, מה שמעורר סימני שאלה לגבי הביקוש הצפוי בשוק",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/03/21/r1uAc2KAp/r1uAc2KAp_0_44_800_451_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/hyaz11rcugx",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-09-08T07:18:26.000Z"
+          "pubDate": "2026-09-09T12:30:05.000Z"
         },
         {
-          "title": "תביעת ארגנטינה נגד חברת קידוחי הנפט הישראלית והציוץ המוזר של בן גביר",
-          "summary": "ארגנטינה הודיעה כי תגיש כתב אישום נגד נאוויטס פטרוליום, שמובילה פרויקט קידוח ענק באיי פוקלנד בשיתוף עם חברה בריטית. השר לביטחון לאומי ככל הנראה לא ידע על מעורבותה המרכזית של החברה הישראלית שנתבעת, וצייץ כי \"הבריטים מבצעים קידוחי נפט וגוזלים כסף מהעם הארגנטיני\". תגובת החברה: \"פועלים לפי החוק של איי פוקלנד. אנחנו לא צד בסכסוך בין ארגנטינה ובריטניה\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/r1xC9pyD00fg/r1xC9pyD00fg_388_177_2316_1304_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/rykj0xtdmg",
+          "title": "כחצי מיליון עברו למספקי החשמל הפרטיים: אלה הערים המובילות במעבר",
+          "summary": "מספקי החשמל הפרטיים מבטיחים הוזלה בחשבון החשמל ותיקון תקלות על-ידי חברת החשמל והצרכנים מגיבים: כחצי מיליון כבר עזבו את חברת החשמל וכעת מתפרסמים מספרי ואחוזי העוזבים לפי ערים. העיר שמובילה במעבר צרכנים מחברת החשמל לחברות הפרטיות היא חרדית ו-33% מבתי האב בה כבר עברו למספקים פרטיים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/01/HJ11Zll57yx/HJ11Zll57yx_0_0_1228_625_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/sktzvk1kze",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-09-08T07:04:39.000Z"
+          "pubDate": "2026-09-09T14:16:23.000Z"
         },
         {
-          "title": "בשורה לוולט: ג'אסט איט לא יפעל בינתיים בישראל",
-          "summary": "פיילוט של מותג המשלוחים הבינלאומי ג'אסט איט הושק לאחרונה בבאר שבע ובאשדוד ולפי תן ביס \"הציג תוצאות חיוביות, אך הרחבת המודל לפריסה ארצית מחייבת השקעה משמעותית\". תן ביס מסרה שתמשיך לחזק את פעילותה מול מקומות עבודה ו\"ממשיכה לפעול כרגיל בשוק המשלוחים\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/04/07/9896927/9896927_0_0_1000_563_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/bkukb2auzg",
+          "title": "שר השיכון כץ זימן את יהודה אליהו, מ\"מ מנהל רמ\"י, לשימוע; נתניהו בלם את המהלך",
+          "summary": "השר חיים כץ זימן את אליהו, מקורבו של השר סמוטריץ', לשימוע בטרם הסתיימה תקופת כהונתו. אליהו מונה למ\"מ מנהל הארגון, שחולש על מעל 90% מקרקעות המדינה, ל-3 חודשים לאחר שבג\"ץ ביטל את מינויו בגלל זיקה גבוהה לשר האוצר. בעקבות המהלך קרא רה\"מ: \"אליהו עושה עבודה לאומית חשובה ולא יפוטר\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/04/H1IJVl8Cbl/H1IJVl8Cbl_0_0_1234_694_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/rktcgardzg",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-09-08T17:42:51.000Z"
+          "pubDate": "2026-09-09T15:34:32.000Z"
         },
         {
-          "title": "חובות של עשרות מיליונים: החברות של החקלאי הוותיק מבקשות עיכוב הליכים",
-          "summary": "פרסום ראשון: חובות של כ-30 מיליון שקל, יבולים שנרקבו בשדות ומחסור חריף בעובדים: שתיים מהחברות החקלאיות הוותיקות בארץ, שהוקמו ע\"י החקלאי הוותיק ציון סוויסה, פנו לבית המשפט בבקשה לעיכוב הליכים. לטענתן, מלחמת חרבות ברזל, ההסלמה מול איראן, חרמות בחו\"ל ופגיעה בשוק המוסדי יצרו רצף משברים שפגע בהן",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/07/30/Sy3XGuZyt/Sy3XGuZyt_0_82_1000_563_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/sytuidadfx",
+          "title": "קבלני השיפוצים והעובדים נגד הגדלת מספר חברות הבנייה הזרות: \"גזר דין מוות\"",
+          "summary": "התאחדות קבלני השיפוצים והסתדרות עובדי הבניין שיגרו מכתב לשר השיכון ובו יצאו נגד הוראת השעה המאפשרת להרחיב פעילות של חברות ביצוע זרות בישראל. זאת כחלק מניסיון המדינה להתמודד עם המחסור בכ\"א בענף. בפנייתם הזהירו מפני פגיעה בקבלנים קטנים ובינוניים ומעלייה בהעסקה לא חוקית. מנכ\"ל משרד השיכון: \"במקום להיאבק בתחרות, אני מציע לקבלנים להצטרף למהפיכה\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/03/22/r1VtZ0E8U/r1VtZ0E8U_0_0_590_400_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/skekmy0dgg",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-09-08T10:51:33.000Z"
+          "pubDate": "2026-09-09T15:41:00.000Z"
         },
         {
-          "title": "שוב עיכובים בטיסות, עובדים בנתב\"ג ל-N12: \"המחסור מורגש\"",
-          "summary": "",
-          "image": null,
-          "link": "https://www.mako.co.il/news-money/2026_q3/Article-c707e8cf3ef70a1027.htm",
-          "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-09-08T07:41:00.000Z"
+          "title": "מהפכה בשוק הפירות והירקות: טיב טעם וגרנות מקימות חברת ענק",
+          "summary": "רשת המזון מקימה באמצעות ישרקו חברה משותפת עם תאגיד גרנות, שתספק לסניפיה ירקות ופירות ותחליף את הספק החיצוני ביכורי שדה. מחזור המכירות הצפוי של ישרקו נאמד בכמיליארד שקל. המהלך מגיע כחלק מהיערכות לקראת הנפקת ישרקו",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/30/H1ENqRurzx/H1ENqRurzx_952_0_2049_1154_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/bjkjty0dfg",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-09T07:46:32.000Z"
         },
         {
-          "title": "למרות הביקורות ברשתות: yellow מכרה רבע מיליון נקניקיות בחודש",
-          "summary": "ברשת חנויות הנוחות החלו למכור נקניקייה בלחמנייה ב-5 שקלים, ונדהמו מהתגובה. לטענת יילו, מדי יום נמכרות למעלה מ-10,000 נקניקיות בסניפים בתחנות הדלק. סביב המבצע היו לא מעט תלונות של לקוחות על כך שהנקניקייה עצמה \"גמדית\" לעומת הגודל שלה בפרסומות",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/yk14893773/yk14893773_0_0_1021_654_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/yokra14893502",
+          "title": "\"הנישואים הגיעו למשבר\" והגרושה תקבל 1.9 מיליארד דולר",
+          "summary": "בית משפט לענייני משפחה בדרום קוריאה חייב את מייסד חברת המשחקים סמייל-גייט, קוון היוק-בין, להעביר לגרושתו לי הווה-ג'ין 35% ממניות החברה שהקים, בהסדר גירושין שערכו מוערך בכ-1.9 מיליארד דולר – יותר מפי 2 מהשיא הקודם שעמד על 720 מיליון דולר, ששילם יו\"ר קבוצת SK לגרושתו",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/08/HJ3ebu8wZx/HJ3ebu8wZx_0_59_1000_563_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/ryne890omx",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-09-08T21:00:00.000Z"
+          "pubDate": "2026-09-09T08:32:46.000Z"
         },
         {
-          "title": "המשביר: היזהרו מאתר שמתחזה לקנת' קול",
-          "summary": "כתובת האתר המזויף מכילה את המילה shop, שלא קיימת באתר הרשמי. האתר המתחזה גם מציג חוות דעת של \"לקוחות\" על הקנייה והמותג, מה שלא נהוג באתרי מותגי אופנה, ומחירים בדולרים ולא בשקלים",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/BJqJpVpufe/BJqJpVpufe_0_163_794_447_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/rjwwfn6ugx",
+          "title": "פסיקה תקדימית: הרשות הפלסטינית תפצה חיילים ושוטרת בעשרות מיליונים",
+          "summary": "ביהמ\"ש המחוזי ירושלים קבע כי חוק הפיצויים לקורבנות טרור חל גם על חיילים ושוטרים: בין הזוכים בפיצוי - שוטרת שנותרה עם פוסט טראומה לאחר פיגוע דקירה, מפקד שנפצע קשה בפיגוע דריסה וחייל שנפצע יחד עם אשתו ההריונית והתינוק נפטר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2014/12/25/5778288/5778288_145_299_1011_569_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/hjjok56ufg",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-09-08T07:52:47.000Z"
+          "pubDate": "2026-09-09T03:46:56.000Z"
         },
         {
-          "title": "צברה חוב של 1.24 מיליון שקל, ותחזיר רק 100 אלף",
-          "summary": "אישה בת 61, שאינה עובדת ומתקיימת מקצבאות, ניהלה מזה כשנתיים הליך חדלות פירעון. מרבית החוב הוא לבנק לאומי. בית המשפט אישר לה הסדר חריג",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/01/11/4393549/4393549_0_0_1000_667_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/rjweqvtdme",
+          "title": "הטונה בצלחת שלכם תהיה ישראלית: מתקן לגידול יוקם באילת בהשקעה גדולה",
+          "summary": "במסגרת פרויקט 'דגיגי הטונה הלאומי', יוקמו ארבעה מיכלים יבשתיים לגידול ורבייה מבוקרת של דגי טונה, בשיתוף המכון לחקר ימים ואגמים, ובהשקעה של 24 מיליון שקל. במשרד החקלאות מעריכים כי בתוך חמש שנים ניתן יהיה להתקדם לייצור מסחרי, ובתוך עשור - להניח תשתית לתעשיית חקלאות ימית ישראלית שתייצא דגיגים לעולם",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/01/05/8985186/8985186_1_40_1300_732_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/h1t2ascugx",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-09-08T07:42:05.000Z"
+          "pubDate": "2026-09-09T10:50:18.000Z"
         }
       ]
     },
     {
       "column": 3,
       "name": "שיווק / פרסום",
-      "brief": "סבב מינויים בצמרת השיווק העולמית עומד במרכז היממה האחרונה: ענקית הייעוץ אקסנצ'ר (Accenture) מינתה את אמה צ'לווין למנהלת השיווק הראשית (CMO), בעוד אליסון סטרנסקי, סמנכ\"לית השיווק של סמסונג בארה\"ב, עוזבת לטובת תפקיד ה-CMO בחברת הבירה בוסטון ביר. בזירה העסקית המקומית, עסקת הענק למכירת חברת כאל לקבוצת חורש-הראל (בהיקף של עד 4 מיליארד שקל) נקלעה לסכנת ביטול ממשית, לאחר שבנק דיסקונט פנה לבנק ישראל בדרישה לבחון מחדש את עצם החובה למוכרה עקב חסמים רגולטוריים.\n\nבגזרת הקמפיינים הבין-לאומיים, דאנקין רותמת את כוחה של הנוסטלגיה ואיחדה שתיים מחברות ה\"ספייס גירלז\" למהלך שיווקי עונתי, ואילו יונדאי מרחיבה את יוזמת האחריות התאגידית הוותיקה \"Hope on Wheels\" ומציבה במרכז ילדים שהחלימו מסרטן. \n\nבארץ, עולם הוויראליות וזכויות היוצרים רושם הסתבכות מסחרית: בעלי עסקים קטנים ששילמו פיצויים בגין שימוש בלהיט \"ילד הכטב\"ם\" דורשים כעת את כספם בחזרה בעקבות תפנית משפטית בבעלות על היצירה. במקביל, רשת חצי חינם משדרגת את חוויית הקנייה עם מתחם קולינרי בסניף רחובות בהובלת השפים שחף שבתאי ומשה בדישי, בעוד מותג הקינוחים של כוכבת הרשת אור שפיץ סופג מכה תדמיתית בעקבות ביקורת קטלנית של ניב גלבוע על מקור הייצור ואיכות הרכיבים.",
+      "brief": "טלטלה בצמרת ענף הפרסום העולמי: אנדרו רוברטסון מונה לעמוד בראש חטיבת הפרסום של קבוצת אומניקום (Omnicom Advertising) בעקבות פרישתו המתוכננת של טרוי רוהאנן. במקביל, מגזין הפרסום המוביל ADWEEK הודיע על מינויו של טים הארט לתפקיד סמנכ\"ל תפעול (COO), במטרה להאיץ את התפתחות החברה כפלטפורמת מדיה, אירועים ומודיעין עסקי. \n\nבגזרת המותגים והטכנולוגיה, חברת LG ניצבת בפני סערה בעקבות תחקיר אבטחה המעלה חשש כי מסכי ה-OLED הפופולריים שלה אוספים מידע אישי ומאפשרים ציתות באמצעות המיקרופון המובנה במצב המתנה. בעולם הריטייל המקומי, רשת \"אושר עד\" מציגה מהלך תמחור אגרסיבי ומוכרת שעוני יוקרה של מותגים דוגמת הוגו בוס וגאס ב-299 שקלים בלבד, צעד המאתגר את שוק האופנה המסורתי. \n\nבזירת השיווק החברתי והתוכן, רשת \"קפה גרג\" משיקה מחדש את מנת הספיישל \"הכריך של רוני\" לזכרה של סמ\"ר רוני אשל ז\"ל, שנפלה ב-7 באוקטובר. בארצות הברית, שיתופי הפעולה של מותגים עם מובילי דעה ממשיכים להעמיק: קוורטרבק ה-NFL בייקר מייפילד הרחיב את השותפות עם מותג הגברים Every Man Jack לקולקציית מוצרי טיפוח ממותגת בעלת היבט פילנתרופי. לצד זאת, ה-FBI השיק קמפיין גיוס חריג ברשתות החברתיות לאיתור מומחי סייבר ופשיעה, בעוד נתוני הרייטינג של ערוצי החדשות בארה\"ב לאוגוסט הצביעו על CNN כרשת היחידה שרשמה עליות בצפייה.",
       "cards": [
         {
-          "title": "Samsung U.S. Marketing Chief Allison Stransky to Join Boston Beer Co. as CMO",
-          "summary": "Samsung U.S. CMO Allison Stransky will become CMO of The Boston Beer Co. on Oct. 12.",
+          "title": "Andrew Robertson to Lead Omnicom Advertising as Troy Ruhanen Retires",
+          "summary": "Ruhanen said he and John Wren had planned his exit for ‘some time’",
           "image": null,
-          "link": "https://www.adweek.com/brand-marketing/samsung-us-marketing-chief-allison-stransky-to-join-boston-beer-co-as-cmo/",
+          "link": "https://www.adweek.com/agencies/andrew-robertson-to-lead-omnicom-advertising-as-troy-ruhanen-retires/",
           "source": "Adweek",
-          "pubDate": "2026-09-08T18:24:54.000Z"
+          "pubDate": "2026-09-09T12:19:12.000Z"
         },
         {
-          "title": "Accenture Fills Vacant CMO Post with Veteran Technology Marketer Emma Chalwin",
-          "summary": "CEO Julie Sweet welcomes Chalwin as a \"proven growth leader.\"",
+          "title": "אושר עד מרסקת את המחיר ומדהימה את השוק: מותגי היוקרה רק ב-299 שקל",
+          "summary": "לקוחות הרשת הופתעו לגלות לצד מוצרי המזון גם שעוני יד של מותגים בינלאומיים מובילים כמו הוגו בוס וגאס, שנמכרים במחירים נמוכים במיוחד של החל מ-299 שקלים בלבד",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_608/rsz_615_346_צילום מסך 2026-07-13 054241.png",
+          "link": "https://www.ice.co.il/consumerism/news/article/1129367",
+          "source": "אייס",
+          "pubDate": "2026-09-10T01:13:00.000Z"
+        },
+        {
+          "title": "Baker Mayfield Turns His Every Man Jack Partnership Into a Signature Collection",
+          "summary": "The Tampa Bay Buccaneers quarterback has co-created a body wash and deodorant collection blending product, purpose, and philanthropy.",
           "image": null,
-          "link": "https://www.adweek.com/brand-marketing/accenture-fills-vacant-cmo-post-with-veteran-technology-marketer-emma-chalwin/",
+          "link": "https://www.adweek.com/brand-marketing/baker-mayfield-turns-his-every-man-jack-partnership-into-a-signature-collection/",
           "source": "Adweek",
-          "pubDate": "2026-09-08T16:42:39.000Z"
+          "pubDate": "2026-09-09T06:56:54.000Z"
         },
         {
-          "title": "Dunkin’ Answers the Sixth Spice Girl Mystery With Pumpkin Spice",
-          "summary": "Dunkin's fall ad reunites 2 Spice Girls and reveals there was once a sixth member.",
+          "title": "ADWEEK Appoints Tim Hart Chief Operating Officer",
+          "summary": "ADWEEK has appointed Tim Hart as chief operating officer, a newly created role designed to strengthen execution and accelerate the company’s evolution as a media, events and professional-intelligence platform.",
           "image": null,
-          "link": "https://www.adweek.com/creativity/dunkin-answers-the-sixth-spice-girl-mystery-with-pumpkin-spice/",
+          "link": "https://www.adweek.com/media/adweek-appoints-tim-hart-chief-operating-officer/",
           "source": "Adweek",
-          "pubDate": "2026-09-08T11:39:17.000Z"
+          "pubDate": "2026-09-09T06:00:00.000Z"
         },
         {
-          "title": "New Hyundai Campaign Casts Childhood Cancer Survivors As Warriors",
-          "summary": "The automaker's 28-year-old Hyundai Hope on Wheels initiative is expanding, emphasizing courage and putting the kids before the cars.",
-          "image": "https://static-www.adweek.com/wp-content/uploads/2026/09/Untitled-design-1.png?w=1024",
-          "link": "https://www.adweek.com/inside-the-brand/new-hyundai-campaign-casts-childhood-cancer-survivors-as-warriors/",
-          "source": "Adweek",
-          "pubDate": "2026-09-08T22:44:22.000Z"
-        },
-        {
-          "title": "How the News Networks Will Mark Sept 11’s 25th Anniversary",
-          "summary": "The networks will have special coverage to mark the solemn anniversary on Friday morning.",
+          "title": "Here Are the Cable News Ratings for August 2026",
+          "summary": "CNN was the only network with gains in one of the measured categories during the month in primetime or total day.",
           "image": null,
-          "link": "https://www.adweek.com/tvnewser/how-the-news-networks-will-mark-sept-11s-25th-anniversary/",
+          "link": "https://www.adweek.com/tvnewser/here-are-the-cable-news-ratings-for-august-2026/",
           "source": "Adweek",
-          "pubDate": "2026-09-08T14:18:37.000Z"
+          "pubDate": "2026-09-09T16:17:40.000Z"
         },
         {
-          "title": "\"ילד הכטב\"ם\" מסתבך: בעלי עסקים דורשים את כספם בחזרה",
-          "summary": "דרמה משפטית חדשה סביב הלהיט הוויראלי: בעלי עסקים קטנים ששילמו בעבר אלפי שקלים במסגרת הסכמי פשרה דורשים כעת החזר דרמטי, בעקבות חשיפת פרטים חדשים על זכויות היוצרים בשיר",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_609/rsz_615_346_140514072022266.jpg",
-          "link": "https://www.ice.co.il/social/news/article/1129215",
-          "source": "אייס",
-          "pubDate": "2026-09-09T02:42:49.000Z"
+          "title": "רשת קפה גרג משיקה מחדש את מנת הספיישל: “הכריך של רוני” – לזכרה של רוני אשל ז”ל",
+          "summary": "רשת קפה גרג תחדש את המחווה המרגשת לזכרה של סמ”ר רוני אשל ז”ל, ותשיק מחדש את “הכריך של רוני” – הכריך שרוני נהגה להכין לעצמה ולבני משפחתה בשבתות בבוקר. רוני, ששירתה כתצפיתנית בגדוד 414 במוצב נחל עוז, נפלה ב־7 באוקטובר 2023, יחד עם רבות מחברותיה. לאחר נפילתה שיתפו הוריה, אייל ושרון אשל, בעמוד ההנצחה שלה את אהבתה לבישול ולקולינריה, ובין היתר את המתכון לכריך שרוני כל כך אהבה להכין. המתכון משך את תשומת לבה של רשת קפה גרג, שבמרץ 2024 החליטה להפוך אותו למנת ספיישל בתפריט הרשת. הכריך המקורי כלל חלת בריוש",
+          "image": "https://shivuk.me/wp-content/uploads/2026/09/0980-768x576.webp",
+          "link": "https://shivuk.me/goodness/39584",
+          "source": "מנהלי שיווק מצייצים",
+          "pubDate": "2026-09-09T08:00:22.000Z"
         },
         {
-          "title": "רשת חצי חינם חוגגת: המתחם החדש שנפתח בסניף המרכזי",
-          "summary": "רשת הסופרים משיקה בסניף רחובות מתחם קולינרי חדש, שבו יוצעו מדי יום מנות ביתיות מוכנות וטריות. על התפריט והסטנדרט הקולינרי אמונים השפים משה בדישי ושחף שבתאי",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_289/rsz_615_346_19ice18102021.jpg",
-          "link": "https://www.ice.co.il/consumerism/news/article/1129197",
+          "title": "התחקיר שמסעיר את השוק: הטלוויזיה הפופולרית שמקליטה את המתרחש בבית",
+          "summary": "בדיקה של חוקרי אבטחה מעלה חשש כבד כי מסכי OLED של חברת LG אוספים מידע רגיש על מכשירים ברשת הביתית, ומאפשרים ציתות דרך המיקרופון המובנה במצב המתנה",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_543/rsz_615_346_12ice18062025.jpg",
+          "link": "https://www.ice.co.il/digital-140/news/article/1129370",
           "source": "אייס",
-          "pubDate": "2026-09-08T21:30:00.000Z"
+          "pubDate": "2026-09-10T02:40:31.000Z"
         },
         {
-          "title": "אושר עד מרסקת את המחיר: המוצר המבוקש רק ב-99.90 שקלים",
-          "summary": "רגע לפני שהאורחים מגיעים, רשת הדיסקאונט משיקה פתרונות שינה זמניים ונוחים לאחסון במחירים נמוכים במיוחד שיחסכו לכם הוצאות כבדות על אירוח",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_580/rsz_615_346_27ice28122025.jpg",
-          "link": "https://www.ice.co.il/consumerism/news/article/1129209",
+          "title": "האף-בי-איי במהלך גיוס יוצא דופן: \"צריכים את הטובים ביותר\"",
+          "summary": "סרטון חדש שפורסם ברשת החברתית מציג את המאמצים המתמשכים של סוכנות האכיפה האמריקנית לאתר סוכנים מיוחדים חדשים שיילחמו בפשע המאורגן, באבטחת הסייבר ובטרור העולמי",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_481/rsz_615_346_32ice19092024.jpg",
+          "link": "https://www.ice.co.il/global-news/news/article/1129360",
           "source": "אייס",
-          "pubDate": "2026-09-09T00:21:22.000Z"
+          "pubDate": "2026-09-09T22:37:00.000Z"
         },
         {
-          "title": "ניב גלבוע נגד אור שפיץ: \"אני לא רוצה לאכול את זה\"",
-          "summary": "מבקר האוכל המוכר העמיד למבחן את מארז הקינוחים המדובר של הכוכבת שנמכר ב-195 שקלים, אך נרתע לחלוטין כשגילה מהם הרכיבים האמיתיים בפנים והיכן הם מיוצרים",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_620/rsz_615_346_21192026.jpg",
-          "link": "https://www.ice.co.il/media/news/article/1129195",
+          "title": "גמר מאסטר שף: אחרי 15 שנה - המהפך הדרמטי של הזוכה בריאליטי",
+          "summary": "הוא הגיע לרגע ההכרעה בעבר ולא הצליח לזכות, אך אמש בנבחרת החלומות נרשמה סגירת מעגל מרגשת במיוחד שהותירה את השופטים המומים. אליהב ששון הוא הזוכה",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_620/rsz_615_346_צילום מסך 2026-09-10 013215.png",
+          "link": "https://www.ice.co.il/food/news/article/1129368",
           "source": "אייס",
-          "pubDate": "2026-09-08T21:22:24.000Z"
+          "pubDate": "2026-09-10T01:36:00.000Z"
         },
         {
-          "title": "דרמה בעסקת כאל: דיסקונט פנה לבנק ישראל, המכירה בסכנת ביטול",
-          "summary": "המכירה לקבוצת חורש־הראל תמורת עד 4 מיליארד שקל נתקלת בקשיים רגולטוריים, ובבנק מזהירים כי לא יוכלו לעמוד בלוח הזמנים שנקבע. כעת פנה דיסקונט לנגיד בנק ישראל ולמשרדי הממשלה בדרישה לבחון מחדש את עצם החובה למכור את כאל",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_515/rsz_615_346_34ice03032025.jpg",
-          "link": "https://www.ice.co.il/finance/news/article/1129203",
+          "title": "דרמה בחדשות 13: בני גנץ הותקף קשות ביציאה מהאולפן - \"ביזיון\"",
+          "summary": "אירוע בלתי שגרתי התרחש באולפן בתום הריאיון של הפוליטיקאי הבכיר, כאשר עובד המקום הטיח בו מילים קשות ביותר והוביל לתגובה רשמית ויוצאת דופן מצד חברת החדשות",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_620/rsz_615_346_002010092026.png",
+          "link": "https://www.ice.co.il/media/news/article/1129365",
           "source": "אייס",
-          "pubDate": "2026-09-08T22:08:00.000Z"
+          "pubDate": "2026-09-10T00:29:46.000Z"
         }
       ]
     },
     {
       "column": 4,
       "name": "טק / טכנולוגיה",
-      "brief": "עולם הבינה המלאכותית רשם ציון דרך דרמטי עם השקת מודל GPT-6 Astra של OpenAI, שהובילה את מנכ\"ל אנבידיה, ג'נסן הואנג, ונשיא OpenAI, גרג ברוקמן, להכריז רשמית כי עידן ה-AGI (בינה מלאכותית כללית) כבר כאן. במקביל, תשתית המחשוב והאנרגיה מאיצה: ענקיות השבבים TSMC וסמסונג הודיעו על אימוץ מכונות ה-High NA EUV של ASML, בעלות של 400 מיליון דולר ליחידה, לצד שינוי הנדסי שיגדיל את תפוקת השבבים בכ-40%. במקביל, הממשל האמריקאי העניק הלוואה של 1.9 מיליארד דולר להחזרתו לפעילות של כור גרעיני באיווה, שנועד להזין את מרכזי הנתונים של גוגל.\n\nבגזרת ההון והעסקאות, מעבדת ה-AI הצרפתית Mistral גייסה 3 מיליארד אירו לפי שווי של 21 מיליארד אירו. מנגד, אנת'רופיק נסוגה מכוונתה לרכוש את הסטארטאפ הישראלי דקארט (Decart) ב-6 מיליארד דולר לאחר שלב בדיקת הנאותות, אם כי שיתופי פעולה חלופיים עדיין נבחנים. \n\nבחומרה הצרכנית, אפל תקיים את אירוע ההשקה השנתי שלה ב-9 בספטמבר, שבו צפוי להיחשף האייפון המתקפל הראשון של החברה. בתחום אבטחת המידע, חוקרי צ'ק פוינט חשפו חולשה ב-ChatGPT המאפשרת לחלץ בחשאי מידע מחשבון ה-Gmail של הקורבן באמצעות פרומפט עוין, ובמקביל הוצגה פרצת \"אפס לחיצות\" בוויצ'אט (WeChat) שאפשרה השתלטות על חשבונות דרך שיחה נכנסת, ותוקנה מאז בידי טנסנט.",
+      "brief": "המתח סביב מרוץ הבינה המלאכותית מגיע לחזית הגיאופוליטית: סוכנויות מודיעין וסייבר בארה\"ב מאשימות חברות AI סיניות בשאיבה ו\"זיקוק\" שיטתיים של יכולות ממודלי הדגל האמריקאיים בקנה מידה תעשייתי. במקביל, שאלת הבטיחות מעמיקה: בעוד חוקר בכיר עזב את אנתרופיק באזהרה חריפה מפני סיכונים קיומיים מבינה מלאכותית בעלת יכולת שיפור עצמי, OpenAI מצרפת לדירקטוריון את מומחה הבטיחות פול כריסטיאנו ומקצה מיליארד דולר בהגנת סייבר לתשתיות קריטיות. בגזרת היישומים, מטא הצטרפה למרוץ הסוכנים האוטונומיים עם Muse, סוכן אישי הפועל בסביבה וירטואלית מאובטחת, בעוד גוגל רתמה את הטכנולוגיה לפריצת דרך מדעית עם AlphaGenome Atlas, הממפה ומעריך כ-9 מיליארד שינויים בגנום האנושי.\n\nבזירת החומרה, אפל רשמה ציון דרך משמעותי כשחשפה את ה-iPhone Duo, המכשיר המתקפל הראשון מתוצרתה, במסגרת אירוע הסתיו השנתי.\n\nבמקביל, יום עדכוני האבטחה החודשי שבר שיאים: מיקרוסופט חסמה מספר חסר תקדים של 974 פרצות אבטחה, כולל שתי חולשות יום-אפס שנוצלו בפועל, וגוגל תיקנה אף היא חולשת יום-אפס פעילה בדפדפן כרום לצד מאות תיקונים נוספים. בגזרת הממשל התאגידי, טלטלה נרשמה ב-Automattic, מפעילת וורדפרס, לאחר שהדירקטוריון כפה על המנכ\"ל והמייסד מאט מולנווג לצאת לחופשה בניגוד לרצונו.",
       "cards": [
         {
-          "title": "הואנג הכריז: ה-AGI כבר כאן בזכות Astra של OpenAI",
-          "summary": "השקתו של מודל הדור הבא GPT-6 Astra מבית OpenAI הציתה גל של הכרזות דרמטיות בצמרת הטכנולוגיה העולמית. בין ההצהרות הבולטות בנושא החם הייתה זו של מנכ\"ל ענקית השבבים אנבידיה (Nvidia), ג'נסן הואנג , שמיהר לברך את OpenAI ברשת החברתית X והכריז כי הדרך המהירה שהטכנולוגיה והעולם עברו בתוך ארבע שנים בלבד – מפריצת הדרך של ChatGPT, דרך מודל o1 ועד ל-Astra – מוכיחה באופן מוחלט כי \"הבינה המלאכותית הכללית (AGI) כבר כאן\". גם נשיא OpenAI, גרג ברוקמן , חיזק את הטענה במהלך תדרוך עיתונאים חגיגי שקדם לכך, ובו הצהיר: ",
-          "image": "https://www.pc.co.il/wp-content/uploads/2026/09/הצהיר-שה-AGI-כבר-כאן.-גנסן-הואנג.jpg",
-          "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/457898/",
-          "source": "אנשים ומחשבים",
-          "pubDate": "2026-09-08T09:20:37.000Z"
+          "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+          "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+          "source": "TechCrunch",
+          "pubDate": "2026-09-09T20:03:43.000Z"
         },
         {
-          "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
-          "summary": "Leading chipmakers Samsung Electronics and Taiwan Semiconductor Manufacturing Co. announced plans to adopt ASML’s latest chipmaking machines in the next several years—and they also joined Intel in agreeing to a crucial technology change that could boost chip production on the new machines by 40 percent. This signifies the semiconductor industry’s broader embrace of high NA EUV photolithography technology that can cost up to $400 million per machine and is only provided by the Dutch technology co",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ASML_HighNA_cleanroom_Veldhoven_068-1-1152x648.jpg",
-          "link": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+          "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+          "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks. The activity has been described as occurring at an industrial-scale and one that forms the \"core\" of their AI development strategy, according to",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL63HDvTiCn3B33K6DsfIbMLjHqXlJAUtoh6euiAwcooJCTdK4Zdkoh8rZ93iQsAAkscB3CmOH6TUQJPor4yH4wN97ABinyCN_5hcHNZ2gAMZH4YtTO3kon5Ws7MZGI5CULnH4SpafnrFsfZO_8j8wfaOFEinAnLIP-LHom_9LNQRJ2wrlYy66bO1RNpwg/s1600/ai-china.jpg",
+          "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+          "source": "The Hacker News",
+          "pubDate": "2026-09-09T09:32:26.000Z"
+        },
+        {
+          "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+          "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in Developer Tools. Of these, over 110 shortcomings have been assigned a critical severity rating.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDwCsAOIvmVbfeFtRi5yvEPa3_Nm-rryDAF-CdttSghokSjh6oKz-ECapacQiIBNW9zsIh6LQ8B61LgpR2di6819PHU1vrIT6Mj4xKihzGcz29KydoYVw8lFKbrAXYs2MNv-FMRS8GnrmlfVQTAZ0ondViX8N9uy_dCgJywMQMnXlWBmzrXw9BR2zZ0HWo/s1600/ms-windows.jpg",
+          "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+          "source": "The Hacker News",
+          "pubDate": "2026-09-09T04:41:29.000Z"
+        },
+        {
+          "title": "Google's AI genome system evaluates every possible one-base change",
+          "summary": "On Tuesday, Google announced AlphaGenome Atlas , a resource that attempts to predict the consequences of every possible single-base variant in the human genome. The human genome is about 3 billion bases long, so trying the other three DNA bases that don't appear in our reference genome means sending a total of 9 billion bases through AlphaGenome software. AlphaGenome is designed to identify potential functions of non-coding DNA, which does not encode proteins but makes up the vast majority of th",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
+          "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
           "source": "Ars Technica",
-          "pubDate": "2026-09-08T19:12:53.000Z"
+          "pubDate": "2026-09-09T16:34:18.000Z"
         },
         {
-          "title": "Mistral raises €3B as sovereign AI becomes big business",
-          "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+          "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+          "summary": "Mullenweg said in a company Slack message that it was against his will.",
           "image": null,
-          "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+          "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
           "source": "TechCrunch",
-          "pubDate": "2026-09-08T14:17:48.000Z"
+          "pubDate": "2026-09-09T23:14:29.000Z"
         },
         {
-          "title": "דיווח: אנת'רופיק נסוגה מכוונתה לקנות את דקארט הישראלית תמורת 6 מיליארד דולר",
-          "summary": "לפי בלומברג, החברה שמאחורי קלוד ביצעה בדיקת נאותות לסטארטאפ הישראלי אך החליטה לא להתקדם. שיתופי פעולה אחרים בין החברות עדיין על הפרק",
-          "image": "https://img.mako.co.il/2026/08/18/ffdfasdkfjasdklfjsadfasa_re_autoOrient_a.jpg",
-          "link": "https://www.mako.co.il/nexter-news/Article-29cd48de83f70a1027.htm",
-          "source": "mako / N12 — דיגיטל (Nexter)",
-          "pubDate": "2026-09-08T04:18:00.000Z"
+          "title": "מטא השיקה את Muse – סוכן לשימוש אישי",
+          "summary": "מטא היא חברת ה(גם) AI החדשה שמצטרפת לעגלת הסוכנים לשימוש אישי, עם Muse, שאותו היא הציגה אתמול (ג'). בדומה לחברות שהקדימו אותה, היא מספרת ש-Muse מסמן את המעבר מצ'טבוט שנותן תשובות ופועל לפני הנחיות לכלי AI שפועל בשם המשתמש ובשבילו באופן פרו-אקטיבי, תוך שהוא לומד את המשתמש לאורך זמן, כדי ליצור תוכנית פעולה עבורו. לפי מטא מדובר בכלי מאובטח מהבסיס, מכיוון שהוא פועל בסביבת מחשב וירטואלי, שמכונה Muse Secure VM ומפרידה אותו בפועל מהסביבה שבה המשתמש עובד. עם זאת, הוא יכול, בהתאם לרמה שהמשתמש מאפשר לו, ל",
+          "image": "https://www.pc.co.il/wp-content/uploads/2026/09/1.jpg",
+          "link": "https://www.pc.co.il/featured/458062/",
+          "source": "אנשים ומחשבים",
+          "pubDate": "2026-09-09T14:10:11.000Z"
         },
         {
-          "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-          "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
+          "title": "OpenAI adds a prominent AI doomer to its board of directors",
+          "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
           "image": null,
-          "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+          "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
           "source": "TechCrunch",
-          "pubDate": "2026-09-08T15:25:35.000Z"
+          "pubDate": "2026-09-09T22:25:22.000Z"
         },
         {
-          "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
-          "summary": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
+          "title": "מיליארד דולר להגנת סייבר: המענה של OpenAI לפרשת הסוכנים הסוררים",
+          "summary": "OpenAI הכריזה באחרונה על השקת תוכנית עולמית חדשה בשם Daybreak for Frontline Defenders, שבמסגרתה מתחייבת חברת ה-AI המפורסמת להקצות סכום עתק של מיליארד דולר בקרדיטים למוצריה, בהדרכות ובסיוע טכני. מטרת היוזמה היא למעשה לסבסד את הגישה למודלי ה-AI המתקדמים ביותר של החברה עבור ארגונים המגינים על תשתיות קריטיות ושירותים חיוניים, אשר פועלים לרוב תחת מגבלות תקציב קשות ומחסור בכוח אדם מקצועי. התוכנית מיועדת לספק מענה ממוקד למפעילי תשתיות מים וביוב, רשתות חשמל, רשויות מקומיות, מערכות בריאות ובתי חולים ציבו",
+          "image": "https://www.pc.co.il/wp-content/uploads/2026/09/סוכני-AI-שלה-חדרו-לאתר-וויקי-גרמני.-OpenAI.jpg",
+          "link": "https://www.pc.co.il/news/%d7%90%d7%91%d7%98%d7%97%d7%aa-%d7%9e%d7%99%d7%93%d7%a2-%d7%95%d7%a1%d7%99%d7%99%d7%91%d7%a8/458018/",
+          "source": "אנשים ומחשבים",
+          "pubDate": "2026-09-09T10:47:31.000Z"
+        },
+        {
+          "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+          "summary": "When a prominent researcher quits a job at a frontier AI lab these days, it's often to pursue a new startup or protest a new business model . But AI researcher Jacob Coxon is using his departure from Anthropic to publicly warn that frontier AI companies are \"gambling with our lives\" with systems that they \"earnestly believe... could kill us all by the end of the decade.\" In a social media thread Tuesday night , Coxon said that this existential risk is inherent not so much in today's models but m",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-504013302-1152x648-1788971374.jpg",
+          "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+          "source": "Ars Technica",
+          "pubDate": "2026-09-09T16:59:40.000Z"
+        },
+        {
+          "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+          "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
           "image": null,
-          "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
-          "source": "TechCrunch",
-          "pubDate": "2026-09-08T09:00:00.000Z"
-        },
-        {
-          "title": "How to watch Apple’s foldable iPhone announcement",
-          "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
-          "image": null,
-          "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
-          "source": "TechCrunch",
-          "pubDate": "2026-09-08T17:46:53.000Z"
-        },
-        {
-          "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-          "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being called does not have to answer or touch their phone for it to work, but the caller must already be one of their WeChat contacts. Calif reported the flaw to Tencent in July and says the company has since",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjSG5iYgxvsWLWeFe2E-z5UDx0S4Q6zBQjkFEiKuFxcfplz39pE90jWcuiV7NcYqT6t2l8j5WWVBHdV-upHuzQVoy-pt4nL4WP7l-Uz_9AYFqOw1Pn0yI8LzM6OThlXJZY8_b4RVK0WzZYIsjWL96-2O-HHY1SH2FCtrE5c6nV0QJ0aU1X8FVlIvOs3g/s1600/wechat.jpg",
-          "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-          "source": "The Hacker News",
-          "pubDate": "2026-09-08T11:54:29.000Z"
-        },
-        {
-          "title": "A hacker stole $340M in a crypto heist, then returned most of it",
-          "summary": "The latest heist is one of the largest thefts of cryptocurrency to date.",
-          "image": null,
-          "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
-          "source": "TechCrunch",
-          "pubDate": "2026-09-08T14:11:29.000Z"
-        },
-        {
-          "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-          "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual. In the company's proof of concept, that hidden work read data from the user's connected Gmail account and passed it to a second ChatGPT account through a hidden channel",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jB-6O69dYNeqBTcSFXPcSQCqwabmHwmdGzC_ne5LyuUH-9v0MpLbJ1cgApFSqTuGG0Z_fKAD4A7gLcBcTdw6oUIv0nh_Pmyb5Obv7XhRY0jVGwPQ50S7rUnYZR8FUvYntVxL03GYJ010-iagkPkeZJ8oV6gvbEaVJPGw-L2rabD5pqOOu2HYW9g_nFcT/s1600/chatgpt-gmail.jpg",
-          "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-          "source": "The Hacker News",
-          "pubDate": "2026-09-08T14:19:17.000Z"
+          "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+          "source": "BleepingComputer",
+          "pubDate": "2026-09-09T06:25:48.000Z"
         }
       ]
     },
     {
       "column": 5,
       "name": "ספורט",
-      "brief": "במוקד עולם הכדורגל, פורסמה רשימת המועמדים הסופיים לכדור הזהב לשנת 2026, הכוללת את ליאו מסי, עוסמאן דמבלה, קיליאן אמבפה, ג'וד בלינגהאם, לאמין ימאל והארי קיין. על כר הדשא, שלב הליגה בליגת האלופות נפתח עם ניצחון של ריאל מדריד 1:2 על אינטר משערים של אמבפה וואלוורדה, לצד 0:2 של מנצ'סטר סיטי בפורטו בזכות צמד של ארלינג הולאנד, וניצחון 2:3 של אסטון וילה על קלאב ברוז'.\n\nבאליפות ארצות הברית הפתוחה בטניס, פרנסס טיאפו רשם קאמבק מרשים מפיגור שתי מערכות מול אלכס מיקלסן בדרך לחצי הגמר, שם נקבע גם מפגש מסקרן בנשים בין המדורגת ראשונה ארינה סבאלנקה לג'סיקה פגולה. ב-NBA, לוס אנג'לס לייקרס הודיעה כי תציב באפריל פסל מחוץ לאולמה לכבוד מאמן העבר פיל ג'קסון, שיאן האליפויות בליגה (11 טבעות), שהוביל את המועדון לחמש זכיות.\n\nבזירה הישראלית, השוער דניאל פרץ ומנור סולומון רשמו ניצחונות עם קבוצותיהם באנגליה. בליגת העל, מכבי תל אביב מצויה במשא ומתן מתקדם לצירוף כוכב נבחרת רומניה יאניס חאג'י, בעוד ועדת השיפוט קבעה כי הפועל באר שבע קופחה כשלא נשרק לזכותה פנדל מול הצהובים. במקביל, מכבי חיפה הודיעה על שחרורו של מנואל בנסון והשאלת ליאור קאסה למכבי פתח תקווה.",
+      "brief": "טלטלה באליפות ארצות הברית הפתוחה בטניס: המדורג שלישי, קרלוס אלקראס, הודח ברבע הגמר לאחר מותחן של חמש מערכות מול בן שלטון האמריקאי, במשחק שהסתיים לפנות בוקר בניו יורק. שלטון הצטרף בחצי הגמר לבן ארצו פרנסס טיאפו, שהשלים מהפך מפיגור שתי מערכות מול אלכס מיקלסן. בנשים, ילנה ריבאקינה העפילה לחצי הגמר והבטיחה את עלייתה לפסגת הדירוג העולמי לראשונה בקריירה על חשבון ארינה סבאלנקה, שתפגוש בשלב ארבע האחרונות את ג'סיקה פגולה, לצד קוקו גוף.\n\nבמחזור הפתיחה של ליגת האלופות, ארלינג הולאנד רשם עוד ערב היסטורי כשהגיע ל-59 שערים ב-59 הופעות במפעל עם צמד ב-0:2 של מנצ'סטר סיטי על פורטו. ברצלונה הביסה 1:5 את פיינורד, ליברפול הפכה ל-1:2 מול אתלטיקו מדריד, ריאל מדריד גברה 1:2 על אינטר, וארסנל ניצחה 0:1 את נאפולי. הערב לווה גם באירוע חריג ומבהיל, כאשר קונסטנטינוס קארצאס מדורטמונד התמוטט במהלך ה-2:3 על ויאריאל ופונה לבית חולים עקב בעיות במחזור הדם. \n\nבתוך כך, לאו מסי מרחיב את עסקיו וסיכם על רכישת הבעלות המלאה (100%) על מועדון אלדנסה מהליגה השנייה בספרד.\n\nבספורט הישראלי, תמונת מצב אופטימית במיוחד לקראת ההכרעה באליפות העולם בשיט: תמר שטיינברג ממשיכה להוביל את תחרות הנשים, בעוד יואב עומר טיפס לפסגת דירוג הגברים.",
       "cards": [
         {
-          "title": "גם מסי ברשימה: אלה המועמדים הסופיים לכדור הזהב 2026",
-          "summary": "אחרי שזכה שמונה פעמים בעבר, הכוכב הארגנטינאי שוב ברשימה היוקרתית. מועמדים נוספים: זוכה השנה שעברה, עוסמאן דמבלה, הארי קיין, לאמין ימאל, ג'וד בלינגהאם וקיליאן אמבאפה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/22/B1NfdNJ2xl/B1NfdNJ2xl_0_57_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/worldsoccer/article/sktnespdge",
-          "source": "Ynet — ספורט",
-          "pubDate": "2026-09-08T14:56:59.000Z"
-        },
-        {
-          "title": "מתנות קטנות: ריאל מדריד גברה 1:2 על אינטר",
-          "summary": "הבלאנקוס ניצלו שתי שגיאות של הנראזורי, אמבפה (14') ו-ואלוורדה (23') סידרו למוריניו 3 נקודות בברנבאו מול האקסית האיטלקית. אוגוסטו (77') צימק",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/one1886906/one1886906_0_0_800_444_0_medium.jpg",
-          "link": "https://livegame.ynet.co.il/games/532851",
-          "source": "Ynet — ספורט",
-          "pubDate": "2026-09-08T19:00:21.000Z"
-        },
-        {
-          "title": "פתיחה חלקה: מנצ'סטר סיטי גברה 0:2 על פורטו",
-          "summary": "חניכיו של מארסקה פתחו את העונה בליגת האלופות כפי שרצו לאחר הולאנד הכריע עם צמד בפורטוגל. דורטמונד ניצחה 2:3 את ויאריאל, 2:3 לבטיס על ליל",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/one1886946/one1886946_0_0_800_444_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/one532859",
-          "source": "Ynet — ספורט",
-          "pubDate": "2026-09-08T19:00:29.000Z"
-        },
-        {
-          "title": "אליפות ארה\"ב: קאמבק מטורף לטיאפו, סבאלנקה מול פגולה בחצי הגמר",
-          "summary": "האמריקאי חזר מפיגור 2:0 במערכות ל-7:5, 6:3, 5:7, 3:6, 6:7 (6) דרמטי על מיקלסן, שפרץ בבכי בסיום. נשים: המדורגת 1 בעולם הזיעה, תפגוש את האמריקאית בשחזור הגמר מ-2024",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/SyNx6r000Mx/SyNx6r000Mx_303_73_2511_1414_0_medium.jpg",
+          "title": "האלוף הודח: שלטון הדהים את אלקראס ברבע גמר אליפות ארה\"ב",
+          "summary": "הספרדי (3 בעולם), שחזר למגרשים אחרי היעדרות בת ארבעה חודשים, נעצר בשלב שמונה הגדולים אחרי 6:7 (5), 6:1, 6:3, 1:6, 7:6 (7) מול האמריקאי (9), במשחק שהסתיים ב-03:30 לפנות בוקר שעון ניו יורק. טיאפו חזר מפיגור 2:0 במערכות לניצחון 7:5, 6:3, 5:7, 3:6, 6:7 (6) על מיקלסן. נשים: סבאלנקה תפגוש את פגולה בחצי הגמר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/Byv6GF000fl/Byv6GF000fl_0_113_3000_1689_0_medium.jpg",
           "link": "https://www.ynet.co.il/sport/article/hkgt0ptdmg",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-09T03:14:31.000Z"
+          "pubDate": "2026-09-09T07:37:03.000Z"
         },
         {
-          "title": "סיפתח נפלא: אסטון וילה גברה 2:3 על קלאב ברוז'",
-          "summary": "שלב הליגה בליגת האלופות נפתח בניצחון אנגלי נהדר משערים של מקגין, בואנדיה וג'קסון. מנגד, וטלסן ו-טרסולדי צימקו. בנוסף: אתונה ניצחה 0:1 את לאסק",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/one1886864/one1886864_0_0_800_444_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/one532855",
+          "title": "ריבאקינה עלתה לחצי גמר אליפות ארה\"ב - והעפילה לפסגת הדירוג העולמי",
+          "summary": "הקזחית חזרה מפיגור מערכה מול הסינית, ניצחה 6:3, 1:6, 4:6 והעפילה לראשונה בקריירה לארבע הגדולות בניו-יורק. ההישג יעלה אותה למקום הראשון בעולם על חשבונה של ארינה סבאלנקה. גם קוקו גוף בחצי הגמר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/SJgUofQkFGl/SJgUofQkFGl_0_57_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/byylgmyymg",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-08T16:45:19.000Z"
+          "pubDate": "2026-09-09T20:48:06.000Z"
         },
         {
-          "title": "יאניס חאג'י מתקרב למכבי ת\"א - שמפעילה עליו לחצים לחתום | פרטים חדשים",
-          "summary": "על פי דיווחים, כוכב נבחרת רומניה, שמשחק באלניהספור, מחוזר על ידי הצהובים, שנמצאים במו\"מ מתקדם עם קבוצתו הטורקית. ל-ynet נודע כי קני מילר וטברנייר מעורבים משמעותית במאמצים להחתימו",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/09/04/Sk00STqQR2/Sk00STqQR2_0_34_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/israelisoccer/article/rkcx900pdgg",
+          "title": "מבהיל: היהלום הצעיר של דורטמונד התמוטט ופונה לבי\"ח",
+          "summary": "קונסטנטינוס קארצאס סימן לשופט כי אינו חש בטוב בדקה ה-25 - במהלך ה-2:3 על ויאריאל - והוצא על אלונקה: \"נאלץ לעזוב את המגרש עקב בעיות במחזור הדם\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/H1MqbrRuMx/H1MqbrRuMx_0_319_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/hjxggbcozx",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-08T12:13:05.000Z"
+          "pubDate": "2026-09-09T03:30:00.000Z"
         },
         {
-          "title": "כמו קובי ושאקיל אוניל: הלייקרס יציבו פסל של פיל ג'קסון",
-          "summary": "המאמן שהוביל את המועדון לחמש אליפויות בשתי קדנציות יונצח מחוץ לאולם הביתי של הקבוצה. הפסל ייחשף ב-9 באפריל, לפני המשחק מול מינסוטה. ג'קסון, שזכה גם בשש אליפויות עם שיקגו, מחזיק בשיא ה-NBA עם 11 טבעות כמאמן",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2014/03/13/5210669/5210669_0_0_3000_2271_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/worldbasketball/article/ryvcp0t00me",
+          "title": "\"חיה, מפלצת\": עוד ערב היסטורי לארלינג הולאנד במנצ'סטר סיטי",
+          "summary": "עקף את תומאס מולר, השתווה לקון אגוארו - וניצח את פורטו. החלוץ הנורבגי חגג צמד ב-0:2 של הסיטיזנס והגיע כבר ל-59 שערים ב-59 הופעות בצ'מפיונס: \"צריכים לדרוש הרבה אחד מהשני\". וגם: למה הוא התעצבן בסיום?",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/rJb1yrAOfx/rJb1yrAOfx_0_140_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/hkapin0ozl",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-08T19:37:48.000Z"
+          "pubDate": "2026-09-09T03:30:00.000Z"
         },
         {
-          "title": "ועדת השיפוט קבעה: באר-שבע קופחה כשלא נשרק לה פנדל מול מכבי ת\"א",
-          "summary": "הוועדה פרסמה את מסקנותיה מהמשחק שבו ניצחו הצהובים 1:4 בטרנר, וחבריה קבעו כי הייתה צריכה להיפסק בעיטה מ-11 מטרים למקומיים בעקבות נגיעת יד של סיסוקו",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/HkzPYmYh00Gg/HkzPYmYh00Gg_0_138_2734_1540_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/israelisoccer/article/s17uru600gx",
+          "title": "לקראת ההכרעה באליפות העולם בשיט: הישראלים בפסגה בנשים ובגברים",
+          "summary": "למרות יום שיוטים פחות מוצלח, תמר שטיינברג צועדת בפסגת הדירוג, בו הייתה מתחילת האליפות. בגברים, יואב עומר, החל את השיוטים בצורה פחות טובה - טיפס לפסגה ומוביל בפער קטן על נואה ליונס האמריקאי שבמקום השני",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/23/S1gGczJxMx/S1gGczJxMx_0_103_1200_676_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/b1rjr7jkmx",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-08T11:51:00.000Z"
+          "pubDate": "2026-09-09T19:17:00.000Z"
         },
         {
-          "title": "מנואל בנסון שוחרר ממכבי חיפה, ליאור קאסה הושאל למכבי פ\"ת",
-          "summary": "הירוקים הגיעו לסיכום עם שחקן הכנף, שנפצע נגד הפועל ירושלים בגביע הטוטו, על סיום דרכו. הקשר מצטרף עד לסיום העונה לקבוצה של זיו אריה - איתו שיתף פעולה בהפועל ירושלים",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/07/HJgmxIPfhWx/HJgmxIPfhWx_564_584_2437_1372_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/israelisoccer/article/hyfwebadgl",
+          "title": "הפרטים נחשפים: המועדון האלמוני שלאו מסי יהפוך לבעלים שלו",
+          "summary": "כוכב אינטר מיאמי הגיע לסיכום על רכישת 100% ממניות אלדנסה, המשחקת בליגה השנייה בספרד. בעיר בת 55 אלף התשובים כבר מתקשים להסתיר את ההתלהבות מהמהלך הדרמטי: \"גאווה גדולה\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/HkmooLC00Me/HkmooLC00Me_375_43_2227_1254_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/h1k2pirdzl",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-08T11:20:51.000Z"
+          "pubDate": "2026-09-09T04:30:00.000Z"
         },
         {
-          "title": "פרץ ניצח את סוונסי, סולומון גבר 2:3 על בולטון",
-          "summary": "השוער וסאות'המפטון הרשימו ב-1:3 על היריבה החזקה. שחקן הכנף הישראלי עלה מהספסל בדקה ה-57, ועזר לקבוצתו לשמור על רצף הניצחונות והמקום בצמרת",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/one1886908/one1886908_0_0_800_444_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/one532852",
+          "title": "אין כמו באנפילד: ליברפול גברה 1:2 על אתלטיקו",
+          "summary": "החבורה של איראולה נקלעה לפיגור מוקדם מרגליו של יורנטה (18'), אך הפכה בזכות סובוסלאי (40') ומקאליסטר (50'). פאריס הביסה 1:6 את סלובן ברטיסלבה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/one1887077/one1887077_0_0_800_444_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/one532964",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-08T19:00:42.000Z"
+          "pubDate": "2026-09-09T19:00:21.000Z"
+        },
+        {
+          "title": "פתיחה מסחררת: 1:5 גדול לברצלונה על פיינורד",
+          "summary": "הקטלונים חגגו במחזור הפתיחה של ליגת האלופות: ראפיניה (צמד), קארים אדיימי, לאמין ימאל וגבריאל ז'סוס כבשו לקבוצה של האנזי פליק. סם סטיין צימק",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/one1887022/one1887022_0_0_800_444_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/one532946",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-09T16:47:30.000Z"
+        },
+        {
+          "title": "הניצחון הקשה של ריאל - והמופע של מוריניו: \"זה היה יכול להיגמר 6:7\"",
+          "summary": "הקהל שרק בוז לאמבאפה (שרשם עוד ציון דרך מרשים), ראול העביר ביקורת, אבל הבלאנקוס יכולים להתעודד משלוש נקודות בפתיחת קמפיין ליגת האלופות אחרי 1:2 לא פשוט בברנבאו על אינטר. 'המיוחד' סיפק הופעה משלו: \"לא היה משעמם. למה הגעתי לכאן? כי המצב היה קשה. אם זה קל, זה לא בשבילי\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/SJIdvB0dzg/SJIdvB0dzg_605_37_1286_724_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/hjve4b0ume",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-09T03:30:00.000Z"
+        },
+        {
+          "title": "ארסנל הרבתה להחמיץ, אך ניצחה 0:1 את נאפולי",
+          "summary": "האנגלים שלטו לחלוטין מול היריבה האיטלקית, אך סיפקו ערב גדוש בהחמצות מסמרות שיער. אודגור סיפק רגע קסם עם בעיטה אדירה (75') שהכריעה את המשחק",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/one1887082/one1887082_0_0_800_444_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/one532965",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-09T19:00:26.000Z"
         }
       ]
     }
