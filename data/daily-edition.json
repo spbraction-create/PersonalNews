@@ -1,287 +1,382 @@
 {
-  "generatedAt": "2026-09-13T03:21:27.819Z",
+  "generatedAt": "2026-09-14T03:21:35.821Z",
   "columns": [
     {
       "column": 1,
       "name": "חדשות / אקטואליה",
-      "brief": "בזירה הביטחונית, צה\"ל שומר על דריכות וכוננות גבוהה בגבול הצפון, לצד המשך הפעילות המבצעית נגד חמאס ברצועת עזה. במקביל, המתיחות האזורית מסלימה: סעודיה אישרה כי מתקפת כטב\"מים פגעה בצינור נפט אסטרטגי, ודיווחים מצביעים על כך שאיראן עשתה שימוש בצילומי לוויין מסין כדי לתקוף בסיס צבאי. בתוך כך, ביהודה ושומרון מתחקרת מערכת הביטחון תקרית ירי באזור ג'נין, בחשד שחייל חרג מהוראות הפתיחה באש ופגע בפלסטיני ללא סיבה נראית לעין.\n\nבזירת הפנים, גל פשיעה ואלימות חמורה מכה ברחבי הארץ. סמוך לבאקה אל-גרבייה אותרו שלושה גברים ללא רוח חיים ברכב שרוף, באירוע שנחקר כחיסול פלילי. במקביל, אירועי ירי הובילו לפציעתם הקשה של שני נערים בני 14 ו-16 בכפר כנא ובג'לג'וליה, וצעירה בת 18 נפצעה קשה מירי בנגב. בשרון חוקרת המשטרה חשד לאונס קבוצתי של נערה בת 13 באיומי סכין.\n\nהחיפושים בחיפה הסתיימו בטרגדיה, עם איתור גופתו של לוחם הימ\"מ איתי פרסון בן ה-23, שנעלם במהלך צלילה. בצפון הארץ, לוחמי האש השתלטו על שריפת ענק סמוך למתחם הקניות בירכא, שפונה מחשש להתפשטות האש למבני מגורים. בזירה המשפטית, מארי פיזם, שהורשעה ברצח בתה רוז, הגישה בקשת הסגרה לצרפת בניסיון להביא לשחרורה המוקדם מהכלא.",
+      "brief": "במוקד ההתפתחויות המדיניות והביטחוניות, שליח ארה\"ב ג'ארד קושנר חשף כי וושינגטון ניצלה את בידודה הבינלאומי של ישראל בעקבות התקיפה בדוחא כדי לדחוק בה להגיע להסדר ברצועת עזה — אמירה שגררה ביקורת נגדית מצד הליכוד. במקביל, צה\"ל השלים היערכות מחדש בדרום לבנון עם נסיגה ממתחם עלי טאהר התת-קרקעי שהושמד והמשך אחיזה במוצב הבופור, על רקע אזהרת שר הביטחון כ\"ץ והדריכות לתגובה מצד חיזבאללה או איראן.\n\nבמפרץ הפרסי נרשמת הסלמה רב-זירתית: המאמץ העומאני לתווך הסדרה ימית ב\"פסגת הורמוז\" ללא מעורבות אמריקנית קרס ובוטל ברגע האחרון בשל דרישות טהרן, לצד מתקפת כטב\"מים שפגעה בצינור נפט בסעודיה. התפתחויות אלו מלוות בדיווחים על שסעים חריפים בצמרת המשטר בטהרן ובפנייה איראנית לרכש כטב\"מי סילון מתקדמים מרוסיה, שהובילו את שגרירות ארה\"ב באיחוד האמירויות לפרסם אזהרת אבטחה סביב אתרים יהודיים וישראליים בדובאי. \n\nבזירה הבינלאומית, הבחירות בשבדיה הוכרעו בקרב צמוד במיוחד, עם יתרון דחוק של 176 מושבים לגוש המרכז-שמאל מול 173 לגוש הימין. בזירה המקומית, יו\"ר מפלגת \"ביחד\" נפתלי בנט הציג תוכנית ל\"ברית זוגית אזרחית\" ולעיגון זכויות הקהילה הגאה, בעוד שבשרון נפתחה חקירת רצח משולש לאחר ששלוש גופות אותרו ברכב שרוף.",
       "cards": [
         {
-          "title": "כוננות גבוהה בצה\"ל: דריכות בצפון והמשך הפעילות נגד חמאס",
+          "title": "צה\"ל נסוג מרכס עלי טאהר ונשאר בבופור, שר הביטחון: \"מי שיתקרב - יושמד\"",
+          "summary": "צה\"ל נערך מחדש בקו הצהוב ונסוג מהמתחם התת-קרקעי שהושמד בדרום לבנון. הכוחות יתמקמו בנקודות שמהן ניתן לשלוט על השטח בתצפית ובאש, אך ימשיכו לשהות במתחם הבופור. כ\"ץ: צה\"ל ימשיך לפעול בעוצמה. מי שיתקרב לעלי טאהר - יושמד\". וגם: ההמתנה לתגובה אפשרית של חיזבאללה או איראן",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/11/rJWQ81m11Yfe/rJWQ81m11Yfe_1_94_1601_901_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/bjbykvekfx",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-13T18:33:26.000Z"
+        },
+        {
+          "title": "קושנר: \"ניצלנו את כישלון התקיפה בקטאר - כדי לדחוף את ישראל להסכם בעזה\"",
+          "summary": "שליחו של הנשיא טראמפ התייחס בהופעה פומבית להסדר להפסקת הלחימה בעזה, ואמר כי הוא הושג לאחר שארצות הברית \"ניצלה את הבידוד הבינלאומי של ישראל לאחר התקיפה בדוחא - ודחפה אותה להסדר\". בליכוד ביקרו את דברי קושנר: \"התקיפה בקטאר הובילה את חמאס להסיר את דרישותיו במו\"מ\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/09/ByvcN2p5lg/ByvcN2p5lg_0_79_1435_808_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/r1hvvnvtfx",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-13T15:16:28.000Z"
+        },
+        {
+          "title": "נכשל הניסיון לפריצת דרך בלי ארה\"ב: \"פסגת הורמוז\" בוטלה ברגע האחרון",
+          "summary": "נציגי איראן ומדינות האזור היו אמורים להיפגש מחר בעומאן בתקווה לאשר מתווה שיאפשר את החזרת התנועה הסדירה במצר אחרי חודשים של שיבושים וזינוק במחירי האנרגיה, אבל כשברקע איראן עדיין דורשת \"כניעה\" אמריקנית - רגע לפני הודיעו העומאנים: הפגישה לא תתקיים. המטרה: \"להבטיח הסכמות\". הניסיון לשיחות בלי ארה\"ב והמתווה שהיה על הפרק",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/Hk2VA00LOGx/Hk2VA00LOGx_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/r1yhsuvkze",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-13T21:27:06.000Z"
+        },
+        {
+          "title": "\"סדקים בהנהגת איראן\": העימותים הסוערים, ואזהרת ארה\"ב מהגעה לאתרים יהודיים בדובאי",
+          "summary": "גנרלים בכירים איימו להתפטר, הוטחו האשמות בבגידה: ב\"ניו יורק טיימס\" תוארו המחלוקות אחרי קריסת מזכר ההבנות, והאחראי לתקיפת הספינות שהובילה להסלמה - מפקד הבסיג'. בכיר ישראלי: \"מוג'תבא מקיף עצמו בקיצונים\". שגרירות ארה\"ב באמירויות: \"גלו זהירות באתרים יהודיים וישראליים, לרבות בתי כנסת\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/SJKT114Ntfe/SJKT114Ntfe_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/h1o5nwnfze",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-13T18:20:56.000Z"
+        },
+        {
+          "title": "חדשות החג: מתקפת כטב\"מים פגעה בצינור נפט בסעודיה",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-military/2026_q3/Article-6592134705390a1026.htm",
+          "link": "https://www.mako.co.il/news-world/2026_q3/Article-0b0677b6f1b90a1027.htm",
           "source": "mako / N12 — חדשות (sitemap)",
-          "pubDate": "2026-09-12T17:11:00.000Z"
+          "pubDate": "2026-09-13T16:25:00.000Z"
         },
         {
-          "title": "סעודיה מאשרת: מתקפת כטב\"מים פגעה בצינור הנפט האסטרטגי",
+          "title": "חשד לרצח משולש בשרון: שלושה גברים אותרו ללא רוח חיים ברכב שרוף",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-world/2026_q3/Article-0f7483d730490a1026.htm",
+          "link": "https://www.mako.co.il/men-men_news/Article-6e203b630b890a1026.htm",
           "source": "mako / N12 — חדשות (sitemap)",
-          "pubDate": "2026-09-12T09:00:00.000Z"
+          "pubDate": "2026-09-13T03:33:00.000Z"
         },
         {
-          "title": "דיווח: איראן קיבלה צילומי לוויין סיניים - ותקפה בסיס",
+          "title": "חומקים מההגנה האווירית: \"איראן ביקשה לרכוש את כטב\"מי הסילון של רוסיה\"",
+          "summary": "טסים במהירות 600 קמ\"ש, מצוידים בראש קרב של 90 ק\"ג, יכולים להגיע למרחק של 1,000 ק\"מ: כטב\"מי גראן 5 הרוסיים הולמים באוקראינה, ב\"פייננשל טיימס\" דווח כי טהרן ביקשה לרכוש את מה שהוא הגרסה המשודרגת לשאהד האיראני",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/HJuWjtVtMg/HJuWjtVtMg_0_2_750_423_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/rya0okekmg",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-13T20:55:06.000Z"
+        },
+        {
+          "title": "דרמה בבחירות בשבדיה: יתרון למרכז-שמאל, הימין הקיצוני ייכנס לממשלה?",
+          "summary": "הקלפיות בשבדיה נסגרו, והתחזית העדכנית מעניקה 176 מושבים לגוש המרכז-שמאל של רה״מ לשעבר אנדרסון, מול 173 לגוש הימין של רה\"מ הנוכחי קריסטרסון. במוקד: \"השבדים הדמוקרטים\" מהימין הקיצוני שמקווים להיכנס לראשונה לממשלה. ומה המשמעות עבור ישראל?",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/14/rJThy9EKze/rJThy9EKze_0_0_1672_941_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/sjjkxontmg",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-14T03:14:03.000Z"
+        },
+        {
+          "title": "בסוף אוקטובר: בישראל נערכים להגעת משט נוסף לחופי עזה",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-world/2026_q3/Article-b3a55ea4a9390a1026.htm",
+          "link": "https://www.mako.co.il/news-military/2026_q3/Article-ba598561dcb90a1026.htm",
           "source": "mako / N12 — חדשות (sitemap)",
-          "pubDate": "2026-09-12T05:00:00.000Z"
+          "pubDate": "2026-09-13T17:32:00.000Z"
         },
         {
-          "title": "המשטרה: 3 גברים אותרו ללא רוח חיים ברכב שרוף בשרון",
-          "summary": "כוחות משטרה גדולים הגיעו לזירה סמוך לבאקה אל גרבייה. זהותם של הגברים שנמצאו במושב האחורי של הרכב אינה ידועה בשלב זה, הרקע ככל הנראה פלילי. צעירה כבת 18 נורתה בנגב, מצבה קשה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/rkhOwdmYMg/rkhOwdmYMg_1_196_360_203_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/bkrrn007tfg",
+          "title": "\"ברית זוגית אזרחית\": המהפך של בנט - והתוכנית לשוויון לקהילה הגאה",
+          "summary": "יותר מעשור אחרי שהתנגד להכרה בנישואים חד-מיניים, יו\"ר מפלגת ביחד טוען שיביא שוויון זכויות מלא ללהט\"בים - בלי להשתמש במושג \"נישואים אזרחיים\". ההצעה: איסור אפליה, איסור טיפולי המרה ועיגון הזכות לשוויון בחוק יסוד. הביקורת: לא ברור אילו מההצעות ישרדו את המו\"מ הקואליציוני",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/S1E1jUBOfl/S1E1jUBOfl_1_69_3000_1688_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/yokra14897147",
           "source": "Ynet — חדשות",
-          "pubDate": "2026-09-13T00:56:28.000Z"
-        },
-        {
-          "title": "חשד לאונס קבוצתי בנערה בת 13 בשרון: \"הצמידו לי סכין לגרון\"",
-          "summary": "",
-          "image": null,
-          "link": "https://www.mako.co.il/men-men_news/Article-b53aa5efd1370a1027.htm",
-          "source": "mako / N12 — חדשות (sitemap)",
-          "pubDate": "2026-09-12T11:00:00.000Z"
-        },
-        {
-          "title": "אותר ללא רוח חיים לוחם הימ\"מ איתי פרסון, שנכנס לצלול בים בחיפה ונעלם",
-          "summary": "פרסון בן ה-23 אותר שלושה ימים לאחר שנכנס לצלילה בחוף הסטודנטים בחיפה. בתום החיפושים הנרחבים באזור, המשטרה עדכנה: \"הופעלו כלל האמצעים, סרקנו לאורך רצועת החוף ובמים\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/SJ7G9RzFfe/SJ7G9RzFfe_0_0_850_479_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/hjwrkagygx",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-09-12T13:10:58.000Z"
-        },
-        {
-          "title": "גורם ביטחוני על הירי בפלסטיני באזור ג'נין: \"בוחנים אם החייל חרג מהנהלים\"",
-          "summary": "הגורם אמר שהאירוע מתוחקר בשל החשד שירי החייל בכפר פקועה \"חרג מהוראות הפתיחה באש\". הפלסטיני נורה ללא סיבה נראית לעין - ומבדיקה ראשונית עלה כי החיכוך החל כאשר כמה פלסטינים התקהלו סביב רועה צאן במרחב",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/ByeRyEoMFMe/ByeRyEoMFMe_55_572_985_555_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/by115fbxfgg",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-09-12T17:34:31.000Z"
-        },
-        {
-          "title": "ענן שחור עצום: מתחם הקניות בירכא פונה בעקבות שריפה | צפו",
-          "summary": "שריפת ענק פרצה סמוך למתחם \"ביג פאשן OUTLET\", ולוחמי האש דיווחו שהיא מתפשטת לכיוון מבני מגורים. צוותים רבים הוקפצו, המשטרה פינתה את מרכז הקניות, ולאחר מכן עדכנו בכבאות: השתלטנו על האירוע",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/ryzial7FGx/ryzial7FGx_0_0_550_310_0_medium.gif",
-          "link": "https://www.ynet.co.il/news/article/syjeflmtge",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-09-12T16:14:45.000Z"
-        },
-        {
-          "title": "תוך פחות מיממה, בכפר כנא ובג'לג'וליה: שני נערים נפצעו קשה מירי",
-          "summary": "בן 14 נורה בכפר כנא, הובא למרפאה מקומית ופונה לבית החולים האנגלי בנצרת. המשטרה פתחה בחקירה והזניקה מסוק לאוויר בניסיון לאתר את החשוד. אמש: בן 16 נפצע קשה מירי בג'לג'וליה. בנגב: רעול פנים פתח באש, התושבים הזהירו מאסון",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/SJnT7kQtfl/SJnT7kQtfl_0_691_1048_590_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/sj00nmj7ffl",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-09-12T14:46:53.000Z"
-        },
-        {
-          "title": "מארי פיזם הגישה בקשת הסגרה לצרפת. המטרה: שחרור מהכלא בתוך 5 שנים",
-          "summary": "",
-          "image": null,
-          "link": "https://www.mako.co.il/men-men_news/Article-0f92a3744b590a1026.htm",
-          "source": "mako / N12 — חדשות (sitemap)",
-          "pubDate": "2026-09-12T13:26:00.000Z"
+          "pubDate": "2026-09-13T21:00:00.000Z"
         }
       ]
     },
     {
       "column": 2,
       "name": "כלכלה / עסקים",
-      "brief": "ענף הבינה המלאכותית ממשיך לרכז עניין גלובלי, הן בהיבטי בטיחות המאקרו והן בזירת האכיפה והממשל התאגידי. מנכ\"ל חברת אנת'רופיק (Anthropic) פרסם אזהרה חריגה הממוענת למפתחות ה-AI המובילות בעולם, וקרא להן להאט באופן יזום את קצב התקדמותן ופיתוח המודלים, נוכח הסיכונים הטכנולוגיים הגוברים והצורך בהיערכות בטיחותית נאותה. \n\nבמקביל לקריאות להסדרת הענף מלמעלה, רשויות החוק בארצות הברית מעמיקות את האכיפה סביב גיוסי ההון בשוק הטכנולוגיה: היזמית הישראלית עילית רז, מייסדת ומנכ\"לית חברת ה-AI ג'ונקו (Joonko), הודתה בבית המשפט הפדרלי במנהטן בביצוע הונאת ניירות ערך בהיקף של עשרות מיליוני דולרים. לפי משרד המשפטים האמריקני, רז נטלה אחריות על תרמית ומצגי שווא שבאמצעותם גייסה החברה כ-27 מיליון דולר ממשקיעים במהלך השנים 2021 ו-2022. שתי הידיעות הללו משקפות שלב התבגרות קריטי בתעשייה, הנע בין הניסיון לבלום את מרוץ החימוש הטכנולוגי לבין חשיפת כשלים ופרקטיקות פסולות מתקופת שיא הבועה.",
+      "brief": "ענקית הבינה המלאכותית OpenAI לא תונפק השנה. המנכ\"ל סם אלטמן הודיע על דחיית המהלך במטרה לתעדף עבודה על בטיחות והתאמת המערכות, וזאת בצל קריאות גוברות בתעשייה — בראשן מצד מנכ\"ל המתחרה אנתרופיק — להאט את קצב פיתוח היכולות של המודלים המתקדמים. \n\nבזירה המקומית, עסקת ענק מטלטלת את שוק ההון הישראלי: חברת הביטוח ווישור, יחד עם מנכ\"ל אלטשולר שחם פיננסים יאיר לוינשטיין, רוכשים את השליטה בחברה (55%) מידי המייסדים גילעד אלטשולר וקלמן שחם תמורת כמיליארד שקל. במקביל, ענקית הפינטק הבריטית רבולוט, הנערכת להשקת פעילות בישראל, דיווחה כי נפגעה מאירוע הונאה שבו דלף מידע רגיש של לקוחות. בחברה טוענים כי המערכות וכספי המשתמשים לא נפגעו, והאירוע דווח לרשויות.\n\nבתוך כך, משרד השיכון גיבש תוכנית להסדרת שוק השכירות, המשרת כ-2.5 מיליון ישראלים הסובלים מעליות מחירים מתמשכות. המתווה כולל הקמת מאגר דירות מושכרות, חובת דיווח, מנגנון תלונות לשוכרים ושינוי תנאי המכרזים לשכירות מוסדית. עם זאת, קידום המהלך אינו מיידי ויישום ההמלצות יונח לפתחה של הממשלה הבאה.",
       "cards": [
         {
-          "title": "מנכ\"ל אנת'רופיק באזהרה לחברות ה-AI: האטו את קצב התקדמותכן",
-          "summary": "",
-          "image": null,
-          "link": "https://www.mako.co.il/news-money/tech12/Article-3cd1d7cb86690a1026.htm",
-          "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-09-12T16:50:00.000Z"
+          "title": "התוכנית למאבק בשוק השכירות הפרוץ: דיווח חובה ומנגנון תלונות לשוכרים",
+          "summary": "מסמך של משרד השיכון, שנחשף לראשונה ב-ynet, מציע להסדיר את השוק שבו כ-2.5 מיליון ישראלים משלמים בשנים האחרונות יותר ויותר. בין ‏ההצעות: הקמת מאגר של דירות מושכרות, פיקוח על בעלי דירות ושינוי מכרזי ‏השכירות המוסדית. אך היישום יחכה לממשלה הבאה - שתצטרך להחליט אם בכלל לאמץ את התוכנית",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/10/Skm9dQl1oel/Skm9dQl1oel_56_49_598_337_0_cid_25_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/yokra14896994",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-13T21:00:00.000Z"
         },
         {
-          "title": "היזמית הישראלית עילית רז הודתה בהונאה של עשרות מיליוני דולרים",
-          "summary": "מייסדת ומנכ\"לית חברת הבינה המלאכותית ג'ונקו הודתה בביהמ\"ש במנהטן בהונאת ניירות ערך. לפי משרד המשפטים האמריקני, רז קיבלה אחריות על תרמית שבאמצעותה גייסה החברה כ-27 מיליון דולר ממשקיעים ב-2021 וב-2022",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/S15lcdztzl/S15lcdztzl_0_0_400_226_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/s1dvmuffml",
+          "title": "חברת הביטוח ווישור היא הרוכשת של השליטה באלטשולר שחם",
+          "summary": "חברת הביטוח של אמיל וינשל וצבי ברק תרכוש יחד עם מנכ\"ל אלטשולר שחם פיננסים יאיר לוינשטיין 55% מהחברה מידי גילעד אלטשולר וקלמן שחם במיליארד שקל. לוינשטיין יגדיל את חלקו מ-15% ל-25%, ווישור תחזיק ב-45% ותשלוט עמו בחברה, בעוד איילון תישאר בשליטתה ותהפוך לחברה אחות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/BJx002rVFfe/BJx002rVFfe_0_48_2500_1407_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/rjn09svfzg",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-09-12T06:44:13.000Z"
+          "pubDate": "2026-09-13T16:22:45.000Z"
+        },
+        {
+          "title": "לפני הכניסה לישראל: חברת הפינטק רבולוט מאשרת כי נפגעה מהונאה ודליפת מידע",
+          "summary": "דווקא לקראת הכניסה לשוק הישראלי: רבולוט מאשרת אירוע הונאה שבמסגרתו נחשף מידע רגיש של ‏לקוחות. החברה חסמה את הכתובת המעורבת ודיווחה לרשויות, וטוענת כי מערכותיה וכספי הלקוחות לא ‏נפגעו",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/HyveFTmFGl/HyveFTmFGl_0_88_3000_1688_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/byhxot7fme",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-13T06:59:57.000Z"
+        },
+        {
+          "title": "סם אלטמן: \"לא ננפיק השנה את OpenAi\"",
+          "summary": "מנכ\"ל ענקית ה-AI הודיע כי החברה דוחה את תוכניות ההנפקה שלה, ומעדיפה להתמקד קודם בעבודת בטיחות והתאמה. הצהרתו הגיעה אחרי קריאת מנכ\"ל המתחרה הגדולה אנתרופיק כי על התעשייה להאט את הקצב שבו היא משפרת את יכולות מערכות הבינה המלאכותית",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/29/rJq8Ffx4Ze/rJq8Ffx4Ze_0_11_705_397_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/byzb46xtgl",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-13T06:39:00.000Z"
+        }
+      ]
+    },
+    {
+      "column": 3,
+      "name": "שיווק / פרסום",
+      "brief": "בזירה הבינלאומית, ענקיות הטכנולוגיה עומדות במוקד עם תהפוכות עסקיות והשקות מסקרנות: מייסד אורקל, לארי אליסון, הפתיע את השווקים כשביטל תוכנית למכירת מניות בהיקף של 7.5 מיליארד דולר, מהלך חריג על רקע ירידה של כ-20% במניית החברה ומהלכי ארגון מחדש. במקביל, אילון מאסק הכריז על מועד רשמי לחשיפת מכונית העל של טסלה, שפותחה בשיתוף חברת החלל SpaceX לאחר כעשור של דחיות.\n\nבגזרה המקומית, שוק הנדל\"ן עומד בפני מהלך רגולטורי משמעותי עם גיבוש תוכנית של משרד הבינוי והשיכון לחייב בעלי דירות לדווח על נכסיהם, צעד שעשוי להשפיע ישירות על מחירי השכירות בישראל. במקביל, ערוץ 14 רשם הישג משפטי לאחר שהמדינה פנתה לבג\"ץ בבקשה למחוק עתירות נגדו, בעקבות החלטת המשטרה לגנוז את תיקי החקירה שנפתחו בעניינו.\n\nבתוך כך, מאבקי התודעה והנרטיב סביב המלחמה ממשיכים להסעיר את עולם התרבות והרשתות: זכייתו של סרט תיעודי ישראלי בפרס חבר השופטים בפסטיבל ונציה עוררה סערה וגינויים פוליטיים חריפים בארץ בשל הצגת עדויות חיילים, בעוד כוכבת פופ בינלאומית התמודדה עם מתקפה וירטואלית קשה לאחר שהתבטאה על זהותה היהודית. בזירת הקמעונאות המקומית, רשתות השיווק – ובראשן אושר עד – מחריפות את מלחמת המחירים עם מבצעי עומק למוצרים מבוקשים לקראת חגי תשרי.",
+      "cards": [
+        {
+          "title": "אחרי 10 שנים: טסלה משיקה את המכונית שכל העולם חיכה לה",
+          "summary": "אחרי כמעט עשור של דחיות, מאילון מאסק מכריז על תאריך רשמי לחשיפת מכונית העל החדשה שפותחה בשיתוף פעולה יוצא דופן עם חברת החלל שלו, לצד מהלך דרמטי נוסף",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_491/rsz_615_346_16ice20112024.jpg",
+          "link": "https://www.ice.co.il/auto/news/article/1129655",
+          "source": "אייס",
+          "pubDate": "2026-09-13T22:50:06.000Z"
+        },
+        {
+          "title": "אושר עד מרסקת את המחיר לקראת החגים: המוצר המבוקש רק ב-59.90",
+          "summary": "רשת אושר עד מציגה פתרון מושלם וזול למשפחות לקראת סוכות, לצד מוצרים משלימים בפחות מ-60 שקל",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_607/rsz_615_346_f661bd14-baf3-42c2-ad3e-3b1e78b4f9d3.jpg",
+          "link": "https://www.ice.co.il/consumerism/news/article/1129663",
+          "source": "אייס",
+          "pubDate": "2026-09-14T02:54:10.000Z"
+        },
+        {
+          "title": "ערוץ 14 חוגג הישג משפטי: החלטת המשטרה שמשנה את התמונה",
+          "summary": "בעקבות הודעת המדינה לבג\"ץ על גניזת תיקי החקירה שנפתחו נגד הערוץ, מבקשת הפרקליטות למחוק את העתירות שהוגשו נגדו בטענה כי הדרישה המקורית כבר התמלאה",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_378/rsz_615_346_9ice09032023.jpg",
+          "link": "https://www.ice.co.il/media/news/article/1129658",
+          "source": "אייס",
+          "pubDate": "2026-09-14T01:22:14.000Z"
+        },
+        {
+          "title": "לארי אליסון מפתיע את השוק: ביטל את העסקה ב-7.5 מיליארד דולר",
+          "summary": "מייסד אורקל לארי אליסון ביטל במפתיע תוכנית למכירת מניות בשווי 7.5 מיליארד דולר. הצעד החריג מגיע בזמן שענקית הטכנולוגיה מבצעת ארגון מחדש ורושמת ירידה של כ-20% בערך המניה",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_564/rsz_615_346_34ice08102025.jpg",
+          "link": "https://www.ice.co.il/finance/news/article/1129646",
+          "source": "אייס",
+          "pubDate": "2026-09-13T22:02:35.000Z"
+        },
+        {
+          "title": "מבוכה בשידור חי: הפאדיחה של אברי גלעד ויאיר שרקי נחשפת",
+          "summary": "שנה אחרי שהעריכו בשידור חי כיצד תיראה המציאות בישראל, מגישי קשת 12 חזרו לארכיון והעמידו את עצמם למבחן פומבי חסר רחמים. התוצאות המביכות נחשפות כעת",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_591/rsz_615_346_צילום מסך 2026-03-18 023448.png",
+          "link": "https://www.ice.co.il/tv/news/article/1129656",
+          "source": "אייס",
+          "pubDate": "2026-09-14T00:03:00.000Z"
+        },
+        {
+          "title": "עמית סגל מותקף: \"יודע שאם ביבי הולך הביתה, הוא לא שווה כלום\"",
+          "summary": "רוני מאנהיוצא נגד הפרשן הפוליטי הבכיר בעקבות סערת התחקיר על ה-7 באוקטובר, ולא חוסך במילים קשות נגד התנהלות הערוץ שנותן לו במה: \"עמית סגל יודע שאם ביבי הולך הביתה, הוא לא שווה כלום. הוא נלחם על חייו כמו כל השופרות\"",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_616/rsz_615_346_1354190820266.jpg",
+          "link": "https://www.ice.co.il/media/news/article/1129643",
+          "source": "אייס",
+          "pubDate": "2026-09-13T22:04:55.000Z"
+        },
+        {
+          "title": "המהפכה בשוק השכירות: משרד השיכון בצעד דרמטי שישפיע על מיליונים",
+          "summary": "תוכנית אסטרטגית חדשה של משרד הבינוי והשיכון עשויה לחייב מיליוני בעלי דירות לדווח על הנכסים שלהם, מהלך שישפיע באופן מיידי על גובה שכר הדירה בישראל",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_608/rsz_615_346_10280807202626.jpg",
+          "link": "https://www.ice.co.il/realestate/news/article/1129665",
+          "source": "אייס",
+          "pubDate": "2026-09-14T03:20:51.000Z"
+        },
+        {
+          "title": "רותם סלע מפתיעה וחושפת: \"אני רוצה לישון בחדר אחר\"",
+          "summary": "במהלך שיחה עם ישראל קטורזה על האפשרות לקבל חדר משלו בבית, החליטה מנחת הטלוויזיה להציג גרסה אחרת לגמרי שהצליחה לעורר עניין רב ברשת",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_571/rsz_615_346_רותם.png",
+          "link": "https://www.ice.co.il/social/news/article/1129662",
+          "source": "אייס",
+          "pubDate": "2026-09-14T02:47:56.000Z"
+        },
+        {
+          "title": "זעם על זכיית הסרט הישראלי בוונציה: \"בגידה במדינה, אפעל מיידית\"",
+          "summary": "היצירה התיעודית המציגה עדויות של חיילי צה\"ל בעזה קטפה את פרס חבר השופטים בוונציה, והציתה גל תגובות זועמות מצד פוליטיקאים, פעילי הסברה ואמנים מוכרים",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_538/rsz_615_346_סרט 280520251.jpg",
+          "link": "https://www.ice.co.il/culture/news/article/1129641",
+          "source": "אייס",
+          "pubDate": "2026-09-13T21:43:00.000Z"
+        },
+        {
+          "title": "כוכבת הפופ הבינלאומית שספגה אש ברשת: \"נולדתי יהודייה, לא בחרתי בזה\"",
+          "summary": "כוכבת הפופ הבינלאומית שיתפה סרטון שהוביל למתקפה וירטואלית קשה נגדה, החליטה להגיב בפוסט חשוף על יהדותה ועל המלחמה, וקיבלה חיזוק מפתיע משחקנית ישראלית מוכרת",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_555/rsz_615_346_30ice18072025.jpg",
+          "link": "https://www.ice.co.il/global-news/news/article/1129645",
+          "source": "אייס",
+          "pubDate": "2026-09-13T22:18:35.000Z"
         }
       ]
     },
     {
       "column": 4,
       "name": "טק / טכנולוגיה",
-      "brief": "ראשי ענף הבינה המלאכותית מאותתים על בלימת חירום: מנכ\"ל OpenAI סם אלטמן ומנכ\"ל אנת'רופיק דריו אמודיי הכריזו על כוונתם להאט את קצב הפיתוח ולהטיל מגבלות פנימיות, מחשש ממשי מאובדן שליטה על המודלים המתקדמים. אמודיי הציג מתווה להאטת אימון המודלים והענקת גישה למעריכים חיצוניים לבדיקת בטיחות, בעוד אלטמן הודיע כי הנפקת OpenAI ב-2026 אינה עומדת על הפרק. במקביל לחששות אלה, חוקרי אבטחה דיווחו כי מתקפת סייבר רחבה על מאגר הקוד RubyGems בוצעה באמצעות נחיל סוכני בינה מלאכותית של OpenAI.\n\nבזירת הסייבר והתשתיות, מערך הסייבר ההולנדי מתריע מפני ניצול מיידי של פרצות קריטיות במוצרי ה-VPN של צ'ק פוינט, וסוכנות CISA האמריקאית הוסיפה לרשימת האיומים המנוצלים בפועל פגיעויות ב-JFrog Artifactory ובמוצרי תקשורת נוספים. בעולם התאגידי, עילית רז, מייסדת חברת ה-AI הישראלית Joonko, הודתה בארה\"ב בהונאת ניירות ערך בהיקף של 27 מיליון דולר על בסיס זיוף נתוני הכנסות ולקוחות; ואילו בחברת Automattic, המייסד מאט מולנווג ביסס מחדש את שליטתו וחזר לתפקיד המנכ\"ל לאחר ניסיון הדחה כושל מצד הדירקטוריון.\n\nבגזרת החומרה, אפל פתחה את ההזמנות המוקדמות לסדרת האייפון 18 פרו, המצוידת במעבד A20 ממוקד משימות AI, וטסלה קבעה ל-1 באוקטובר את אירוע החשיפה הרשמי של הדור השני למכונית הרודסטר.",
+      "brief": "הוויכוח סביב עתיד הבינה המלאכותית מעמיק ומגיע לצמרת הפוליטית בארה\"ב: לאחר שראשי התעשייה – בהם מנכ\"ל אנתרופיק דריו אמודיי, לצד סם אלטמן, אילון מאסק ודמיס חסביס – קראו להאט את קצב הפיתוח בחזית ה-AI, דונלד טראמפ ויו\"ר בית הנבחרים מייק ג'ונסון תקפו את המהלך והזהירו כי עצירה תאפשר לסין לעקוף את ארצות הברית במרוץ. במקביל, הנשיא לשעבר ברק אובמה קרא לדמוקרטים להציב את הפיקוח על ה-AI בראש סדר היום ולגבש תוכנית מוסדרת להגנה על שוק העבודה והביטחון.\n\nבגזרת הסייבר נרשמו שתי התפתחויות בולטות: מיקרוסופט חשפה קמפיין פישינג מתוחכם המנצל הונאות סביב מפתחות גישה (Passkeys) והתחזות למנכ\"לים כדי לחדור לסביבות ענן ארגוניות, בעוד תוקפים המקושרים לסין מנצלים פרצה חמורה ביישום של ענקית הטכנולוגיה טנסנט (Tencent) להשתלת נוזקת ריגול. \n\nאירוע חריג בסן פרנסיסקו המחיש את הממשק בין רכב אוטונומי לאכיפת חוק, לאחר שרובוטקסי של Waymo זיהה נוסעים חמושים ב\"נשק רפאים\", עצר בצד הדרך והזעיק בעצמו את המשטרה. בתחום החומרה והשווקים, אפל מפתחת לפי דיווחים בקרי משחקים ייעודיים לאייפון תחת מותג Beats, ואילו מייסד אורקל, לארי אליסון, ביטל במפתיע תוכנית ענק למכירת מניות החברה בשווי כ-7.5 מיליארד דולר.",
       "cards": [
         {
-          "title": "אחרי הציוץ שהתפוצץ: ההכרזה הדרמטית של שני האנשים החזקים בעולם ה-AI",
-          "summary": "אחרי סערת הציוץ שטען ש\"האנשים שבונים את ה-AI מאמינים שהוא עלול להרוג את כולנו עד סוף העשור\": דריו אמודיי, מנכ\"ל אנת'רופיק, וסם אלטמן, מנכ\"ל OpenAI, טוענים שיתחילו להחיל מגבלות על קצב הפיתוח בחברות שלהם",
-          "image": "https://img.mako.co.il/2026/09/12/altmandario1_autoOrient_a.jpg",
-          "link": "https://www.mako.co.il/nexter-news/Article-5c54ac28a2790a1027.htm",
-          "source": "mako / N12 — דיגיטל (Nexter)",
-          "pubDate": "2026-09-12T20:16:00.000Z"
+          "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+          "summary": "A 40-year-old woman in Jefferson County, Pennsylvania has died of complications from measles, according to the county's coroner. It marks the third vaccine-preventable, measles-linked death in the US this year. All three have occurred in Pennsylvania, which is experiencing an explosive outbreak that has caused over 670 cases and 124 hospitalizations across 37 counties . Prior to these deaths, Pennsylvania had not reported a measles death in 35 years. In a news release dated September 12, Jeffers",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
+          "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+          "source": "Ars Technica",
+          "pubDate": "2026-09-13T21:56:52.000Z"
         },
         {
-          "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-          "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay , Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models. Amodei says that giving external evaluators wide-ranging a",
+          "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+          "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
           "image": null,
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-          "source": "The Verge",
-          "pubDate": "2026-09-12T16:23:40.000Z"
-        },
-        {
-          "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-          "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune . Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we s",
-          "image": null,
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-          "source": "The Verge",
-          "pubDate": "2026-09-12T21:16:28.000Z"
-        },
-        {
-          "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-          "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that targeted the package manager for the",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg",
-          "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-          "source": "The Hacker News",
-          "pubDate": "2026-09-12T09:07:56.000Z"
-        },
-        {
-          "title": "Where to preorder the iPhone 18 Pro and Pro Max",
-          "summary": "Which color suits you best? | Photo: Nilay Patel / The Verge The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neural cores for AI-related tasks, plus some welcome improvements to the camera . The phones will arrive on Friday, September 18th, and preordering one is never a bad idea if you want t",
-          "image": null,
-          "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
-          "source": "The Verge",
-          "pubDate": "2026-09-12T12:00:00.000Z"
-        },
-        {
-          "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-          "summary": "Tesla’s halo sports car was first announced in November 2017.",
-          "image": null,
-          "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+          "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
           "source": "TechCrunch",
-          "pubDate": "2026-09-12T19:21:19.000Z"
+          "pubDate": "2026-09-13T20:49:38.000Z"
         },
         {
-          "title": "היזמת הישראלית הודתה בהונאת משקיעים ב-27 מיליון דולר",
-          "summary": "עילית רז, יזמת ישראלית בת 40 ומייסדת חברת הבינה המלאכותית Joonko, הודתה בהונאת ניירות ערך. לפי משרד המשפטים האמריקאי, היא הציגה למשקיעים נתונים כוזבים על לקוחות החברה והכנסותיה וזייפה מסמכים כדי לגייס כ-27 מיליון דולר. העבירה שבה הודתה נושאת עונש מרבי של 20 שנות מאסר",
-          "image": "https://img.mako.co.il/2023/06/25/Ilrdlklfjadskfjasklfaa_autoOrient_a.jpg",
-          "link": "https://www.mako.co.il/nexter-news/Article-332e7afa62490a1027.htm",
-          "source": "mako / N12 — דיגיטל (Nexter)",
-          "pubDate": "2026-09-12T05:53:00.000Z"
-        },
-        {
-          "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-          "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According ",
           "image": null,
-          "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "source": "The Verge",
+          "pubDate": "2026-09-13T19:41:48.000Z"
+        },
+        {
+          "title": "Apple is reportedly working on iPhone game controllers",
+          "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party devices. Despite the code being found in macOS, not iOS, Gurman says the controllers are designed for iPhones. Additionally, he says that it is Beat",
+          "image": null,
+          "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+          "source": "The Verge",
+          "pubDate": "2026-09-13T18:30:16.000Z"
+        },
+        {
+          "title": "עשינו לכם תוכניות לאחרי החג: 4 אירועי טכנולוגיה שווים במיוחד",
+          "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו . Inference Cloud with Akamai מתי? 15 בספטמבר (10:00) איפה? אונליין כמה? חינם איך שומרים על Latency אפסי ועלויות רוחב פס הגיוניות, כשכל התקשורת מתרחשת בזמן אמת? וובינר חדש בסדרת \"The AI Frontier\" יוקדש לאבטחה, ביצועי",
+          "image": null,
+          "link": "https://www.geektime.co.il/geek-events-13092026/",
+          "source": "גיקטיים",
+          "pubDate": "2026-09-13T17:40:24.000Z"
+        },
+        {
+          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
           "source": "TechCrunch",
-          "pubDate": "2026-09-12T23:25:38.000Z"
+          "pubDate": "2026-09-13T16:30:00.000Z"
         },
         {
-          "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-          "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
+          "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+          "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating the autonomous car, Waymo later confirmed it was one of its vehicles to the Los Angeles Times . A spokesperson told the LA Times that a \"violation of our terms of service involving a firearm\" was dete",
           "image": null,
-          "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+          "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+          "source": "The Verge",
+          "pubDate": "2026-09-13T14:28:12.000Z"
+        },
+        {
+          "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+          "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+          "image": null,
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
           "source": "BleepingComputer",
-          "pubDate": "2026-09-12T14:14:32.000Z"
+          "pubDate": "2026-09-13T14:26:32.000Z"
         },
         {
-          "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vulnerabilities are as follows - CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s1600/jj.jpg",
-          "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+          "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+          "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2E2hmYwxfZ25xw5iPhCHaSDENcuEyEIaha9e_rIJCf68srth31FtjIiIlnOcEiSQDDuk2Vg-dQdNLfR753ePSoDntP3BS-MGbEH2DS8Ch5ihzhpiDZZm5UIzKCbL1vNJSwSABCYst8oG6Oa-7iBWaSF6WSTEkCJBAi9YEEwAmVEdGYvu-JWZnxwEX9ni/s1600/ms-outlook.jpg",
+          "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
           "source": "The Hacker News",
-          "pubDate": "2026-09-12T15:54:45.000Z"
+          "pubDate": "2026-09-13T10:11:48.000Z"
         }
       ]
     },
     {
       "column": 5,
       "name": "ספורט",
-      "brief": "אלנה ריבאקינה השלימה דאבל יוקרתי של תוארי גראנד סלאם השנה לאחר שגברה על ארינה סבאלנקה וזכתה לראשונה באליפות ארצות הברית הפתוחה, ניצחון שהוריד את הבלארוסית מפסגת הדירוג העולמי. בגמר הגברים ייפגשו אלכסנדר זברב, שגבר על קארן חצ'אנוב, ובן שלטון המקומי שהעפיל לגמר מייג'ור ראשון בקריירה עם ניצחון על פרנסס טיאפו.\n\nבשיט נרשם הישג ישראלי כפול באליפות העולם באנגליה: תמר שטיינברג הוכתרה לאלופת העולם ושרון קנטור קטפה את מדליית הכסף, בעוד האלוף האולימפי תום ראובני הודח בחצי הגמר. על מזרן הג'ודו, כרם פרימו השיגה מדליית ארד יוקרתית בגראנד סלאם בודפשט – פודיום ראשון בקריירה עבורה בסבב הבכיר.\n\nבכדורגל האירופי, ריאל מדריד הביסה 1:4 את ראיו וייקאנו בהובלת צמד של קיליאן אמבפה, וארסנל שמרה על מאזן מושלם בפרמייר-ליג עם 0:2 על סנדרלנד, בעוד ליברפול וצ'לסי שמטו נקודות. בקרב הלגיונרים הישראלים, ענאן חלאילי הבקיע שער בכורה בפרמייר-ליג בהפסד קריסטל פאלאס 3:2 לאיפסוויץ', מנור סולומון להט עם שער ובישול ב-0:6 של ווסטהאם, ורוי רביבו השלים 90 דקות בבכורה בהרכב אלצ'ה מול בילבאו.",
+      "brief": "אלכסנדר זברב השלים זכייה שנייה בקריירה בתואר גראנד סלאם, לאחר שגבר בארבע מערכות על בן שלטון המקומי בגמר אליפות ארצות הברית הפתוחה, שלושה חודשים בלבד אחרי הנפת הגביע ברולאן גארוס. \n\nבמוקד הכדורגל האירופי, מנצ'סטר סיטי ניצחה 0:1 את מנצ'סטר יונייטד בדרבי בזכות שער של ארלינג הולאנד, וזאת למרות ששיחקה בעשרה שחקנים החל מהדקה ה-23 בעקבות הרחקת פיל פודן. בספרד, ברצלונה שמרה על מאזן מושלם עם 2:4 על לבאנטה מצמד של לאמין ימאל, וריאל מדריד הביסה 1:4 את ראיו וייקאנו. באיטליה, יובנטוס ספגה הפסד דרמטי 3:2 לססואולו משער עמוק בתוספת הזמן, בעוד נאפולי גברה 0:1 על בולוניה. בארצות הברית, שער של ליונל מסי לא מנע מאינטר מיאמי שמטת נקודות ב-2:2 מול נאשוויל.\n\nהספורט הישראלי רשם יממה עמוסת הישגים בזירה הבין-לאומית: ענאן חלאילי הפך לכדורגלן הישראלי הצעיר ביותר שמבקיע בפרמייר-ליג, בעוד ליאל עבדה ועידן טוקלומטי כבשו שניהם ב-3:3 של שארלוט ב-MLS. בענפים האולימפיים, תמר שטיינברג ושרון קנטור זכו במדליות הזהב והכסף באליפות העולם בגלישת רוח, ורז הרשקו קטפה את הזהב בגראנד סלאם בודפשט בג'ודו. כמו כן, נבחרת ישראל בכדורעף השיגה ניצחון בכורה באליפות אירופה עם 2:3 על פורטוגל. בזירה המקומית, הפועל באר שבע גברה 0:2 על הפועל פתח תקווה.",
       "cards": [
         {
-          "title": "מדהים: תמר שטיינברג אלופת העולם, שרון קנטור זכתה בכסף",
-          "summary": "ככה פותחים שנה חדשה: הישראליות כבשו את שני המקומות הראשונים בפודיום באליפות שנערכת באנגליה, דניאלה פלג סיימה רביעית. אחרי פארסה והזנקה מחדש: האלוף האולימפי תום ראובני הודח בחצי הגמר",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/11/Bkr7xAZtfx/Bkr7xAZtfx_0_0_1200_676_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/skch6cztzg",
+          "title": "תואר גראנד סלאם שני בקריירה: אלכסנדר זברב זכה באליפות ארה\"ב",
+          "summary": "שלושה חודשים אחרי שהניף מייג'ור ראשון ברולאן גארוס, המדורג 2 בעולם הוסיף תואר נוסף עם 3:6, 6:7 (2), 7:5, 2:6 על בן שלטון בגמר בניו יורק. הגרמני שמר על מאזן מושלם מול יריבו, שכשל בניסיון להפוך לאמריקאי הראשון מאז אנדי רודיק ב-2003 שזוכה בגראנד סלאם",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/14/BJ5nfjVYGg/BJ5nfjVYGg_0_0_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/h1s5hmnyme",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-12T12:18:48.000Z"
+          "pubDate": "2026-09-13T21:52:23.000Z"
         },
         {
-          "title": "סדר חדש: ריבאקינה ניצחה את סבאלנקה וזכתה באליפות ארה\"ב הפתוחה",
-          "summary": "הקזחית ניצחה 4:6, 7:5, 2:6 את ארינה סבאלנקה בגמר מדהים, זכתה לראשונה באליפות ארה\"ב הפתוחה והשלימה דאבל יוקרתי אחרי זכייתה באליפות אוסטרליה. הבלארוסית איבדה את התואר לאחר שנתיים רצופות וגם את המקום הראשון בעולם",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/HyNbqImtMg/HyNbqImtMg_0_131_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/syssvf7tfg",
+          "title": "ב-10 שחקנים: סיטי גברה 0:1 על יונייטד בדרבי",
+          "summary": "החבורה של אנצו מארסקה הייתה בצרות אחרי שפודן הורחק באדום ישיר (23'), אבל המארחת לא הצליחה לנצל זאת, והולאנד כבש (60') וקבע את תוצאת המשחק",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/one1887667/one1887667_0_0_800_444_0_medium.jpg",
+          "link": "https://livegame.ynet.co.il/games/533286",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-12T22:58:18.000Z"
+          "pubDate": "2026-09-13T15:29:46.000Z"
         },
         {
-          "title": "אחד מהם יעשה היסטוריה: אלכסנדר זברב מול בן שלטון בגמר אליפות ארה\"ב",
-          "summary": "אלוף רולאן גארוס ניצח 3:6, 6:7(7), 6:7(6) את קארן חצ'אנוב ויקווה לזכות בפעם הראשונה בניו-יורק, בעוד המדורג תשיעי בעולם גבר בדרבי האמריקאי 6:4, 3:6, 3:6, 5:7 על פרנסס טיאפו בדרך להופעת בכורה בגמר גראנד סלאם",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/H1Q7YM8Gtzg/H1Q7YM8Gtzg_0_57_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/hkrlquzyzg",
+          "title": "השתלטות ישראלית על הפודיום ושער בכורה לחלאילי: כל מה שקרה בספורט במהלך החג",
+          "summary": "תמר שטיינברג ושרון קנטור חיממו לנו את הלב עם מדליות זהב וכסף באליפות העולם בגלישת רוח, שחקן הכנף הפך לכדורגלן הישראלי הצעיר ביותר שמבקיע בפרמייר-ליג וגם הג'ודו הכחול-לבן סיפק גאווה. בנוסף, ריבאקינה השתלטה על טניס הנשים, ארסנל בפתיחת עונה אדירה ועוד. תשפ\"ז נפתחה בסערה - ואנחנו עושים סדר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/ByyNYWEtGe/ByyNYWEtGe_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/s1ae11gvkzx",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-12T04:24:27.000Z"
+          "pubDate": "2026-09-13T16:26:51.000Z"
         },
         {
-          "title": "שער בכורה לחלאילי בפרמייר-ליג, פאלאס הפסידה 3:2 לאיפסוויץ'",
-          "summary": "הישראלי כבש כבר בדקה ה-14 והעלה את קריסטל פאלאס ליתרון, אך קבוצתו נותרה בעשרה שחקנים ונכנעה בתום משחק דרמטי. יורגן לארסן השווה ל-2:2, זיאן פלמינג הכריע",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/Ska2lJXYfg/Ska2lJXYfg_0_272_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/worldsoccer/article/bkvukkqkgl",
+          "title": "גאווה ישראלית: רז הרשקו זכתה בזהב בגראנד סלאם בודפשט",
+          "summary": "סגנית האלופה האולימפית ניצחה בגמר במשקל מעל 78 ק\"ג ועלתה לראש הפודיום בפעם השנייה השנה בתחרות גראנד סלאם, לאחר שעשתה זאת גם בטביליסי",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/19/SJz2bi8zaWg/SJz2bi8zaWg_0_0_2432_1370_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/hyqfgivyzg",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-12T15:58:46.000Z"
+          "pubDate": "2026-09-13T16:43:35.000Z"
         },
         {
-          "title": "לבשה חג: ריאל מדריד הביסה 1:4 את ראיו וייקאנו",
-          "summary": "הבלאנקוס חזרו למסלול הניצחונות בליגה הספרדית בזכות שערים של אמבפה (14',90+1'), קאררס (17') ובלינגהאם (35'). קאמייו (51') רק צימק לאורחת. צפו",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/one1887525/one1887525_0_0_800_444_0_medium.jpg",
-          "link": "https://livegame.ynet.co.il/games/533188",
+          "title": "מוריניו שיבח את ויניסיוס: \"במצב טוב מאי פעם\" | צפו ברביעייה של ריאל",
+          "summary": "הבלאנקוס הביסו 1:4 את ראיו וייקאנו, והמאמן שיבח את שחקניו: \"יש הרבה דברים חיוביים\". על הברזילאי: \"הוא רק במרחק של מילימטר מיכולת השיא שלו\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/S1NwnnXKfl/S1NwnnXKfl_0_46_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/bk7hq2qyme",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-12T21:00:55.000Z"
+          "pubDate": "2026-09-13T06:04:26.000Z"
         },
         {
-          "title": "מושלמת: ארסנל גברה 0:2 על סנדרלנד",
-          "summary": "התותחנים הציגו יכולת לא מרשימה, אך עצירת פנדל של ראיה ושערים של גימראייש המחליף וסאקה העניקו לארטטה שלוש נקודות ושמירה על מאזן מושלם בליגה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/one1887543/one1887543_0_0_800_444_0_medium.jpg",
-          "link": "https://livegame.ynet.co.il/games/533251",
+          "title": "עדיין מושלמת: ברצלונה גברה 2:4 על לבאנטה",
+          "summary": "אספארט (5') ולאמין (19', 48') העלו את הקטלונים ליתרון מבטיח, איבן רומרו (79') ורוג'ר ברוגה (88') צימקו, אך אדיימי חתם עם שער ענק (93'). צפו",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/one1887629/one1887629_0_0_800_444_0_medium.jpg",
+          "link": "https://livegame.ynet.co.il/games/533289",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-12T21:02:03.000Z"
+          "pubDate": "2026-09-13T14:18:03.000Z"
         },
         {
-          "title": "צ'לסי הצליחה לחלץ 2:2 נגד האל סיטי",
-          "summary": "משחק שני ברצף ללא ניצחון עבור הבלוז, שסיימו בתיקו ביתי מול העולה החדשה, שעדיין לא הפסידה העונה. ליברפול סיימה ב-0:0 מתסכל מול פולהאם באנפילד",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/one1887484/one1887484_0_0_800_444_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/one533225",
+          "title": "עלם חמודות: הפועל ב\"ש גברה 0:2 על הפועל פ\"ת",
+          "summary": "רגע לפני דינמו זאגרב, אלופת המדינה התאוששה מהתיקו עם הפועל חיפה והתבוסה למכבי ת\"א, בעיקר בזכות כנעאן, שעלה מהספסל וסיפק שער ובישול לאבו רומי",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/one1887695/one1887695_0_0_800_444_0_medium.jpg",
+          "link": "https://livegame.ynet.co.il/games/533282",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-12T16:05:11.000Z"
+          "pubDate": "2026-09-13T17:28:37.000Z"
         },
         {
-          "title": "ככה פותחים שנה: מדליית גראנד סלאם ראשונה לכרם פרימו",
-          "summary": "הג'ודאית הישראלית ניצחה את מדליסטית הארד האולימפית לאורה פאזליו בקרב על המקום השלישי בבודפשט ועלתה לראשונה בקריירה על פודיום בתחרות מהסבב הבכיר. זו המדליה השנייה של המשלחת, אחרי הזהב של יצחק אשפיז",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/05/B1ETHcO5gx/B1ETHcO5gx_238_0_843_475_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/hktzlwmyzx",
+          "title": "\"משחק של לחימה\": ניצחון בכורה ענק לישראל באליפות אירופה בכדורעף",
+          "summary": "אחרי שני הפסדים, הכחולים-לבנים גברו 2:3 על פורטוגל בתום מותחן והשאירו לעצמם סיכוי להעפיל לשמינית הגמר. מחר מחכה להם המארחת בולגריה. שי ליברמן: \"נלחמנו והצלחנו להביא את המשחק שלנו לידי ביטוי\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/S1aapB4tGx/S1aapB4tGx_0_49_1280_721_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/b1ipphnyze",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-12T17:07:51.000Z"
+          "pubDate": "2026-09-13T16:29:26.000Z"
         },
         {
-          "title": "בכורה לרוי רביבו בהרכב אלצ'ה, שסיימה ב-1:1 עם בילבאו",
-          "summary": "המגן הישראלי עלה ב-11 והשלים 90 דקות בליגה הספרדית. בואוננוטה (50) העלה את אלצ'ה ליתרון, צ'וסט (79) השווה. בישול לאוסקר גלוך בניצחון של איאקס",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/one1887489/one1887489_0_0_800_444_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/worldsoccer/article/b1yrrfxffg",
+          "title": "בתוספת הזמן: יובנטוס הפסידה 3:2 לססואולו",
+          "summary": "הגברת הזקנה פיגרה פעמיים והצליחה להשוות בדקה ה-91, אך אז ספגה רגע לפני הסיום ונכנעה לירוקים באופן דרמטי. נאפולי חזרה לנצח עם 0:1 על בולוניה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/one1887714/one1887714_0_0_800_444_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/one533312",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-12T19:57:33.000Z"
+          "pubDate": "2026-09-13T20:52:05.000Z"
         },
         {
-          "title": "מנור סולומון נבחר לאיש המשחק, וגרף מחמאות: \"מהטובים בליגה\"",
-          "summary": "שחקן הכנף הישראלי כבש ובישל ב-0:6 הגדול של ווסטהאם על רקסהאם, וזכה לכבוד בסיום. באתר המסקר את הקבוצה שיבחו אותו: \"הוא בעשירייה המובילה בצ'מפיונשיפ, אולי אפילו הכי טוב\". סולומון עצמו היה מאושר בסיום: \"אני בעננים, חיכיתי לרגע הזה\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/SJkOayMKGe/SJkOayMKGe_0_43_1024_577_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/worldsoccer/article/rjubmpmyml",
+          "title": "שער יפהפה של מסי לא עזר למיאמי, עבדה וטוקלומטי שוב כבשו לשארלוט",
+          "summary": "\"הפרעוש\" כבש שער אופייני, אך האלופה ספגה בתוספת הזמן בדרך ל-2:2 ביתי מול נאשוויל וסופרת כבר שלושה משחקים רצופים ללא ניצחון. צמד הישראלים של שארלוט הבקיע משחק שני ברציפות ב-3:3 הדרמטי עם סינסינטי. בכורה לאבו פרחי בקולורדו",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/HkZrpts7Yfg/HkZrpts7Yfg_0_97_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/r1ghusmffx",
           "source": "Ynet — ספורט",
-          "pubDate": "2026-09-12T05:45:59.000Z"
+          "pubDate": "2026-09-13T04:44:09.000Z"
         }
       ]
     }
