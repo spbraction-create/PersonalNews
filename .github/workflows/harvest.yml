@@ -22,6 +22,14 @@ on:
         description: "הרץ גם אם כבר הופק גיליון היום (עוקף את guard)"
         type: boolean
         default: false
+      forceWeekly:
+        description: "הפק מוסף שישי עכשיו, גם אם לא יום שישי (בדיקה ידנית — src/israelTime.js)"
+        type: boolean
+        default: false
+      forceMonthly:
+        description: "הפק ירחון עכשיו, גם אם לא ה-1 לחודש (בדיקה ידנית — src/israelTime.js)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -100,6 +108,41 @@ jobs:
         run: |
           git config user.name "daily-digest-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/daily-edition.json data/depth-queue.json
+          git add data/daily-edition.json data/weekly-queue.json data/monthly-queue.json
           git diff --cached --quiet || git commit -m "chore: daily edition $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
+      # שני השערים הבאים רצים כל בוקר, אחרי היומי, באותו job — אבל כל סקריפט שוער
+      # בזמן בעצמו (src/israelTime.js: יום שישי / 1 לחודש בישראל) ועושה no-op בכל יום
+      # אחר. כך אין צורך בעוד cron/guard נפרד — ה-Action שרץ כבר כל בוקר מספיק.
+      - name: Edit weekly supplement — Friday only (Gemini)
+        if: always()
+        run: node scripts/edit-weekly.js
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_WEEKLY: ${{ (github.event_name == 'workflow_dispatch' && inputs.forceWeekly) && '1' || '' }}
+
+      - name: Commit weekly supplement
+        if: always()
+        run: |
+          git config user.name "daily-digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/weekly-edition.json data/weekly-queue.json
+          git diff --cached --quiet || git commit -m "chore: weekly supplement $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
+      - name: Edit monthly magazine — 1st of month only (Gemini)
+        if: always()
+        run: node scripts/edit-monthly.js
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_MONTHLY: ${{ (github.event_name == 'workflow_dispatch' && inputs.forceMonthly) && '1' || '' }}
+
+      - name: Commit monthly magazine
+        if: always()
+        run: |
+          git config user.name "daily-digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/monthly-edition.json data/monthly-queue.json
+          git diff --cached --quiet || git commit -m "chore: monthly magazine $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push

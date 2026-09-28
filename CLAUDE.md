@@ -10,7 +10,8 @@
 - **טריגר יומי (31.8.2026):** ה-workflow `harvest.yml` מופעל כל בוקר ב-**03:20 UTC** ע"י **Cloudflare Cron Trigger** (ה-`scheduled()` ב-`worker/index.js` קורא ל-GitHub API). ה-`schedule` של GitHub עצמו נשאר כרשת ביטחון בלבד. הרקע והפרטים המלאים — סעיף 6 בסדר העדיפויות.
 - **שלב 2 (גילוי-פיד):** `src/feedDiscovery.js` + `npm run discover`. 19/24 מקורות מ-`SOURCES.md` מאומתים ופעילים בפועל (לא רק "עונים 200" — נבדקו תאריכי פרסום אמיתיים). התוצאות ב-`data/sources.json` + `reports/`.
 - **שלב 3 (קציר):** `src/harvest.js` + `npm run harvest`. מושך מהמקורות המאושרים, מסנן 24 שעות, מנקה כפילויות → `data/daily-flood.json`. רץ אוטומטית כל בוקר דרך GitHub Action (`harvest.yml`), מופעל ע"י Cloudflare Cron ב-03:20 UTC (סעיף 6); `schedule` של GitHub + `guard` נשארו כרשת ביטחון (סעיף 5).
-- **שלב 4 (עריכה):** `src/gemini.js`, `src/classify.js`, `src/dailyEdit.js`. מסווג ידיעה/עומק, בוחר top-10 כשיש יותר מדי, כותב בריף ~200 מילה לכל טור → `data/daily-edition.json`. פריטי עומק נשמרים ב-`data/depth-queue.json` (בלי תור אמיתי עדיין). **✅ רץ עכשיו אוטומטית, אחרי harvest, באותו GitHub Action** — ראה "מה נבנה ב-20.8.2026" למטה.
+- **שלב 4 (עריכה):** `src/gemini.js`, `src/classify.js`, `src/dailyEdit.js`. מסווג ידיעה/עומק, בוחר top-10 כשיש יותר מדי, כותב בריף ~200 מילה לכל טור → `data/daily-edition.json`. **✅ רץ עכשיו אוטומטית, אחרי harvest, באותו GitHub Action** — ראה "מה נבנה ב-20.8.2026" למטה.
+- **מוסף שישי + ירחון (28.9.2026) — ✅ בנוי, ממתין לריצה אמיתית ראשונה.** ראה "מה נבנה ב-28.9.2026" למטה לפירוט מלא: `src/depthEdit.js` (העורך הראשי, §4), `scripts/edit-weekly.js`/`edit-monthly.js` (שוערים בזמן ישראל, `src/israelTime.js`), `/weekly`+`/monthly` ב-Worker. פריטי עומק נצברים ב-`data/weekly-queue.json`/`data/monthly-queue.json` (לא עוד `depth-queue.json` — זה נמחק).
 - **שלב 5 (הגשה):** `worker/index.js` + `worker/render.js`. **חי בפועל:** `https://daily-digest.spbraction.workers.dev` — קורא ישירות מ-`raw.githubusercontent.com` בכל בקשה (בלי לשמור תוכן ב-Worker עצמו — קאש קצה של 5 דק' בלבד). פריסה: `npm run worker:deploy` (רק כשהקוד/הלוגיקה משתנים — לא כשהתוכן משתנה). בדיקה מקומית: `npm run worker:dev`.
 - **שלב 5.2 (עמוד סיכום lazy-dive + KV) — ✅ חי בפרודקשן.** נבדק ישירות מול `https://daily-digest.spbraction.workers.dev/read?link=...`: cache miss ~19 שנ' (שליפה+Gemini), cache hit ~0.05 שנ' עם "נשמר במטמון".
 - **Gemini API key** תקין בשני מקומות נפרדים: `.env` מקומי (לא ב-git, ל-scripts), ו-secret בשם `GEMINI_API_KEY` ב-GitHub Actions (ל-workflow האוטומטי). מודל: `gemini-flash-latest` (לא לנעוץ גרסה — גוגל מפסיקה גרסאות מהר, ראה תובנות ב-[[gemini-api-key-setup-gotchas]] בזיכרון).
@@ -113,9 +114,26 @@
 
 **לקח נוסף:** `wrangler dev` (גם `--remote`, בגרסה 4.121) מושך vars/secrets מ-`.env` המקומי, **לא** מ-secrets שהועלו ב-`wrangler secret put`. בלי שורה ב-`.env`, `env.GITHUB_DISPATCH_TOKEN` יוצא `undefined` בבדיקה המקומית. בפרודקשן (`wrangler deploy`) זה כן מגיע מה-secret שהועלה.
 
----
+### 7. מוסף שישי + ירחון — ✅ בנוי (28.9.2026), ממתין לריצה אמיתית ראשונה
 
-## דברים טכניים שכדאי לזכור (כדי לא לגלות מחדש)
+**מה עורר את זה:** המשתמש שם לב שמעולם לא הופק מוסף שישי או ירחון, למרות ש-EDITORIAL.md §1/§4 מגדיר אותם במדויק. בדיקה בקוד גילתה שהם תוכננו אבל **לא נבנו בכלל** — היה קיים סקריפט עריכה יומי אחד בלבד.
+
+**באג ארכיטקטוני שנתפס לפני הבנייה, ותוקן כחלק ממנה:** `data/depth-queue.json` (הקובץ הישן) נכתב עם `writeFile` (לא append) **בכל ריצה יומית** — כל יום דורס את פריטי העומק של היום הקודם. גם אם היה נבנה שער שבועי/חודשי על הקובץ הזה כמו שהיה, הוא היה רואה רק את פריטי העומק של היום האחרון, לא את השבוע/החודש כולו. **הפתרון:** פוצל לשני קבצים מצטברים, `data/weekly-queue.json` (עכשווי) ו-`data/monthly-queue.json` (אברגרין) — `edit-daily.js` עכשיו **מוסיף** אליהם (עם דה-דופ לפי `link`) במקום לדרוס. 60 פריטי העומק שכבר היו ב-`depth-queue.json` הישן הועברו לשני הקבצים החדשים לפני שהוא נמחק — לא אבד תוכן.
+
+**מה נבנה:**
+- **`src/israelTime.js`** — `isFridayInIsrael()` / `isFirstOfMonthInIsrael()`, לפי שעון ישראל (לא UTC של ה-Action). דגלי `FORCE_WEEKLY=1`/`FORCE_MONTHLY=1` (env) לבדיקה ידנית בלי להמתין בפועל.
+- **`src/depthEdit.js`** — `selectDepthItems()`, "העורך הראשי" (EDITORIAL.md §4) — ציטוט מדויק של הפרומפט. פחות מ-5 פריטים בטור → מדלג על Gemini ומחזיר את כולם (אין טעם/צורך בבחירה). מחזיר פריטים מדורגים + משפט `why` לכל אחד (לא בריף מסונתז — זה קיים רק ביומי, §3, לפי בחירת המשתמש).
+- **`scripts/edit-weekly.js` / `scripts/edit-monthly.js`** — קוראים את התור המצטבר שלהם, מריצים את העורך הראשי בנפרד לכל טור, כותבים `data/weekly-edition.json`/`monthly-edition.json`. שוערים בזמן (no-op בכל יום שאינו שישי/1-לחודש) — כך שהם רצים כל בוקר, אותו job כמו היומי, בלי cron/guard נפרד ב-Cloudflare או ב-Action.
+- **באג שני שנתפס בבדיקה עצמה, לפני שהגיע לפרודקשן:** הגרסה הראשונה איפסה את **כל** התור בסוף הריצה, כולל טורים שנכשלו (למשל תקלת Gemini חולפת) — מוחקת בפועל פריטים שלא זכו להזדמנות להיערך. **תוקן:** רק טורים שבאמת עברו עריכה בהצלחה מתאפסים; טור שנכשל נשאר בתור בשלמותו לניסיון חוזר בשער הבא. נבדק ידנית (`FORCE_WEEKLY=1`/`FORCE_MONTHLY=1` בלי `GEMINI_API_KEY` — מדמה כשל אמיתי): אושר שפריטי הטורים שנכשלו נשארים, ופריטי הטורים שהצליחו (כולל אלה עם ≤5 פריטים, בלי קריאת Gemini בכלל) מוסרים.
+- **`.github/workflows/harvest.yml`** — שני steps נוספים אחרי היומי, `if: always()` (רצים גם אם היומי נכשל): `edit-weekly.js` + commit, `edit-monthly.js` + commit. `workflow_dispatch` קיבל `forceWeekly`/`forceMonthly` (boolean) שמוזרמים כ-`FORCE_WEEKLY`/`FORCE_MONTHLY` לבדיקה ידנית מה-UI של Actions.
+- **`worker/render.js`/`worker/index.js`** — נתיבים חדשים `/weekly` ו-`/monthly`, כל אחד קורא את קובץ ה-edition המתאים מה-repo (כמו `handleMainPage`). `renderDepthPage()` — רשימה מדורגת עם מספר דירוג (`.depth-row__rank`) ומשפט הנמקה (`.depth-row__why`), לא בריף. תפריט טאבים חדש (`.gate-tabs`: יומי/מוסף שישי/ירחון) נוסף למסתר (`renderMasthead`) של **כל** העמודים, כדי שאפשר לנווט בין השערים בכל זמן — לא רק בשישי/ב-1 לחודש. קבצי `data/weekly-edition.json`/`monthly-edition.json` התחלתיים (columns ריקים) נוצרו כדי ש-`/weekly`/`/monthly` לא יחזירו 502 לפני הריצה האמיתית הראשונה.
+
+**נשאר, לא דחוף:**
+- **טרם נבדק עם `GEMINI_API_KEY` אמיתי** — כל הבדיקות בסשן הזה היו בלי מפתח (כדי לא להזין secrets), אז זרימת ה-Gemini עצמה (טורים עם יותר מ-5 פריטים) לא רצה בפועל, רק הנתיב ללא-Gemini (≤5 פריטים) ולוגיקת הקבצים/השעון. שווה להריץ `FORCE_WEEKLY=1 npm run edit-weekly` מקומית (עם `.env`) לפני שסומכים על הריצה האמיתית של יום שישי.
+- `npm run worker:deploy` — קוד ה-Worker השתנה (נתיבים חדשים) אז חובה deploy, לא רק push (כמו שכתוב תמיד — שינוי לוגיקה, לא רק תוכן).
+- `git push`/PR עדיין לא בוצע מה-session הזה — הקוד קיים רק ב-clone מקומי (branch: ראה תיאור ה-PR).
+
+---
 
 - **הרצת סקריפטים מקומית:** `discover` ו-`harvest` לא צריכים `.env`. `edit-daily` כן (`node --env-file=.env`, זה כבר מוגדר ב-package.json) — **אבל זה רק לנוחות מקומית**. ב-CI (GitHub Actions) קוראים ל-`node scripts/edit-daily.js` ישירות, בלי `--env-file`, כי `.env` לא קיים שם והדגל קורס אם הקובץ חסר (ראה סעיף 3 למעלה).
 - **מודל Gemini:** תמיד `gemini-flash-latest`, לעולם לא גרסה נעוצה כמו `gemini-2.5-flash` — גוגל הפסיקה אותם תוך שבועות.

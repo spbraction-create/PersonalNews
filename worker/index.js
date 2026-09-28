@@ -5,18 +5,60 @@
  *  - "/read"  עמוד הסיכום ה-lazy לכתבה בודדת (EDITORIAL.md §3.3) — סיכום 300 מילה,
  *             ראשון-בלחיצה נוצר דרך Gemini ונשמר ב-KV, אח"כ מוגש מהמטמון.
  */
-import { renderPage, renderReadPage, safeUrl } from "./render.js";
+import { renderPage, renderReadPage, renderDepthPage, safeUrl } from "./render.js";
 import { getOrCreateSummary } from "./articleSummary.js";
 
-async function fetchEdition(env) {
-  const dataUrl = `${env.DATA_REPO_RAW_BASE}/data/daily-edition.json`;
+async function fetchJson(env, filename) {
+  const dataUrl = `${env.DATA_REPO_RAW_BASE}/data/${filename}`;
   const response = await fetch(dataUrl, {
     cf: { cacheTtl: 300, cacheEverything: true },
   });
   if (!response.ok) {
-    throw new Error(`סטטוס ${response.status} בטעינת הנתונים מהריפו`);
+    throw new Error(`סטטוס ${response.status} בטעינת ${filename} מהריפו`);
   }
   return response.json();
+}
+
+async function fetchEdition(env) {
+  return fetchJson(env, "daily-edition.json");
+}
+
+// /weekly ו-/monthly (EDITORIAL.md §1, §4): כמו handleMainPage, אבל על קובץ ה-edition
+// שכותבים scripts/edit-weekly.js / scripts/edit-monthly.js. עמוד המוסף/הירחון תמיד
+// מוגש — לא רק בשישי/ב-1 לחודש — מציג את הגיליון האחרון שנוצר עד שיתחלף בפעם הבאה.
+const DEPTH_GATES = {
+  weekly: {
+    file: "weekly-edition.json",
+    gateKey: "weekly",
+    brandLabel: "מוסף שישי",
+    emptyMessage: "אין עדיין מוסף שישי — הגיליון הראשון יופק ביום שישי הקרוב.",
+  },
+  monthly: {
+    file: "monthly-edition.json",
+    gateKey: "monthly",
+    brandLabel: "ירחון",
+    emptyMessage: "אין עדיין ירחון — הגיליון הראשון יופק ב-1 לחודש הקרוב.",
+  },
+};
+
+async function handleDepthPage(env, gate) {
+  const config = DEPTH_GATES[gate];
+  let edition;
+  try {
+    edition = await fetchJson(env, config.file);
+  } catch (err) {
+    return new Response(`שגיאה בטעינת הגיליון: ${err.message}`, {
+      status: 502,
+      headers: { "content-type": "text/plain; charset=utf-8" },
+    });
+  }
+
+  return new Response(renderDepthPage(edition, config), {
+    headers: {
+      "content-type": "text/html; charset=utf-8",
+      "cache-control": "public, max-age=300",
+    },
+  });
 }
 
 async function handleMainPage(env) {
@@ -119,6 +161,12 @@ export default {
     const url = new URL(request.url);
     if (url.pathname === "/read") {
       return handleReadPage(request, env);
+    }
+    if (url.pathname === "/weekly") {
+      return handleDepthPage(env, "weekly");
+    }
+    if (url.pathname === "/monthly") {
+      return handleDepthPage(env, "monthly");
     }
     return handleMainPage(env);
   },

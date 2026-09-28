@@ -8,6 +8,8 @@
     "discover": "node scripts/discover-feeds.js",
     "harvest": "node scripts/harvest.js",
     "edit-daily": "node --env-file=.env scripts/edit-daily.js",
+    "edit-weekly": "node --env-file=.env scripts/edit-weekly.js",
+    "edit-monthly": "node --env-file=.env scripts/edit-monthly.js",
     "worker:dev": "wrangler dev",
     "worker:deploy": "wrangler deploy"
   },

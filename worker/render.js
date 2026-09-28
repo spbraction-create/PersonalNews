@@ -133,7 +133,21 @@ function renderNav(columns) {
   return `<nav><ul class="nav">${items}</ul></nav>`;
 }
 
-function renderMasthead(dateLabel, columns) {
+const GATE_TABS = [
+  { href: "/", key: "daily", label: "יומי" },
+  { href: "/weekly", key: "weekly", label: "מוסף שישי" },
+  { href: "/monthly", key: "monthly", label: "ירחון" },
+];
+
+function renderGateTabs(currentGate) {
+  const links = GATE_TABS.map(
+    (tab) =>
+      `<a href="${tab.href}"${tab.key === currentGate ? ' aria-current="page"' : ""}>${escapeHtml(tab.label)}</a>`
+  ).join("");
+  return `<div class="gate-tabs">${links}</div>`;
+}
+
+function renderMasthead(dateLabel, columns, currentGate = "daily") {
   return `
   <header class="masthead">
     <div class="masthead__top">
@@ -141,6 +155,7 @@ function renderMasthead(dateLabel, columns) {
       <p class="date">${escapeHtml(dateLabel)}</p>
     </div>
     ${columns.length > 0 ? renderNav(columns) : ""}
+    ${renderGateTabs(currentGate)}
   </header>`;
 }
 
@@ -292,6 +307,25 @@ const BASE_STYLES = `
   }
   .read-article__source-link:hover { background: var(--accent); color: var(--surface); }
   .read-article__note { color: var(--text-muted); font-size: 0.8rem; margin-top: 0.75rem; }
+
+  /* מוסף שישי / ירחון (renderDepthPage) — רשימה מדורגת, לא בריף מסונתז (EDITORIAL.md §4). */
+  .depth-row { display: grid; grid-template-columns: 88px 1fr; gap: 1rem; padding: 1.15rem 0; border-top: 1px solid var(--border-soft); align-items: start; }
+  .depth-row:first-of-type { border-top: none; padding-top: 0; }
+  .depth-row--no-photo { grid-template-columns: 1fr; }
+  .depth-row__photo-link { display: block; position: relative; }
+  .depth-row__photo { width: 88px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px; display: block; }
+  .depth-row__rank { position: absolute; top: -6px; right: -6px; background: var(--accent); color: var(--surface); font-size: 0.72rem; font-weight: 700; min-width: 1.4rem; height: 1.4rem; border-radius: 50%; display: flex; align-items: center; justify-content: center; }
+  .depth-row--no-photo .depth-row__rank { position: static; display: inline-flex; margin-inline-end: 0.5rem; }
+  .depth-row__title { font-family: "Assistant", sans-serif; font-weight: 600; font-size: 1rem; line-height: 1.5; margin: 0 0 0.45rem; }
+  .depth-row__title a { color: var(--text); text-decoration: none; }
+  .depth-row__title a:hover { color: var(--accent); }
+  .depth-row__why { font-size: 0.88rem; line-height: 1.6; color: var(--text); margin: 0 0 0.55rem; padding-inline-start: 0.65rem; border-inline-start: 2px solid var(--accent); }
+  .depth-row__meta { display: flex; align-items: center; gap: 0.5rem; font-size: 0.78rem; flex-wrap: wrap; }
+  .depth-row__source { color: var(--accent); font-weight: 600; }
+  .gate-tabs { display: flex; gap: 0.4rem; margin-top: 0.9rem; }
+  .gate-tabs a { padding: 0.35rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600; text-decoration: none; color: var(--text-muted); border: 1px solid var(--border); }
+  .gate-tabs a[aria-current="page"] { color: var(--surface); background: var(--accent); border-color: var(--accent); }
+  .gate-tabs a:not([aria-current="page"]):hover { color: var(--text); background: var(--border-soft); }
 `;
 
 function pageShell({ title, bodyHtml }) {
@@ -313,6 +347,79 @@ function pageShell({ title, bodyHtml }) {
   </footer>
 </body>
 </html>`;
+}
+
+function renderDepthRow(item, rank) {
+  const link = safeUrl(item.link);
+  const image = safeUrl(item.image);
+  const title = escapeHtml(item.title);
+  const source = escapeHtml(item.source);
+  const readHref = link ? readPageUrl(link) : null;
+
+  const whyHtml = item.why ? `<p class="depth-row__why">${escapeHtml(item.why)}</p>` : "";
+  const rankBadge = `<span class="depth-row__rank">${rank}</span>`;
+
+  return `
+    <article class="depth-row${image ? "" : " depth-row--no-photo"}">
+      ${
+        image
+          ? `<a class="depth-row__photo-link" href="${readHref ?? "#"}">${rankBadge}<img class="depth-row__photo" src="${image}" alt="" loading="lazy"></a>`
+          : rankBadge
+      }
+      <div class="depth-row__body">
+        <h3 class="depth-row__title">
+          ${readHref ? `<a href="${readHref}">${title}</a>` : title}
+        </h3>
+        ${whyHtml}
+        <div class="depth-row__meta">
+          <span class="depth-row__source">${source}</span>
+        </div>
+      </div>
+    </article>`;
+}
+
+function renderDepthColumn(column) {
+  const meta = COLUMN_META[column.column];
+  const slug = meta?.slug ?? `col-${column.column}`;
+  const rowsHtml = column.items.map((item, i) => renderDepthRow(item, i + 1)).join("");
+
+  return `
+    <section class="column" id="col-${slug}" data-col="${column.column}">
+      <div class="col-head">
+        <span class="col-head__dot"></span>
+        <h2>${escapeHtml(column.name)}</h2>
+      </div>
+      ${rowsHtml}
+    </section>`;
+}
+
+/**
+ * המוסף השבועי / הירחון (EDITORIAL.md §4) — רשימה מדורגת עם משפט הנמקה לכל פריט,
+ * בלי בריף מסונתז בראש הטור (זה קיים רק ביומי, §3). edition = תוצאת edit-weekly.js
+ * / edit-monthly.js: { generatedAt, gate, columns: [{ column, name, items }] }.
+ */
+export function renderDepthPage(edition, { gateKey, brandLabel, emptyMessage }) {
+  const generatedDate = new Date(edition.generatedAt).toLocaleString("he-IL", {
+    dateStyle: "full",
+    timeStyle: "short",
+    timeZone: "Asia/Jerusalem",
+  });
+
+  const hasColumns = edition.columns.length > 0;
+  const columnsHtml = hasColumns
+    ? edition.columns.map((column) => renderDepthColumn(column)).join("")
+    : `<p class="empty-state">${escapeHtml(emptyMessage)}</p>`;
+
+  return pageShell({
+    title: `Daily — ${brandLabel}`,
+    bodyHtml: `
+  <div class="page">
+    ${renderMasthead(generatedDate, hasColumns ? edition.columns : [], gateKey)}
+    <main>
+      ${columnsHtml}
+    </main>
+  </div>`,
+  });
 }
 
 export function renderPage(edition) {
