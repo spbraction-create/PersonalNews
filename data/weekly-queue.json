@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:39:35.399Z",
+  "generatedAt": "2026-09-29T03:24:16.728Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -359,6 +359,487 @@
       "pubDate": "2026-09-27T03:30:00.000Z",
       "summary": "ל-ynet נודע כי בניגוד לגרסה שהוצגה במסיבת העיתונאים של אירלנד, בכירים באופ\"א, לבקשת ההתאחדות הישראלית, הפעילו לחץ כבד על האירים והזהירו מהשלכות אפשריות. \"היה פה מזל ענק\", הודו במשלחת הישראלית",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/B162M4X9Ml/B162M4X9Ml_0_51_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "מטעני חבלה, ירי, רימוני הלם ודריסות מכוונות: גל הפשיעה - ותגובת המשטרה",
+      "link": "https://www.ynet.co.il/news/article/yokra14911912",
+      "pubDate": "2026-09-29T02:21:54.000Z",
+      "summary": "ביממה האחרונה בן 15 נפצע מפיצוץ מטען חבלה בחולון - האירוע הפלילי החמור האחרון מתוך רבים שהתרחשו בפחות משבוע ברחבי המדינה, מזריקת רימונים ועד פגיעה בשוטרים. אלו האירועים המרכזיים. המשטרה: \"הנתונים מצביעים על ירידה בשורה של עבירות, אין מקום להסיק מאירועים של ימים ספורים על מגמה ארצית\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/yk14912029/yk14912029_0_0_822_467_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מהידידה הקרובה לחוד החנית של הלחץ על ישראל: מה קרה להולנד?",
+      "link": "https://www.ynet.co.il/news/article/hkd2bkocgx",
+      "pubDate": "2026-09-28T21:32:58.000Z",
+      "summary": "במשך עשרות שנים הולנד נחשבה לאחת מבעלות הברית הקרובות ביותר של ישראל באירופה; איך הידרדרו היחסים, מה מחכה לישראלי שנוחת בסכיפהול, מה השתנה בדעת הקהל ובפוליטיקה בהאג - והאם מדינות נוספות בדרך? ynet מסביר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/H1ka9xu9Mx/H1ka9xu9Mx_0_54_1599_901_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "חנינה על חשבון הממלכה",
+      "link": "https://www.ynet.co.il/news/article/yokra14912217",
+      "pubDate": "2026-09-28T21:08:00.000Z",
+      "summary": "החנינה שהעניק נשיא המדינה לאלאור אזריה אינה רק החלטה הנוגעת לגורלו של אדם, אלא נושאת משמעות ציבורית, ערכית ומוסדית רחבה הרבה יותר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2018/05/08/8518042/8518042_0_0_1280_853_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "החלטה רעה ומצוינת",
+      "link": "https://www.ynet.co.il/news/article/yokra14912418",
+      "pubDate": "2026-09-28T21:06:00.000Z",
+      "summary": "ההחלטה ההולנדית היא שרירותית, רעה ודי פופוליסטית, שאולי תרסן את ממשלת נתניהו, אולי תסייע בהפסד של גוש הימין בבחירות, אבל קודם כל תפגע בפלסטינים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/H1ka9xu9Mx/H1ka9xu9Mx_202_0_1398_787_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "נחצה קו שפל חדש",
+      "link": "https://www.ynet.co.il/news/article/yokra14912453",
+      "pubDate": "2026-09-28T21:04:00.000Z",
+      "summary": "שליחו התורן של נתניהו איחל לשורדת השבי יוכבד ליפשיץ שתחזור לגיהינום. לאחר מכן הוא התנצל ומחק, אבל החרפה והבושה בלתי ניתנות למחיקה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/rJ6o30w9fe/rJ6o30w9fe_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הפרוטוקולים החלקיים, התצהיר והאזהרות לפני 7/10: נתניהו מול רונן בר - גרסה מול גרסה",
+      "link": "https://www.ynet.co.il/news/article/h1fk2zo9ze",
+      "pubDate": "2026-09-28T19:58:58.000Z",
+      "summary": "ראש הממשלה מציג קטעים מדיונים שלפני הטבח וטוען שראש השב\"כ לשעבר דבק ב\"קונספציה\" של שקט והקלות, בר משיב שהציטוטים הוצאו מהקשרם ומפנה לאזהרות שהשמיע. בין התצהיר לבג\"ץ, הפרוטוקולים שלא פורסמו במלואם והכשל המודיעיני: מה ידוע עד כה, מה עדיין שנוי במחלוקת - ואילו שאלות נותרו פתוחות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/SJEV11B009Gl/SJEV11B009Gl_0_0_1672_941_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ניצן 7 באוקטובר",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-00dc7d4e4c8e0a1027.htm",
+      "pubDate": "2026-09-28T16:08:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "עם יותר מ-100 בוטים: קמפיין ההשפעה של בן גביר נגד מחנה נתניהו וערוץ 14",
+      "link": "https://www.ynet.co.il/news/elections2026/article/bygspy00cze",
+      "pubDate": "2026-09-28T15:35:44.000Z",
+      "summary": "בתחקיר שערך \"פייק ריפורטר\" עולה כי מפלגת עוצמה יהודית מנהלת קמפיין השפעה ברשת בעזרת בוטים ברשתות החברתיות. הבוטים, שמתחזים לישראלים ומהדהדים את מסרי המפלגה, תוקפים דווקא את שותפיו של בן גביר. \"קול שיילך אליך - הולך לפח\", נכתב נגד וינטר. על ערוץ 14 נאמר: \"כמו שכירי חרב של נתניהו\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/SyHBGeOqzl/SyHBGeOqzl_16_142_1227_691_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מתקפה על הגוש: מבצע ההשפעה של בן גביר",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-fbd47d952c7e0a1027.htm",
+      "pubDate": "2026-09-28T12:44:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "תחקיר \"המבקר\": המינוי שאושר, הכשלים שנחשפו – והחשש של הפוליטיקאים",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-488b65bfbc4e0a1027.htm",
+      "pubDate": "2026-09-28T10:45:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "חלום הנורמליזציה עם סעודיה שיבש את שיקול הדעת של נתניהו",
+      "link": "https://www.mako.co.il/news-columns/2026_q3/Article-6b4c33ec627e0a1027.htm",
+      "pubDate": "2026-09-28T10:04:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ההסלמה בים סוף - והאיום של החות'ים",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-69edf4a1ce6e0a1027.htm",
+      "pubDate": "2026-09-28T09:10:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "סנקציות מדינות אירופה יפגעו במערכת הבנקאות? \"יכול להתגלגל למשקי הבית\"",
+      "link": "https://www.ynet.co.il/economy/article/bjofp6d9fe",
+      "pubDate": "2026-09-28T11:29:11.000Z",
+      "summary": "המפקח על הבנקים לשעבר, יאיר אבידן, מזהיר כי הדיונים על סנקציות נגד חברות ישראליות על רקע המצב ביו\"ש והקיפאון בעזה, עלולים בתרחיש קיצוני להגיע להפסקת פעילות עם בנקים אירופיים מובילים, לפגוע ביבואנים וביצואנים ולהתגלגל לצמיחה. וגם: האם דירוג האשראי של ישראל שוב בסכנה?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/10/r1000SkCFWx/r1000SkCFWx_91_54_1123_632_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "אחד הסמלים הלאומיים של צרפת בסכנה - והכל קשור למלחמה באיראן",
+      "link": "https://www.ynet.co.il/economy/article/hjrt0fdqme",
+      "pubDate": "2026-09-28T07:47:21.000Z",
+      "summary": "כרבע מ-34 אלף המאפיות בצרפת משתמשות בתנורים המופעלים בנפט או בגז, והזינוק במחירי האנרגיה ‏חותך ברווחים. מאפייה בצפון המדינה עדיין מוכרת בגט באירו אחד ולא מעלות מחירים, אף שמחיר הדלק שלה זינק ב-50%: \"זה ממילא לא יכסה את אובדן ההכנסות, וזה גם יפעל נגדנו כי ‏הלקוחות ירגישו נבגדים\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/HyUxlcw9fg/HyUxlcw9fg_0_95_3000_1689_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "דני אבדיה: \"אני פחות עם הכדור, אני לא יודע מה קורה\"",
+      "link": "https://www.ice.co.il/sport_news/news/article/1131472",
+      "pubDate": "2026-09-28T22:35:00.000Z",
+      "summary": "הכוכב הישראלי מתכונן לשינוי משמעותי באופי המשחק שלו לקראת עונתו החדשה בפורטלנד טרייל בלייזרס. הפורוורד הישראלי התייחס למצבו הפיזי, לתפקידו בחדר ההלבשה ולעתידו בארגון ושיתף בתחושותיו לקראת העונה הקרובה",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_605/rsz_615_346_דניאבדיהגוף1.png",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Holiday Ecommerce Shopping to Hit $275 Billion Despite Consumer Strain, According to Adobe",
+      "link": "https://www.adweek.com/commerce/holiday-ecommerce-shopping-to-hit-275-billion-despite-consumer-strain-according-to-adobe/",
+      "pubDate": "2026-09-28T08:00:00.000Z",
+      "summary": "AI and buy-now-pay later will grow while shoppers look for fun and value.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+      "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "pubDate": "2026-09-28T21:49:10.000Z",
+      "summary": "On its face, the recent summit between Donald Trump and China’s president Xi Jinping didn’t change much in the world of AI regulation. Export controls were not discussed, with neither country seemingly interested in making concessions. An already tenuous trade truce was temporarily extended for just two months, and looming US controls that could drop soon could easily end that and trigger China to retaliate by cutting off exports of rare earths, analysts expect. However, in the background of the",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "pubDate": "2026-09-28T19:21:59.000Z",
+      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "OpenAI’s AI agents need to catch up",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "pubDate": "2026-09-28T18:45:00.000Z",
+      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - its answer to Meta's Muse, SpaceX's Grok Bot, OpenClaw, and many more. Aeon could have a shot at success, but to beat the competition, it would need to pull ",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+      "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+      "pubDate": "2026-09-28T18:04:59.000Z",
+      "summary": "We are mere days away from the launch of Googlebooks , the long-awaited Android laptops that Google hopes will compete with macOS and Windows. But what of Chromebooks? There have been hints that Google plans to sunset its web-first ChromeOS platform, and a new support page lays out some of the specifics. The support page , spotted by 9to5Google , aims to explain the role of Googlebooks to Chrome Enterprise and Education customers. The page starts off by noting that Googlebook OS, which is Androi",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/list-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "F1 in Azerbaijan: That was almost a close-run thing",
+      "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
+      "pubDate": "2026-09-28T17:41:35.000Z",
+      "summary": "Formula 1 raced on the streets of Baku, Azerbaijan, this past weekend. Although the race predates Liberty’s acquisition of the sport by a few months , it’s a rather good microcosm of the sport as it exists today. The track is a real challenge; it takes place on dusty city streets lined with concrete walls and through a medieval fortress gate, followed by a 1.4-mile (2.2 km) flat-out blast to the finish line, with gusts of wind from the Caspian Sea a block away. It’s interesting to look at Baku’s",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297234571-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "pubDate": "2026-09-28T17:09:02.000Z",
+      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "OpenAI keeps bulldozing mathematicians",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+      "pubDate": "2026-09-28T17:00:00.000Z",
+      "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated is to consult a new independent advisory group of elite practitioners. But mathematicians speaking to The Verge , including one of t",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+      "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+      "pubDate": "2026-09-28T16:47:49.000Z",
+      "summary": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+      "pubDate": "2026-09-28T15:26:46.000Z",
+      "summary": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "pubDate": "2026-09-28T14:00:53.000Z",
+      "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface. Elsewhere, weak service accounts, old bugs, exposed systems, phishing kits, and strangely easy exploit paths kept doing useful work for attackers. Nothing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1600/c-recap.jpg",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"AI משנה את עולם ההשקעות – ומחדדת את חשיבות המומחיות האנושית\"",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/458819/",
+      "pubDate": "2026-09-28T12:36:14.000Z",
+      "summary": "במסגרת חג הסוכות שנמצא בעיצומו, אירחנו שבעה אושפיזין בסוכת אנשים ומחשבים , ושוחחנו איתם על הנושא הכי \"לוהט\" בתעשייה – ה-AI והשלכותיה. הנה מה שהיה להם לספר ולומר לנו. \"בינה מלאכותית משנה גם את עולם ההשקעות. אנחנו מרגישים את השינוי בניתוחים, בתפעול ובניהול סיכונים. אבל AI מחדדת גם את חשיבות המומחיות האנושית\", כך אמר דניאל לייטנר , מנכ\"ל תמיר פישמן קרנות נאמנות . לדבריו, \"מחקר ובניית מודלים, שבעבר דרשו זמן רב, מתקדמים היום מהר יותר, והצוות יכול לבחון יותר מידע ואפשרויות. חשיבות המומחיות האנושית גדל",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/התארחו-כאושפיזין-בסוכת-אנשים-ומחשבים.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+      "pubDate": "2026-09-28T11:00:09.000Z",
+      "summary": "Microsoft has spent all year telling communities that when it brings a new data center into their area, it is committed to being a “good neighbor.\" It will pay local property taxes that support local hospitals, schools, parks, and libraries, and it will invest in “vital services the community cares about,” the company promised. And it has sent liaisons into those communities to learn what those needs are. But ask those liaisons how much the company is willing to invest, and the answers can be ha",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/microsoft-data-center-champion-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "כך נערכת ארה\"ב לאבטחת בחירות האמצע",
+      "link": "https://www.pc.co.il/featured/458801/",
+      "pubDate": "2026-09-28T10:04:49.000Z",
+      "summary": "CISA , הסוכנות הפדרלית לאבטחת סייבר ותשתיות של ארה\"ב, פרסמה באחרונה תוכנית חדשה לאבטחת התשתיות של מערכות הבחירות לקראת בחירות האמצע, הצפויות להתקיים פחות משבוע אחרי ישראל: ב-3 בנובמבר. המסמך מספק הנחיות ומשאבים לגופים מדינתיים, מקומיים ופדרליים, ומטרתו להפחית איומי סייבר ואיומים פיזיים על הליכי הבחירות. הסוכנות הזהירה כי \"תשתיות הבחירות מהוות יעד מפתה לשחקני איום שונים, למטרות כמו מניפולציה של מערכות הצבעה וגניבת נתונים רגישים\". לפי הסוכנות, התשתית כוללת נכסים פיזיים, כגון מתקני אחסון, תחנות הצב",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/פרסמה-תוכנית-לאבטחת-בחירות-האמצע-בארצות-הברית.-CISA.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "בעולם גילו את צילומי הלוויין מעזה ולא מצליחים להירגע: \"זה הרס ברמה אפוקליפטית\"",
+      "link": "https://www.mako.co.il/nexter-news/Article-a59c5f45d67e0a1026.htm",
+      "pubDate": "2026-09-28T09:56:00.000Z",
+      "summary": "בזמן שבישראל מתעסקים בבחירות המתקרבות ובמתיחות עם איראן, לבנון וחמאס - ברשתות החברתיות הפכו את תמונות הלוויין החדשות של גוגל מפות לוויראליות. בצילומים השונים ניתן לראות הרס מוחלט בחלקים גדולים מרצועת עזה והגולשים לא נשארים אדישים בפוסטים שנחשפים למיליוני משתמשים ולא ממש עוזרים להסברה הישראלית",
+      "image": "https://img.mako.co.il/2026/09/28/AutoCms_AC3AE3ECA_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "מחפשת תיקון: האתגר הענק של הפועל ירושלים",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/b1dbshu5gx",
+      "pubDate": "2026-09-28T22:30:00.000Z",
+      "summary": "עם תקציב גדול יותר, מאמן מנוסה יותר, זרים נוצצים יותר – אבל בלי המנהיג הפצוע – הפועל ירושלים מגיעה ליורוקאפ עם מטרה מרכזית ברורה: למחוק את כישלון העונה שעברה, לזכות בגביע ולעלות ליורוליג . מסתערים על אירופה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/BJpBiS00qMe/BJpBiS00qMe_0_0_1600_901_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "הלב לא סולח על התבוסה לאילנד | טור",
+      "link": "https://www.ynet.co.il/sport/article/h1kriruqgg",
+      "pubDate": "2026-09-28T22:30:00.000Z",
+      "summary": "רצינו שער על כל התרסה, ניצחון שישיב מעט מהכבוד והזדמנות להחזיר לאירים על המגרש. בתוך 25 דקות הפכה פנטזיית הנקמה לעוד השפלה. דווקא מנבחרת שכבר הפסדנו בגללה כל תקווה, הצלחנו להתאכזב כאילו זו הפעם הראשונה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/BJq6Uevczl/BJq6Uevczl_0_111_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "מנותקת ואבודה: הכישלון העצום של נבחרת ישראל גרם לניתוק מהציבור",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/b1g6vb005gx",
+      "pubDate": "2026-09-28T22:30:00.000Z",
+      "summary": "עם מאמן שמתרץ בלי סוף ומתקשה לקחת אחריות, לגיונרים שנחשבים כוכבים בעיקר בעיני עצמם והתאחדות שמזמינה סטנדאפיסט למלון, כאילו השחקנים עוד לא עושים מאיתנו מספיק צחוק - לא פלא שהציבור מתנתק מנבחרת ישראל. סלחנו שוב ושוב על הכישלונות, אבל התבוסה 3:0 לאירלנד כבר הייתה השפלה אחת יותר מדי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/BJvNQemqGe/BJvNQemqGe_0_129_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "המבחן של מכבי ת\"א מול קבוצת האקסים שלה | תוכן גולשים",
+      "link": "https://www.ynet.co.il/sport/article/hkkmpfh5gx",
+      "pubDate": "2026-09-28T15:23:30.000Z",
+      "summary": "בשיקטאש מגיעה לבלגרד עם סקוטי וילבקין, אנטה ז'יז'יץ' ועוד שני שחקנים שלבשו צהוב. אחרי ההפסד לווילרבאן, שבו ספגה מכבי 16 שלשות, עודד קטש חייב להראות שהקבוצה למדה משהו – ולצאת מהמפגש עם ניצחון ראשון ביורוליג. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/03/rkWqWxzBCWg/rkWqWxzBCWg_0_88_2560_1416_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "הרבה יותר מכדורגל: זה היה משחק על הכבוד הלאומי - והוא נרמס",
+      "link": "https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-58d64dffd87e0a1027.htm",
+      "pubDate": "2026-09-28T11:06:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — ספורט (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/Sports",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "שפת הגוף הרופסת, הרכנת הראש בהמנון וחגיגת השער המתריסה של היריב",
+      "link": "https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-e4599734376e0a1026.htm",
+      "pubDate": "2026-09-28T05:43:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — ספורט (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/Sports",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "רציתם ללמד את האירים לקח? תלמדו קודם לשחק כדורגל | טור",
+      "link": "https://www.ynet.co.il/sport/article/skn98ipqmx",
+      "pubDate": "2026-09-28T03:30:00.000Z",
+      "summary": "די עם ה\"אגרסיביות\", \"שפת הגוף\" ונאומי הגאווה הלאומית. אירלנד חשפה כמה מעט יש לנבחרת ישראל להציע כשהיריבה לא נותנת לה זמן לחשוב. בן שמעון אחראי לכישלון, אבל עם כוכבי ליגת העל לא עולים ליורו - ולא משנה כמה חזק צועקים \"היידה\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/ryfArlw9Me/ryfArlw9Me_301_6_2355_1326_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:39:35.409Z",
+  "generatedAt": "2026-09-29T03:24:16.729Z",
   "note": "תור מצטבר לשער ירחון — נצרך ומתאפס על ידי scripts/edit-monthly.js.",
   "items": [
     {
@@ -417,6 +417,383 @@
         5
       ],
       "column": 5
+    },
+    {
+      "title": "\"כשמורה מרגיש שרואים אותו, הוא פנוי יותר לעשות את מה שהוא יודע הכי טוב\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14911726",
+      "pubDate": "2026-09-29T02:29:05.000Z",
+      "summary": "תפקיד חדש נכנס לבתי הספר: רכזת הון אנושי, שאחראית לעזור למורים ותיקים ולסייע בקליטת חדשים. הפרויקט, שפועל כבר בכ-50 בתי ספר, צפוי להתרחב לכל הארץ. מורה ותיקה שלוותה על ידי רכזת בשנה האחרונה: \"בעלי מגיע מעולם ההייטק ותמיד ראיתי את זה אצלו, אבל במערכת החינוך זה ממש לא מובן מאליו\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/ryyge5SG00cMg/ryyge5SG00cMg_0_269_853_481_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "התקיפה המינית שעברה שליחת \"וולט\" - והביקורת שלה נגד החברה: \"הפנו לי עורף\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14910317",
+      "pubDate": "2026-09-29T02:05:45.000Z",
+      "summary": "כמעט שנה אחרי שהותקפה מינית בעת מסירת הזמנה, א' מספרת על ההשלכות הקשות - הפחד מזרים, השיתוק בעבודה, וגם על משפחתה שמחזיקה אותה: \"זה ריסק לי את תחושת הביטחון, הפסקתי לעבוד וגם הזוגיות שלי נפגעה. במשטרה התפרקתי בבכי\". היא קוראת לנשים נוספות: \"חשוב להגיש תלונה ולא להיות לבד\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/r1e83yNdqGx/r1e83yNdqGx_0_40_961_541_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "אידיאולוגיית החורבן",
+      "link": "https://www.ynet.co.il/news/article/yokra14912203",
+      "pubDate": "2026-09-28T21:02:00.000Z",
+      "summary": "פעם אחרי פעם אנחנו נכשלים בהבנת האויב: הרס ומוות לא מרתיעים את איראן, לא את החות’ים, לא את חיזבאללה, ולא את חמאס. מצרים ואיחוד האמירויות הבינו והתריעו – אבל הקונספציה ניצחה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/SJfqge7qMl/SJfqge7qMl_0_0_3000_2000_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "המקורב לביידן חושף: כך מנע הנשיא לשעבר מלחמה עם איראן",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-b76ea3dbfb9e0a1027.htm",
+      "pubDate": "2026-09-28T20:44:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "כך ישראל מנעה את סיכול מבצע הביפרים - ושמרה על כך בסוד",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-f4111b40338e0a1026.htm",
+      "pubDate": "2026-09-28T17:15:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מטבע הקריפטו שבעזרתו איראן חומקת מהסנקציות ומחמשת את חיזבאללה | דיווח",
+      "link": "https://www.ynet.co.il/news/article/bje4rgd9ml",
+      "pubDate": "2026-09-28T14:57:33.000Z",
+      "summary": "\"וול סטריט ג'ורנל\": דוח שיוצג בסנאט יחשוף כיצד המשטר בטהרן מסתמך על מטבע הקריפטו היציב של \"טתר\" כדי להתחמק מהחרם הכלכלי של וושינגטון. מלבד עסקאות שונות, נטען כי המטבע הפך לאמצעי תשלום עיקרי של האיראנים למימון שלוחיו",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/08/B111fPe7Ayl/B111fPe7Ayl_0_312_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "טייסי הקרב שבלעדיהם חיל האוויר לא היה יכול לתקוף באיראן",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-4291319c408e0a1027.htm",
+      "pubDate": "2026-09-28T12:52:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הנוכלים: הנוכלת עם פני המלאך",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-0ae92ca33f7e0a1026.htm",
+      "pubDate": "2026-09-28T12:19:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"הוא היה מקושר\": הקשר המפתיע של ראש ארגון הפשע מישראל בטורקיה",
+      "link": "https://www.mako.co.il/men-men_news/Article-c10e8e96cc7e0a1027.htm",
+      "pubDate": "2026-09-28T11:39:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "החברות מהאולפנה שעשו אקזיט: \"זה היה החלום שלנו מגיל 20\"",
+      "link": "https://www.ynet.co.il/economy/article/yokra14905618",
+      "pubDate": "2026-09-28T21:00:00.000Z",
+      "summary": "עדי כהן ואריאלה אביטן התחילו לתפור בגדים במכונת תפירה ביתית כשעוד היו תלמידות אולפנה: כשהבינו שהתחביב הופך לעסק, עברו לייצר במתפרות ביו\"ש ומשם הדרך לייצור בסין הייתה קצרה. כך נולד \"שדה בר\" - מותג אופנה לנשים דתיות עם אתר מצליח וחמש חנויות. עכשיו, לאחר שקבוצת פוקס רכשה את השליטה בעסקה של מיליוני שקלים, הן חוזרות אל החצאית שממנה הכול התחיל, ואומרות: \"ניכנס לקניונים ונפתח סניפים גם בחו\"ל\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/yk14910224/yk14910224_116_118_1264_712_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "\"האבסורד: מתכננים עוד ועוד דירות, עבור מי שלא יכול לקנות\"",
+      "link": "https://www.ynet.co.il/economy/article/yokra14910139",
+      "pubDate": "2026-09-28T21:00:00.000Z",
+      "summary": "שרגא בירן, מוותיקי עורכי הדין בתחום המקרקעין, מציג תוכנית מהפכנית לפתרון בעיית הדיור: \"חייבים רפורמה בתחום\". הוא מציע: להפסיק לספסר בקרקעות - לקבוע כמה רוכשי הדירות מסוגלים לשלם, ומזה להפחית את עלויות הבנייה, כך שההפרש יהיה שווי הקרקע. \"זו פצצת זמן, חייבים להתעורר עכשיו\". שיחת היום",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/yk14912031/yk14912031_0_0_874_493_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "נועה ארגמני בריאיון: \"לא אתן לאבל להפוך לזהות שלי\"",
+      "link": "https://www.mako.co.il/finances-news/Article-baeabe8fa57e0a1027.htm",
+      "pubDate": "2026-09-28T09:34:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "גם בלי משכורת - משלמים 266 שקל בחודש לביטוח לאומי",
+      "link": "https://www.mako.co.il/news-money/calculators/Article-e6448c6e107e0a1027.htm",
+      "pubDate": "2026-09-28T09:13:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "-35 אלף שקל תלויים במשפט אחד במכתב",
+      "link": "https://www.mako.co.il/news-money/calculators/Article-e6b7f6e44f6e0a1027.htm",
+      "pubDate": "2026-09-28T09:13:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "כך תוכלו להגן על ההשקעות שלכם: המדריך המלא לניהול סיכונים בשוק ההון!",
+      "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/3fcy5x92o",
+      "pubDate": "2026-09-28T08:29:37.000Z",
+      "summary": "אף משקיע לא יכול למנוע ירידות בשוק, אבל אפשר להיערך אליהן. פיזור נכון, הקצאת נכסים, ניהול גודל הפוזיציה, שימוש זהיר בפקודות ובאופציות והימנעות ממינוף מופרז עשויים לצמצם את הפגיעה בתקופות של תנודתיות. ההגנה על תיק השקעות אינה ניסיון לנחש מתי תגיע הירידה הבאה - אלא לבנות מראש תיק שיוכל להתמודד גם עם תרחישים פחות נוחים.",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/BkfGmsD9fl/BkfGmsD9fl_0_0_2000_1126_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "אימפריה בהתהוות: הצצה למועדון הצרכנות של עובדי ההייטק",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-76848c6e107e0a1027.htm",
+      "pubDate": "2026-09-28T08:08:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "ל-4,500 משפחות בעיירה הזאת הציעו 45 מיליון דולר - אבל הן כנראה יסרבו",
+      "link": "https://www.ynet.co.il/economy/article/rjjpafw9mx",
+      "pubDate": "2026-09-28T07:12:24.000Z",
+      "summary": "חברת נורת'פוינט הציעה 10,000 דולר לכל אחד מ-4,500 משקי הבית בעיירה הייזל שבפנסילבניה, בתמורה לאישור להקמת מרכז נתונים, אך רוב התושבים אינם ממהרים לקבל את ההצעה, וחלקם רואים בה ניסיון שוחד, בין השאר בשל רעש, סלידה מהבינה המלאכותית וחוסר אמון במפתחים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/r1lg11qPcfx/r1lg11qPcfx_0_43_1536_865_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "עוד לפני הנסיעה הראשונה: מה קרה למחירי הדירות על תוואי הרכבת הקלה בירושלים?",
+      "link": "https://www.ynet.co.il/economy/article/h1s23dv5fe",
+      "pubDate": "2026-09-28T05:44:17.000Z",
+      "summary": "בדיקה מיוחדת, שנערכה עבור ynet לגבי 48 עסקאות נדל\"ן בשש שכונות מרכזיות בבירה, מצאה פער של עד 13.5% במחירי הדירות המוקמות על התוואי של המקטע הראשון של הקו הירוק - גם בשכונות שבהן המסילה טרם נבנתה. מה ההסבר?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2018/10/16/8825414/8825414_0_0_1000_668_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "Marketers, You Have 9 Minutes to Earn Attention",
+      "link": "https://www.adweek.com/convergent-tv/marketers-you-have-9-minutes-to-earn-attention/",
+      "pubDate": "2026-09-28T14:13:27.000Z",
+      "summary": "This post was created in partnership with Viant As TV and streaming audiences become increasingly fragmented, understanding what happens between an ad being served and a viewer paying attention is [&hellip;]",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+      "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+      "pubDate": "2026-09-28T22:58:35.000Z",
+      "summary": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "New device captures carbon dioxide by pumping it across a battery",
+      "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+      "pubDate": "2026-09-28T20:31:06.000Z",
+      "summary": "Equipment to capture carbon dioxide from ambient air or smokestacks generally works through a sort of reversible filter. Air is passed through granules or a liquid that absorbs the CO 2 , then that CO 2 -loaded substance undergoes a process (usually heating) that causes it to let go of all that CO 2 . The resulting gas can be collected in a separated stream. It’s also possible to do a similar sort of operation on a smaller scale—like inside a battery. A new study from a team led by James Buchen ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1695996169-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "To keep drug prices high, pharma has been piling up the patents",
+      "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
+      "pubDate": "2026-09-28T19:53:37.000Z",
+      "summary": "The cost of healthcare in general is a debilitating, pre-existing condition for Americans. But the high prices of prescription drugs usually stand out as a pain point. While there are many insidious reasons why Americans pay more—often far more—for their medicines than people in peer countries, exploitation of the US patent system is an obvious one. A study published Monday in JAMA highlights just how much patent exploitation has grown since 1990. In that time, researchers found that the number ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prescription-thicket-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "pubDate": "2026-09-28T18:30:00.000Z",
+      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers from all over the world warned they'd been getting emails \"begging for money\" - which she hadn'",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "IAM for AI agents: A Practical Enterprise Framework",
+      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+      "pubDate": "2026-09-28T18:20:38.000Z",
+      "summary": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the components that matter, how to evaluate framework choices, and what runtime evidence proves an agent behaved as intended.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5iI5XAgqXDB1IvqmdWgs2QFGVb5cAbMuJgwtgpKwvRtamF2xs9Od5F4Xwv7JhH8HC0yDOUx1ErLjZaeOBSu8mkCR3ewFb3x3VTV-IFbfXwUR2Pzoqf6_JKFq9de2wf1enmkMSK8M5QU2FBGovMkMkhLzI2qV90LuQYTgdMW-ymc5zxrv_yieHXBUr4Ck/s1600/OR.jpg",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Scientists solve 1840s space weather mystery",
+      "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+      "pubDate": "2026-09-28T17:56:36.000Z",
+      "summary": "The infamous Carrington Event of 1859 has long been considered the first extreme space weather event, but there have been reports of minor disturbances to telegraph equipment during geomagnetic storms since the late 1840s. In 2013, scholars discovered an anonymous report published in 1871 in Nature describing how a \"very intense magnetic disturbance\" disrupted rail travel in Exeter on the southern coast of England in October 1841. If accurate, this would be the earliest such account. However, ac",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/spaceweather-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "pubDate": "2026-09-28T15:00:00.000Z",
+      "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+      "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+      "pubDate": "2026-09-28T14:00:10.000Z",
+      "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "דו\"ח: כך תמשיך ה-AI להניע את העולם הטכנולוגי",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/458795/",
+      "pubDate": "2026-09-28T09:17:18.000Z",
+      "summary": "המהפכה הטכנולוגית כבר אינה מתרחשת בתחום אחד בלבד. ה-AI משמשת כמאיץ למגוון רחב של טכנולוגיות, והמפגש ביניהן צפוי להיות אחד ממנועי החדשנות המרכזיים של השנים הקרובות – זהו המסר המרכזי שעולה מדו\"ח חדש של חברת המחקר מקינזי (McKinsey) שפורסם השבוע. הדו\"ח סוקר שורה של מגמות, שלדעת חוקרי מקינזי ישפיעו וישנו את עולם העסקים וגם את החברה כולה. עיקר השינוי בא לידי ביטוי בכך שהחדשנות הטכנולוגית עוברת יותר ויותר אל העולם הפיזי – אל רשתות החשמל, מרכזי הנתונים, השבבים, הרובוטים, המעבדות המדעיות והחלל. AI can ch",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/09/מושכת-את-העולם-קדימה.-ה-AI.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "היעד לשנים הבאות: מאומת הסטארט-אפ לאומת ה-R&D",
+      "link": "https://www.pc.co.il/editorial/458786/",
+      "pubDate": "2026-09-28T08:15:59.000Z",
+      "summary": "מדינת ישראל מתמודדת בשנים האחרונות עם לחימה רציפה ומורכבת בשבע גזרות שעדיין פתוחות, ושהעמידו למבחן יומי את החוסן הלאומי. אולם, דווקא בתוך סערת המלחמה, ענף ההיי-טק והטכנולוגיה הישראלי המשיך להיות הקטר שמוביל את ייצוא המשק. בשנתיים האחרונות היינו עדים לעסקאות ענק בסייבר ובטכנולוגיה: בראש הרשימה ניצבת עסקת וויז (Wiz), שנרכשה על ידי גוגל (Google) בכ-32 מיליארד דולר – העסקה הגדולה בתולדות ההיי-טק הישראלי. לצידה בלטה סייברארק (CyberArk), שנרכשה על ידי פאלו אלטו (Palo Alto Networks) ב-25 מיליארד דולר. ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2025/09/image015-copy.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
     }
   ]
 }
