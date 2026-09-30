@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T03:24:16.729Z",
+  "generatedAt": "2026-09-30T03:25:00.330Z",
   "note": "תור מצטבר לשער ירחון — נצרך ומתאפס על ידי scripts/edit-monthly.js.",
   "items": [
     {
@@ -788,6 +788,331 @@
       "pubDate": "2026-09-28T08:15:59.000Z",
       "summary": "מדינת ישראל מתמודדת בשנים האחרונות עם לחימה רציפה ומורכבת בשבע גזרות שעדיין פתוחות, ושהעמידו למבחן יומי את החוסן הלאומי. אולם, דווקא בתוך סערת המלחמה, ענף ההיי-טק והטכנולוגיה הישראלי המשיך להיות הקטר שמוביל את ייצוא המשק. בשנתיים האחרונות היינו עדים לעסקאות ענק בסייבר ובטכנולוגיה: בראש הרשימה ניצבת עסקת וויז (Wiz), שנרכשה על ידי גוגל (Google) בכ-32 מיליארד דולר – העסקה הגדולה בתולדות ההיי-טק הישראלי. לצידה בלטה סייברארק (CyberArk), שנרכשה על ידי פאלו אלטו (Palo Alto Networks) ב-25 מיליארד דולר. ",
       "image": "https://www.pc.co.il/wp-content/uploads/2025/09/image015-copy.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"עולה על כל דמיון\": לאלמוג שנרצח בשבי נולד אח מביצית שהוקפאה לפני 25 שנה",
+      "link": "https://www.ynet.co.il/news/article/rknrlnkqfx",
+      "pubDate": "2026-09-30T00:53:09.000Z",
+      "summary": "נירה ויגאל, הוריו של אלמוג סרוסי שנרצח לצד 5 חטופים במנהרת חמאס, שכחו מהביציות שהקפיאו לפני יותר משני עשורים. החיים המשיכו, עד לרגע שטלטל את עולמם עם חטיפתו של אלמוג מהנובה ורציחתו האכזרית בשבי שנה אחרי. בתוך הכאב המשפחה יצאה למסע לא ייאמן: \"קשר דם בין אחים שלא ייפגשו לעולם\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/r1tRjnFcGx/r1tRjnFcGx_0_436_589_332_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הוי ארצי מולדתי",
+      "link": "https://www.ynet.co.il/news/article/yokra14912785",
+      "pubDate": "2026-09-29T21:04:00.000Z",
+      "summary": "שלוש שנים למלחמה ההיא. דברים לא קרו פה כי רצינו או כי ביקשנו. אויב צמא דם שינה את מסלול חיינו ואת מי שהיינו. העולם מזמן שם לב שהשתננו. ומה איתנו?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/09/SkWTU5jHfWg/SkWTU5jHfWg_0_0_3000_1687_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ניצן 7 באוקטובר",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-00dc7d4e4c8e0a1027.htm",
+      "pubDate": "2026-09-29T15:48:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "האיש שמנסה להעמיד את המלך צ'ארלס למשפט על \"רצח עם\"",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-a8e74084b9de0a1027.htm",
+      "pubDate": "2026-09-29T14:59:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "שיער ארנבות ודולפינים: הרשימה המוזרה של טראמפ ושי",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-203c4084b9de0a1027.htm",
+      "pubDate": "2026-09-29T14:43:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"זה גזר דין מוות לרוכב\": הסכנה לרוכבי האופנוע בנתיב המהיר באיילון",
+      "link": "https://www.mako.co.il/news-israel/2026_q3/Article-e99a3c0de5ae0a1026.htm",
+      "pubDate": "2026-09-29T04:49:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מיליון כוכבים ב-200 שקל או אוהל מפנק ב-1,000",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-30f68b71b7de0a1027.htm",
+      "pubDate": "2026-09-29T14:43:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הפרצה של עשירי אמריקה עומדת להיסגר",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-95baa61e76de0a1027.htm",
+      "pubDate": "2026-09-29T14:40:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "דיסני, יפן או ספארי: כמה יעלה לכם להגשים את חלום בר המצווה?",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-41e6d85dc8de0a1027.htm",
+      "pubDate": "2026-09-29T14:38:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "התחדשות עירונית: הפריפריה ממשיכה לדשדש",
+      "link": "https://www.ynet.co.il/economy/article/bkdylmy5fx",
+      "pubDate": "2026-09-29T10:34:02.000Z",
+      "summary": "ניתוח נתוני התחלות בנייה בהתחדשות עירונית של הלמ\"ס מראה שוב שהפריפריה נותרת מאחור. בעוד בתל אביב, פתח תקווה, בת ים, ירושלים ונתניה הנתונים בעלייה - באופקים, נתיבות וטבריה יש בנייה חדשה אבל ללא התחדשות עירונית",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/20/rkV30CiPyx/rkV30CiPyx_0_965_2251_1267_90_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "התחרות על מחירי הלגו גוברת: איפה אפשר לקנות הכי בזול?",
+      "link": "https://www.mako.co.il/news-money/consumer/Article-4d0bde6d06ce0a1026.htm",
+      "pubDate": "2026-09-29T08:57:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "ירון לונדון מודה בטעות: \"היה לי נוח שהמשפחה לא ידעה\"",
+      "link": "https://www.ice.co.il/media/news/article/1131659",
+      "pubDate": "2026-09-30T01:37:47.000Z",
+      "summary": "מגיש הטלוויזיה הוותיק חוזר בריאיון חשוף אל הסוד המשפחתי המורכב שהסתיר במשך שנים ארוכות, מודה במחיר הכבד ששילמו יקיריו ומספר על השינוי המפתיע שעבר בנו בעקבות המחלה הקשה",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_145/rsz_615_346_london615_310815.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Horizon’s Bob Lord Takes Aim at Holdcos’ FTE Pricing Models: ‘It’s the Old System’",
+      "link": "https://www.adweek.com/agencies/horizons-bob-lord-takes-aim-at-holdcos-fte-pricing-models-its-the-old-system/",
+      "pubDate": "2026-09-29T17:02:29.000Z",
+      "summary": "Horizon Media's CEO is challenging legacy FTE-based agency pricing, arguing that value-based compensation is the model of the future.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Marketing Has a Goldfish Memory",
+      "link": "https://www.adweek.com/brand-marketing/marketing-has-a-goldfish-memory/",
+      "pubDate": "2026-09-29T15:32:29.000Z",
+      "summary": "At Brandweek’s Marketing Vanguard Stage, Little Spoon CMO Caryn Wasser joined ADWEEK chief brand and community officer Jenny Rooney for a fireside chat on why marketing teams keep overcomplicating their [&hellip;]",
+      "image": "https://static-www.adweek.com/wp-content/uploads/2026/09/JR509086_websize.jpg?w=1024",
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Kids2’s Rochelle Wainer on Consumer Insights and the Next Generation of Parents",
+      "link": "https://www.adweek.com/commerce/kids2s-rochelle-wainer-on-consumer-insights-and-the-next-generation-of-parents/",
+      "pubDate": "2026-09-29T14:53:03.000Z",
+      "summary": "Bridging the gap between digital behaviors and social signals to real-world shopping experiences.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "From Heritage to Happy Hour: How Campari Keeps Iconic Brands Moving With Culture",
+      "link": "https://www.adweek.com/brand-marketing/from-heritage-to-happy-hour-how-campari-keeps-iconic-brands-moving-with-culture/",
+      "pubDate": "2026-09-29T14:51:51.000Z",
+      "summary": "Marketing lead Allison Varone on the forces shaping the next era of lifestyle brand building.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Why CMOs Get Fired Fast ft. Jessica Apotheker of BCG",
+      "link": "https://www.adweek.com/brand-marketing/why-cmos-get-fired-fast-ft-jessica-apotheker-of-bcg/",
+      "pubDate": "2026-09-29T14:49:34.000Z",
+      "summary": "Orchestration, art, and science: How great marketing actually works.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "העובד שאף אחד לא ראיין: איך לזהות שסוכן ה-AI יוצא משליטה?",
+      "link": "https://www.mako.co.il/nexter-news/Article-9717350e27de0a1026.htm",
+      "pubDate": "2026-09-30T03:00:00.000Z",
+      "summary": "במשך שנים \"איום פנימי\" היה עובד עם תג ומניע, אך כעת סוכני בינה מלאכותית פועלים בהרשאות העובדים ובמהירות מכונה. דוח חדש של חברת Above Security ממפה 166 דרכים שבהן סוכן AI מסכן ארגונים, ומציג את סימני האזהרה ודרכי ההתמודדות. במקביל, מנכ\"ל Rig Security גיא קוזלינר מזהיר בשיחה עם mako: \"הבדיקה שמי שמתחבר הוא באמת העובד כבר לא מספיקה\"",
+      "image": "https://img.mako.co.il/2026/09/29/AutoCms_CB2DE03CF_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+      "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+      "pubDate": "2026-09-29T22:18:35.000Z",
+      "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+      "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+      "pubDate": "2026-09-29T15:00:00.000Z",
+      "summary": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "This study looks at how and with whom connected cars share your data",
+      "link": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
+      "pubDate": "2026-09-29T14:49:44.000Z",
+      "summary": "In news that should surprise very few, connected cars remain a complete privacy nightmare. But now we have a better idea of what data those cars are giving away, and to whom, thanks to a study conducted by a team of researchers at Northeastern University and Consumer Reports . Testing 21 cars from 19 different brands revealed patterns of traffic to advertisers and trackers, as well as data shared with Big Tech firms like Microsoft and Adobe. And using a car’s companion app can multiply the probl",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2212041468-1-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "pubDate": "2026-09-29T14:01:11.000Z",
+      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"מעבר מסיוע של AI לביצוע בפועל: כך ארגונים יכולים לייצר ערך מדיד\"",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/458838/",
+      "pubDate": "2026-09-29T12:01:35.000Z",
+      "summary": "\"כל ארגון בוחן כיום את תחום הבינה המלאכותית ושואל את אותה שאלה: כיצד נוכל להשתמש בה כדי לייצר ערך מדיד לעסק שלנו?\", כך אמר מייק סיציליה , מנכ\"ל אורקל (Oracle). סיציליה דיבר ברקע הרחבת פלטפורמת Fusion Agentic Applications של החברה, עם השקת Fusion Claw. זוהי, לדבריו, \"סביבת הרצה חדשה, מוקפדת ומבוקרת, המאפשרת להשלים באופן אוטונומי יותר משימות מורכבות במיוחד ובהיקפים גדולים\". הוא ציין כי \"הפלטפורמה מסייעת לתת מענה לשאלה בדבר מדידת הערכים העסקיים מ-AI, באמצעות מעבר מסיוע של AI לביצוע בפועל. היא מאפשר",
+      "image": "https://www.pc.co.il/wp-content/uploads/2025/10/IMG-20251014-WA0160.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "הסרטונים של הישראלי בן ה-24 מתפוצצים בעיראק: \"יש צמא לשמוע מה קורה עם היהודים\"",
+      "link": "https://www.mako.co.il/nexter-news/Article-e3e31e13f2ce0a1027.htm",
+      "pubDate": "2026-09-29T10:19:00.000Z",
+      "summary": "אחרי 7 באוקטובר גיא שוובל שאול החליט ללמוד ערבית, ובהמשך התאהב בשפה הנכחדת של סבו - ערבית-יהודית עיראקית. הסרטונים שהוא מעלה בחודשים האחרונים, שבהם הוא מדבר ערבית ומשתף את בני משפחתו, גורפים מאות אלפי צפיות בממוצע, רובן המוחלט מעיראק. \"רוב התגובות שאני מקבל חיוביות ויפות\", הוא מספר ל-mako, \"הם כותבים לי: 'אתם הצבע שאיבדנו בעיראק'\"",
+      "image": "https://img.mako.co.il/2026/09/29/AutoCms_8EE92202A_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "שוברי המכונות של 2026: למה הקרב נגד הקידמה אבוד?",
+      "link": "https://www.pc.co.il/editorial/458828/",
+      "pubDate": "2026-09-29T08:05:32.000Z",
+      "summary": "ב-11 במרץ 1811, בכפר ארנולד שליד נוטינגהם שבאנגליה, פרצה קבוצת פועלים למפעל גרביים וניפצה מכונות סריגה חדשה שאיימה על פרנסת חבריה. תוך שלושה שבועות נהרסו למעלה מ-200 מכונות באזור על ידי הלודיטים: פועלים שמחו באנגליה נגד השינויים שהביאה המהפכה התעשייתית, בין היתר באמצעות הריסת מכונות. הלודיטים האמינו שהשמדת המכונות תציל את הפרנסה. הם הפסידו, כי קשה מאוד לעצור טכנולוגיה וקידמה. מאז ועד היום נכנסו לחיינו עוד טכנולוגיות רבות, שקורצות למעסיקים, אך מאיימות שוב ושוב על העובדים. ה-AI מהווה בשנים האחרונו",
+      "image": "https://www.pc.co.il/wp-content/uploads/2022/08/יוסי-חיימוב-ליהי-קטן-נאור.jpg",
       "source": "אנשים ומחשבים",
       "sourceUrl": "https://www.pc.co.il",
       "columns": [
