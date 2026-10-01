@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T03:25:00.329Z",
+  "generatedAt": "2026-10-01T03:24:26.965Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -1327,6 +1327,591 @@
         4
       ],
       "column": 4
+    },
+    {
+      "title": "פיגוע נגד היהלום שבכתר הנורמליזציה",
+      "link": "https://www.ynet.co.il/news/article/r1vwrxi9fx",
+      "pubDate": "2026-10-01T02:49:00.000Z",
+      "summary": "FLY DUBAI, שמפעילה את אחד מקווי הטיסה העמוסים ביותר מישראל ואליה, עשר טיסות ביום, מייצגת את האלטרנטיבה. מדינת ישראל ומדינה ערבית, ביחסים שלפני שנים לא רבות היינו יכולים רק לחלום עליהם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/BkGNWzn99Gx/BkGNWzn99Gx_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הסנאט זוכר ומכבד, נבחרי הכנסת רבים עם משפחות נפגעי 7/10",
+      "link": "https://www.ynet.co.il/news/article/rks9isq9ge",
+      "pubDate": "2026-10-01T02:27:00.000Z",
+      "summary": "בזמן שדמוקרטים ורפובליקנים מתאחדים סביב הנרצחים האמריקאים של 7 באוקטובר, בישראל מועמדי מפלגות הקואליציה עסוקים בתקיפת משפחות החטופים לשעבר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/HyZnSK9pDzx/HyZnSK9pDzx_1_128_678_382_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "התרחיש שבו מטוס פליי דובאי היה מופל, ויחידות העילית שעלו על הפרק",
+      "link": "https://www.ynet.co.il/news/article/skgo6tq5zx",
+      "pubDate": "2026-09-30T22:19:19.000Z",
+      "summary": "שעות לפני שנוסעי טיסת פליי דובאי פצחו בשירה בנתב\"ג, בישראל נערכו לשורת תרחישי אסון - מהתרסקות בשטח הארץ או במדינה שכנה, דרך צורך להפיל את המטוס כדי למנוע \"אסון תאומים\", ועד לחטיפתו לצורכי מיקוח. הסיבה להקפצת מטוסי הקרב, האפשרות שיחידת העילית תופעל - וההיערכות לאירוע מתגלגל",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/H140036jcczl/H140036jcczl_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "כל אחד מהם תרם משהו. ביחד הם הצילו 174 נוסעים מאסון",
+      "link": "https://www.ynet.co.il/news/article/rjdgga5czg",
+      "pubDate": "2026-09-30T22:14:19.000Z",
+      "summary": "4 גיבורים ישראלים וטייס הודי אחד הצליחו להציל טיסה שלמה מדובאי לנתב\"ג. אסף רג'ואן חזר מתאילנד ישר לסרט בלהות - וסייע להשתלט על המחבל: \"החיים חזקים מהכול, ורצינו להילחם עליהם\". יניב חיון הצליח לייצב את המטוס כשהעומאני תכנן לנטרל את המכשירים. צביקה עזר לקשור את המפגע עם אוזניות, ושוטה הציל את חיי הטייס שנדקר - שבתושייה ענקית, הותיר פתח לקוקפיט",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/HJoSBAc9Mx/HJoSBAc9Mx_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "פירומנים קיימים גם בימין וגם בשמאל",
+      "link": "https://www.ynet.co.il/news/article/yokra14914296",
+      "pubDate": "2026-09-30T21:03:00.000Z",
+      "summary": "תאוריות הקונספירציה של צד אחד בעניין בגידה ב-7 באוקטובר, כמו גם הצגת ראש הממשלה על ידי הצד השני כ\"איום קיומי\", מרעילים את השיח וזורעים שנאה וחשדנות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/S1er3edfcGx/S1er3edfcGx_0_0_3000_1686_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "כולם יכלו להיות עכשיו תחת סוכה אחת של שלום",
+      "link": "https://www.ynet.co.il/news/article/yokra14914740",
+      "pubDate": "2026-09-30T21:03:00.000Z",
+      "summary": "כשם שלא ניצל את הימים הנוראים לבקשת סליחה ממשפחות נרצחי 7 באוקטובר, נתניהו נותר באדישותו גם מול חגי תשרי שהפכו לימי בין המצרים החדשים, במקום להכניס אותנו תחת סוכה מאחדת של שלום",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/Byrq02tFGl/Byrq02tFGl_0_255_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "כולם אחראים למחדל",
+      "link": "https://www.ynet.co.il/news/article/yokra14914289",
+      "pubDate": "2026-09-30T21:03:00.000Z",
+      "summary": "בין אם נתניהו קיבל אזהרה כללית, ובין אם לא – האחריות להיעדר ההיערכות ל-7 באוקטובר היא עליו",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/BkLG21mcfx/BkLG21mcfx_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "איך טייס עומאני ממריא לישראל - ומי ייתן תשובות? | השאלות הקשות",
+      "link": "https://www.ynet.co.il/news/article/hkd8po5cze",
+      "pubDate": "2026-09-30T20:02:23.000Z",
+      "summary": "אחרי נחיתת טיסת החילוץ בישראל, נסיבות האירוע - שרק במזל לא נגמר באסון - עוד צריכות להתבהר. החל מהמאבק בתא הטייס, דרך המניעים של החשוד ואילו מדינות יחקרו את המחדל - והאם ישראל תצטרף אליהן",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/BJNw7n95fe/BJNw7n95fe_10_0_583_328_0_medium.gif",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "כשישראל ניסתה למתוח את הגבול - והסעודים נעמדו על הרגליים האחוריות",
+      "link": "https://www.ynet.co.il/news/article/hja0wa55fe",
+      "pubDate": "2026-09-30T18:41:33.000Z",
+      "summary": "הסעודים מילאו תפקיד חשוב בליווי מטוס פליי דובאי ובקליטתו בשדה התעופה. על פי הנוסעים, הם זכו לטיפול רפואי ואוכל. מאחורי הקלעים, המוסד היה בקשר שוטף עם גורמים בריאד - אבל מתיחת הגבול הייתה בשאיפה להנחית מטוס של חיל האוויר לחילוץ הישראלים. המטרה: לא לצייר מצב של נורמליזציה בין הצדדים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/B1mGcpFqqzg/B1mGcpFqqzg_0_294_2837_1598_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "השכונה שנבנית מחדש - והוויכוח על תקציב השיקום בכפר עזה",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-51829a19912e0a1026.htm",
+      "pubDate": "2026-09-30T16:32:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מהפקודה החשאית עד הזנקת מטוסי הקרב: מה עושה צה\"ל בפיגוע בטיסה - ותרחיש הקיצון",
+      "link": "https://www.ynet.co.il/news/article/rywzwo5cme",
+      "pubDate": "2026-09-30T15:45:42.000Z",
+      "summary": "בעוד שבישראל ידעו רק מעט על הפיגוע בטיסה לדובאי, בצה\"ל היו ערוכים לאירוע חטיפה אפשרי - תרחיש שמתורגל באופן שוטף. מטוסי חיל האוויר שהוזנקו לליווי המטוס נועדו למנוע התרחבות של האירוע. אלו המענים של צה\"ל - והתנאים שבהם עשויים להחליט על הפלת המטוס",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/15/r1ltekOVqZl/r1ltekOVqZl_324_162_1393_784_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ההשתלטות על הדוקר: ה-DNA הישראלי שלא מכזיב",
+      "link": "https://www.ynet.co.il/news/article/s1c4viq5gg",
+      "pubDate": "2026-09-30T15:21:01.000Z",
+      "summary": "האירוע היום התרחש בעיצומו של פולמוס עקר וחסר תוחלת סביב השאלה: האם יידעו את נתניהו לפני המלחמה? משמאל משוכנעים: \"ברור שידע ולא נקף אצבע\". מימין זועקים: \"אם רק היו מעירים אותו, הכול היה נראה אחרת\". כך הכל קשור",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/ByUMsq5czl/ByUMsq5czl_0_161_368_208_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ניסיון טרור או אירוע נפשי? השאלות הפתוחות אחרי הדרמה במטוס מדובאי",
+      "link": "https://www.mako.co.il/news-military/2026_q3/Article-61021eba5c1f0a1026.htm",
+      "pubDate": "2026-09-30T15:08:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"הבנתי שיש פה סימן מאלוהים\": בר קופרשטיין מתחיל חיים חדשים",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-b3b37e98af3c0a1027.htm",
+      "pubDate": "2026-09-30T15:04:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "סיקור הבחירות בישראל בתקשורת הערבית",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-00e849263d2f0a1026.htm",
+      "pubDate": "2026-09-30T14:58:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הצוות, האבטחה והשאלות הפתוחות שיעמדו במרכז תחקיר הטיסה",
+      "link": "https://www.mako.co.il/news-columns/2026_q3/Article-dc4a7c7d8e1f0a1027.htm",
+      "pubDate": "2026-09-30T11:14:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הגיע הזמן של הרמטכ\"ל לעלות על מדי א'",
+      "link": "https://www.mako.co.il/news-columns/2026_q3/Article-abc54a847e9e0a1026.htm",
+      "pubDate": "2026-09-30T08:47:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "לראשונה אחרי מאתיים שנה: טנסי נערכת להוצאתה להורג של אישה",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-d68310a7dbee0a1026.htm",
+      "pubDate": "2026-09-30T07:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "עושים סדר באירוע החריג בטיסה מדובאי לישראל",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-68dcf7be501f0a1027.htm",
+      "pubDate": "2026-09-30T06:34:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הברית המפתיעה נגד אבו מאזן: חמאס עשוי לתמוך בדחלאן מבחוץ",
+      "link": "https://www.mako.co.il/news-world/2026_q3/Article-8be5f108a8fe0a1027.htm",
+      "pubDate": "2026-09-30T03:58:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "החברה מדובאי שהפכה לעורק האווירי של הישראלים",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-20c0866da42f0a1027.htm",
+      "pubDate": "2026-09-30T12:37:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "עשר טיסות ביום מדובאי לתל אביב: חברת התעופה שבמרכז התקרית",
+      "link": "https://www.mako.co.il/news-money/2026_q3/Article-55461a31aa1f0a1027.htm",
+      "pubDate": "2026-09-30T09:40:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "אל על ספגה ביקורת: האמת מאחורי מחיר טיסת החילוץ מבנגקוק נחשפת",
+      "link": "https://www.ice.co.il/tourism/news/article/1131797",
+      "pubDate": "2026-10-01T00:15:54.000Z",
+      "summary": "נוסעים ישראלים זעמו על דרישה לתשלום של 850 דולר לכיוון אחד בטיסה המיוחדת של החברה, אך גורמים בענף מסבירים את הפער בין הציפייה לעלות האמיתית",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_387/rsz_615_346_9ice23042023.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "האסטרטג הראשי של בנק מזרחי טפחות מזהיר: \"מזכיר רמות טרום-משבר\"",
+      "link": "https://www.ice.co.il/finance/news/article/1131764",
+      "pubDate": "2026-09-30T21:03:57.000Z",
+      "summary": "יוני פנינג מנתח את הנתונים המדאיגים שמגיעים מארה\"ב, צופה זינוק דרמטי באינפלציה כבר בחודש הבא ומסביר מדוע הצרכנים עומדים בפני קושי חסר תקדים שישפיע על השווקים",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_428/rsz_615_346_9ice12112023.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
+      "link": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
+      "pubDate": "2026-10-01T02:00:00.000Z",
+      "summary": "The X Fold 6 looks like foldables did three months ago. It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo's previous foldables, and most other foldables that launched before both Apple and Samsung pivoted to a shorter, wider form factor with the Z Fold 8 and iPhone Duo . The 6.51-inch cov",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+      "link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
+      "pubDate": "2026-09-30T20:45:00.000Z",
+      "summary": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film , but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it under a Creative Commons license as required. Seeing an easy PR win, Neon is cashing in by announcing it's making its own SCP movie. But unlike A24, it proactively reached out to the SCP Foundation Wiki team and has pledged to release it under the Creative Commons ShareAlike (CC ",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
+      "link": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
+      "pubDate": "2026-09-30T19:22:19.000Z",
+      "summary": "There was a call to boycott Disney last fall. The owner of the ABC network had taken Jimmy Kimmel Live! off the air over comments Kimmel made about responses to Charlie Kirk's murder, sending free speech proponents into a frenzy . Those free speech proponents include me, who, as a reporter, has clear stakes in protecting that right. Although I was on board with halting support for a company I felt had acted wrongfully, truly boycotting Disney proved harder than I expected. Disney's ubiquity Canc",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2236794248-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "DoorDash’s drone strategy started on the ground",
+      "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+      "pubDate": "2026-09-30T19:22:13.000Z",
+      "summary": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+      "link": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+      "pubDate": "2026-09-30T19:19:40.000Z",
+      "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "pubDate": "2026-09-30T19:00:57.000Z",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+      "pubDate": "2026-09-30T18:47:01.000Z",
+      "summary": "Amid escalating AI security incidents causing OpenAI to halt training and pause releases , Donald Trump continues to advocate for the AI industry to regulate itself as the best path to combat emerging risks when developing frontier AI. In an agreement Tuesday, two dozen tech firms voluntarily committed to implementing controls recommended by the White House, including undergoing independent safety audits that will test whether firms’ internal controls, monitoring, and detecting are actually work",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The AI Tamagotchis are coming",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "pubDate": "2026-09-30T18:07:38.000Z",
+      "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is hard\" is a tech industry mantra. Dedicated AI devices like the Friend and Huma",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "pubDate": "2026-09-30T17:15:49.000Z",
+      "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \" Super Int",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Google's early attempt to pay websites for AI answers is struggling",
+      "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+      "pubDate": "2026-09-30T16:03:48.000Z",
+      "summary": "Google's shift to AI-powered search has upended the way the world's largest search engine generates web traffic, rankling large and small publishers alike. In recent months, the company has experimented with paying publishers when their content appears in AI answers, but a new report claims the payouts in this pilot program are miniscule. That has publishers in the program, as well as those watching from the sidelines, feeling skeptical. According to The Information , Google has admitted about 1",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Instinct’s new product recommendations are giving some users the ick",
+      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "pubDate": "2026-09-30T15:56:28.000Z",
+      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The PS5 hacking scene just took a big leap forward",
+      "link": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/",
+      "pubDate": "2026-09-30T15:12:46.000Z",
+      "summary": "For a few years now , the PS5 hacking community has been chipping away at various exploits that let users fully jailbreak their locked-down console. For the most part, though, those exploits have only worked with years-old versions of the PS5's frequently updated firmware , making them less than useful for many everyday users. That changed Tuesday with the release of the new Relapse exploit , which works with any PS5 up to firmware version 13.6 (released in July). That means jailbreaking is now ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2186493403-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "עידן הסוכנים והדחייה הדרמטית: כל החידושים מ-OpenAI DevDay",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/458902/",
+      "pubDate": "2026-09-30T13:51:24.000Z",
+      "summary": "אירוע המפתחים השנתי DevDay 2026 של חברת OpenAI – שהתקיים אתמול (ג') במתחם פורט מייסון שבסן פרנסיסקו – סימן תפנית תפישתית בעולם הבינה המלאכותית, כך על פי הדיווחים הרבים אודותיו. מנכ\"ל החברה, סם אלטמן , פתח את הכנס והבטיח כי מדובר ב-\"DevDay הטוב ביותר שלנו עד כה\". במרכז ההכרזות עמדה ההתפתחות מבוטים ומתן מענה על שאלות נקודתיות מצידם, לעבר מערכת של סוכנים אוטונומיים המבצעים משימות מתמשכות. גולת הכותרת של האירוע הייתה השקת סוכני Dots – עוזרים אישיים הרצים 24/7 על מחשבי ענן מאובטחים. סוכנים אלו, המבוס",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/07/open.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "בזמן שהמדינה הייתה במתח: ברשתות חגגו את דרמת הטיסה מדובאי",
+      "link": "https://www.mako.co.il/nexter-news/Article-e8525af7041f0a1026.htm",
+      "pubDate": "2026-09-30T07:46:00.000Z",
+      "summary": "אתרי החדשות דיווחו על סכנת חטיפה שהתחלפה בקטטה בין טייסים ועדיין לא ברור אם מדובר באירוע טרור - הגולשים ברשתות החברתיות לא חיכו לדעת מה בדיוק קרה וישר שחררו את הבדיחות הכי טובות שלהם. מ\"זאת טיסת השוקולד דובאי\" ועד ההמלצות לפנות מגדלים הדומים למגדלי התאומים",
+      "image": "https://img.mako.co.il/2026/09/30/F260524YA09_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "כחול לבן קהה: הכשל ההתקפי של נבחרת ישראל",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/hksir1oqzl",
+      "pubDate": "2026-09-30T22:30:00.000Z",
+      "summary": "ההגנה קורסת ומספקת נתונים של נמושות אירופיות, אך הבעיה העמוקה של הנבחרת טמונה דווקא בחלק הקדמי † ללא תבניות משחק, עם קישור שלא מייצר מספרים, היעדר היררכיה בחוד ועידן פוסט ערן זהבי שחשף מצג שווא - הנתונים מראים כי הכשל ההתקפי עמוק לא פחות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/Bku79rK5Mx/Bku79rK5Mx_0_312_3000_1688_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "קמפיין חוסר האונים",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/hy001egj5zg",
+      "pubDate": "2026-09-30T22:30:00.000Z",
+      "summary": "הג'וב של רב\"ש היה להוביל חילופי דורות. הוא ביקש זמן, אבל ככל שנקפו האכזבות זה לא קרה ובסיום כל קמפיין מצאנו את עצמנו בנקודת ההתחלה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/r1ao4H009zx/r1ao4H009zx_0_0_2598_1516_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "מפסידים ובוכים: התגובות הפתטיות להפסד של הנבחרת",
+      "link": "https://www.ynet.co.il/sport/article/s1g1myo9ge",
+      "pubDate": "2026-09-30T22:30:00.000Z",
+      "summary": "במקום כדורגל מדברים על גליצ'ים ובמקום לשחק עסוקים בהתנצלויות פתטיות. וגם: תעשו טלפון לדולגופיאט",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/HyUVqSY5Gg/HyUVqSY5Gg_0_217_3000_1688_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "לאציו פתחה נהדר את העונה - אז למה האוהדים מחרימים אותה?",
+      "link": "https://www.ynet.co.il/sport/article/byjtvffqme",
+      "pubDate": "2026-09-30T13:00:35.000Z",
+      "summary": "בצד אחד: אולטראס פאשיסטים. בצד השני: בעלים קומבינטור שמצפצף על האוהדים. התוצאה: חרם מינויים וטריבונות ריקות באולימפיקו. וכל זה קורה כשג'נארו גאטוסו מוביל את לאציו לפתיחה הכי מסחררת עליה יכל לחלום",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/BkfTStKcGx/BkfTStKcGx_581_0_2347_1322_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "נבחרת ישראל: כרוניקה של כישלון ללא אופק אופטימי | תוכן גולשים",
+      "link": "https://www.ynet.co.il/sport/article/hjeicsk5zg",
+      "pubDate": "2026-09-30T09:00:00.000Z",
+      "summary": "שני המשחקים הבאים הם לא הזדמנות לסליחה. הם המבחן של השאלה: האם בן שמעון מסוגל להשתנות. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/Skg119MlQ5zl/Skg119MlQ5zl_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "הפועל ת\"א שיחקה נהדר - עד שהגיע מיציץ' וכמעט הרס לה הכל | טור",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/ryuf1z55fx",
+      "pubDate": "2026-09-30T05:00:00.000Z",
+      "summary": "האדומים עשו הכל נכון, הניעו את הכדור בצורה נפלאה ושלטו במשחק החוץ מול הכוכב האדום בלגרד, אך הגארד הסרבי התעקש לזרוק שוב ושוב מעבר לקשת וכמעט חירב במו ידיו את המשחק. מזל שבסוף שתי שלשות כן נכנסו לו וזה הספיק לניצחון, אך דימיטריס איטודיס חייב להבהיר לכוכב שלו שהוא צריך להשתנות. וגם: השדרוג של הפועל ירושלים - והשינוי הנחוץ שיכול לקחת אותה הכי רחוק שאפשר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/BkWQkHFtcMg/BkWQkHFtcMg_0_258_853_481_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "לנבחרת דרוש מאמן זר | תוכן גולשים",
+      "link": "https://www.ynet.co.il/sport/article/rjgvnzdqfx",
+      "pubDate": "2026-09-30T04:00:00.000Z",
+      "summary": "אחרי שבוע של מחאות נגד ישראל, האוהדים חיכו לתשובה על הדשא. הם לא דרשו 0:4, רק נבחרת שתילחם. במקום זה הגיעו שלושה שערים איריים בתוך 12 דקות, ועוד ערב שמעלה שאלות על רן בן שמעון, על הזימונים ועל מי שמנהל את הכדורגל שלנו. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/SJMZ2kEYtGe/SJMZ2kEYtGe_0_159_3000_1660_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
     }
   ]
 }
