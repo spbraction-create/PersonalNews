@@ -1,5 +1,351 @@
 {
-  "generatedAt": "2026-09-28T00:00:00.000Z",
+  "generatedAt": "2026-10-01T03:24:28.650Z",
   "gate": "ירחון",
-  "columns": []
+  "columns": [
+    {
+      "column": 1,
+      "name": "חדשות / אקטואליה",
+      "items": [
+        {
+          "title": "\"ידענו עליו הכל\": מאחורי הקלעים של חיסול נסראללה",
+          "summary": "ממעקב של עשור, דרך מבצע הביפרים ועד ל-83 טון פצצות על הבונקר: בחלוף שנתיים, קציני המודיעין שהובילו את החיסול ששינה את המזרח התיכון חושפים פרטים חדשים: \"ידענו איפה הוא בכל דקה\". הלחץ לצאת לדרך מחשש שנסראללה יחליף מיקום, מה גרם לו ליפול לקונספציה השגויה - ומה היה הנז\"א",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/yk14910550/yk14910550_0_0_992_654_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/yokra14910458",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-27T21:00:00.000Z",
+          "why": "תחקיר עומק מודיעיני וצבאי החושף פרטים חדשים על אחד מאירועי המפתח המשמעותיים ביותר בעיצוב המזרח התיכון."
+        },
+        {
+          "title": "מטבע הקריפטו שבעזרתו איראן חומקת מהסנקציות ומחמשת את חיזבאללה | דיווח",
+          "summary": "\"וול סטריט ג'ורנל\": דוח שיוצג בסנאט יחשוף כיצד המשטר בטהרן מסתמך על מטבע הקריפטו היציב של \"טתר\" כדי להתחמק מהחרם הכלכלי של וושינגטון. מלבד עסקאות שונות, נטען כי המטבע הפך לאמצעי תשלום עיקרי של האיראנים למימון שלוחיו",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/08/B111fPe7Ayl/B111fPe7Ayl_0_312_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/bje4rgd9ml",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-28T14:57:33.000Z",
+          "why": "חשיפה כלכלית-ביטחונית בעלת משקל אסטרטגי בינלאומי, המנתחת את שיטות המימון החדשות של הציר האיראני."
+        },
+        {
+          "title": "אמרו כן לחוקה רזה",
+          "summary": "הכוונה של מפלגות האופוזיציה ליצור הסדר חוקתי לישראל היא נכונה - אך בלתי אפשרית בפילוג החברתי הקיים. הפתרון האפשרי הוא בהסכמה הנוגעת רק לשינוי היחסים בין רשויות השלטון ומערכת המשפט",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/SJH9SpUFGx/SJH9SpUFGx_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/yokra14910347",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-27T21:40:29.000Z",
+          "why": "דיון עומק חוקתי ופוליטי מהותי שמציע פתרון פרגמטי לסוגיית הליבה המפלגת את החברה הישראלית."
+        },
+        {
+          "title": "אידיאולוגיית החורבן",
+          "summary": "פעם אחרי פעם אנחנו נכשלים בהבנת האויב: הרס ומוות לא מרתיעים את איראן, לא את החות’ים, לא את חיזבאללה, ולא את חמאס. מצרים ואיחוד האמירויות הבינו והתריעו – אבל הקונספציה ניצחה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/SJfqge7qMl/SJfqge7qMl_0_0_3000_2000_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/yokra14912203",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-28T21:02:00.000Z",
+          "why": "ניתוח אסטרטגי מעמיק ובעל חשיבות ארוכת טווח, המאתגר את תפיסת הביטחון והקונספציה הישראלית מול אויביה."
+        },
+        {
+          "title": "3,000 טון אזהרה לאיראן וטורקיה: בתוך כלי המלחמה החדש של צה\"ל",
+          "summary": "אינספור מכונות ואמצעי מודיעין, מכשור מהמתקדמים בעולם, כלי נשק קטלניים ויכולת להגיח בשקט מתחת לאף של האויב - ולהיעלם מבלי שיבין מה קרה: אח\"י דרקון נמצאת בהכנות האחרונות לפני כניסתה למבצעיות, וכתב ynet זכה להצצה נדירה אל בטן הצוללת שתשפיע על המערכות הבאות של צה\"ל. המסע המורכב מגרמניה, הלוחמים שמתנתקים מהעולם בחוץ - והמסר לאיראן, טורקיה והחות'ים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/SyrIXQ8qGx/SyrIXQ8qGx_0_0_1280_721_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/b1e2wql9ze",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-27T17:02:44.000Z",
+          "why": "כתבת שטח נדירה ומפורטת על אחד מנכסי ההרתעה האסטרטגיים החשובים ביותר של צה\"ל לעשורים הבאים."
+        },
+        {
+          "title": "הפרופ' שהטריד את הדוקטורנטית שלו בעברית המשיך בקריירה. היא מתה",
+          "summary": "ערעור שנדחה בבית הדין של האוניברסיטה העברית גולל סיפור קשה ועצוב: דוקטורנטית צעירה שהוטרדה שוב ושוב, התלוננה - ועד ההרשעה נמצאה ללא רוח חיים. המתמטיקאי, פרופ' קארים אדיפרסיטו, מכהן כיום בתפקידים בכירים במוסדות אקדמיים בצרפת. העונש: שתי משכורות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/SkPR0T99zg/SkPR0T99zg_0_59_1001_563_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/ryxt5559ze",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-30T18:19:00.000Z",
+          "why": "תחקיר חברתי נוקב וחשוב שחושף כשלים מערכתיים חמורים והפקרת מתלוננות במוסדות להשכלה גבוהה."
+        },
+        {
+          "title": "\"עולה על כל דמיון\": לאלמוג שנרצח בשבי נולד אח מביצית שהוקפאה לפני 25 שנה",
+          "summary": "נירה ויגאל, הוריו של אלמוג סרוסי שנרצח לצד 5 חטופים במנהרת חמאס, שכחו מהביציות שהקפיאו לפני יותר משני עשורים. החיים המשיכו, עד לרגע שטלטל את עולמם עם חטיפתו של אלמוג מהנובה ורציחתו האכזרית בשבי שנה אחרי. בתוך הכאב המשפחה יצאה למסע לא ייאמן: \"קשר דם בין אחים שלא ייפגשו לעולם\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/r1tRjnFcGx/r1tRjnFcGx_0_436_589_332_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/rknrlnkqfx",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-30T00:53:09.000Z",
+          "why": "סיפור אנושי יוצא דופן ומעורר מחשבה, המחבר בין טראומת השבעה באוקטובר לבין סוגיות אתיות ורפואיות נדירות."
+        }
+      ]
+    },
+    {
+      "column": 2,
+      "name": "כלכלה / עסקים",
+      "items": [
+        {
+          "title": "האיש שיסדר לכם עבודה באנבידיה: מנהל משאבי האנוש מדבר",
+          "summary": "יש לו את אחת העבודות הכי טובות בארץ: גדעון רוזנברג, מנהל משאבי האנוש של אנבידיה בישראל, מספר בראיון ל\"ממון\" למה כולם חולמים להתקבל למשרה בחברה, מה כדאי להגיד בראיון העבודה, כמה פעמים בשבוע הם דורשים להגיע למשרד ואיך למרות הנבואות השחורות על הפיטורים בעידן ה-AI הוא דווקא נערך לקלוט אלפי עובדים חדשים • וגם: המאבק האישי שניהל להשבת אבינתן אור, עובד אנבידיה שנחטף לעזה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/23/SJeNWD119zl/SJeNWD119zl_0_0_1920_1080_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/yokra14905330",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-30T03:51:14.000Z",
+          "why": "הצצה אסטרטגית נדירה ממובילת מהפכת ה-AI על עתיד שוק העבודה והגיוסים בישראל."
+        },
+        {
+          "title": "ל-4,500 משפחות בעיירה הזאת הציעו 45 מיליון דולר - אבל הן כנראה יסרבו",
+          "summary": "חברת נורת'פוינט הציעה 10,000 דולר לכל אחד מ-4,500 משקי הבית בעיירה הייזל שבפנסילבניה, בתמורה לאישור להקמת מרכז נתונים, אך רוב התושבים אינם ממהרים לקבל את ההצעה, וחלקם רואים בה ניסיון שוחד, בין השאר בשל רעש, סלידה מהבינה המלאכותית וחוסר אמון במפתחים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/r1lg11qPcfx/r1lg11qPcfx_0_43_1536_865_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/rjjpafw9mx",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-28T07:12:24.000Z",
+          "why": "חושף את הכלכלה הפיזית והקונפליקטים החברתיים שמאחורי הקמת חוות השרתים לעידן הבינה המלאכותית."
+        },
+        {
+          "title": "\"האבסורד: מתכננים עוד ועוד דירות, עבור מי שלא יכול לקנות\"",
+          "summary": "שרגא בירן, מוותיקי עורכי הדין בתחום המקרקעין, מציג תוכנית מהפכנית לפתרון בעיית הדיור: \"חייבים רפורמה בתחום\". הוא מציע: להפסיק לספסר בקרקעות - לקבוע כמה רוכשי הדירות מסוגלים לשלם, ומזה להפחית את עלויות הבנייה, כך שההפרש יהיה שווי הקרקע. \"זו פצצת זמן, חייבים להתעורר עכשיו\". שיחת היום",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/yk14912031/yk14912031_0_0_874_493_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/yokra14910139",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-28T21:00:00.000Z",
+          "why": "ניתוח עומק של משבר הדיור בישראל עם מודל כלכלי חלופי לתמחור קרקעות מפי מומחה ותיק."
+        },
+        {
+          "title": "טכנולוגיה, פיננסים, אנרגיה ועוד: מהם 11 הסקטורים של וול סטריט - המדריך המלא לסקטורים בארה\"ב!",
+          "summary": "כשמדברים על וול סטריט, קל להתמקד במדדים הגדולים או במניות הבולטות. אבל מתחת לפני השטח השוק מחולק ל-11 סקטורים שונים, שכל אחד מהם מגיב אחרת לריבית, לאינפלציה, לצמיחה הכלכלית ולשינויים בהרגלי הצריכה. טכנולוגיה, פיננסים, בריאות, אנרגיה ונדל\"ן הם רק חלק מהתמונה. אז מה בעצם נחשב סקטור, למה החלוקה הזו חשובה למשקיעים, ואיך אפשר להשתמש בה כדי להבין טוב יותר מה באמת מניע את השוק?",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/ByXbKFIqzx/ByXbKFIqzx_208_0_1676_943_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/dndxt75s8",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-27T12:22:12.000Z",
+          "why": "מדריך מאקרו מקיף ומעמיק להבנת מבנה השוק האמריקאי והתנהגות ענפים שונים במחזורי ריבית ואינפלציה."
+        },
+        {
+          "title": "הסמל האיטלקי מתייבש: בתי הקפה נסגרים, והאספרסו עובר הביתה",
+          "summary": "האספרסו ברים מזוהים עם איטליה, אבל בשנים האחרונות נסגרו במדינה יותר מ-24 אלף בתי קפה, ירידה של 14%. ברומא הירידה חצתה את ה-30%. הסיבות: העבודה מרחוק, ההצלחה של מכונות הקפה הביתיות, עליית מחירי הקפוצ'ינו והצעירים שמעדיפים משקאות בריאות. כל אלה הופכים את האספרסו על הבר, מוסד לאומי שחצה מעמדות ודורות, לעסק לא משתלם. האיטלקים קוראים לזה מדבור: רחובות שמתרוקנים ממקומות מפגש",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/03/12/9843184/9843184_0_22_1300_732_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/hky3jmcqgg",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-30T07:03:47.000Z",
+          "why": "ניתוח מאקרו-עסקי מרתק על האופן שבו שינויי הרגלים, אינפלציה ועבודה מרחוק מפרקים מוסד כלכלי מסורתי."
+        },
+        {
+          "title": "החברות מהאולפנה שעשו אקזיט: \"זה היה החלום שלנו מגיל 20\"",
+          "summary": "עדי כהן ואריאלה אביטן התחילו לתפור בגדים במכונת תפירה ביתית כשעוד היו תלמידות אולפנה: כשהבינו שהתחביב הופך לעסק, עברו לייצר במתפרות ביו\"ש ומשם הדרך לייצור בסין הייתה קצרה. כך נולד \"שדה בר\" - מותג אופנה לנשים דתיות עם אתר מצליח וחמש חנויות. עכשיו, לאחר שקבוצת פוקס רכשה את השליטה בעסקה של מיליוני שקלים, הן חוזרות אל החצאית שממנה הכול התחיל, ואומרות: \"ניכנס לקניונים ונפתח סניפים גם בחו\"ל\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/yk14910224/yk14910224_116_118_1264_712_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/yokra14905618",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-28T21:00:00.000Z",
+          "why": "מקרה בוחן יזמי מרתק על בניית מותג נישתי, שרשרת אספקה בינלאומית ומימוש בעסקת רכישה גדולה."
+        },
+        {
+          "title": "עוד לפני הנסיעה הראשונה: מה קרה למחירי הדירות על תוואי הרכבת הקלה בירושלים?",
+          "summary": "בדיקה מיוחדת, שנערכה עבור ynet לגבי 48 עסקאות נדל\"ן בשש שכונות מרכזיות בבירה, מצאה פער של עד 13.5% במחירי הדירות המוקמות על התוואי של המקטע הראשון של הקו הירוק - גם בשכונות שבהן המסילה טרם נבנתה. מה ההסבר?",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2018/10/16/8825414/8825414_0_0_1000_668_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/h1s23dv5fe",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-28T05:44:17.000Z",
+          "why": "בדיקה מבוססת נתונים שמציגה את התמחור הכלכלי של תשתיות תחבורה עוד בטרם הפעלתן."
+        },
+        {
+          "title": "כך תוכלו להגן על ההשקעות שלכם: המדריך המלא לניהול סיכונים בשוק ההון!",
+          "summary": "אף משקיע לא יכול למנוע ירידות בשוק, אבל אפשר להיערך אליהן. פיזור נכון, הקצאת נכסים, ניהול גודל הפוזיציה, שימוש זהיר בפקודות ובאופציות והימנעות ממינוף מופרז עשויים לצמצם את הפגיעה בתקופות של תנודתיות. ההגנה על תיק השקעות אינה ניסיון לנחש מתי תגיע הירידה הבאה - אלא לבנות מראש תיק שיוכל להתמודד גם עם תרחישים פחות נוחים.",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/BkfGmsD9fl/BkfGmsD9fl_0_0_2000_1126_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/3fcy5x92o",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-28T08:29:37.000Z",
+          "why": "מדריך ירוק-עד בעל ערך פרקטי רב להגנה על הון וניהול סיכונים בשווקים תנודתיים."
+        }
+      ]
+    },
+    {
+      "column": 3,
+      "name": "שיווק / פרסום",
+      "items": [
+        {
+          "title": "The Trade Desk’s 10 Years on Wall Street: Booms, Busts, and the Battle for What’s Next",
+          "summary": "A decade after its blockbuster IPO, The Trade Desk has gone from adtech darling to embattled independent DSP, facing slowing growth, partner defections and a 91% stock slide as it bets its next chapter on AI.",
+          "image": null,
+          "link": "https://www.adweek.com/programmatic/the-trade-desks-10-years-on-wall-street-booms-busts-and-the-battle-for-whats-next/",
+          "source": "Adweek",
+          "pubDate": "2026-09-30T11:33:46.000Z",
+          "why": "ניתוח עומק מקיף ובעל חשיבות מאקרו על עשור ל-The Trade Desk, הממחיש את השינויים הטקטוניים באקוסיסטם של ה-AdTech, האתגרים העסקיים והמעבר ל-AI."
+        },
+        {
+          "title": "Why CMOs Get Fired Fast ft. Jessica Apotheker of BCG",
+          "summary": "Orchestration, art, and science: How great marketing actually works.",
+          "image": null,
+          "link": "https://www.adweek.com/brand-marketing/why-cmos-get-fired-fast-ft-jessica-apotheker-of-bcg/",
+          "source": "Adweek",
+          "pubDate": "2026-09-29T14:49:34.000Z",
+          "why": "סוגיה אסטרטגית מהמעלה הראשונה להנהגת השיווק, המשלבת ניתוח מעמיק של BCG על המתח בין מדע לאמנות וניהול נכון של תפקיד ה-CMO."
+        },
+        {
+          "title": "Horizon’s Bob Lord Takes Aim at Holdcos’ FTE Pricing Models: ‘It’s the Old System’",
+          "summary": "Horizon Media's CEO is challenging legacy FTE-based agency pricing, arguing that value-based compensation is the model of the future.",
+          "image": null,
+          "link": "https://www.adweek.com/agencies/horizons-bob-lord-takes-aim-at-holdcos-fte-pricing-models-its-the-old-system/",
+          "source": "Adweek",
+          "pubDate": "2026-09-29T17:02:29.000Z",
+          "why": "קריאת תיגר מהותית על מודל התמחור המסורתי של חברות האחזקה בענף הפרסום ומבט לעבר תמחור מבוסס ערך."
+        },
+        {
+          "title": "From Heritage to Happy Hour: How Campari Keeps Iconic Brands Moving With Culture",
+          "summary": "Marketing lead Allison Varone on the forces shaping the next era of lifestyle brand building.",
+          "image": null,
+          "link": "https://www.adweek.com/brand-marketing/from-heritage-to-happy-hour-how-campari-keeps-iconic-brands-moving-with-culture/",
+          "source": "Adweek",
+          "pubDate": "2026-09-29T14:51:51.000Z",
+          "why": "קייס סטאדי עשיר על בניית מותג ושימור רלוונטיות תרבותית לאורך זמן עבור מותגי מורשת אייקוניים."
+        },
+        {
+          "title": "Marketing Has a Goldfish Memory",
+          "summary": "At Brandweek’s Marketing Vanguard Stage, Little Spoon CMO Caryn Wasser joined ADWEEK chief brand and community officer Jenny Rooney for a fireside chat on why marketing teams keep overcomplicating their [&hellip;]",
+          "image": "https://static-www.adweek.com/wp-content/uploads/2026/09/JR509086_websize.jpg?w=1024",
+          "link": "https://www.adweek.com/brand-marketing/marketing-has-a-goldfish-memory/",
+          "source": "Adweek",
+          "pubDate": "2026-09-29T15:32:29.000Z",
+          "why": "תובנה ביקורתית ומפכחת על הנטייה של משווקים לסבך אסטרטגיות יתר על המידה ולשכוח עקרונות יסוד אפקטיביים."
+        },
+        {
+          "title": "Kids2’s Rochelle Wainer on Consumer Insights and the Next Generation of Parents",
+          "summary": "Bridging the gap between digital behaviors and social signals to real-world shopping experiences.",
+          "image": null,
+          "link": "https://www.adweek.com/commerce/kids2s-rochelle-wainer-on-consumer-insights-and-the-next-generation-of-parents/",
+          "source": "Adweek",
+          "pubDate": "2026-09-29T14:53:03.000Z",
+          "why": "מבט מעשי ומעמיק על חקר התנהגות צרכנים וגישור בין אותות דיגיטליים לרכש בעולם האמיתי מול דור הורים חדש."
+        }
+      ]
+    },
+    {
+      "column": 4,
+      "name": "טק / טכנולוגיה",
+      "items": [
+        {
+          "title": "אסף רפפורט חושף מה קרה במשא ומתן מול גוגל על רכישת Wiz",
+          "summary": "מתוך: פגישה עם רוני קובן. צילום מסך שנתיים בלבד חלפו מאז שנחשף לראשונה כי גוגל נמצאת במשא ומתן לרכישת Wiz. מאז, העסקה עברה רכבת הרים שהסתיימה בעסקת הרכישה הגדולה בהיסטוריה של ההייטק הישראלי. כעת, חושף לראשונה אסף רפפורט, מנכ\"ל ומייסד Wiz, את מה שאירע מאחורי הקלעים, וכיצד הגיב סונדר פיצ'אי, מנכ\"ל גוגל, כאשר סירב לרכישת ענק. \"הרגשתי טמבל בארבע ודקה\" רפפורט התראיין לתוכנית \"פגישה עם רוני קובן\" בכאן 11, ומלבד סיפורים על ילדותו, יחסיו עם אימו הקרובה ואביו המרוחק, הוא גם עסק לא מעט באותם ימים קריטיים ",
+          "image": null,
+          "link": "https://www.geektime.co.il/assaf-rappaport-2026-interview/",
+          "source": "גיקטיים",
+          "pubDate": "2026-09-27T10:18:39.000Z",
+          "why": "חשיפה בלעדית מאחורי הקלעים של עסקת הענק בין Wiz לגוגל, שמספקת הצצה נדירה למאבקי הכוח ולקבלת ההחלטות בצמרת עולם הטק והסייבר."
+        },
+        {
+          "title": "The ugly economics of consumer AI",
+          "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+          "source": "TechCrunch",
+          "pubDate": "2026-09-30T17:24:45.000Z",
+          "why": "ניתוח כלכלי-טכנולוגי עמוק ומפוכח של המודל העסקי השברירי של מוצרי AI לצרכני קצה, שמסביר מדוע המעבדות המובילות מאיטות קצב."
+        },
+        {
+          "title": "This study looks at how and with whom connected cars share your data",
+          "summary": "In news that should surprise very few, connected cars remain a complete privacy nightmare. But now we have a better idea of what data those cars are giving away, and to whom, thanks to a study conducted by a team of researchers at Northeastern University and Consumer Reports . Testing 21 cars from 19 different brands revealed patterns of traffic to advertisers and trackers, as well as data shared with Big Tech firms like Microsoft and Adobe. And using a car’s companion app can multiply the probl",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2212041468-1-1152x648.jpg",
+          "link": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
+          "source": "Ars Technica",
+          "pubDate": "2026-09-29T14:49:44.000Z",
+          "why": "מחקר תשתיתי מקיף של נורת'איסטרן ו-Consumer Reports שחושף עד כמה הרכב המודרני הפך לפלטפורמת מעקב וסיוט פרטיות."
+        },
+        {
+          "title": "כשל התמחור והגבייה אחראי לשחיקת הרווחיות ב-SaaS – לא ה-AI",
+          "summary": "שיחות המשקיעים של חברות התוכנה בעקבות הדו\"חות הכספיים האחרונים, העבירו גל הלם ברור ב וול סטריט : הרווחיות של מודל ה-SaaS המסורתי סופגת פגיעה קשה. מענקיות תוכנה בתחום האנטרפרייז ועד סטארט-אפים, חברות הטכנולוגיה מדווחות על האטה ניכרת בקצב צמיחת ה-ARR ושחיקה בשורת הרווח הגולמי. מהפכת הבינה המלאכותית והסוכנים האוטונומיים אכן משנה מן היסוד את מודל העבודה ואת תפישת הערך של הלקוחות. הגורם המרכזי שמוצג בחדרי הישיבות הללו הוא אפקט \"צמצום המושבים\", מכיוון שככל שכלי AI מבצעים אוטומציה לתהליכי עבודה, לקוחות",
+          "image": "https://www.pc.co.il/wp-content/uploads/2022/03/bigstock-Saas-Software-As-A-Service-C-435319010-1.jpg",
+          "link": "https://www.pc.co.il/editorial/458868/",
+          "source": "אנשים ומחשבים",
+          "pubDate": "2026-09-30T08:16:27.000Z",
+          "why": "מבט אנליטי מקורי המערער על הנחת היסוד הרווחת ומסביר מדוע שחיקת מודל ה-SaaS נובעת מכשלי מוניטיזציה ולא מאיום ה-AI עצמו."
+        },
+        {
+          "title": "Why OLPC’s $100 laptop never stood a chance",
+          "summary": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, were both more complicated than anyone expected. In the next episode of Version History, David Pierce is joined by The Verge 's Adi Robertson and tech journalist David Imel to figure out why OLPC didn't wo",
+          "image": null,
+          "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+          "source": "The Verge",
+          "pubDate": "2026-09-27T12:25:00.000Z",
+          "why": "רטרוספקטיבה איכותית ומעוררת מחשבה על פרויקט המחשב לכל ילד (OLPC), המלמדת שיעור היסטורי חשוב על הפער בין אידיאליזם טכנולוגי ליישום בשטח."
+        },
+        {
+          "title": "Google figures out how to watermark AI-designed proteins",
+          "summary": "AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats. One area where we seem to be ahead of the game, however, is in biosecurity. As with most things biological, utility goes hand in hand with threats. We've developed increasingly sophisticated tools for designing proteins and seen some major successes, such as AI-designed enzymes that can digest plastics or block venom proteins . But these same tools could be ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-1152x648.jpg",
+          "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+          "source": "Ars Technica",
+          "pubDate": "2026-09-30T15:54:52.000Z",
+          "why": "פיתוח חדשני ומשמעותי בצומת שבין בינה מלאכותית לביו-טק, שמציע מענה ממשי לאחד מאיומי הביו-טרור והאבטחה החמורים של העתיד."
+        },
+        {
+          "title": "A local network of implants uses your body as the wiring",
+          "summary": "Most implants like pacemakers and insulin pumps work in isolation. To help them coordinate with each other, a team of Georgia Tech researchers built a networking system that sends signals through body tissue instead of antennas and radio waves. Radio problems Implants that communicate today mostly rely on radio protocols like Bluetooth Low Energy or near-field communication (NFC). Both are a poor fit for in-body data transfer, says Alex Abramson, a Georgia Tech engineer and co-author of the new ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1531989233-1152x648.jpg",
+          "link": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
+          "source": "Ars Technica",
+          "pubDate": "2026-09-30T21:06:56.000Z",
+          "why": "פריצת דרך הנדסית מרתקת המנצלת את רקמות הגוף במקום גלי רדיו כדי לרשת שתלים רפואיים, עם השלכות מרחיקות לכת על עולם הרפואה והמחשוב הלביש."
+        },
+        {
+          "title": "שוברי המכונות של 2026: למה הקרב נגד הקידמה אבוד?",
+          "summary": "ב-11 במרץ 1811, בכפר ארנולד שליד נוטינגהם שבאנגליה, פרצה קבוצת פועלים למפעל גרביים וניפצה מכונות סריגה חדשה שאיימה על פרנסת חבריה. תוך שלושה שבועות נהרסו למעלה מ-200 מכונות באזור על ידי הלודיטים: פועלים שמחו באנגליה נגד השינויים שהביאה המהפכה התעשייתית, בין היתר באמצעות הריסת מכונות. הלודיטים האמינו שהשמדת המכונות תציל את הפרנסה. הם הפסידו, כי קשה מאוד לעצור טכנולוגיה וקידמה. מאז ועד היום נכנסו לחיינו עוד טכנולוגיות רבות, שקורצות למעסיקים, אך מאיימות שוב ושוב על העובדים. ה-AI מהווה בשנים האחרונו",
+          "image": "https://www.pc.co.il/wp-content/uploads/2022/08/יוסי-חיימוב-ליהי-קטן-נאור.jpg",
+          "link": "https://www.pc.co.il/editorial/458828/",
+          "source": "אנשים ומחשבים",
+          "pubDate": "2026-09-29T08:05:32.000Z",
+          "why": "חיבור היסטורי-פילוסופי רחב יריעה המקשר בין תנועת הלודיטים של המאה ה-19 לחרדות התעסוקה של מהפכת ה-AI הנוכחית."
+        }
+      ]
+    },
+    {
+      "column": 5,
+      "name": "ספורט",
+      "items": [
+        {
+          "title": "משפחה מפוצלת: האחים חלאילי בנבחרת ישראל - בן הדוד בפלסטין | מיוחד",
+          "summary": "בזמן שענאן ואיאד מחיפה לובשים את המדים הכחולים-לבנים, בן דודתם ממנצ'סטר יונאן בדארנה מייצג בימים אלה את נבחרת הנערים של הרשות הפלסטינית. סיפורה הבלתי ייאמן של משפחה אחת שמציגה את המורכבות הלאומית והספורטיבית במלוא עוצמתה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/r1NHS9tqGx/r1NHS9tqGx_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/s15te5f5fx",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-30T08:40:02.000Z",
+          "why": "סיפור ייחודי ורב-עוצמה המשלב ספורט, זהות ומורכבות פוליטית דרך פריזמה משפחתית מרתקת."
+        },
+        {
+          "title": "\"כשנשים רואות אישה עומדת בראש מערכת, זה מחזק את האמונה שהן יכולות ושהכל אפשרי\"",
+          "summary": "שש מאמנות מול ארבעה מאמנים: לראשונה, רוב נשי על הקווים בליגת העל לנשים. בראיון משותף שירה העליון (מכבי אשדוד), דניאלה ראובן (מכבי חיפה), נעמי קולודני (מכבי ר\"ג), לוביצ'ה דרליאצ'ה (הפועל לב ירושלים), קטיה אברמזון (מכבי כרמיאל) וטל דוויק (בני יהודה) חלוקות בשאלה אם הן צריכות להוכיח יותר מגברים כדי לקבל הזדמנות שווה, גאות בדרך שעשו ומקוות שילדות ירצו להיות כמוהן. ובעיקר, הן מחכות ליום שבו מינוי מאמנת כבר לא יהיה סיפור",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/B1AnI6L5Gl/B1AnI6L5Gl_0_123_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/rytfval5fl",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-27T22:30:00.000Z",
+          "why": "ציון דרך היסטורי בספורט הישראלי המלווה בשיח עומק מהותי על מעמדן של נשים בתפקידי מפתח."
+        },
+        {
+          "title": "יוצרים היסטוריה: הישראלים שהפכו לפַּסָּלֵי הבית של הלייקרס",
+          "summary": "הם התאהבו במהלך לימודיהם באיטליה, הקימו משפחה בקיבוץ וטסו בעקבות האמנות לארה\"ב - היום הם חתומים על כ־300 פסלים ומונומנטים שהוצבו בחמש יבשות, והפכו לפַּסָּלֵי הבית של הלייקרס. סיפורם של עמרי וג'ולי עמרני, שהחזירו את מייקל ג'ורדן לאוויר ואת שאקיל אוניל לטבעת",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/SJ00wZxoqGl/SJ00wZxoqGl_1_356_747_421_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldbasketball/article/hjfmfxjqfl",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-30T22:30:00.000Z",
+          "why": "כתבת צבע על-זמנית ואיכותית המחברת בין אמנות לספורט העולמי מזווית ישראלית ייחודית."
+        },
+        {
+          "title": "מעצב פנים: פרידה מה-MVP הראשון של ה-NBA",
+          "summary": "בכל פעם שאתם רואים פורוורד ענק שעושה פעולות של גארד עם הפנים לסל, תנו קרדיט לבוב פטיט. פרידה מאחד מגדולי שחקני ה-NBA, שלא זכה למלוא ההכרה שמגיעה לו",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/BJ0y8FH9zx/BJ0y8FH9zx_0_133_2138_1204_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldbasketball/article/hjho0kh9ze",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-27T12:31:14.000Z",
+          "why": "ניתוח היסטורי וטקטי מעמיק על מהפכן כדורסל, בעל ערך מוסף גבוה לחובבי המשחק."
+        },
+        {
+          "title": "אמריקה מחכה: הכישרון הענק שעומד לכבוש את הנבחרת",
+          "summary": "אחרי ההדחה המוקדמת מדי במונדיאל, נבחרת ארה\"ב שוב מחפשת את השחקן שיהפוך את הסוקר ללהיט .האם קוואן סאליבן בן ה־17, עם חוזה במנצ'סטר סיטי ומנטליות חסרת רחמים, הוא התשובה?",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/S16GjnU9fl/S16GjnU9fl_0_109_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/bkj2ktu5me",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-27T22:30:00.000Z",
+          "why": "פרופיל ספורטיבי מעמיק על הכוכב הבא בכדורגל האמריקאי, בעל רלוונטיות מתמשכת לקראת המונדיאל הבא."
+        },
+        {
+          "title": "שני אחים, שני קפטנים: \"לקחנו מהבית את העבודה הקשה\"",
+          "summary": "האחד קפטן מכבי ר\"ג (כדורסל), אוכל שווארמה אחרי משחק ובטוח שהאבא מפיל עליו את כל הביקורת. השני קפטן בני-יהודה (כדורגל), חולה על ג'ארד הארפר ובטוח שהרבה יותר קשה להיות כדורגלן. האחים גיל וגולן בני מדברים על החלומות, העקיצות והנאומים מול חדר הלבשה אמוציונלי. ראיון מיוחד",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/BkEyDFS9Gx/BkEyDFS9Gx_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/bjrziib9zg",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-27T07:20:23.000Z",
+          "why": "ראיון כפול וקולח שמספק הצצה אנושית ומאוזנת לדינמיקה ספורטיבית בין כדורסל לכדורגל."
+        }
+      ]
+    }
+  ]
 }
