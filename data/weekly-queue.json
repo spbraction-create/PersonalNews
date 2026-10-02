@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T03:24:26.965Z",
+  "generatedAt": "2026-10-02T03:24:09.832Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -1906,6 +1906,617 @@
       "pubDate": "2026-09-30T04:00:00.000Z",
       "summary": "אחרי שבוע של מחאות נגד ישראל, האוהדים חיכו לתשובה על הדשא. הם לא דרשו 0:4, רק נבחרת שתילחם. במקום זה הגיעו שלושה שערים איריים בתוך 12 דקות, ועוד ערב שמעלה שאלות על רן בן שמעון, על הזימונים ועל מי שמנהל את הכדורגל שלנו. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/SJMZ2kEYtGe/SJMZ2kEYtGe_0_159_3000_1660_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "\"הסמים הפכו אותי לאמא ומורה טובה יותר\": מומחים מזהירים מהתופעה החדשה",
+      "link": "https://www.ynet.co.il/news/article/h1rgghecze",
+      "pubDate": "2026-10-02T03:00:00.000Z",
+      "summary": "הם עובדים, מגדלים ילדים ומתקדמים בקריירה - ובסופי שבוע מסניפים במשך שעות \"רק כדי לא לחשוב\": שלוש שנים ל-7/10, החומרים הממכרים מזמן זלגו מהמסיבות אל הבתים, החתונות וחיי היומיום. \"פעם זה היה בשושו. היום - בכל מקום\", מתארים שני \"נרקומנים מתפקדים\", שמספרים על השימוש התכוף (\"עד שמרגישים שהלב מתפוצץ\") - ועל מה שבאמת מפחיד אותם: \"אנחנו מצליחים בחיים, אז ממשיכים\". אבל לאורך זמן, אומרים המומחים, ההשלכות יהיו הרסניות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/H1fP1YMcGl/H1fP1YMcGl_1_331_720_406_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "קריאת השכמה לראשי המגזר העסקי",
+      "link": "https://www.ynet.co.il/news/article/hj9hhgyqfg",
+      "pubDate": "2026-10-02T02:45:00.000Z",
+      "summary": "בהתאם לחזון הספרטני, הוכפל תקציב הביטחון מרמתו ערב הקמת הממשלה והוא עוד עלול להגיע לפי שלושה מרמה זו. זהו נטל כבד מאד, שהמשק יצליח לשאת אותו רק אם תהיה ירידה חזקה בתקציב הממשלה בתחומים אחרים. פירושו של דבר נטל מילואים כבד שאינו פוחת ופגיעה חמורה, אם לא הרס של ממש, בפרנסתם של רבים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/BkLG21mcfx/BkLG21mcfx_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "בחירות לא מנצחים באקסל",
+      "link": "https://www.ynet.co.il/news/article/b1pdwzyqmx",
+      "pubDate": "2026-10-02T02:21:00.000Z",
+      "summary": "זו הייתה צריכה להיות מערכת בחירות קלה אחרי השביעי באוקטובר, הכשל הביטחוני החמור בתולדות המדינה. מאות אלפי ישראלים נקראו שוב ושוב למילואים. משפחות נשאו בנטל כבד. קריירות, לימודים ועסקים נפגעו. הצבא זקוק לעוד כוח אדם, בעוד סוגיית גיוס החרדים ממשיכה להיגרר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/rykLi3tFMl/rykLi3tFMl_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "7 מחטים, שתי מנות רעל ורופא שכבר כשל: כך קרסה ההוצאה להורג של הרוצחת מטנסי",
+      "link": "https://www.ynet.co.il/news/article/bklikmn9gg",
+      "pubDate": "2026-10-01T21:34:57.000Z",
+      "summary": "קריסטה פייק, שהייתה אמורה להיות האישה הראשונה זה 200 שנה שמוצאת להורג בטנסי, נותרה בחיים ומצבה קריטי. עורכי דינה קוראים להמיר את עונשה אחרי שלטענתם הוחדרו לגופה 7 מחטים, אחת מהן התעקמה, בזמן שהיא עצמה ניסתה לסייע לצוות למצוא וריד להכנסת העירוי: \"זה היה עינוי אכזרי״. במקביל מתברר שהרופא האחראי כשל בניסיון הוצאה להורג נוסף רק לפני כמה חודשים, בארה\"ב כבר מתחילים להתווכח על השיטה: \"להחזיר את הכיסא החשמלי!\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/BJ11O2cK9ze/BJ11O2cK9ze_0_194_634_357_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "התרחיש שלא היה על השולחן: שאלת ההתרעה, וההבנה - יש להיות מוכנים להכול",
+      "link": "https://www.ynet.co.il/news/article/yokra14915604",
+      "pubDate": "2026-10-01T21:00:00.000Z",
+      "summary": "אחד הלקחים המרכזיים של אירועי השבוע האחרון וגם של 7 באוקטובר הוא שלא תמיד תהיה התרעה קונקרטית ולא את הכול אפשר לחזות מראש. כשהמאבק מול איראן במוקד החששות, וביו\"ש מודאגים מהצתת השטח, אי אפשר לחזות את העתיד. במזה\"ת שמשתנה כל רגע, תמיד יש להיות מוכנים לכל מה שלא יהיה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/r1dBv7ncMl/r1dBv7ncMl_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "התצפיתניות בגבול עזה מדברות, בתקווה שהפעם מישהו מקשיב",
+      "link": "https://www.ynet.co.il/news/article/yokra14911839",
+      "pubDate": "2026-10-01T21:00:00.000Z",
+      "summary": "בבסיס נחל עוז, במשכנו החדש במחנה רעים, נמצאות לא רק חבורת התצפיתניות שמשרתות בו בסתיו 2026. בכל רגע, בכל שעה, נוכחות גם קודמותיהן בתפקיד שנרצחו ב–7 באוקטובר. דנה ספקטור העבירה משמרת לילה בחמ\"ל, ושמעה מהתצפיתניות על הזעם כשהן צופות בעזתים שחוזרים לחיי שגרה, טקסי ה\"טי טיים\" שמחברים אותן זו לזו ולאלו שאינן, והתחושה שהיום סוף–סוף סומכים עליהן באמת",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/S1PPD700cGe/S1PPD700cGe_2_117_1520_856_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "שלוש שנים למלחמה: ארוכה, מפותלת ורחוקה מסיום",
+      "link": "https://www.ynet.co.il/news/article/yokra14914412",
+      "pubDate": "2026-10-01T21:00:00.000Z",
+      "summary": "שלוש שנים למלחמה, והאויב שהוכה קשות שרד, פועל להשתקם ומפיק לקחים. ואם זה לא מספיק, בידודה של ישראל ושסעיה הפנימיים מספקים עבורו תקווה מחודשת לקריסתה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/rJadq3j5Gg/rJadq3j5Gg_0_0_1181_663_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"יכלו לשוב עוד עשרות חטופים חיים\" | הוא ליווה את המלחמה מאחורי הקלעים, ולטענתו לא למדנו כלום",
+      "link": "https://www.ynet.co.il/news/article/yokra14914920",
+      "pubDate": "2026-10-01T21:00:00.000Z",
+      "summary": "זוהי עדות פוקחת עיניים על חרבות ברזל, הצלחותיה ומחדליה. דרור שלום, שהיה ראש האגף המדיני–ביטחוני במשרד הביטחון, חלש על מרכז העצבים שעסק בחימושים, ביחסים עם ארה\"ב ובקשרים חשאיים, וזה מה שיש לו להגיד: על ניהול המערכה (\"לא היה רצון לסיים, גם מחשש מוועדת חקירה\"), על התנהלות הקבינט (\"שרים ציחקקו כשקברנו את מתינו\"), על האזהרה של סינוואר (\"לדעתי לא הייתה הונאה\"), על נתניהו (\"הוא כשל כישלון חרוץ\"), ועל האופטימיות שלו (\"יש תקווה\")",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/yk14915058/yk14915058_0_46_1150_648_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ניסיון חטיפת נשק, יידוי אבנים ומטעני דמה: עונת המסיק בפתח, המתיחות ביו\"ש בשיא",
+      "link": "https://www.ynet.co.il/news/article/bjiujbhcze",
+      "pubDate": "2026-10-01T18:45:42.000Z",
+      "summary": "ברחבי יהודה ושומרון נפצעו ישראלים ופלסטינים בפתח השיא של העונה החקלאית שמביאה עמה מדי שנה חיכוכים ומתיחות. ברקע: האתגר שמציבות יותר מ-100 חוות חקלאיות בשטח למערכת הביטחון",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/B1QOiWn9zg/B1QOiWn9zg_0_0_640_352_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"הצעה מפלגת\": למה השמאל לא מצביע על חוק האנטישמיות החדש",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-0b412d3f536f0a1027.htm",
+      "pubDate": "2026-10-01T18:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "זיני התריע, נתניהו הודה ב\"פרצה\": מי היה אמור לפקח על פליי דובאי?",
+      "link": "https://www.ynet.co.il/news/article/bkqzuxn9gl",
+      "pubDate": "2026-10-01T16:57:39.000Z",
+      "summary": "ראש השב\"כ הזהיר חודשים מפני מעטפת אבטחה לא מספקת בטיסות מהאמירויות, אבל פליי דובאי כלל אינה באחריות הישירה של הארגון. אחרי שטייס עומאני שובץ למרות המגבלות, ורה\"מ עצמו הודה שהייתה \"פרצה\", מתחדדת השאלה: מי היה אמור לעצור אותו - ואיפה בדיוק נכשלה שרשרת הפיקוח?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/BJchtM3qMg/BJchtM3qMg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"הלכנו כמו עדר שלא מבין מה קורה\": הישראלים התקועים מספרים",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-903d53f5447f0a1027.htm",
+      "pubDate": "2026-10-01T14:53:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ארבע שנים של מדיניות חוץ: החיובי, השלילי, ותסריטים לאחרי הבחירות",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-a5076bbeaa7f0a1026.htm",
+      "pubDate": "2026-10-01T14:33:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מי מהמועמדים לראשות ממשלה יחשוף את תיקו הרפואי?",
+      "link": "https://www.mako.co.il/news-politics/2026_q4/Article-65fc6012937f0a1026.htm",
+      "pubDate": "2026-10-01T11:49:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "האינסטלטור שהיה ממצילי הטיסה מדובאי - וההתלהבות של טראמפ",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-3ab8d57ffc6f0a1026.htm",
+      "pubDate": "2026-10-01T10:14:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "התרחיש שמטריף את רוסיה: איום גרעיני חריג נגד נאט\"ו",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-9ce222435d6f0a1027.htm",
+      "pubDate": "2026-10-01T09:52:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "השגרה חייבת לנצח: המבחן הגדול של היחסים עם המפרציות",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-4863490dda6f0a1026.htm",
+      "pubDate": "2026-10-01T09:33:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"האיום מבפנים\" בטיסות הזרות לישראל - והפתרון",
+      "link": "https://www.mako.co.il/news-columns/2026_q3/Article-3ec22d3f536f0a1027.htm",
+      "pubDate": "2026-10-01T08:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "בתוך שעה מניסיון חטיפת המטוס: התיאוריות האנטישמיות ברשת",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-033da263976f0a1027.htm",
+      "pubDate": "2026-10-01T08:03:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "בדרך למהפך? \"בריטניה עשויה לשוב לאיחוד האירופי\"",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-1ef25df6766f0a1027.htm",
+      "pubDate": "2026-10-01T07:46:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"תעלומת הטיסה\": כך מסקרים בעיתונות הערבית את ניסיון הפיגוע",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-1b96f033926f0a1027.htm",
+      "pubDate": "2026-10-01T06:48:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "טייס הקרב מסביר: כך ניצל מטוס פליי-דובאי מצלילה קטלנית",
+      "link": "https://www.mako.co.il/news-military/2026_q4/Article-0f95ec4d8d5f0a1027.htm",
+      "pubDate": "2026-10-01T06:39:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "רגע לפני שבוחרים: מה המפלגות מבטיחות לנו?",
+      "link": "https://www.mako.co.il/news-israel-elections/2026_q4/Article-97e55261416f0a1026.htm",
+      "pubDate": "2026-10-01T06:18:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"תמחקו את המילה ישראל\": מה שמנסים להסתיר מאיתנו",
+      "link": "https://www.mako.co.il/finances-news/Article-7fd653f5447f0a1027.htm",
+      "pubDate": "2026-10-02T03:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "מי משקיע מיליונים במסעדות, בזמן שהענף בקושי שורד",
+      "link": "https://www.ynet.co.il/economy/article/yokra14905877",
+      "pubDate": "2026-10-01T21:00:00.000Z",
+      "summary": "הוא שם הרבה כסף במקומות חדשים בזמן שאחרים סגרו, מחזיק בכמה מהמסעדות הנחשקות והמצליחות בתל–אביב, ועכשיו לקח לידיו גם את מאנטה ריי המיתולוגית בחוף הים • איציק חנגל, אחד המסעדנים המובילים בישראל, מספר למה דווקא היום הוא ממשיך לקחת סיכונים, למה המחירים של המנות בארץ כל כך יקרים ואיך שורדים שנים בענף שבו הסכנות הכלכליות אורבות מכל פינה • וגם: על החברות עם השף חיים כהן והשורשים העיראקיים שמהם התחיל הכול",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/ryl0Caq5Ge/ryl0Caq5Ge_0_0_1920_1080_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "תחקיר: קושנר מגשר במזה\"ת ובמקביל מרוויח מהחברות שמאחורי המלחמה",
+      "link": "https://www.ynet.co.il/economy/article/rjnurb3czx",
+      "pubDate": "2026-10-01T17:11:21.000Z",
+      "summary": "תחקיר CNN חושף שחתנו של טראמפ ואדריכל מרכזי של הפסקת האש בעזה, מחזיק באחוזים בהפניקס, שמשקיעה מאות מיליוני דולרים באלביט ובשמונה חברות נוספות שקשורות לצה\"ל. חברת ההשקעות שלו מימשה רבע מהאחזקה שלה בהפניקס ב-340 מיליון דולר. קושנר נמנע מחשיפת נכסיו בזכות מעמדו כשליח מתנדב ללא תפקיד רשמי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/22/r16smt1811x/r16smt1811x_964_55_1919_1080_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "האם נוסעי הטיסה מדובאי יוכרו כנפגעי פעולות איבה? | מדריך",
+      "link": "https://www.ynet.co.il/economy/article/h19enqj5gx",
+      "pubDate": "2026-10-01T08:59:53.000Z",
+      "summary": "המניע של טייס המשנה שדקר את הקברניט בטיסת פליי דובאי עדיין נחקר, אבל אם המדינה תקבע שמדובר בפיגוע, הנוסעים עשויים להיות זכאים להכרה כנפגעי פעולות איבה. מה התנאים להכרה, איך מגישים תביעה לביטוח לאומי והאם גם פגיעה נפשית מזכה בתגמולים | ynet מסביר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/B1G8tT59Gx/B1G8tT59Gx_0_0_3000_1689_0_cid_62_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "רחפני קמיקזה וכלי שיט אוטונומיים: פוטין דופק בדלת - וגרמניה שופכת מיליארדים",
+      "link": "https://www.ynet.co.il/economy/article/s1f00m55cmx",
+      "pubDate": "2026-10-01T04:14:34.000Z",
+      "summary": "מתוך שמונה מיליארד הדולר שהושקעו השנה בחברות במדינה, שלושה מיליארד הלכו לחברות נשק. הפוליטיקאים התחילו לדבר בגלוי על הקמת \"הצבא החזק ביותר באירופה\". הרעיון הגרמני הפציפיסטי שאחרי מלחמת העולם השנייה הסתיים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/06/H1Yndb00rgl/H1Yndb00rgl_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הנפקות ב-137 מיליארד דולר: האם השוק בדרך לקריסה מפתיעה?",
+      "link": "https://www.ice.co.il/finance/news/article/1131885",
+      "pubDate": "2026-10-01T21:51:50.000Z",
+      "summary": "קצב ההנפקות בארה\"ב שובר שיאים ומזכיר את הבועה של 2021, אך הבנק השווייצרי לומברד אודייר חושף את הנתון המפתיע שירגיע את המשקיעים המודאגים",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_622/rsz_615_346_270920261123.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "דווקא עכשיו: אסור לנו לוותר על נבחרת ישראל",
+      "link": "https://www.ice.co.il/sport_news/news/article/1131942",
+      "pubDate": "2026-10-01T19:29:14.000Z",
+      "summary": "לקראת המשחק הגורלי, מנכ\"ל משרד התרבות והספורט מספר על הילדות ביציעי רמת גן, הלחץ הגדול אחרי ההפסדים והכוכב האהוב שאת חולצתו ילבש הערב יחד עם ילדיו בסלון",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_565/rsz_615_346_853265874236875623.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Google Gets to Keep Its Adtech Stack Intact. Does The Trade Desk’s Pitch Lose its Punch?",
+      "link": "https://www.adweek.com/programmatic/google-gets-to-keep-its-adtech-stack-intact-does-the-trade-desks-pitch-lose-its-punch/",
+      "pubDate": "2026-10-01T16:00:32.000Z",
+      "summary": "In its battle with the DOJ, Google kept its adtech stack intact—the reality could dilute the value prop of some Trade Desk products.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "pubDate": "2026-10-02T00:03:23.000Z",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Microsoft says threat actors are ahead in the early AI race",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "pubDate": "2026-10-01T19:32:47.000Z",
+      "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
+      "link": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+      "pubDate": "2026-10-01T18:52:58.000Z",
+      "summary": "The Steam Deck LCD’s “Aerith” APU. | Photo by Fritzchens Fritz The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason to believe that chip has now broken cover: AMD Gainsborough. But I'm a tad skeptical. As leaker Moore's Law is Dead and IT Home report, the latest AMD drivers have leaked the co",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+      "pubDate": "2026-10-01T16:45:38.000Z",
+      "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years. That is the lesson running through the list. Attackers do not always need a brilliant new trick. They can",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1600/oct-threatsday.jpg",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Can VR glasses save VR?",
+      "link": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
+      "pubDate": "2026-10-01T16:10:32.000Z",
+      "summary": "Sean wears the Meta VR Glasses. | Photo: Meta I'm pretty sure I won't be buying the $1,299 Meta VR Glasses . That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted . But I want you to understand that Meta just changed the game. We've had glasses, but we've never had glasses like this . The Meta VR Glasses are not an opaque VR headset. They are not a pair of transparent AR glasses. They might be the best of both. After playing with the Meta VR Glasses, Valve's",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Inside Microsoft’s big Copilot rethink",
+      "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+      "pubDate": "2026-10-01T16:00:00.000Z",
+      "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI assistant as the \"OS for work.\" Microsoft is adding coding and agent capabilities directly into Copilot, as well as bringing the full power of Office into Copilot for the first time. Nadella is betting ",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "ביקורת iPhone 18 Pro: מצדיק את התואר, אבל לא בהכרח את השדרוג",
+      "link": "https://www.geektime.co.il/iphone-18-pro-review/",
+      "pubDate": "2026-10-01T15:45:26.000Z",
+      "summary": "צילום: גיקטיים ה-iPhone 18 Pro הוא מכשיר קלאסי לתקופה של ימינו. הוא טוב יותר מקודמו, אבל יקר יותר. הוא מכשיר מדהים כשהוא עומד בפני עצמו, אבל הוא מרגיש כמעט מיותר כשמשווים אותו לקודמו. הוא חדשני, אבל כולם מחכים בדיוק לאח הגדול החדש שלו. אז למה אני עדיין חושב שזה הכיוון הנכון לאפל? קודם כל, כמה מילים על תנאי הביקורת: בניגוד ללא מעט כתבות שהתפרסמו על ידי משפיענים או אתרים, שמתבססות על שעות בודדות של שימוש, אנחנו בחרנו שלא למהר עם הביקורת שלנו ל-iPhone 18 Pro. אחרי הכל, זה מכשיר יקר, ואתם עשויים לבל",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "As US relations fray, Canada gets serious about its own launch industry",
+      "link": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
+      "pubDate": "2026-10-01T15:30:49.000Z",
+      "summary": "A year or two ago, a few Canadian launch companies were trying to develop small rockets, but if we're being frank, the industry was not particularly notable. Sure, something interesting might eventually happen, but no one outside of a few Canadian space geeks was paying much attention. But then the Trump Administration started threatening and instituting tariffs. There was talk of making Canada the 51st state. And pretty much every Canadian I know began telling me how enraged they were at their ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/R-2-rocket-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "pubDate": "2026-10-01T14:00:00.000Z",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "POCO X8: טלפון זול – ושווה?",
+      "link": "https://www.pc.co.il/pcplus/%d7%a1%d7%a7%d7%99%d7%a8%d7%95%d7%aa-%d7%95%d7%91%d7%93%d7%99%d7%a7%d7%95%d7%aa-%d7%9e%d7%95%d7%a6%d7%a8%d7%99%d7%9d/458948/",
+      "pubDate": "2026-10-01T13:57:04.000Z",
+      "summary": "אחת העובדות שקיימות כיום בשוק הדיגיטלי הצרכני היא שמחירי הזיכרונות ועלויות הייצור ימשיכו כנראה להאמיר – כי כל מי שחשב שה-AI היא בועה שעומדת להתפוצץ בכל רגע מתבדה שוב ושוב. זו הסיבה שכמה חברות מחקר שוק טוענות שבסופו של דבר כל זה יוביל לכך שבשוק הטלפונים תהיה מחיקה של שכבת המחיר הנמוכה – של טלפונים שמוצעים עדיין במחירים של כ-300 דולר פחות או יותר. אבל למעשה זה כבר לא רחוק מהמצב הנוכחי. גם כך נותרו מעט מאוד יצרניות טלפונים שמתמחות במכשירים לשוק הכניסה, והיצרניות המובילות מעלות כל הזמן מחירים או שמצ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/X8-של-פוקו.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "סטארטאפ ישראלי כבש את דירוג ההאקרים, אבל ההישג חושף מגמה מדאיגה",
+      "link": "https://www.geektime.co.il/tenzai-hackerone-first-place-open-weight-ai/",
+      "pubDate": "2026-10-01T13:31:13.000Z",
+      "summary": "צוות Tenzai. תמונה: אלעד מלכה זה כבר לא סוד שמודלי שפה ענקיים כמו Claude Mythos או GPT-6 ASTRA מציגים יכולות מרשימות בתחומי הסייבר ההתקפי ואיתור וניצול חולשות. אבל הם מוגבלים לכאורה על ידי גישה מצומצמת, עלות וכמובן guardrails קשוחים. אבל עכשיו, מדגים סטארטאפ ישראלי כיצד אפשר לכבוש את הפסגה ולעקוף האקרים אנושיים מנוסים גם בעזרת מודל פתוח וחינמי שכל אחד יכול להריץ בבית או במשרד. מקום ראשון עם מודל סיני פתוח פלטפורמת האבטחה האוטונומית של Tenzai מתפקדת כהאקר לכל דבר. היא מבצעת מחזור תקיפה מלא נגד אפ",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "PS5 emulation is suddenly making big strides on PC",
+      "link": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
+      "pubDate": "2026-10-01T11:30:41.000Z",
+      "summary": "For a long time, PC gamers could access many PlayStation 5 games only if the publisher invested in a bespoke port (something Sony has recently said it will be scaling back ). Now, though, rapid advancements in PS5 emulators and other tools are making recent PlayStation titles increasingly playable on generic PCs. SharpEmu was the first of these emulators, advancing from a \"very early alpha stage\" in May to a current state that can \"load the eboot.bin of real games, execute native CPU instruction",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-8.12.38-PM-1152x648-1790813903.png",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "בישראל היו במתח - ברשתות כבר טענו שנתניהו אחראי לאירועי טיסת פליי-דובאי",
+      "link": "https://www.mako.co.il/nexter-news/Article-a1ffa263976f0a1027.htm",
+      "pubDate": "2026-10-01T08:05:00.000Z",
+      "summary": "דוח חדש מצא 2,963 פוסטים בתוך שעות בודדות שקשרו את ניסיון הפיגוע במטוס מדובאי לתל אביב לישראל, למוסד, לראש הממשלה או ליהודים - עוד לפני שבכלל ידענו מה קרה שם. הציוץ הראשון - בתוך 67 דקות בלבד",
+      "image": "https://img.mako.co.il/2026/10/01/AutoCms_E07CD294B_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "האשמות בריגול, איומים ב\"נשק גרעיני\" וקרב בתוך קרן ההון: זה כנראה הקרב הכי מלוכלך עכשיו בעולם ה-AI",
+      "link": "https://www.geektime.co.il/cognition-factory-ai-feud-khosla/",
+      "pubDate": "2026-10-01T06:32:40.000Z",
+      "summary": "מקור: עמוד לינקדאין זה לא סוד ששוק פיתוח התוכנה באמצעות סוכני AI אוטונומיים רותח, אבל בימים האחרונים נראה שהתחרות הופכת למלוכלכת במיוחד. זה קורה כששני סטארטאפים בולטים, Factory, ששוויו בגיוס האחרון עמד על 5 מיליארד דולר; ו- Cognition , שמוערך ב-48 מיליארד דולר, מנהלים קרב פומבי ומלא יצרים ברשתות החברתיות. הקרב הפומבי הזה חושף את מה שבאמת קורה מאחורי הקלעים של תעשיית ההייטק, המתח בין יזמים ומשקיעים וגם על אחת מהרעות החולות הכי גדולות של טירוף ה-AI אצל קרנות היום. היועץ ערק למתחרה במרכז הסערה עומד",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "מגיבור לאומי לסוף הדרך: הגירושים המכוערים של רונאלדו מפורטוגל",
+      "link": "https://www.ynet.co.il/sport/worldsoccer/article/s1klsq3cfl",
+      "pubDate": "2026-10-01T22:30:00.000Z",
+      "summary": "הוא הפך את החולצה הלאומית למותג ואת עצמו לאוצר לאומי, אבל בגיל 41 הפנומן מצא את עצמו בעימות חזיתי עם המאמן ז'ורז'ה ז'סוס. ואחרי שעזב בזעם את מחנה האימונים (בעיקר בגלל אגו), גם לאוהדי פורטוגל כבר נמאס ממנו",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/r1Yb00Q2cMe/r1Yb00Q2cMe_254_438_2650_1492_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "אי אפשר להבקיע אם לא מנסים לבעוט | תוכן גולשים",
+      "link": "https://www.ynet.co.il/sport/article/hyinw9ccge",
+      "pubDate": "2026-10-01T14:56:27.000Z",
+      "summary": "לא ייתכן שנבחרת ישראל הנוכחית לא יוזמת ולא יוצרת מצבי הבקעה ובעיטות לשער. הרי זה עדיף על כדרור אינסופי, שגם מתיש את השחקנים מבחינה פיזית וגם גורם לבזבוז זמן יקר. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/BJvNQemqGe/BJvNQemqGe_0_148_3000_1689_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
