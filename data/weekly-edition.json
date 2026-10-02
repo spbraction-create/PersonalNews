@@ -1,5 +1,333 @@
 {
-  "generatedAt": "2026-09-28T00:00:00.000Z",
+  "generatedAt": "2026-10-02T03:24:11.123Z",
   "gate": "מוסף שישי",
-  "columns": []
+  "columns": [
+    {
+      "column": 1,
+      "name": "חדשות / אקטואליה",
+      "items": [
+        {
+          "title": "\"יכלו לשוב עוד עשרות חטופים חיים\" | הוא ליווה את המלחמה מאחורי הקלעים, ולטענתו לא למדנו כלום",
+          "summary": "זוהי עדות פוקחת עיניים על חרבות ברזל, הצלחותיה ומחדליה. דרור שלום, שהיה ראש האגף המדיני–ביטחוני במשרד הביטחון, חלש על מרכז העצבים שעסק בחימושים, ביחסים עם ארה\"ב ובקשרים חשאיים, וזה מה שיש לו להגיד: על ניהול המערכה (\"לא היה רצון לסיים, גם מחשש מוועדת חקירה\"), על התנהלות הקבינט (\"שרים ציחקקו כשקברנו את מתינו\"), על האזהרה של סינוואר (\"לדעתי לא הייתה הונאה\"), על נתניהו (\"הוא כשל כישלון חרוץ\"), ועל האופטימיות שלו (\"יש תקווה\")",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/yk14915058/yk14915058_0_46_1150_648_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/yokra14914920",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-10-01T21:00:00.000Z",
+          "why": "עדות מבפנים ויוצאת דופן של בכיר ביטחוני על ניהול המערכה, החטופים והקבינט – פריט עומק עיתונאי ראשון במעלה."
+        },
+        {
+          "title": "התצפיתניות בגבול עזה מדברות, בתקווה שהפעם מישהו מקשיב",
+          "summary": "בבסיס נחל עוז, במשכנו החדש במחנה רעים, נמצאות לא רק חבורת התצפיתניות שמשרתות בו בסתיו 2026. בכל רגע, בכל שעה, נוכחות גם קודמותיהן בתפקיד שנרצחו ב–7 באוקטובר. דנה ספקטור העבירה משמרת לילה בחמ\"ל, ושמעה מהתצפיתניות על הזעם כשהן צופות בעזתים שחוזרים לחיי שגרה, טקסי ה\"טי טיים\" שמחברים אותן זו לזו ולאלו שאינן, והתחושה שהיום סוף–סוף סומכים עליהן באמת",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/S1PPD700cGe/S1PPD700cGe_2_117_1520_856_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/yokra14911839",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-10-01T21:00:00.000Z",
+          "why": "כתבת מגזין חודרת ומלאת רגש שמביאה את קולן של התצפיתניות בהווה ובעבר בנחל עוז, בלב סוגיות הליבה של התקופה."
+        },
+        {
+          "title": "הפרוטוקולים החלקיים, התצהיר והאזהרות לפני 7/10: נתניהו מול רונן בר - גרסה מול גרסה",
+          "summary": "ראש הממשלה מציג קטעים מדיונים שלפני הטבח וטוען שראש השב\"כ לשעבר דבק ב\"קונספציה\" של שקט והקלות, בר משיב שהציטוטים הוצאו מהקשרם ומפנה לאזהרות שהשמיע. בין התצהיר לבג\"ץ, הפרוטוקולים שלא פורסמו במלואם והכשל המודיעיני: מה ידוע עד כה, מה עדיין שנוי במחלוקת - ואילו שאלות נותרו פתוחות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/SJEV11B009Gl/SJEV11B009Gl_0_0_1672_941_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/h1fk2zo9ze",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-28T19:58:58.000Z",
+          "why": "ניתוח מעמיק ומבוסס מסמכים של העימות הישיר בין נתניהו לראש השב\"כ לשעבר סביב אחריות מחדל 7 באוקטובר."
+        },
+        {
+          "title": "התרחיש שבו מטוס פליי דובאי היה מופל, ויחידות העילית שעלו על הפרק",
+          "summary": "שעות לפני שנוסעי טיסת פליי דובאי פצחו בשירה בנתב\"ג, בישראל נערכו לשורת תרחישי אסון - מהתרסקות בשטח הארץ או במדינה שכנה, דרך צורך להפיל את המטוס כדי למנוע \"אסון תאומים\", ועד לחטיפתו לצורכי מיקוח. הסיבה להקפצת מטוסי הקרב, האפשרות שיחידת העילית תופעל - וההיערכות לאירוע מתגלגל",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/H140036jcczl/H140036jcczl_0_0_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/skgo6tq5zx",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-30T22:19:19.000Z",
+          "why": "הסיפור המקיף והמרתק ביותר על מאחורי הקלעים הביטחוניים ותרחישי הקיצון בדרמת טיסת פליי דובאי."
+        },
+        {
+          "title": "מהידידה הקרובה לחוד החנית של הלחץ על ישראל: מה קרה להולנד?",
+          "summary": "במשך עשרות שנים הולנד נחשבה לאחת מבעלות הברית הקרובות ביותר של ישראל באירופה; איך הידרדרו היחסים, מה מחכה לישראלי שנוחת בסכיפהול, מה השתנה בדעת הקהל ובפוליטיקה בהאג - והאם מדינות נוספות בדרך? ynet מסביר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/H1ka9xu9Mx/H1ka9xu9Mx_0_54_1599_901_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/hkd2bkocgx",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-28T21:32:58.000Z",
+          "why": "כתבת הסבר מעמיקה ומהותית על שחיקת היחסים הדרמטית של ישראל עם מדינות אירופה ומגמת הסנקציות."
+        },
+        {
+          "title": "עם יותר מ-100 בוטים: קמפיין ההשפעה של בן גביר נגד מחנה נתניהו וערוץ 14",
+          "summary": "בתחקיר שערך \"פייק ריפורטר\" עולה כי מפלגת עוצמה יהודית מנהלת קמפיין השפעה ברשת בעזרת בוטים ברשתות החברתיות. הבוטים, שמתחזים לישראלים ומהדהדים את מסרי המפלגה, תוקפים דווקא את שותפיו של בן גביר. \"קול שיילך אליך - הולך לפח\", נכתב נגד וינטר. על ערוץ 14 נאמר: \"כמו שכירי חרב של נתניהו\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/SyHBGeOqzl/SyHBGeOqzl_16_142_1227_691_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/elections2026/article/bygspy00cze",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-28T15:35:44.000Z",
+          "why": "תחקיר חשיפה פוליטי חשוב המציג את השימוש ברשתות בוטים והשפעתן בתוך גוש הימין לקראת הבחירות."
+        },
+        {
+          "title": "\"הסמים הפכו אותי לאמא ומורה טובה יותר\": מומחים מזהירים מהתופעה החדשה",
+          "summary": "הם עובדים, מגדלים ילדים ומתקדמים בקריירה - ובסופי שבוע מסניפים במשך שעות \"רק כדי לא לחשוב\": שלוש שנים ל-7/10, החומרים הממכרים מזמן זלגו מהמסיבות אל הבתים, החתונות וחיי היומיום. \"פעם זה היה בשושו. היום - בכל מקום\", מתארים שני \"נרקומנים מתפקדים\", שמספרים על השימוש התכוף (\"עד שמרגישים שהלב מתפוצץ\") - ועל מה שבאמת מפחיד אותם: \"אנחנו מצליחים בחיים, אז ממשיכים\". אבל לאורך זמן, אומרים המומחים, ההשלכות יהיו הרסניות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/H1fP1YMcGl/H1fP1YMcGl_1_331_720_406_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/h1rgghecze",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-10-02T03:00:00.000Z",
+          "why": "כתבת תופעה חברתית מרתקת ומטרידה על בריחה לחומרים ממכרים בקרב אוכלוסיות מתפקדות בצל טראומת המלחמה המתמשכת."
+        },
+        {
+          "title": "7 מחטים, שתי מנות רעל ורופא שכבר כשל: כך קרסה ההוצאה להורג של הרוצחת מטנסי",
+          "summary": "קריסטה פייק, שהייתה אמורה להיות האישה הראשונה זה 200 שנה שמוצאת להורג בטנסי, נותרה בחיים ומצבה קריטי. עורכי דינה קוראים להמיר את עונשה אחרי שלטענתם הוחדרו לגופה 7 מחטים, אחת מהן התעקמה, בזמן שהיא עצמה ניסתה לסייע לצוות למצוא וריד להכנסת העירוי: \"זה היה עינוי אכזרי״. במקביל מתברר שהרופא האחראי כשל בניסיון הוצאה להורג נוסף רק לפני כמה חודשים, בארה\"ב כבר מתחילים להתווכח על השיטה: \"להחזיר את הכיסא החשמלי!\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/BJ11O2cK9ze/BJ11O2cK9ze_0_194_634_357_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/bklikmn9gg",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-10-01T21:34:57.000Z",
+          "why": "סיפור חוץ דרמטי ויוצא דופן על כשל בהוצאה להורג היסטורית של אישה בארה\"ב, המעניק גיוון בינלאומי מרתק."
+        },
+        {
+          "title": "בצפון מחכים לכביש 6 - אך המשטרה לא מתעסקת עם המתנגדים: \"אין סד\"כ\"",
+          "summary": "כבר שנתיים שהמדינה ותושבי הכפרים בצפון לא מצליחים להגיע להסדר, ופרויקט הדגל של כביש 6 תקוע. בעלי הקרקעות מאיימים על עובדי התכנון, אבל המשטרה והמשרד לביטחון לאומי דורשים תוספת תקציבית כדי לאבטח אותם. כך מתרחק החלום לחבר את יישובי קו העימות למרכז: \"העיקר מנפנפים במשילות\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/yk14910337/yk14910337_0_0_945_551_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/yokra14910451",
+          "source": "Ynet — חדשות",
+          "pubDate": "2026-09-27T21:00:00.000Z",
+          "why": "תחקיר פנים ישראלי חיוני המדגים כשל משילותי ותשתיותי חריף שמנתק את יישובי הצפון בגלל היעדר אכיפה משטרתית."
+        }
+      ]
+    },
+    {
+      "column": 2,
+      "name": "כלכלה / עסקים",
+      "items": [
+        {
+          "title": "למה מי שבנה את טרייד ה-AI עכשיו מבקש להאט אותו ואיך השוק מתחיל לחשב מחדש את המחיר?",
+          "summary": "במשך השנתיים האחרונות וול סטריט התרגלה לסיפור פשוט: מודלי AI משתפרים במהירות, ענקיות הטכנולוגיה משקיעות מאות מיליארדי דולרים בתשתיות, והכסף זורם לכל שרשרת הערך - מאנבידיה ומיקרון ועד מרכזי נתונים, אחסון וחשמל. אלא שבסוף השבוע הגיע שינוי חד בטון דווקא מצד האנשים שבנו את הנרטיב הזה. דריו אמודיי, מנכ\"ל אנתרופיק, קרא להאט את קצב ההתקדמות של מודלי ה-AI המתקדמים ביותר, וסם אלטמן, מנכ\"ל OpenAI, הודיע שהוא מסכים איתו. עבור השוק, זה לא רק ויכוח פילוסופי על בטיחות - זו שאלה ישירה לגבי קצב ההשקעות והרווחים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/Sy11deFFL5zg/Sy11deFFL5zg_1_74_848_478_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/ko2pb3l8o",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-27T12:19:25.000Z",
+          "why": "ניתוח עומק של התפנית בנרטיב המאקרו-כלכלי הגדול ביותר בוול סטריט כיום – הערכה מחדש של השקעות העתק ב-AI."
+        },
+        {
+          "title": "תחקיר: קושנר מגשר במזה\"ת ובמקביל מרוויח מהחברות שמאחורי המלחמה",
+          "summary": "תחקיר CNN חושף שחתנו של טראמפ ואדריכל מרכזי של הפסקת האש בעזה, מחזיק באחוזים בהפניקס, שמשקיעה מאות מיליוני דולרים באלביט ובשמונה חברות נוספות שקשורות לצה\"ל. חברת ההשקעות שלו מימשה רבע מהאחזקה שלה בהפניקס ב-340 מיליון דולר. קושנר נמנע מחשיפת נכסיו בזכות מעמדו כשליח מתנדב ללא תפקיד רשמי",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/22/r16smt1811x/r16smt1811x_964_55_1919_1080_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/rjnurb3czx",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-01T17:11:21.000Z",
+          "why": "תחקיר בינלאומי מובהק ובעל חשיבות ציבורית ועסקית, החושף קשרים פיננסיים, ניגודי עניינים וזרימת הון ביטחוני בצל המלחמה."
+        },
+        {
+          "title": "סנקציות מדינות אירופה יפגעו במערכת הבנקאות? \"יכול להתגלגל למשקי הבית\"",
+          "summary": "המפקח על הבנקים לשעבר, יאיר אבידן, מזהיר כי הדיונים על סנקציות נגד חברות ישראליות על רקע המצב ביו\"ש והקיפאון בעזה, עלולים בתרחיש קיצוני להגיע להפסקת פעילות עם בנקים אירופיים מובילים, לפגוע ביבואנים וביצואנים ולהתגלגל לצמיחה. וגם: האם דירוג האשראי של ישראל שוב בסכנה?",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/10/r1000SkCFWx/r1000SkCFWx_91_54_1123_632_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/bjofp6d9fe",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-28T11:29:11.000Z",
+          "why": "אזהרה מהותית של בכיר לשעבר על סיכון ממשי וישיר למערכת הבנקאות, לסחר החוץ ולדירוג האשראי של המשק הישראלי."
+        },
+        {
+          "title": "רחפני קמיקזה וכלי שיט אוטונומיים: פוטין דופק בדלת - וגרמניה שופכת מיליארדים",
+          "summary": "מתוך שמונה מיליארד הדולר שהושקעו השנה בחברות במדינה, שלושה מיליארד הלכו לחברות נשק. הפוליטיקאים התחילו לדבר בגלוי על הקמת \"הצבא החזק ביותר באירופה\". הרעיון הגרמני הפציפיסטי שאחרי מלחמת העולם השנייה הסתיים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/06/H1Yndb00rgl/H1Yndb00rgl_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/s1f00m55cmx",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-01T04:14:34.000Z",
+          "why": "סקירה מעמיקה של מהלך היסטורי בכלכלת אירופה – הסטת הון והשקעות עתק לתעשיית הביטחון והטק הצבאי בגרמניה."
+        },
+        {
+          "title": "תרגילי הבחירות של סמוטריץ': הדלק יתייקר, אבל רק אחרי הקלפי | פרשנות",
+          "summary": "שר האוצר הפחית בתחילת ספטמבר את הבלו על הבנזין ב-50 אגורות, וכך מדד המחירים האחרון לפני הבחירות יירשם נמוך יותר, בעוד שההתייקרות תיכנס רק למדד של נובמבר. הנזק הכלכלי קטן, אבל הנזק לאמון במערכת המס גדול בהרבה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/S1xlG11UrdMg/S1xlG11UrdMg_0_0_3000_2001_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/yokra14912667",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-29T21:00:00.000Z",
+          "why": "פרשנות כלכלית ביקורתית על תמרון פיסקלי של מחירי הדלק והמדד, המלמדת על הנזק לאמון במדיניות המס הממשלתית."
+        },
+        {
+          "title": "בלי מבקר המדינה ומנכ\"לים לביטוח הלאומי ולרכבת: הכאוס בשירות הציבורי",
+          "summary": "מנכ\"ל משרד ראש הממשלה, מנכ\"ל הביטוח הלאומי, מנהל רמ\"י ומנכ\"ל רכבת ישראל הם רק חלק מהמשרות ‏שמתנהלות במינוי זמני או נותרו פנויות. אחרי פסילות, עתירות ומאבקים פוליטיים, הממשלה הבאה תידרש ‏להשלים במהירות שורה ארוכה של מינויים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/ryuBnKr5Gg/ryuBnKr5Gg_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/yokra14909114",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-09-27T03:54:56.000Z",
+          "why": "מבט מערכתי חשוב על שיתוק ניהולי בצמתי הכרעה כלכליים וציבוריים מרכזיים בישראל."
+        },
+        {
+          "title": "מי משקיע מיליונים במסעדות, בזמן שהענף בקושי שורד",
+          "summary": "הוא שם הרבה כסף במקומות חדשים בזמן שאחרים סגרו, מחזיק בכמה מהמסעדות הנחשקות והמצליחות בתל–אביב, ועכשיו לקח לידיו גם את מאנטה ריי המיתולוגית בחוף הים • איציק חנגל, אחד המסעדנים המובילים בישראל, מספר למה דווקא היום הוא ממשיך לקחת סיכונים, למה המחירים של המנות בארץ כל כך יקרים ואיך שורדים שנים בענף שבו הסכנות הכלכליות אורבות מכל פינה • וגם: על החברות עם השף חיים כהן והשורשים העיראקיים שמהם התחיל הכול",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/ryl0Caq5Ge/ryl0Caq5Ge_0_0_1920_1080_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/yokra14905877",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-01T21:00:00.000Z",
+          "why": "כתבת פרופיל עסקית איכותית שמעניקה איזון מצוין לגיליון ומנתחת את מודל הרווח והסיכונים בענף המסעדנות במשבר."
+        }
+      ]
+    },
+    {
+      "column": 3,
+      "name": "שיווק / פרסום",
+      "items": [
+        {
+          "title": "Google Gets to Keep Its Adtech Stack Intact. Does The Trade Desk’s Pitch Lose its Punch?",
+          "summary": "In its battle with the DOJ, Google kept its adtech stack intact—the reality could dilute the value prop of some Trade Desk products.",
+          "image": null,
+          "link": "https://www.adweek.com/programmatic/google-gets-to-keep-its-adtech-stack-intact-does-the-trade-desks-pitch-lose-its-punch/",
+          "source": "Adweek",
+          "pubDate": "2026-10-01T16:00:32.000Z",
+          "why": "ניתוח מהותי בעל השפעה ארוכת טווח על תעשיית הפרסום הדיגיטלי (Adtech) ומאזן הכוחות בין גוגל לשחקניות העצמאיות."
+        },
+        {
+          "title": "The One Thing Agency Chiefs Want to Change Over the Next 12 Months",
+          "summary": "From AI upskilling to more time for problem-solving, leaders at Digitas, Partners + Napier, Pereira O'Dell and Walrus share their priorities for the year ahead",
+          "image": null,
+          "link": "https://www.adweek.com/agencies/the-one-thing-agency-chiefs-want-to-change-over-the-next-12-months/",
+          "source": "Adweek",
+          "pubDate": "2026-09-29T15:11:59.000Z",
+          "why": "הצצה עמוקה ופרקטית לאופן שבו מובילי סוכנויות הפרסום נערכים לשנה הקרובה, בדגש על שילוב AI וייעול העבודה הקריאטיבית."
+        },
+        {
+          "title": "Holiday Ecommerce Shopping to Hit $275 Billion Despite Consumer Strain, According to Adobe",
+          "summary": "AI and buy-now-pay later will grow while shoppers look for fun and value.",
+          "image": null,
+          "link": "https://www.adweek.com/commerce/holiday-ecommerce-shopping-to-hit-275-billion-despite-consumer-strain-according-to-adobe/",
+          "source": "Adweek",
+          "pubDate": "2026-09-28T08:00:00.000Z",
+          "why": "נתונים ותובנות קריטיים על עונת הקניות הקרובה, שילוב AI באי-קומרס והתנהגות הצרכנים בתקופת לחץ כלכלי."
+        },
+        {
+          "title": "TikTok’s Partnership With All Things Go Shows What Discovery Looks Like IRL",
+          "summary": "The indie music festival teamed up with TikTok LIVE.",
+          "image": null,
+          "link": "https://www.adweek.com/brand-marketing/tiktok-partnership-all-things-go-discovery/",
+          "source": "Adweek",
+          "pubDate": "2026-09-29T11:52:15.000Z",
+          "why": "קייס סטאדי רענן המדגים חיבור מוצלח בין שיווק דיגיטלי בפלטפורמת טיקטוק לחוויות שטח (IRL) בעולם האירועים והתוכן."
+        }
+      ]
+    },
+    {
+      "column": 4,
+      "name": "טק / טכנולוגיה",
+      "items": [
+        {
+          "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+          "summary": "On its face, the recent summit between Donald Trump and China’s president Xi Jinping didn’t change much in the world of AI regulation. Export controls were not discussed, with neither country seemingly interested in making concessions. An already tenuous trade truce was temporarily extended for just two months, and looming US controls that could drop soon could easily end that and trigger China to retaliate by cutting off exports of rare earths, analysts expect. However, in the background of the",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+          "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+          "source": "Ars Technica",
+          "pubDate": "2026-09-28T21:49:10.000Z",
+          "why": "ניתוח גיאו-פוליטי מהותי על צוואר הבקבוק הקריטי ביותר בתעשייה: שבבי הבינה המלאכותית של אנבידיה והמתיחות המסחרית בין ארה\"ב לסין."
+        },
+        {
+          "title": "OpenAI’s latest features take direct aim at the app store model",
+          "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+          "source": "TechCrunch",
+          "pubDate": "2026-09-29T20:15:47.000Z",
+          "why": "עוסק ברעידת אדמה אסטרטגית בעולם התוכנה – הניסיון של OpenAI להחליף את מודל חנויות האפליקציות המסורתי של אפל וגוגל."
+        },
+        {
+          "title": "Inside Microsoft’s big Copilot rethink",
+          "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI assistant as the \"OS for work.\" Microsoft is adding coding and agent capabilities directly into Copilot, as well as bringing the full power of Office into Copilot for the first time. Nadella is betting ",
+          "image": null,
+          "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+          "source": "The Verge",
+          "pubDate": "2026-10-01T16:00:00.000Z",
+          "why": "הצצה מעמיקה אל מאחורי הקלעים של מיקרוסופט והחשיבה מחדש על Copilot מול לקוחות האנטרפרייז, מעבר להייפ השיווקי."
+        },
+        {
+          "title": "The AI boom took over Climate Week and not everyone is happy about it",
+          "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+          "source": "TechCrunch",
+          "pubDate": "2026-09-28T19:21:59.000Z",
+          "why": "מציף את הבעיה הפיזית הבוערת ביותר של מהפכת ה-AI: צריכת האנרגיה האדירה של חוות השרתים וההתנגשות הבלתי נמנעת עם יעדי האקלים."
+        },
+        {
+          "title": "מה ארגונים צריכים ללמוד מהסוכנים הסוררים של OpenAI?",
+          "summary": "ביום ו' האחרון חשפה OpenAI כי סוכני בינה מלאכותית שלה \"הסתובבו\" בקיץ האחרון באתרים של שלושה גופים פדרליים אמריקניים: משרד החינוך , משרד המסחר ו הרשות לניירות ערך ולבורסות (SEC). לצערנו, החשיפה אינה עוד כותרת סנסציונית על \"בינה מלאכותית שיצאה משליטה\". מדובר בתיאור מפוכח למדי של איום מסוג חדש, שמנהלי אבטחת מידע בארגונים צריכים לשים על לוח המשימות שלהם. במשרד המסחר האמריקני, הסוכנים שלפו נתונים מאתר הלשכה לסטטיסטיקה (Census Bureau) באמצעות פרטי גישה של מפתחים שמצאו חשופים ברשת, במאגרי קוד ציבוריים.",
+          "image": "https://www.pc.co.il/wp-content/uploads/2026/07/חוות-פרצת-אבטחה.-האגינג-פייס.jpg",
+          "link": "https://www.pc.co.il/editorial/people-ai/458835/",
+          "source": "אנשים ומחשבים",
+          "pubDate": "2026-09-29T10:12:50.000Z",
+          "why": "ניתוח עומק מפוכח של פרשת חדירת הסוכנים הסוררים לאתרים ממשלתיים, הממחיש את אתגרי האבטחה הממשיים שסוכני AI מציבים לארגונים."
+        },
+        {
+          "title": "האשמות בריגול, איומים ב\"נשק גרעיני\" וקרב בתוך קרן ההון: זה כנראה הקרב הכי מלוכלך עכשיו בעולם ה-AI",
+          "summary": "מקור: עמוד לינקדאין זה לא סוד ששוק פיתוח התוכנה באמצעות סוכני AI אוטונומיים רותח, אבל בימים האחרונים נראה שהתחרות הופכת למלוכלכת במיוחד. זה קורה כששני סטארטאפים בולטים, Factory, ששוויו בגיוס האחרון עמד על 5 מיליארד דולר; ו- Cognition , שמוערך ב-48 מיליארד דולר, מנהלים קרב פומבי ומלא יצרים ברשתות החברתיות. הקרב הפומבי הזה חושף את מה שבאמת קורה מאחורי הקלעים של תעשיית ההייטק, המתח בין יזמים ומשקיעים וגם על אחת מהרעות החולות הכי גדולות של טירוף ה-AI אצל קרנות היום. היועץ ערק למתחרה במרכז הסערה עומד",
+          "image": null,
+          "link": "https://www.geektime.co.il/cognition-factory-ai-feud-khosla/",
+          "source": "גיקטיים",
+          "pubDate": "2026-10-01T06:32:40.000Z",
+          "why": "כתבה מרתקת ורוויית יצרים החושפת את מלחמת החורמה, תביעות הריגול והמאבקים הפנימיים בחזית החמה ביותר של עולם הפיתוח האוטונומי."
+        },
+        {
+          "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+          "summary": "For two decades, largely in service to the International Space Station, NASA has sought to foster an \"economy\" in low-Earth orbit. Twenty years ago, with a program to develop private spacecraft for cargo delivery to the space station, NASA sought to \"stimulate efforts within the private sector to develop and operate safe, reliable, and cost-effective commercial space transportation systems.\" In recent years this has expanded to creating an entire commercial ecosystem in orbit, with transportatio",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig-1152x648.jpg",
+          "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+          "source": "Ars Technica",
+          "pubDate": "2026-09-29T18:34:00.000Z",
+          "why": "כתבת עומק מצוינת שמספקת גיוון טכנולוגי חיוני ומנתחת את הדילמה המבנית של נאס\"א והתלות המסוכנת בצי החלליות של המגזר הפרטי."
+        }
+      ]
+    },
+    {
+      "column": 5,
+      "name": "ספורט",
+      "items": [
+        {
+          "title": "לא רק הצבעת השחקנים: כך נמנע החרם האירי על ישראל",
+          "summary": "ל-ynet נודע כי בניגוד לגרסה שהוצגה במסיבת העיתונאים של אירלנד, בכירים באופ\"א, לבקשת ההתאחדות הישראלית, הפעילו לחץ כבד על האירים והזהירו מהשלכות אפשריות. \"היה פה מזל ענק\", הודו במשלחת הישראלית",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/B162M4X9Ml/B162M4X9Ml_0_51_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/rkuf1hrqme",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-27T03:30:00.000Z",
+          "why": "חשיפה עיתונאית חשובה ובעלת ערך חדשותי גבוה על המאמצים הדיפלומטיים מאחורי הקלעים לסיכול החרם האירי."
+        },
+        {
+          "title": "כחול לבן קהה: הכשל ההתקפי של נבחרת ישראל",
+          "summary": "ההגנה קורסת ומספקת נתונים של נמושות אירופיות, אך הבעיה העמוקה של הנבחרת טמונה דווקא בחלק הקדמי † ללא תבניות משחק, עם קישור שלא מייצר מספרים, היעדר היררכיה בחוד ועידן פוסט ערן זהבי שחשף מצג שווא - הנתונים מראים כי הכשל ההתקפי עמוק לא פחות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/Bku79rK5Mx/Bku79rK5Mx_0_312_3000_1688_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/hksir1oqzl",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-30T22:30:00.000Z",
+          "why": "ניתוח טקטי מעמיק ומבוסס נתונים על הכשל המקצועי של הנבחרת, הבולט באיכותו מבין שלל טורי הדעה."
+        },
+        {
+          "title": "מגיבור לאומי לסוף הדרך: הגירושים המכוערים של רונאלדו מפורטוגל",
+          "summary": "הוא הפך את החולצה הלאומית למותג ואת עצמו לאוצר לאומי, אבל בגיל 41 הפנומן מצא את עצמו בעימות חזיתי עם המאמן ז'ורז'ה ז'סוס. ואחרי שעזב בזעם את מחנה האימונים (בעיקר בגלל אגו), גם לאוהדי פורטוגל כבר נמאס ממנו",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/r1Yb00Q2cMe/r1Yb00Q2cMe_254_438_2650_1492_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/s1klsq3cfl",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-01T22:30:00.000Z",
+          "why": "סיפור ספורטיבי בינלאומי בעל פרופיל ענק על דעיכתו וסיום דרכו הסוער של כריסטיאנו רונאלדו בנבחרת."
+        },
+        {
+          "title": "לאציו פתחה נהדר את העונה - אז למה האוהדים מחרימים אותה?",
+          "summary": "בצד אחד: אולטראס פאשיסטים. בצד השני: בעלים קומבינטור שמצפצף על האוהדים. התוצאה: חרם מינויים וטריבונות ריקות באולימפיקו. וכל זה קורה כשג'נארו גאטוסו מוביל את לאציו לפתיחה הכי מסחררת עליה יכל לחלום",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/BkfTStKcGx/BkfTStKcGx_581_0_2347_1322_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/byjtvffqme",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-30T13:00:35.000Z",
+          "why": "כתבת מגזין עמוקה ומרתקת על המתח בין הצלחה על המגרש לבין מאבקי אוהדים, פוליטיקה והנהלה בלאציו."
+        },
+        {
+          "title": "מחפשת תיקון: האתגר הענק של הפועל ירושלים",
+          "summary": "עם תקציב גדול יותר, מאמן מנוסה יותר, זרים נוצצים יותר – אבל בלי המנהיג הפצוע – הפועל ירושלים מגיעה ליורוקאפ עם מטרה מרכזית ברורה: למחוק את כישלון העונה שעברה, לזכות בגביע ולעלות ליורוליג . מסתערים על אירופה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/BJpBiS00qMe/BJpBiS00qMe_0_0_1600_901_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelibasketball/article/b1dbshu5gx",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-28T22:30:00.000Z",
+          "why": "סקירת עומק מקיפה על השאיפות, התקציב והסגל של הפועל ירושלים לקראת מסעה האירופי, המגוונת את הגיליון לתחום הכדורסל."
+        },
+        {
+          "title": "השורשים הישראליים של כוכב נבחרת אירלנד - והסערה הגדולה",
+          "summary": "סבו הוא הפסל נחמיה עזז ז\"ל, ששירת בחיל השריון במלחמת העצמאות. אמו היא ישראלית וכעת, רגע לפני המפגש מול החבורה של רן בן שמעון (21:45) בליגת האומות, פין עזז מצא את עצמו בלב הסערה בנבחרת אירלנד. הסיבה? לפי דיווחים נשא דברים בפני חבריו והציג בפניהם את \"נקודת המבט הישראלית\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/SyS71158cMg/SyS71158cMg_0_72_1024_577_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/syunequcgg",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-09-27T12:58:09.000Z",
+          "why": "זווית אנושית ומסקרנת המוסיפה צבע ועניין אישי מיוחד לפרשת המשחק מול אירלנד."
+        }
+      ]
+    }
+  ]
 }
