@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T03:23:49.725Z",
+  "generatedAt": "2026-10-04T03:23:23.367Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -365,6 +365,292 @@
         4
       ],
       "column": 4
+    },
+    {
+      "title": "ממלכתית, \"לאומית\" או משהו אחר: איך המפלגות רוצות לחקור את 7/10?",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14915209",
+      "pubDate": "2026-10-04T03:11:28.000Z",
+      "summary": "באופוזיציה מבטיחים להקים ועדה ממלכתית על פי חוק ב\"יום הראשון\", במפלגות החדשות מציעים שלל נוסחאות, אך בליכוד ובשאר מפלגות הקואליציה - למעט אחת - סירבו להגיב לשאלה כיצד יייחקר המחדל הקשה בתולדות המדינה, שאירע במשמרתן. מה התוכנית של המפלגות בנושאים הבוערים: כתבה רביעית בסדרה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/07/Hk1rKqCg6/Hk1rKqCg6_0_42_1280_721_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "זום מהקוקפיט על מטוס אל על, ב-11/10: סרטוני הטייס-מחבל - וכל מה שידוע עליו",
+      "link": "https://www.ynet.co.il/news/article/hkddos05zg",
+      "pubDate": "2026-10-03T21:42:04.000Z",
+      "summary": "שעות לאחר ניסיון ריסוק המטוס, פורסמו שני סרטונים בפרופיל של המאם אל-המאמי: CNN חשף את אותם סרטונים, שבהם נראו מטוסים ישראליים ימים אחרי הטבח - ותמונת מנהיג אל-קאעידה. מהלימודים במוסד בריטי, דרך ההקצנה בסוריה ועד לסילוק משתי חברות תעופה: כל הפרטים הידועים על הטייס שניסה לרסק את מטוס פליי דובאי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/BkDziRCqMg/BkDziRCqMg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "כולם מתנערים, משרד התחבורה \"לא משך נתונים שנתיים\" ומגיב: \"בטוח לטוס? אין 100%\"",
+      "link": "https://www.ynet.co.il/news/article/byu70hc9fx",
+      "pubDate": "2026-10-03T21:26:31.000Z",
+      "summary": "העובדות: ישראל קיבלה מראש את רשימת נוסעי טיסת פליי דובאי, כולל הטייס-מחבל מעומאן. מי שאמון על הבדיקה הוא משרד התחבורה, שמאשר הגעת חברות זרות, אך שם טענו: \"אנו לא גוף מודיעיני\". גם לשב\"כ, למוסד ולמשטרה יש גישה לנתונים שמועברים לרשות המיסים. המחדל: ייתכן שזו לא הייתה הפעם הראשונה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/Bk6kckJsGg/Bk6kckJsGg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "טרור אנטי-ציוני",
+      "link": "https://www.ynet.co.il/news/article/yokra14916348",
+      "pubDate": "2026-10-03T21:03:00.000Z",
+      "summary": "קל מאוד להגיד אנטישמיות. קל מאוד לומר \"אירופה\". אבל כן, זה אנחנו. זה גם בגללנו",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/SJ001EHA5fl/SJ001EHA5fl_0_250_1200_676_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "סכנת מלחמת דת בפנינו",
+      "link": "https://www.ynet.co.il/news/article/yokra14916404",
+      "pubDate": "2026-10-03T21:03:00.000Z",
+      "summary": "במשך שנים קיוותה ישראל שהמאבק בינה לבין אויביה לא יהיה דתי, אך חיזוק היסודות הדתיים במדיניות בהקשר הפלסטיני רק מוריד את הסיכוי לפתרון",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/30/H1l00LZiurGe/H1l00LZiurGe_0_141_1280_721_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "זה בידיים שלנו",
+      "link": "https://www.ynet.co.il/news/article/yokra14916222",
+      "pubDate": "2026-10-03T21:03:00.000Z",
+      "summary": "אחרי שלוש שנים של גיהינום, אנחנו לא רק רוצים להיות מוגנים מפני העתיד – אלא מייחלים שבכלל יהיה לנו כזה. וזה תלוי אך ורק במה שנבחר ב-27 באוקטובר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/03/02/9820362/9820362_0_0_1280_721_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מי יעצור את צו 8",
+      "link": "https://www.ynet.co.il/news/article/yokra14915998",
+      "pubDate": "2026-10-03T21:03:00.000Z",
+      "summary": "חוק שירות המילואים קובע כי שר הביטחון רשאי, בנסיבות חירום ולאחר ששוכנע שביטחון המדינה מחייב זאת, לקרוא לכל חייל מילואים להתייצב ולשרת כל זמן שהצו בתוקפו. לא מצב ביטחוני מורכב, לא צורך מבצעי מתמשך ולא ריבוי זירות. נסיבות חירום",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/30/rkWwelTZEZx/rkWwelTZEZx_0_92_628_354_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "גם הימין וגם השמאל נדבקים לקצה",
+      "link": "https://www.ynet.co.il/news/article/yokra14916025",
+      "pubDate": "2026-10-03T21:00:00.000Z",
+      "summary": "הסקרים לא זזים כי אף גוש לא מוכן להיפרד מהקצה שלו. האופוזיציה לא מעיזה לריב עם יאיר גולן, הקואליציה לא מעיזה לריב עם בן גביר, ושתיהן מצפות מהמצביע המתלבט לעשות את מה שהן עצמן מפחדות לעשות ו\"לסנן\" את הקצוות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/10/20/rkWqvw1kVj/rkWqvw1kVj_874_983_1734_976_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "איש אבטחת המידע צפה בעובדות דרך מצלמת הלפטופ: \"פשוט הביט בה בחדר במלון\"",
+      "link": "https://www.ynet.co.il/news/article/skmgnmf5ze",
+      "pubDate": "2026-10-03T19:01:40.000Z",
+      "summary": "חוקרי יחידת הסייבר בלהב 433 חשבו שמדובר בסוכנים איראנים או בהאקרים שבקרוב יבקשו כופר או ינסו לייצר כאוס בישראל. בתום חקירה גילו: מיקי בר מאשקלון פיתח במשך שנים תוכנות זדוניות, נעזר בקלוד - ופרץ לעשרות חברות. כך, ממשרדו, הגיע למחשבים האישיים של עובדות, וצפה בהן בביתן, במצבים אינטימיים - וגם בילדיהן. אולם הצד המיני לא מופיע באישום - אז מה המניע של \"גאון המחשבים\"?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/HyeBn9ps5Gx/HyeBn9ps5Gx_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "עיני פחם מדבר: המתווך הסודי בין השב\"כ לסינוואר בריאיון מיוחד",
+      "link": "https://www.mako.co.il/news-military/2026_q4/Article-6aff528612301a1026.htm",
+      "pubDate": "2026-10-03T18:58:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "וינטר בעד התיישבות בעזה, ונגד ועדת חקירה ממלכתית: \"נמליץ על נתניהו\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14914571",
+      "pubDate": "2026-10-03T18:22:03.000Z",
+      "summary": "כשהוא תחת ביקורת גם מהקואליציה, עופר וינטר נכנס לישורת האחרונה של קמפיין הבחירות. למרות אכזבתו מתוצאות המלחמה (\"אנחנו עדיין בקונספציה\"), הוא מבהיר שלמחנה השינוי אין מה לבנות עליו: \"לא סומך על איזנקוט כראש ממשלה\". ומה לגבי חבירה לליברמן? \"אשמח שיצטרף לממשלת ימין רחבה\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/yk14914478/yk14914478_0_30_933_525_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "המסר הסמוי של גנץ: אתמודד רק אם אהיה בטוח שאעבור את אחוז החסימה",
+      "link": "https://www.ynet.co.il/news/elections2026/article/b1samtc9mg",
+      "pubDate": "2026-10-03T18:21:50.000Z",
+      "summary": "על רקע הדשדוש בסקרים, שבאף אחד מהם הוא אינו עובר את אחוז החסימה, יו\"ר כחול לבן פרסם סרטון בניסיון לשכנע מצביעים. למרות שטען כי הוא \"עומד מאחורי ההחלטה להתמודד\", בסביבתו מבהירים שהוא לא יזרוק את קולות המצביעים לפח: \"האמון שלכם קודש עבורי\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/HyVg26hNBGe/HyVg26hNBGe_0_0_845_475_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ההרוג בהתרסקות המטוס בוואדי ערה: ערן פלג, טייס קרב לשעבר ויזם סטארט-אפ",
+      "link": "https://www.ynet.co.il/news/article/hyiuvgaqfg",
+      "pubDate": "2026-10-03T17:21:19.000Z",
+      "summary": "פלג, בן 75, נהרג בהתרסקות ליד כפר קרע, שבה נפצע הטייס, בן 33. ב-2020 סיפר על המעבר מחיל האוויר לעולם ההייטק ועל המיזם שהקים עם טייס ארקיע הדרוזי איאד בדר: \"אם אני והטכנולוגיה שפיתחתי נוכל לתרום משהו, אעשה זאת בשמחה\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/Bk7Xt2CcGe/Bk7Xt2CcGe_0_421_616_347_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ישראל לא יכולה להיות דמוקרטיה ליהודים בלבד",
+      "link": "https://www.ynet.co.il/news/article/hkzsehc5gg",
+      "pubDate": "2026-10-03T17:04:30.000Z",
+      "summary": "עצם הניסיון לפסול את כל המפלגות הערביות, לצד העובדה שגם מנהיגי האופוזיציה שוללים מראש הקמת ממשלה איתן, גורמים לי לשאול: מה הופך ארץ לקדושה אם לא כל מי שחיים בה יכולים להיות שותפים בקביעת העתיד?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/HJ07DSVBEzx/HJ07DSVBEzx_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "בלבולי זיתים: מה באמת היה בכלא קציעות עם מזון האסירים",
+      "link": "https://www.ynet.co.il/news/article/bk3jjcaqgg",
+      "pubDate": "2026-10-03T15:02:13.000Z",
+      "summary": "השר לביטחון לאומי התגאה שהקפיץ את כלא קציעות על שני זיתים עודפים לדבריו. מה שהוא לא סיפר זה שהוא אחראי לתפריט",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/HkBKNPz5fl/HkBKNPz5fl_544_119_1557_877_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הבעיה העמוקה שחשפה התקרית במטוס על אבטחת הטיסות לישראל",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-b763ccd3dd101a1026.htm",
+      "pubDate": "2026-10-03T14:51:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מדד מחירי המזון העולמי בשיא של ארבע שנים, כך זה משפיע על ישראל",
+      "link": "https://www.mako.co.il/finances-news/Article-ed88e66981101a1027.htm",
+      "pubDate": "2026-10-03T09:20:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "pubDate": "2026-10-03T14:00:00.000Z",
+      "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "מגייסת טוענת: מועמדים לא מתקבלים לעבודה בגלל האייס קפה שלהם",
+      "link": "https://www.geektime.co.il/ice-coffee-job-interview-debate/",
+      "pubDate": "2026-10-03T08:29:40.000Z",
+      "summary": "תמונה: Pexels זה לא זמן פשוט לחפש בו משרה חדשה כמעט בכל תחום, ועל אחת כמה וכמה בתחום ההייטק. בשוק המעסיקים של היום, לא נדיר למצוא עשרות ומאות מתחרים על משרה, יש משרות רפאים משונות ומנגנוני AI, שדואגים לסנן אתכם עוד לפני שאתם מגיעים למגייסים האנושיים. אבל גם כשאתם מגיעים לפגישות, יש טעות קריטית אחת שגורמת למגייסים לוותר עליכם כבר ברגע הראשון, כך לפחות עולה מהתובנות שמשתפת מגייסת בכירה אחת, שיצרה סערה בכוס… קפה. אל תיכנסו לראיון עם משקה קייטלין ווניאנין עוסקת בתחום ה-HR והגיוסים כבר יותר מ-16 שנים",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "זה ילד זה? הישראלי בן ה-18 שיכול להביא זהב מפתיע בג'ודו",
+      "link": "https://www.ynet.co.il/sport/article/hyl51crqmg",
+      "pubDate": "2026-10-03T22:30:00.000Z",
+      "summary": "לפני כמה שנים הוא הגיע במקרה לחוג ג'ודו בקאנטרי בראשל\"צ, והיום כבר מפרק יריבים מנוסים ומעוטרים † בגיל 18 בלבד, יצחק אשפיז נכנס לוואקום בנבחרת ומגיע לאליפות העולם אחרי שנת פריצה שהפכה אותו לאחד השמות החמים בסבב ולתקווה הגדולה למדליה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/B1ow1CC5fx/B1ow1CC5fx_0_0_2126_1197_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "מעצמת ג'ודו? ההחלטה התמוהה של האיגוד שעולה למשלחת הישראלית במדליות",
+      "link": "https://www.ynet.co.il/sport/article/hjmchd6qzg",
+      "pubDate": "2026-10-03T05:30:23.000Z",
+      "summary": "למרות מדליה אולימפית בטוקיו 2020 ועוד אחת באליפות העולם ב-2022, במשלחת הישראלית מזניחים את הקטגוריה הקבוצתית בתחרויות הג'ודו השונות, וכך יהיה גם באליפות העולם שתיפתח מחר בבאקו. גורם בסביבת האיגוד תולה את האשם בחוסר העומק בנבחרת הגברים: \"חוץ מיצחק אשפיז, איזה מתחרה טוב יש כרגע?\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/04/10863532/10863532_0_42_1300_732_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "אדישה, חלשה וכבויה - מכבי ת\"א הזכירה את נבחרת הכדורגל מול אירלנד | טור",
+      "link": "https://www.ynet.co.il/sport/article/s1b3vzc5fg",
+      "pubDate": "2026-10-03T05:00:23.000Z",
+      "summary": "למרות שעל הנייר היא בנתה סגל לא רע בכלל, בטח יחסית לעונות הקודמות, הקבוצה של עודד קטש הגיעה לא מוכנה כלל לעונה הנוכחית ולא מצליחה להסתדר עם הפיזיות של היריבות - מה שבא לידי ביטוי באופן מובהק מול פנאתינייקוס. לעומת זאת, הפועל ת\"א הוכיחה מול ריאל שהיא יכולה לנצח כל קבוצה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/BJZ6gJt65Mg/BJZ6gJt65Mg_267_49_843_475_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
     }
   ]
 }

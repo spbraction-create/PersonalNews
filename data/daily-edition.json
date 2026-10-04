@@ -1,279 +1,351 @@
 {
-  "generatedAt": "2026-10-03T03:21:32.532Z",
+  "generatedAt": "2026-10-04T03:21:24.683Z",
   "columns": [
     {
       "column": 1,
       "name": "חדשות / אקטואליה",
-      "brief": "במוקד היממה האחרונה עומדות ההתפתחויות סביב ניסיון ריסוק טיסת \"פליי דובאי\" בדרכה לתל אביב: איחוד האמירויות הגדירה רשמית את האירוע כ\"פעולת טרור\", וראש הממשלה נתניהו איים כי אם טייס המשנה העומאני הופעל בידי גורם חיצוני – \"הוא ישלם מחיר כבד מאוד\". לפי ה\"וול סטריט ג'ורנל\", עומאן זיהתה בעבר הקצנה אסלאמיסטית אצל הטייס, אף שבמערכת הביטחון הישראלית מעריכים כי פעל על דעת עצמו. במקביל, הוסרו המכשולים והחלה השבת הישראלים שנתקעו באמירויות, עם נחיתת טיסת חילוץ ראשונה בנתב\"ג.\n\nבזירה הפוליטית המקומית, בית המשפט העליון הפך את החלטות ועדת הבחירות המרכזית ואישר פה אחד את התמודדותן של רע\"מ והרשימה המשותפת, וכן את מועמדותו של ח\"כ עופר כסיף ברוב דעות. מנגד, יו\"ר בל\"ד, סאמי אבו שחאדה, הודיע על פרישה מהמרוץ בעקבות איתות ברור מהשופטים כי קיים רוב לפסילתו בגין מאמר שפרסם ב-8 באוקטובר.\n\nבמישור הבינלאומי והאזורי, ארצות הברית הגישה כתבי אישום נגד שלושה אזרחים אמריקנים ומחבל עזתי, שגייסו מעל 1.7 מיליון דולר עבור חמאס במסווה של סיוע הומניטרי לפצועים. במקביל, גוברת הדריכות סביב נתיבי השיט בים האדום: לצד דיווחים על כוונת שש מדינות להצטרף ל\"ברית מכה\" האזורית לצד סעודיה וטורקיה, בריאד נערכים באופן עצמאי לפעולה צבאית נרחבת נגד המורדים החות'ים בתימן.",
+      "brief": "צה\"ל ניסה לחסל ברצועת עזה את עלי אל-עאמודי, שסומן כמחליפו של יחיא סינוואר, בעוד שבוושינגטון קיים הקבינט הביטחוני של טראמפ דיון אסטרטגי בהמשך המערכה מול איראן. בתוך כך, מערכת הביטחון בודקת חשד כי טייסים בעלי אזרחות איראנית נחתו לאחרונה בישראל, ובמקביל נחשפו פרטי ניסיון תקיפה חריג בקוקפיט, שבו קברניט הודי נאבק ובלם את טייס המשנה שלו שתקף אותו במהלך טיסה.\n\nבגזרה הצפונית, שני לוחמי בה\"ד 1 נפצעו קשה ובינוני מפיצוץ רימון שהושלך באופן לקוי במהלך פעילות בדרום לבנון, ושמונה נוספים נפצעו קל בתאונה מבצעית. במישור הלאומי פורסמו נתונים קשים של הביטוח הלאומי, לפיהם מעל 87 אלף ישראלים הוכרו כנפגעי פעולות איבה מאז 7 באוקטובר – רובם על רקע פגיעה נפשית. במקביל, \"מועצת אוקטובר\" של משפחות הנרצחים הציגה תחקיר עצמאי המצביע על התרעות מפורשות שהועברו לראש הממשלה ערב המתקפה, לצד הקלטה מצמררת של התצפיתנית נועה מרציאנו ז\"ל מהשבי, וברקע נחשפו חילופי דברים מתוחים בין נתניהו לרמטכ\"ל הלוי סביב סוגיית אי-ההתייצבות למילואים.\n\nבזירת הפנים, יו\"ר נתיבי איילון המודח, עידן דוד, נחקר באזהרה בלהב 433 בחשד לזיוף מסמכים ושבועת שקר לצורך קידום מינויו. בצפון, 20 צוותי כיבוי נאבקו שעות בשריפה גדולה שפרצה באתר פסולת בעוספיא ואיימה להתפשט לפארק הכרמל ולשכונות סמוכות.",
       "cards": [
         {
-          "title": "העליון הפך את החלטת ועדת הבחירות: רע\"מ, הרשימה המשותפת וכסיף יוכלו להתמודד",
-          "summary": "השופטים קבעו פה אחד כי החלטות ועדת הבחירות המרכזית לפסול את רע\"מ והרשימה המשותפת לא עומדות באמות המידה שנקבעו בפסיקה כדי לעשות זאת. מנגד, בפסילת כסיף תמכו השופטים שטיין ומינץ בדעת מיעוט: \"תמיכה במאבק מזוין נגד מדינת ישראל\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/BJ3oRlT9ze/BJ3oRlT9ze_0_0_850_479_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/elections2026/article/hjw00hep9mx",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T09:50:42.000Z"
+          "title": "צה\"ל ניסה לחסל את עלי אל-עאמודי, מחליפו של סינוואר",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-military/2026_q4/Article-eab4355982001a1026.htm",
+          "source": "mako / N12 — חדשות (sitemap)",
+          "pubDate": "2026-10-03T06:39:00.000Z"
         },
         {
-          "title": "לראשונה: באמירויות מגדירים את ניסיון ריסוק המטוס \"פעולת טרור\"",
-          "summary": "פיגוע בדרך לתל אביב, גם בעיני אבו דאבי: יממה אחרי העברת החקירה, ובצל עדותו של הטייס הגיבור, כתב יועצו של נשיא האמירויות כי \"מול פעולת טרור מסוכנת ואסון אפשרי, הוא גילם את המשמעות האמיתית של אומץ ואחריות\". רה\"מ רמז כי ייתכן וגורם כלשהו עומד מאחורי ניסיון הריסוק: \"אם מישהו שלח אותו - הוא ישלם מחיר כבד\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/ByejlM69ze/ByejlM69ze_0_0_850_479_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/s18rabp5ml",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T10:55:26.000Z"
+          "title": "הקבינט הביטחוני של טראמפ דן בהמשך המלחמה באיראן",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-world/2026_q4/Article-6f040e6f18ff0a1026.htm",
+          "source": "mako / N12 — חדשות (sitemap)",
+          "pubDate": "2026-10-03T03:34:00.000Z"
         },
         {
-          "title": "נתניהו: אם מישהו שלח את הטייס - הוא ישלם מחיר כבד מאוד",
-          "summary": "בשעה שהחקירה מתנהלת ועדיין לא ברור אם טייס המשנה העומאני שניסה לרסק את טיסת פליי דובאי פעל על דעת עצמו או בהכוונת גורם מסוים, רה\"מ כבר איים: \"אם הוא נשלח, מי ששלח אותו ישלם מחיר כבד מאוד\". באמירויות הגדירו את המקרה \"פעולת טרור\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/Skq6ruocMe/Skq6ruocMe_0_0_850_479_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/hjtl5qa5zg",
+          "title": "הקברניט ההודי חושף: \"טייס המשנה התפלל - ואז היכה אותי מאחור שוב ושוב\"",
+          "summary": "סמית מאצ'צ'אר סיפר כי המאם אל-המאמי התפלל בקוקפיט: \"הסתכלתי קדימה, ואז הרגשתי מכה חזקה לחלק האחורי של הראש שלי\". בשיחה עם נתניהו, אמר לו הגיבור ההודי: \"חשבתי שנגרם נזק קטסטרופלי למטוס, ואז הבנתי - זה לא המטוס, זה הבחור שלידי. הרגשתי שנותר לי מאבק אחד אחרון, ואז הסתערתי לעבר הדלת\". ד\"ר שוטה מוסייב שטיפל בו חגג בשמחת תורה: \"המתנה הכי גדולה - אנחנו חיים\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/ryLdNpC9zg/ryLdNpC9zg_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/bk1fwaaqfg",
           "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T13:00:33.000Z"
+          "pubDate": "2026-10-03T18:01:31.000Z"
         },
         {
-          "title": "אחרי המאמר מ-8/10, וה\"עצה\" מנשיא העליון: יו\"ר בל\"ד פרש מהתמודדות לכנסת",
-          "summary": "סאמי אבו שחאדה, שהמאמר שלו ביום שלאחר טבח חמאס כונה \"תמיכה בטרור\" והוביל לפסילתו על ידי ועדת הבחירות, ביקש בפני שופטי העליון להפוך את ההחלטה - אבל לאחר שאלו אמרו לו כי יש רוב לפסילתו, הוא הסיר את מועמדותו. בל\"ד: \"שאלות חמורות בנוגע לגבולות הלגיטימיות הפוליטית של אזרחים ערבים\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/10/06/BklyVlH3Gi/BklyVlH3Gi_0_295_2411_1358_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/elections2026/article/sj00kfs2cge",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T09:35:58.000Z"
+          "title": "נבדק: טייסים עם אזרחות איראנית נחתו בישראל לאחרונה",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-military/2026_q4/Article-f9ea7956bc201a1027.htm",
+          "source": "mako / N12 — חדשות (sitemap)",
+          "pubDate": "2026-10-03T17:43:00.000Z"
         },
         {
-          "title": "הרוג ופצוע קשה בהתרסקות מטוס קל בוואדי ערה | תיעוד מהזירה",
-          "summary": "מהמטוס שהתרסק ליד כפר קרע חולץ פצוע שפונה לרמב\"ם. לוחמי האש נאבקו למנוע התפשטות של שריפה לבתים",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/H1zNyyTqfl/H1zNyyTqfl_0_240_1280_721_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/h1l3a6h5fg",
+          "title": "תחקיר משפחות 7/10, וההקלטה של נועה שנרצחה בשבי: \"אני בעזה כבר 4 ימים\"",
+          "summary": "שבוע ה-3 שנים לטבח נפתח: משפחות \"מועצת אוקטובר\" חשפו פרטים מהחקירה העצמאית שערכו, מפי \"בכירים שהיו בחדרי מקבלי ההחלטות\": \"ראש השב\"כ אמר לנתניהו שסינוואר מדבר על משהו גדול. רה\"מ מפרסם פרוטוקולים חלקיים, המסמכים המלאים מעידים על פיצוץ מתקרב\". אביה של התצפיתנית נועה מרציאנו ז\"ל השמיע הקלטה שלה: \"אנחנו יכולים למות מהטילים\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/11/14/ByQSWpgEp/ByQSWpgEp_0_59_610_344_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/h1hw4i09zg",
           "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T06:30:20.000Z"
+          "pubDate": "2026-10-03T17:33:55.000Z"
         },
         {
-          "title": "הוסרו המכשולים: טיסה ראשונה להשבת ישראלים מדובאי נחתה בנתב\"ג | תיעוד",
-          "summary": "טיסת ארקיע יצאה מנמל התעופה בדובאי, אחרי שבאמירויות דרשו מוקדם יותר לצרף לכל מטוס נוסעים גם מטוס מטען שייקח את מזוודות הנוסעים ארצה. בהמשך תצא טיסה נוספת של ישראייר",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/rJGxn1YTqzl/rJGxn1YTqzl_0_305_576_325_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/b1azbdpqze",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T22:24:10.000Z"
+          "title": "חשיפה | השיחה בין נתניהו להרצי סביב אי-התייצבות למילואים",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-military/2026_q4/Article-bc10b0155b201a1026.htm",
+          "source": "mako / N12 — חדשות (sitemap)",
+          "pubDate": "2026-10-03T17:14:00.000Z"
         },
         {
-          "title": "יותר מ-1.7 מיליון הועברו לחמאס: אזרחי ארה\"ב גייסו כספים \"למשפחות בעזה\"",
-          "summary": "ארבעה כתבי אישום הוגשו בארה\"ב נגד מחבל חמאס סלים אלזאק מעזה ושלושה אמריקנים, בהם זוג אחים מלואיזיאנה, שגייסו במהלך המלחמה כספים לארגון הטרור. הם טענו שהכספים מועברים לאזרחים פצועים ברצועה ונמנעו במכוון מפרסום \"Free Palestine\" ברשתות החברתיות",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/17/Hkxb1zudeZx/Hkxb1zudeZx_0_59_1620_912_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/r1wunda9me",
+          "title": "רימון הושלך באופן לא תקין בדרום לבנון, שני לוחמים נפצעו קשה ובינוני",
+          "summary": "כוח של צוערי בה\"ד 1 פעל בכפר מג'דל זון כשאחד הלוחמים השליך רימון במהלך פעילות מבצעית ונפגע יחד עם לוחם נוסף. השניים פונו לבית החולים, ובצה\"ל בודקים את אופן ההשלכה והאם הרימון פגע בעצם שגרם לפיצוץ סמוך לכוח. בתקרית נפרדת נפצעו 8 חיילים קל בתאונת דרכים מבצעית בדרום לבנון",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/15/B111UI952h11e/B111UI952h11e_1_166_1601_901_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/s1pwbcr5ze",
           "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T22:45:20.000Z"
+          "pubDate": "2026-10-04T03:01:48.000Z"
         },
         {
-          "title": "שוטרים שברו אף ויד בעימות עם מתנחלים - ונדהמו: \"בן גביר הגיע והתעלם\"",
-          "summary": "כוח של מחוז ש\"י הגיע למצפה יריחו כדי לעצור חשוד, ואז החלו העימותים: 3 שוטרים הותקפו וצמיגים של ניידת נחתכו בסכין. לפי עדות קצין משטרה שדיבר עם ynet, בן גביר, שהגיע למקום, התנהל באופן כוחני: \"הלך כאילו הוא בעל הבית\". השר לביטחון לאומי טוען שהגיע למקום כדי להשתתף באזכרה, ומכחיש את הטענות",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/14/S1Apuj7Jfl/S1Apuj7Jfl_0_0_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/elections2026/article/r1wehgtczx",
+          "title": "יותר מ-87 אלף נפגעי פעולות איבה מאז 7/10. רוב הנכויות שהוכרו - נפשיות",
+          "summary": "ערב יום השנה השלישי לטבח, הביטוח הלאומי ומשרד הביטחון מפרסמים את נתוני הנפגעים במלחמה: 1,029 אזרחים נרצחו מאז 7/10, בהם 63 ילדים ובני נוער. כ-40 אלף הוכרו כבעלי נכות, רובם על רקע נפשי, ויותר מ-6 מיליארד שקלים שולמו לנפגעי האיבה, למשפחות החללים ולמשפחות החטופים. כל המספרים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/07/Hk1rKqCg6/Hk1rKqCg6_178_119_953_537_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/yokra14915944",
           "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T09:30:34.000Z"
+          "pubDate": "2026-10-04T03:00:03.000Z"
         },
         {
-          "title": "דיווח: עומאן אסרה בעבר על טייס המשנה לטוס בגלל שעבר \"רדיקליזציה איסלאמית\"",
-          "summary": "\"וול סטריט ג'ורנל\": עומאן זיהתה בעבר כי טייס המשנה שניסה לרסק את טיסת פליי דובאי עבר תהליכים של הקצנה. למרות זאת, הוא המשיך לטוס בקו הרגיש לישראל. בניגוד לנתניהו שרמז להכוונה או למעורבות של גורמים עוינים, במערכת הביטחון מעריכים: טייס המשנה פעל לבד, על דעת עצמו",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/rJxxbi113qGl/rJxxbi113qGl_1_339_610_344_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/hjv2tt6cfe",
+          "title": "20 צוותים הוזעקו: שריפה גדולה ליד יערות הכרמל, תושבים הונחו להסתגר בבתים",
+          "summary": "שריפה פרצה באתר פסולת בעוספיא, 20 צוותי כיבוי הוזעקו ומנסים למנוע מהאש להתפשט לפארק הכרמל ולשכונות הסמוכות",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/BJbtNA309Gg/BJbtNA309Gg_10_0_1050_591_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/rybap3r9gx",
           "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T21:11:59.000Z"
+          "pubDate": "2026-10-03T17:49:37.000Z"
         },
         {
-          "title": "הברית שלא הגנה על סעודיה \"תצרף מדינות חדשות\", דיווח: \"היערכות למבצע בים האדום\"",
-          "summary": "שר החוץ של פקיסטן טען כי שש מדינות מעוניינות להצטרף ל\"ברית מכה\", שבה חברות גם טורקיה וסעודיה. לדבריו, המדינות שהתחייבו כי מתקפה על אחת מהן היא מתקפה על כולן ינקטו \"בשיח פוליטי\" מול החות'ים. רויטרס: הסעודים נערכים לבד לפעולה נרחבת נגד המורדים, שבה ישתתפו מעל \"100,000 חיילים תימנים\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/25/SyT02ibxzx/SyT02ibxzx_0_0_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/r1kflhaqgg",
+          "title": "חשד לשבועת שקר וזיוף מסמכים: היו\"ר המודח של נתיבי איילון נחקר באזהרה בלהב 433",
+          "summary": "ביחידה הארצית למאבק בחקירות הונאה בודקים אם עידן דוד ביצע עבירות חמורות כדי להשתלט על החברה ששווה מיליארדים. הפרשה שמביכה את בכירי הליכוד, ובהם מירי רגב ודודי אמסלם, תאלץ את גורמי האכיפה לברר איך ברשות החברות אישרו את המינוי הפוליטי ללא בדיקת עומק של נתוני המועמד לתפקיד",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/SJzxKphcMe/SJzxKphcMe_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/news/article/hjqajjhcge",
           "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T17:43:05.000Z"
-        }
-      ]
-    },
-    {
-      "column": 2,
-      "name": "כלכלה / עסקים",
-      "brief": "פסיקה משמעותית בענף הנדל\"ן המקומי מחדדת את גבולות תכנוני המס ומבהירה כי החלטות מיסוי היסטוריות אינן ניתנות לביטול רטרואקטיבי מטעמי כדאיות כלכלית. בית המשפט דחה את בקשתה של חברה שהחזיקה בבניין בתל אביב להשיב לקופת המדינה מס תשומות בסך של כ-574 אלף שקל, שאותו ניכתה בעת רכישת הנכס שנים קודם לכן. מטרת הצעד הייתה לאפשר לחברה ליהנות מפטור ממע\"מ בעת מכירת הבניין — מהלך שנועד לחסוך לה חיוב מס בהיקף של מיליוני שקלים.\n\nההכרעה השיפוטית מבצרת את עמדת רשות המסים וקובעת כי פעולת הקיזוז שבוצעה בעבר היא סופית ומחייבת, ואינה ניתנת ל\"תיקון לאחור\" רק משום שתנאי השוק או אופי העסקה העתידית הופכים את החזרת המס המקורי למשתלמת יותר. עבור שוק הנדל\"ן, יזמים ומשקיעים, מדובר בתזכורת מהותית לחשיבותה של אסטרטגיית המס כבר בשלב הרכישה: ניצול הטבת מס נקודתית בעת הקנייה עשוי לחסום באופן בלתי הפיך הטבות ופטורים משמעותיים בהרבה בעת מימוש הנכס בעתיד. פסק הדין מחזק את עיקרון הוודאות והעקביות בדיווחי המס, וסוגר את הדלת בפני ניסיונות להנדס פטורים בדיעבד.",
-      "cards": [
-        {
-          "title": "קיזזה מע\"מ ברכישת בניין - ולא תקבל פטור במכירתו",
-          "summary": "חברה שהחזיקה בבניין בת\"א ביקשה להחזיר למדינה כ-574 אלף שקל שניכתה שנים קודם לכן, כדי לחסוך חיוב מס של מיליוני שקלים. בית המשפט דחה אותה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/11/16/7389070/7389070_0_0_1000_563_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/b1b6n59czx",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-02T05:28:23.000Z"
+          "pubDate": "2026-10-03T17:08:21.000Z"
         }
       ]
     },
     {
       "column": 3,
       "name": "שיווק / פרסום",
-      "brief": "זעזוע בצמרת הפרסום העולמית: ג'ון קוק מסיים שלושה עשורים בסוכנות VML ופורש מתפקידו כמוביל הקריאייטיב של ענקית הפרסום WPP, כאשר אריק קמפבל מונה למחליפו. במקביל, בצומת שבין טכנולוגיה למימון, אמזון ואנבידיה חשפו עסקת ענק חריגה בהיקף של 8 מיליארד דולר, שבמסגרתה שבבי AI מועברים אל מחוץ למאזן הפיננסי של אמזון כנכס מניב — מודל שעשוי להגדיר מחדש את מימון תשתיות הבינה המלאכותית בעולם.\n\nבעולם המדיה האמריקאי, מנכ\"ל CNN מארק תומפסון נועד עם הבעלים החדשים של הרשת בדרישה להבטיח את עצמאותה המערכתית, זאת בצל קרב רייטינג צמוד במיוחד מול MS NOW. בזירת הקמפיינים הבינלאומית, מותג הספורט Asics השיק מהלך יצירתי בדמות סרט טבע סאטירי בקולה של סיגורני וויבר לקראת יום בריאות הנפש, ואילו Waze רותמת את ממשק הניווט בישראל ובארה\"ב לחודש המודעות לסרטן השד באמצעות מסרים מותאמים, בשיתוף עמותת \"אחת מתשע\".\n\nבזירה הפוליטית-תקשורתית בישראל, קמפיין הליכוד מחדד מסרים עם התייצבותו של יעקב ברדוגו בחזית סרטוני התעמולה לצד ראש הממשלה, לצד ביקורת ציבורית על הדרת שרים בולטים מהשטח ובהם דודי אמסלם. מעבר לים, עולם שידורי הספורט רושם משבר תדמיתי מהיר, לאחר שקבוצת ה-NBA פורטלנד טרייל בלייזרס פיטרה לאלתר את שדר הטלוויזיה החדש שלה בעקבות חשיפת ציוצים פוגעניים מעברו.",
+      "brief": "בזירה המשפטית והתקשורתית, יו\"ר המחנה הממלכתי בני גנץ ניצח בתביעת דיבה נגד אזרח שהאשים אותו במעורבות במתקפת השבעה באוקטובר, ובית המשפט פסק לטובתו פיצויים. במקביל, השר לביטחון לאומי איתמר בן גביר שיגר התראת תביעת לשון הרע בסך של יותר ממיליון שקלים נגד אתר ynet והכתב לירן תמרי, בטענה להכפשה מכוונת סביב יחסיו עם המשטרה ותושבי יהודה ושומרון.\n\nהחיכוך בין הדרג הפוליטי לאנשי התקשורת החריף: השר עמיחי שיקלי תקף בחריפות את העיתונאי שלומי אלדר וכינה אותו \"שרלטן\", בעקבות פרסומיו בנוגע לאזהרות מוקדמות של בכירי פת\"ח טרם המלחמה. אלדר עמד במקביל גם במרכזו של עימות רשת אישי ובוטה מול עו\"ד כנרת בראשי. ברקע הדברים, איש התקשורת עמנואל רוזן ביקר בחריפות את ראש הממשלה וסביבתו בעקבות הטיפול בתקרית טיסת \"פליי דובאי\", ואילו כתב חדשות 12 אלמוג בוקר שיתף בעדות אישית על המצוקה שליוותה את שידוריו בעת הטבח בעוטף.\n\nבמגזר הקמעונאות המקומי, רשת \"אושר עד\" הודיעה על היערכות מוקדמת לקראת המעבר לשעון חורף, שתגרור קיצור משמעותי בשעות הפעילות בימי שישי ובערבי חג. בזירה הבין-לאומית, עולם הבידור נפרד מהשחקנית והדוגמנית האמריקאית מרי לואיז וולר, שהלכה לעולמה בגיל 79 לאחר מאבק במחלה.",
       "cards": [
         {
-          "title": "Jon Cook Steps Down as VML and WPP Creative Boss, Eric Campbell to Succeed",
-          "summary": "Cook spent three decades at VML and helped WPP's transformation from the top",
-          "image": null,
-          "link": "https://www.adweek.com/agencies/jon-cook-steps-down-as-vml-and-wpp-creative-boss-eric-campbell-to-succeed/",
-          "source": "Adweek",
-          "pubDate": "2026-10-02T11:57:15.000Z"
-        },
-        {
-          "title": "לרגל חודש המודעות לסרטן השד: Waze יוצאת בקמפיין מיוחד",
-          "summary": "לרגל חודש המודעות הבינלאומי לסרטן השד, המצוין באוקטובר, Waze תחל במהלך מיוחד בישראל ובארה\"ב להעלאת המודעות לחשיבות הגילוי המוקדם. הקמפיין בישראל בשיתוף עמותת אחת מתשע , הפועלת להעלאת המודעות לגילוי מוקדם ומעניקה תמיכה וליווי לנשים המתמודדות עם סרטן השד ולקרוביהן, ובארה\"ב בשיתוף National Breast Cancer Foundation (NBCF) . במהלך חודש נובמבר ישולבו בחוויית הניווט של Waze מסרים ואלמנטים ייעודיים, במטרה לעודד מודעות לסרטן השד ולהזכיר לנשים לפנות זמן לבדיקה. בנוסף, יופיע באפליקציה מסך פתיחה מיוחד ברחבי",
-          "image": "https://shivuk.me/wp-content/uploads/2026/10/file-20261002-075000-768x384.webp",
-          "link": "https://shivuk.me/campaigns/39724",
-          "source": "מנהלי שיווק מצייצים",
-          "pubDate": "2026-10-02T07:54:34.000Z"
-        },
-        {
-          "title": "Asics Enlists Sigourney Weaver to Document Habits of the Couch-Bound Human",
-          "summary": "Asics' satirical nature documentary for World Mental Health Day urges people to move.",
-          "image": null,
-          "link": "https://www.adweek.com/creativity/asics-enlists-sigourney-weaver-to-document-habits-of-the-couch-bound-human/",
-          "source": "Adweek",
-          "pubDate": "2026-10-02T05:53:42.000Z"
-        },
-        {
-          "title": "Here Are the Cable News Ratings for September 2026",
-          "summary": "CNN and MS NOW have demo battle.",
-          "image": null,
-          "link": "https://www.adweek.com/tvnewser/here-are-the-cable-news-ratings-for-september-2026/",
-          "source": "Adweek",
-          "pubDate": "2026-10-02T14:45:51.000Z"
-        },
-        {
-          "title": "Ticker: CNN Boss Mark Thompson Meets With New Owners About Future",
-          "summary": "Thompson reportedly wants assurance of editorial independence.",
-          "image": null,
-          "link": "https://www.adweek.com/tvnewser/ticker-cnn-boss-mark-thompson-meets-with-new-owners-about-future/",
-          "source": "Adweek",
-          "pubDate": "2026-10-02T16:49:52.000Z"
-        },
-        {
-          "title": "הצעד החריג של אמזון ואנבידיה נחשף: עסקת ענק ב-8 מיליארד דולר",
-          "summary": "שבבי ה-AI הפכו לנכס פיננסי: במקום לרכוש שבבים באופן ישיר, ענקית הטכנולוגיה מעבירה את הנכסים אל מחוץ למאזן. המשקיעים כבר מביעים עניין | כל הפרטים על העסקה המסקרנת",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_623/rsz_615_346_13570210202656565.jpg",
-          "link": "https://www.ice.co.il/digital-140/news/article/1132012",
+          "title": "אושר עד בשינוי דרמטי: ההודעה החשובה ששוגרה ללקוחות הרשת",
+          "summary": "בעקבות המעבר הקרוב לשעון חורף, רשת השיווק יוצאת בעדכון דחוף לגבי ימי שישי וערבי החג ומזהירה את הצרכנים שייאלצו להיערך מראש כדי לא להישאר ללא קניות",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_618/rsz_615_346_0133010926.png",
+          "link": "https://www.ice.co.il/advertising-marketing/news/article/1132068",
           "source": "אייס",
-          "pubDate": "2026-10-02T14:02:00.000Z"
+          "pubDate": "2026-10-04T00:21:33.000Z"
         },
         {
-          "title": "יעקב ברדוגו מצטרף לנתניהו ולליכוד: \"אין מנהיג טוב ממנו\"",
-          "summary": "רגע אחרי שראש הממשלה קרא לו לדגל והציב אותו ברשימת הליכוד, יעקב ברדוגו מככב בקמפיין התעמולה של מפלגת השלטון: \"נתניהו לא נכנע, הוא יכול להשלים את המשימות, הוא הוכיח את עצמו ואין מנהיג טוב ממנו במדינת ישראל היום\"",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_596/rsz_615_346_1528202622904.jpg",
-          "link": "https://www.ice.co.il/media/news/article/1132021",
+          "title": "איתמר בן גביר מאיים לתבוע את ynet ביותר ממיליון שקלים: כל הפרטים",
+          "summary": "השר לביטחון לאומי איתמר בן גביר מאיים בתביעת דיבה ענקית נגד אתר ynet והכתב לירן תמרי, בטענה לניסיון לסכסך בינו לבין המשטרה ותושבי יו\"ש: \"הכפשה שקרית\"",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_591/rsz_615_346_24032022616255.jpg",
+          "link": "https://www.ice.co.il/law/news/article/1132061",
           "source": "אייס",
-          "pubDate": "2026-10-02T14:38:25.000Z"
+          "pubDate": "2026-10-03T22:30:03.000Z"
         },
         {
-          "title": "פורטלנד נפרדת: השדר החדש פוטר בעקבות חשיפה מביכה",
-          "summary": "פורטלנד טרייל בלייזרס הודיעה על פיטוריו המיידיים של שדר הטלוויזיה החדש שלה, בעקבות חשיפת ציוצים גזעניים וסקסיסטיים מעברו, בעיצומה של תקופה סוערת במיוחד שעוברת על המועדון",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_483/rsz_615_346_09ice102024.jpg",
-          "link": "https://www.ice.co.il/sport_news/news/article/1132015",
+          "title": "אלמוג בוקר: \"זוכר בעיקר שאני משקר\"",
+          "summary": "במלאת 3 שנים לטבח השבעה באוקטובר, כתב חדשות 12 אלמוג בוקר משתף במועקה ונזכר כיצד ניסה לייצר תקווה למי שנלחמו על חייהם: \"לבד. במשך שעות. עד שזה נגמר\"",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_565/rsz_615_346_10ice13102025.jpg",
+          "link": "https://www.ice.co.il/media/news/article/1132056",
           "source": "אייס",
-          "pubDate": "2026-10-02T14:21:11.000Z"
+          "pubDate": "2026-10-03T21:54:56.000Z"
         },
         {
-          "title": "דודי אמסלם ירד למחתרת: ברק סרי \"דואג\" לשלומו",
-          "summary": "העיתונאי ברק סרי תקף את הליכוד על היעדרותו של השר דודי אמסלם מהקמפיין והראיונות בתקשורת, והשווה זאת לנוכחות המוגברת של אלי גולדשמידט: \"מציגים את הקיבוצניק ממפא\"י\"",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_623/rsz_615_346_2026-10-02 135303.png",
-          "link": "https://www.ice.co.il/media/news/article/1132011",
+          "title": "שלומי אלדר סופג מהלומה: \"מה שאני יודעת זו חגיגה\"",
+          "summary": "חילופי דברים קשים במיוחד בין שלומי אלדר לכנרת בראשי גלשו במהירות לרמיזות אישיות, איומים בחשיפת מידע מביך והבטחות מפתיעות לאיכות התמונות שברשותם",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_621/rsz_615_346_2355190926.png",
+          "link": "https://www.ice.co.il/media/news/article/1132069",
           "source": "אייס",
-          "pubDate": "2026-10-02T13:54:34.000Z"
+          "pubDate": "2026-10-04T03:06:08.000Z"
         },
         {
-          "title": "מכה לטום אביב: יפצה את סוכן הדוגמניות שי אביטל ב-360 אלף שקלים",
-          "summary": "מהסרטון ברשתות ועד להוצאה לפועל: הערעור של טום אביב נדחה, פסק הדין שניתן בהיעדר הגנה נותר בעינו, והשף ייאלץ לפתוח את הארנק ולפצות את סוכן הדוגמניות",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_623/rsz_615_346_2026-10-02 141109.png",
-          "link": "https://www.ice.co.il/law/news/article/1132017",
+          "title": "עמיחי שיקלי: \"מקורבו של הנייה, שרלטן חסר אמינות\"",
+          "summary": "השר עמיחי שיקלי יוצא למתקפה בוטה נגד העיתונאי שלומי אלדר, על רקע הדיווחים כי בכירי פת\"ח הזהירו את ישראל לפני השבעה באוקטובר. כל הפרטים",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_268/rsz_615_346_F210405OF94.jpg",
+          "link": "https://www.ice.co.il/local-news/news/article/1132054",
           "source": "אייס",
-          "pubDate": "2026-10-02T14:12:34.000Z"
+          "pubDate": "2026-10-03T21:42:14.000Z"
+        },
+        {
+          "title": "עמנואל רוזן: \"ראש הממשלה הכושל שלנו, אנשים כושלים וחסרי בושה\"",
+          "summary": "איש התקשורת עמנואל רוזן יוצא במתקפה נוקבת נגד ראש הממשלה בנימין נתניהו וסביבתו בעקבות האירוע המטלטל של טיסת \"פליי דובאי\": \"יוצאים מנקודת הנחה שהבוחרים שלהם מטומטמים\"",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_374/rsz_615_346_17ice16022023.jpg",
+          "link": "https://www.ice.co.il/local-news/news/article/1132063",
+          "source": "אייס",
+          "pubDate": "2026-10-03T22:39:00.000Z"
+        },
+        {
+          "title": "אבל כבד בעולם הבידור: השחקנית והדוגמנית הנודעת הלכה לעולמה בגיל 79",
+          "summary": "אבל כבד בעולם הבידור: השחקנית והדוגמנית האמריקאית הנודעת מרי לואיז וולר, הלכה לעולמה, לאחר מחלה - יממה בלבד לפני יום הולדתה ה-80 | כל הפרטים",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_515/rsz_615_346_14ice03032025.jpg",
+          "link": "https://www.ice.co.il/culture/news/article/1132058",
+          "source": "אייס",
+          "pubDate": "2026-10-03T22:05:33.000Z"
+        },
+        {
+          "title": "אחרי שנה וחצי: פיינליסטית \"האח הגדול\" קיבלה הצעת נישואין",
+          "summary": "רפאלה טווינה, שהגיעה למקום הרביעי בעונה האחרונה של \"האח הגדול\", התארסה לבן זוגה רואי מלכה במהלך חופשה בדרום הארץ. \"סוף־סוף אני מאורסת לאהבת חיי\", כתבה טווינה לצד תמונות וסרטונים מרגע ההצעה",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_599/rsz_615_346_154020261905.jpg",
+          "link": "https://www.ice.co.il/social/news/article/1132064",
+          "source": "אייס",
+          "pubDate": "2026-10-03T22:48:34.000Z"
+        },
+        {
+          "title": "אמיר חצרוני לנאור נרקיס: \"אתה פשיסט שלא אוהב תפילין\"",
+          "summary": "האקטיביסט ומייסד תנועת \"חוזרים בתבונה\", שהתמודד לאחרונה בפריימריז של מפלגת \"הדמוקרטים\", תקף ברשתות בחריפות את תהליכי ההתחזקות והמסורת בישראל והשוואה אותם למחאות בצרפת. פרופ' אמיר חצרוני לא נשאר אדיש: \"בשורה התחתונה\"",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_623/rsz_615_346_2026-10-03 222458.png",
+          "link": "https://www.ice.co.il/media/news/article/1132062",
+          "source": "אייס",
+          "pubDate": "2026-10-03T22:29:43.000Z"
+        },
+        {
+          "title": "בני גנץ ניצח בתביעה: בית המשפט פסק פיצויים על השמצה הנוגעת לטבח",
+          "summary": "בית המשפט הכריע בתביעת הדיבה של יו\"ר כחול לבן נגד האזרח שהאשים אותו במעורבות במתקפת חמאס, וכעת חושפת לשכתו של גנץ מה בכוונתו לעשות עם כספי הפיצויים",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_450/rsz_615_346_18ice17032024.jpg",
+          "link": "https://www.ice.co.il/law/news/article/1132067",
+          "source": "אייס",
+          "pubDate": "2026-10-04T00:14:29.000Z"
         }
       ]
     },
     {
       "column": 4,
       "name": "טק / טכנולוגיה",
-      "brief": "רשויות האכיפה בארה\"ב עצרו מנכ\"ל טכנולוגיה החשוד בהברחת שרתי בינה מלאכותית של אנבידיה בשווי של מעל 300 מיליון דולר לסין, תוך עקיפת מגבלות הייצוא הפדרליות. במקביל, טלטלה נוספת בצמרת מפתחת ChatGPT: חברת OpenAI פיטרה שלושה חוקרים מצוות הבטיחות שלה בעקבות הדלפת מידע פנימי רגיש. \n\nהתרחבות השימוש בסוכני AI מציפה סיכוני אבטחה חדשים ומאלצת את ענקיות הטכנולוגיה להגיב. אפל הודיעה על הידוק הרשאות הגישה לקבצים ב-macOS מחשש לניצול לרעה בידי סוכנים אוטונומיים, וגוגל תחסום באנדרואיד 17 גישה בלתי מורשית לשירותי נגישות במטרה לבלום נוזקות פיננסיות. במקביל, ענקית התיעוד הרפואי Epic הקפיאה פיתוחי תוכנה כדי לסגור פרצות המסכנות מידע רפואי של מטופלים, גיטלאב התריעה מפני פגיעות קריטית בשירות ה-AI Gateway שלה, וחשבון ה-X הרשמי של מיקרוסופט נפרץ לטובת הונאת קריפטו.\n\nבזירה העסקית, ליפט הגיעה לפשרת ענק ותשלם 272.5 מיליון דולר בקליפורניה בשל סיווג שגוי של נהגיה כקבלנים עצמאיים במקום עובדים שכירים. טסלה אמנם סיכמה רבעון שלישי עם ירידה שנתית קלה במסירות וצניחה במכירות הסייברטראק, אך מנייתה עלתה לאחר שעקפה את תחזיות האנליסטים המונמכות. לצד זאת, מטא פונה לקהילת המפתחים ושחררה קוד פתוח המאפשר לבנות עצמאית גאדג'טים מבוססי סוכן הבינה המלאכותית Muse.",
+      "brief": "ענקיות הבינה המלאכותית ממשיכות להרחיב את אחיזתן במערכות ההפעלה, לצד טלטלות פנימיות ופיתוחים חדשים: גוגל נערכת להעניק למודל Gemini גישה ישירה ומלאה לקבצים, לאפליקציות ולרשת במחשבי Mac — ללא צורך באישור פרטני לכל פעולה. במקביל, עובד נוסף בצוות הבטיחות של OpenAI, דייוויד רובינסון, התפטר תוך אזהרה כי תרבות החברה \"שבורה\". מנגד, דיוגו אלמיידה, ממפתחי ChatGPT המקורי, השיק מודל חדש ומדובר שאינו מייצר תוכן אלא מתמקד במניעת הזיות ובבקרת דיוק, בהשראת עקרונות חשיבה התנהגותיים.\n\nבזירת הסייבר והביטחון הלאומי, סין עומדת במרכז שורת התרעות: סוכנות הביון הבריטית MI5 חשפה כי שירותי הביטחון של בייג'ינג מימנו מחקרים בהשתתפות יותר ממאה אקדמאים בבריטניה לטובת איסוף מודיעין, בעוד קבוצת ההאקרים הסינית Warlock מנצלת חולשות ב-SharePoint של מיקרוסופט להחדרת כופרות לתשתיות קריטיות באמריקה הלטינית. לצד זאת, בירדן נעצר האקר מרשת הסחיטה ShinyHunters, שמשתף פעולה כעת עם ה-FBI.\n\nבגזרת הפרטיות והרגולציה, שופט פדרלי בארה\"ב קבע כי שימוש משטרתי במצלמות זיהוי לוחיות הרישוי של חברת Flock ללא צו מהווה \"מעקב המוני בלתי מובחן\" המפר את החוקה. בהודו, הממשלה הורתה לחסום מחנויות האפליקציות את Bitchat של ג'ק דורסי. במקביל, לנוכח מחאה ציבורית גוברת סביב הקמת חוות שרתים עתירות אנרגיה, מנכ\"ל AWS הודיע כי אמזון תפסיק להחתים רשויות וקהילות מקומיות על הסכמי סודיות (NDAs).",
       "cards": [
         {
-          "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-          "summary": "The US has arrested another suspect accused of smuggling high-end computer servers containing export-controlled Nvidia chips into China. In a press release on Thursday, the Department of Justice accused 38-year-old Greg Lui of using false paperwork to mask shipments of servers worth more than $300 million that he allegedly knew were ultimately destined for China. As the CEO of Earthmade Computer, Lui allegedly conspired with freight-forwarding firms in South Asian countries like Malaysia and Sin",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-1024x648.jpg",
-          "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-          "source": "Ars Technica",
-          "pubDate": "2026-10-02T18:39:36.000Z"
-        },
-        {
-          "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
-          "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" a spokesperson for the company was quoted as saying. \"Our investigation confirmed that these",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvjuuIAEhjBjrbXQna97zki-AKSZ9hVcu2CHSFRronvsVxEcHsfg66bldy7UzBETlNj1wTjKhkE11aFSmOxTjmR-XVp7qwzM2rBM745vy0Jy2n_CDoWQowbrzcQ7pVMubxWXNxVhOptHQiV5nMSGf24ZpI2wdpr40A0ez16cO3IH6peI6A2L07_UuOHbaJ/s1600/openai-servers.jpg",
-          "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-          "source": "The Hacker News",
-          "pubDate": "2026-10-02T12:23:15.000Z"
-        },
-        {
-          "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+          "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+          "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
           "image": null,
-          "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-          "source": "TechCrunch",
-          "pubDate": "2026-10-02T18:11:27.000Z"
-        },
-        {
-          "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-          "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
-          "image": null,
-          "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-          "source": "TechCrunch",
-          "pubDate": "2026-10-02T13:23:09.000Z"
-        },
-        {
-          "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-          "summary": "California’s attorney general and three city attorneys announced a $272.5 million settlement with Lyft after allegations that the company “committed wage theft by misclassifying drivers as independent contractors rather than employees” between 2016 and 2020, according to a Thursday statement . The case dates back to May 2020, when then-Attorney General Xavier Becerra, who is now the Democratic candidate for governor, sued both Uber and Lyft . That lawsuit said the ridehailing companies evaded st",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288109986-1152x648.jpg",
-          "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
-          "source": "Ars Technica",
-          "pubDate": "2026-10-02T19:09:49.000Z"
-        },
-        {
-          "title": "Meta open sources code to let you make Muse AI gadgets",
-          "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced . The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm . \"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set u",
-          "image": null,
-          "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-          "source": "The Verge",
-          "pubDate": "2026-10-02T21:08:37.000Z"
-        },
-        {
-          "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
-          "summary": "Tesla sold 486,532 electric vehicles during the third quarter of 2026. That’s a 2.1 percent decrease on the same quarter in 2025, when the company found homes for 497,099 EVs, and one might think that would be bad news for a company valued on the premise of near-constant growth. But Tesla stock is up this morning; the year-over-year numbers might look bad, but the company still exceeded analysts’ expectations of 456,600 cars, which would have been a larger 8 percent year-on-year decline Total pr",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1415090444-2-1-1152x648.jpg",
-          "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
-          "source": "Ars Technica",
-          "pubDate": "2026-10-02T16:05:26.000Z"
-        },
-        {
-          "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-          "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major attack pathway. Advanced Protection is a",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MS0sgdeAX_o_HWccABZaieMupy9x1vp2YHXeUfCod9bQMOAfEufGcm59eXhz4cQnwur_AjUhL1ER6FkR4nacwK2pn8K8ojfyZ254B_1Jfjk1OXwBi4VzqhPXgHukmnvVP5ItRHUeez8TcJVXvPlXRBIj0-h6YrI0rhn1G6RFyeZPT9jJf6y4Ng8D_1OD/s1600/android17.jpg",
-          "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-          "source": "The Hacker News",
-          "pubDate": "2026-10-02T08:01:30.000Z"
-        },
-        {
-          "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
-          "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
-          "image": null,
-          "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+          "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
           "source": "BleepingComputer",
-          "pubDate": "2026-10-02T16:20:05.000Z"
+          "pubDate": "2026-10-03T23:12:34.000Z"
         },
         {
-          "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-          "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+          "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+          "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
           "image": null,
-          "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+          "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+          "source": "TechCrunch",
+          "pubDate": "2026-10-03T16:30:01.000Z"
+        },
+        {
+          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+          "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+          "source": "TechCrunch",
+          "pubDate": "2026-10-03T18:43:57.000Z"
+        },
+        {
+          "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+          "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+          "source": "TechCrunch",
+          "pubDate": "2026-10-03T19:33:15.000Z"
+        },
+        {
+          "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+          "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and education organizations. \"In the",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1600/sharepoint-ransomware.jpg",
+          "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+          "source": "The Hacker News",
+          "pubDate": "2026-10-03T14:36:33.000Z"
+        },
+        {
+          "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+          "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
+          "image": null,
+          "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
           "source": "BleepingComputer",
-          "pubDate": "2026-10-02T09:29:56.000Z"
+          "pubDate": "2026-10-03T19:09:38.000Z"
+        },
+        {
+          "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+          "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Service Espionage Alert\" issued on September 30, 2026, MI5 said the \"primary purpose of the China General Technology Research Institute (CGTRI) 中国通用技术研究院 is to fund research that",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8KoVLnFX9RE7BlsBeUJOBw_ZTBGsbwsb8-BY7UjzndcwMCcGmakXl6gOYzYAf_D46lO0rs6ud3i8PmehY4hbb4B8lcXCMUj4UtcZpzaox7_y3waVRwVPmRYvOd-dB5AaIXL3lmBAkQp0ZIwcES5__hiZlqeoqkp0IjqjRWe2mUUY1HiYVYVtK7bs9oPYJ/s1600/china-fund.jpg",
+          "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+          "source": "The Hacker News",
+          "pubDate": "2026-10-03T14:38:46.000Z"
+        },
+        {
+          "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+          "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+          "source": "TechCrunch",
+          "pubDate": "2026-10-03T15:02:01.000Z"
+        },
+        {
+          "title": "בהשראת חתן פרס הנובל הישראלי: המודל החדש של יוצר ChatGPT הפך לוויראלי",
+          "summary": "מקור: TypeSafe AI אנחנו רגילים שמודלי ה-AI שמשמשים אותנו היום מייצרים כמויות של טקסט, קוד, תמונות, וידאו ואפילו מוזיקה – רק תנו להם את הפרומפט הנכון (ומספיק טוקנים כמובן). מודל חדש עושה בדיוק את ההפך, ולא ייצר לכם מילה אחת או הזייה אחת. אז למה הוא בכל זאת הפך ללהיט מאז שהושק? \"כלאנו ברק בבקבוק, ועדיין הוא לא שימושי\" דיוגו אלמיידה היה חלק מצוות הפיתוח של הכלי שהתחיל את מהפכת ה-AI, הלא הוא ChatGPT , וגם של המנגנון שהפך מאז לסטנדרט בתעשייה – RLHF או למידת חיזוק עם פידבק אנושי. אבל לדבריו, \"כלאנו בר",
+          "image": null,
+          "link": "https://www.geektime.co.il/jev-is-the-new-ai-buzzword/",
+          "source": "גיקטיים",
+          "pubDate": "2026-10-03T10:00:05.000Z"
+        },
+        {
+          "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+          "summary": "Milt Windler, one of the four leaders of Mission Control who in 1970 directed the round-the-clock efforts to bring the Apollo 13 astronauts back to Earth safely, has died at the age of 94. Windler died on Thursday , surrounded by his loving family, according to a brief notice posted online. Named a NASA flight director in 1968 after working on recovery operations during the Mercury and Gemini programs, Windler also led a shift of flight controllers for the Apollo 8 first circumlunar flight and A",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/news-100326a-lg-1152x648.jpg",
+          "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+          "source": "Ars Technica",
+          "pubDate": "2026-10-03T19:45:17.000Z"
+        }
+      ]
+    },
+    {
+      "column": 5,
+      "name": "ספורט",
+      "brief": "במוקד אירועי היממה בזירה הבין-לאומית, נבחרת אנגליה רשמה ניצחון היסטורי ומוחץ של 0:7 על קרואטיה בליגת האומות, בהובלת ג'וד בלינגהאם, הארי קיין ובוקאיו סאקה. באותו מפעל, ספרד שמרה על מאזן מושלם עם 1:3 על צ'כיה, בעוד צרפת הסתפקה ב-1:1 מול איטליה — איבוד נקודות ראשון לזינדין זידאן כמאמן הנבחרת. בפורטוגל נמשכת המתיחות בין המאמן ז'ורז'ה ז'סוס לכריסטיאנו רונאלדו, ובמשחק ידידות הביסה ברזיל 0:4 את הודו.\n\nבגזרה הישראלית, נרשמה סערה לקראת המשחק מול אירלנד בליגת האומות: מסיבת העיתונאים של האירים פוצצה לאחר שהדובר עצר שאלות מצד עיתונאים ישראלים בנוגע להתבטאויות שחקני היריבה; מנגד, המאמן רן בן שמעון הצהיר כי המטרה היא להשיג ניצחון ראשון בקמפיין ולהחזיר את הגאווה לאחר התבוסה במפגש הקודם.\n\nבכדורסל, מכבי תל אביב שקעה למשבר עמוק ביורוליג בעקבות תבוסה 90:67 לפנאתינייקוס, שקבעה פתיחת עונה של 3:0 — הגרועה ביותר של המועדון במפעל מאז 1999. בניגוד מוחלט, הפועל תל אביב המשיכה במומנטום החיובי שלה: הקבוצה העפילה לגמר גביע ווינר עם 76:79 צמוד על נס ציונה, במקביל לבחירתו של כוכבה אלייז'ה בראיינט ל-MVP של מחזור היורוליג בפעם השנייה ברציפות.",
+      "cards": [
+        {
+          "title": "הופעה היסטורית: אנגליה הביסה 0:7 את קרואטיה",
+          "summary": "החבורה של טוכל סיפקה הצגה מושלמת ופירקה את יריבתה. בלינגהאם בלט עם שער ושלושה בישולים, קיין וסאקה כבשו צמד כל אחד, גם גורדון ורוג'רס הוסיפו",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/one1890875/one1890875_0_0_800_444_0_medium.jpg",
+          "link": "https://livegame.ynet.co.il/games/534957",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-03T15:58:18.000Z"
+        },
+        {
+          "title": "מכבי ת\"א בהלם: \"גם בעונות שהיינו מעדיפים לשכוח לא נראינו ככה\"",
+          "summary": "הצהובים מתוסכלים ומאוכזבים לאחר התבוסה 90:67 לפנאתינייקוס, שהציבה אותם על מאזן 3:0 ביורוליג, הגרוע ביותר שלה מאז 1999. קטש: \"מומנטום כזה אפשר לשנות, אבל אנחנו חייבים שפת גוף יותר טובה\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/03/rkWqWxzBCWg/rkWqWxzBCWg_0_30_2560_1442_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelibasketball/article/skk5w36cmg",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-03T04:00:00.000Z"
+        },
+        {
+          "title": "האירים לא אהבו את שאלות הכתבים הישראלים - ופוצצו את מסיבת העיתונאים",
+          "summary": "סערה נוספת לקראת ההתמודדות בין האירים לישראל מחר (21:45): מאמן אירלנד נשאל על ההתבטאויות של שחקניו, והדובר לא אפשר לסיים את השאלה ומסיבת העיתונאים לקראת המשחק הופסקה. לפני כן אמר הלגרימסון: \"לישראלים תהיה הזדמנות לנקום\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/Hkg97aUccze/Hkg97aUccze_1032_483_1969_1109_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/s1keawa9fg",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-03T10:44:37.000Z"
+        },
+        {
+          "title": "בן שמעון לקראת אירלנד: \"המטרה היא שמי שיראה אותנו יהיה גאה בנו\"",
+          "summary": "נבחרת ישראל רוצה לרשום ניצחון ראשון בקמפיין ליגת האומות, ועל הדרך לנקום ספורטיבית את התבוסה הכואבת מהשבוע שעבר. במסיבת עיתונאים לקראת המשחק מחר (ראשון, 21:45) אמר המאמן: \"יש לנו לשפר הרבה פרמטרים כדי שזה יקרה\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/HJChCcC9Gg/HJChCcC9Gg_0_34_2000_1126_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelisoccer/article/skvvaqa9mx",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-03T15:43:38.000Z"
+        },
+        {
+          "title": "שמרה על מאזן מושלם: ספרד גברה 1:3 על צ'כיה",
+          "summary": "אלופת העולם ניצחה בליגת האומות ועלתה ל-9/9 נק'. לאמין ימאל כבש (6'), רודרי הכפיל (35') ומרינו חתם (89'). מנגד, סלמה צימק (69') וקרייצ'י הורחק",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/one1890906/one1890906_0_0_800_444_0_medium.jpg",
+          "link": "https://livegame.ynet.co.il/games/534955",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-03T18:48:36.000Z"
+        },
+        {
+          "title": "זידאן אחרי התיקו של צרפת מול איטליה: \"אני מתוסכל בשביל השחקנים\"",
+          "summary": "מאמן הטריקולור רשם אמש את משחקו הראשון ללא ניצחון מאז מונה לתפקיד, עם 1:1 מול האזורי בליגת האומות. למרות איבוד היתרון והפספוס של שלוש נקודות, הוא החמיא לשחקניו: \"הגיע לנו יותר, אבל זה הכדורגל. אני גאה בהם ומאוד מרוצה\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/rJjSWM0cMg/rJjSWM0cMg_0_97_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/sjwbxf0cze",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-03T05:24:22.000Z"
+        },
+        {
+          "title": "מאמן פורטוגל על המשבר עם רונאלדו: \"לא יכול להתעלם ממנו\"",
+          "summary": "ז'ורז'ה ז'סוס ניסה להתמקד במפגש מול נורבגיה בליגת האומות, אך נדרש שוב לעזיבת הקפטן: \"הוא סמל של הנבחרת ושל המדינה\". על היריבה: \"אחת מחמש הנבחרות הטובות באירופה\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/SyZsf3C9zx/SyZsf3C9zx_1_0_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/bjltmhrczx",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-03T16:56:30.000Z"
+        },
+        {
+          "title": "תשחק על תואר: הפועל ת\"א עלתה לגמר גביע ווינר",
+          "summary": "החבורה של איטודיס המשיכה בכושר הנפלא שלה מהיורוליג, גברה 76:79 על נס ציונה בתום משחק צמוד ותנסה לרשום גביע לזכותה. בלייקני הוביל עם 21 נק'",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/one1890912/one1890912_0_0_800_444_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/one534950",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-03T17:55:13.000Z"
+        },
+        {
+          "title": "בפעם השנייה ברציפות: אלייז'ה בראיינט נבחר ל-MVP של המחזור ביורוליג",
+          "summary": "כוכב הפועל ת\"א, שסיפק הופעת ענק של 22 נקודות ו-13 ריבאונדים (שיא קריירה) בניצחון על ריאל מדריד, הוא מצטיין המחזור השלישי במפעל",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/HygqDBRM9Gx/HygqDBRM9Gx_0_61_1280_721_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelibasketball/article/synr4p05ge",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-03T11:22:59.000Z"
+        },
+        {
+          "title": "בלי ראפיניה הפצוע: ברזיל הביסה 0:4 את הודו",
+          "summary": "הסלסאו הסתדרו ללא הכוכב של ברצלונה וחגגו בהכנה מול האסיאתים. אסטבאו פתח (28'), דוס סנטוס הכפיל (42') ולינו הצטרף עם צמד בכורה (58', 90+5')",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/one1890850/one1890850_0_0_800_444_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/one534980",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-03T17:18:18.000Z"
         }
       ]
     }
