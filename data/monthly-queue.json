@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T03:23:23.367Z",
+  "generatedAt": "2026-10-05T03:24:10.030Z",
   "note": "תור מצטבר לשער ירחון — נצרך ומתאפס על ידי scripts/edit-monthly.js.",
   "items": [
     {
@@ -931,6 +931,383 @@
       "pubDate": "2026-10-03T13:45:05.000Z",
       "summary": "ההימורים המקוונים פוגעים קשות בברזילאי הממוצע, ויותר ויותר אזרחים שוקעים בחובות. מנגד, הם מכניסים מיליארדים לקבוצות המקומיות, שתלויות בתעשייה ולא בטוח שישרדו בלעדיה. רגע לפני סיבוב הבחירות הראשון, לולה דה-סילבה הכריז מלחמה על הענף, ובניגוד לציפיות – דווקא זכה לתמיכה מפתיעה מהציבור, למרות התנגדותם של מועדוני הכדורגל",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/rklAKwP65Ge/rklAKwP65Ge_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "ציידי הרחפנים בדרום: \"זה גבול של שלום - אבל נערכים לתרחיש קיצון\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14911848",
+      "pubDate": "2026-10-05T03:14:04.000Z",
+      "summary": "אלפי כלי טיס חצו בשנים האחרונות את גבול מצרים וירדן עם כלי נשק וסמים, אבל בתקופה האחרונה היקף ההברחות ירד דרמטית. מפקדי אוגדה 80 מספרים על ההתמודדות של החטיבות המעורבות עם האיום משמיים, ועל השילוב המגדרי: \"עושים את אותן משימות ומוכיחים שזה יכול לעבוד\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/H17tk4tF9Gg/H17tk4tF9Gg_0_0_1280_852_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מאולמרט לנתניהו: שמים וארץ",
+      "link": "https://www.ynet.co.il/news/article/yokra14916932",
+      "pubDate": "2026-10-04T21:05:00.000Z",
+      "summary": "מול מודל הניהול הממשלתי המרשים שאולמרט הציג, ניצבת תפיסת הניהול הבעייתית, בלשון המעטה, מבית נתניהו",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/13/BJvo3zl2yl/BJvo3zl2yl_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ארה\"ב וסין במרוץ לפיתוח כור גרעיני על הירח",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-3d6f6d1815801a1027.htm",
+      "pubDate": "2026-10-04T20:22:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "פוליטיקה, בחירות ואמפתיה. שלא נאבד את זה",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-00336a883a601a1026.htm",
+      "pubDate": "2026-10-04T12:34:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "המדינה האטרקטיבית שמציעה: דרכון לכל המרבה במחיר",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-c2e46e9ab1601a1027.htm",
+      "pubDate": "2026-10-04T09:04:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "האם אנחנו בדרך לאבד שליטה על ה-AI?",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-35a94862334f0a1026.htm",
+      "pubDate": "2026-10-04T07:12:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "גם בביזנס כבר לא הכול כלול",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-2f0f2efeb8701a1026.htm",
+      "pubDate": "2026-10-04T16:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "החברה שמחדשת את פתח תקווה, בלי לשכוח מאיפה הכול התחיל",
+      "link": "https://www.mako.co.il/news-business/duns_100-tv/Article-83f4d705a4701a1026.htm",
+      "pubDate": "2026-10-04T14:43:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "החברה שרואה בהתחדשות עירונית הזדמנות לבנות קהילה מחדש",
+      "link": "https://www.mako.co.il/news-business/duns_100-tv/Article-0882d705a4701a1026.htm",
+      "pubDate": "2026-10-04T14:38:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הגירה, מעמד ואזרחות: המשרד שמלווה אנשים בדרך לחיים חדשים",
+      "link": "https://www.mako.co.il/news-business/duns_100-tv/Article-afdfd705a4701a1026.htm",
+      "pubDate": "2026-10-04T14:34:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "כמה שווים החיים שנקטעו?",
+      "link": "https://www.mako.co.il/news-business/duns_100-law/Article-c51ad705a4701a1026.htm",
+      "pubDate": "2026-10-04T14:24:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "עכו העתיקה מתעוררת לחיים",
+      "link": "https://www.ynet.co.il/economy/article/byzr93jszx",
+      "pubDate": "2026-10-04T11:43:39.000Z",
+      "summary": "יום שלם של חוויות לכל המשפחה הכולל הרפתקאות, היסטוריה ומופע לילי מרהיב",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/Hyq8YhJoGx/Hyq8YhJoGx_0_0_3000_1688_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "מטבע ביטקוין אחד יהיה שווה 400 אלף דולר? המומחה שמסביר מדוע",
+      "link": "https://www.ynet.co.il/economy/article/rjhzgt1igg",
+      "pubDate": "2026-10-04T07:38:14.000Z",
+      "summary": "בריאן ארמסטרונג, מנכ\"ל קוינבייס, מעריך שהמטבע יגיע ב-2030 לשווי שנראה כרגע דמיוני, בהתבסס על מחזור החצייה בן ארבע השנים. לדבריו, התחתית של המחזור הנוכחי כבר מאחורינו. אולם בשוק חלוקים: חלק סבורים שקרנות הסל שנכנסו לתחום ישנו את מאזן הכוחות, ואחרים מעריכים שתנודתיות הביטקוין לא נגמרה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/06/SJwryGNfFJl/SJwryGNfFJl_231_101_1477_832_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "ספורה זרקה אותו והמנכ\"לית נטשה: כך קרס המותג המבטיח של סקרלט ג'והנסון",
+      "link": "https://www.ynet.co.il/economy/article/s1yjzdksgg",
+      "pubDate": "2026-10-04T07:09:44.000Z",
+      "summary": "לאחר ארבע שנים בלבד, מותג טיפוח העור The Outset של הכוכבת ההוליוודית הרים ידיים אחרי שעשה כל טעות אפשרית. עם הון של 165 מיליון דולר בחשבון, ג'והנסון לא תיקלע למשבר כלכלי, אבל היא מספקת הוכחה לכך שלצרכנים של שנת 2026 פשוט נמאס ממותגי סלבס",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/03/S1vczXU111l/S1vczXU111l_687_123_2009_1131_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "סירב להשתתף בהשתוללות מחירי הדלק - זכה באהדת העם והרוויח מיליארדים לחברה",
+      "link": "https://www.ynet.co.il/economy/article/bjky35a9gg",
+      "pubDate": "2026-10-04T04:09:22.000Z",
+      "summary": "בזמן שחברות אנרגיה רבות ניצלו את העימות בין ארה\"ב לאיראן כדי להעלות את מחירי הדלק, פטריק פויאנה, מנכ\"ל \"טוטאל אנרג'י\" הצרפתית, דווקא הקפיא מחירים בתחנות החברה. למרות החשש מהפסדים של מאות מיליוני אירו, התברר כי הרווח הנקי בחצי השנה הראשונה של 2026 צמח ב-11.2 מיליארד דולר בעקבות הזינוק בביקושים. כעת מעתיקים את השיטה בעוד מדינות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/S1Bxt3AqMl/S1Bxt3AqMl_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "המחקר שמצא: כמה שווה דולר שהושקע במניות אמריקאיות לפני 100 שנה?",
+      "link": "https://www.ice.co.il/research/news/article/1132239",
+      "pubDate": "2026-10-04T22:49:00.000Z",
+      "summary": "מחקר חדש של CFA Institute, המבוסס על נתוני שוק שנאספו לאורך מאה שנים, מציג את עוצמת הריבית דריבית ומגלה כיצד השקעה של דולר אחד במניות אמריקאיות גדלה לסכום של אלפי דולרים – כאשר הדיבידנדים וההשקעה מחדש שלהם מילאו תפקיד מרכזי",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_385/rsz_615_346_8ice13042023.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "פודקאסט Superbrands | פרק מס' 1 – אבי ברססט, בעלים ומנכ״ל קבוצת Hollandia",
+      "link": "https://shivuk.me/on-the-go/superbrands/39732",
+      "pubDate": "2026-10-04T09:21:50.000Z",
+      "summary": "המותג Hollandia הוכתר גם השנה על ידי ארגון Superbrands הבינלאומי כמותג-על: סופרברנדס. אבי ברססט, המנכ״ל והבעלים של הולנדיה, שוחח עם אבי זיתן ועם ערן יסעור על אסטרטגיה, שירות וחדשנות. וגם על ניהול שעושים עם רגש, או שלא עושים בכלל. מקור: פודקאסט Superbrands | פרק מס' 1 – אבי ברססט, בעלים ומנכ״ל קבוצת Hollandia",
+      "image": "https://shivuk.me/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-11-43-31-768x571.webp",
+      "source": "מנהלי שיווק מצייצים",
+      "sourceUrl": "https://shivuk.me",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+      "pubDate": "2026-10-04T20:00:00.000Z",
+      "summary": "While deep in the recording process for The Downward Spiral , Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled debut record, his fingerprints are all over it. But McMahon also can't suppress his inner theater kid, which also gives the songs the sort of glammy flamboyance found on T. Rex records. Prick embrace",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "כך ה-AI צמצמה דרמטית את הזמן של פעולות תפעוליות בקייטו נטוורקס",
+      "link": "https://www.pc.co.il/featured/459001/",
+      "pubDate": "2026-10-04T15:54:00.000Z",
+      "summary": "עידן הבינה המלאכותית והמתקפות מבוססות ה-AI מחייב את חברות אבטחת המידע והסייבר לקצר בצורה דרמטית את הזמן שלוקח להן לבצע פעולות תפעוליות, ובוודאי את הזמן מהרגע שבו הפתרונות שלהן מזהים איום ועד לרגע התגובה. התוקפים, כידוע, לא מחכים. קייטו נטוורקס היא מהחברות הצומחות בעולם בתחום. לפי נתונים שהיא פרסמה בחודש יולי, ההכנסות החוזרות השנתיות (ARR) שלה צמחו ב-42% ל-415 מיליון דולר. מדובר בקצב צמיחה כפול מממוצע השוק. הקיצור המשמעותי בזמן ביצוע פעולות כגון קריאה וניתוח של גרף תפעולי סייע לכך. כדי להביא לאות",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-24-at-11.14.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+      "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+      "pubDate": "2026-10-04T15:34:14.000Z",
+      "summary": "Chimps fish for algae in a rare example of primate tool use. Credit: National Geographic A wild African black panther prowls for prey. An orphaned baby pangolin must learn how to climb on its own. And a green turtle struggles to make it back to the water after laying her eggs on a remote island, rescued by local humans who carry the exhuasted turtle to the water's edge. These animals and many other species are featured in Africa: Earth's Wild Home , a new documentary series from National Geograp",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/africa3-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "pubDate": "2026-10-04T15:21:59.000Z",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku , it couldn't quite get an edge. So it resorted to a tactic that is becoming alarmingly common for modern AI models - it broke the",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+      "link": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+      "pubDate": "2026-10-04T15:00:00.000Z",
+      "summary": "The OhSnap Wallet 2. | Photo by Sean Hollister / The Verge This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own ? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand. It's the coolest wallet I've ever stuck to my phone. @verge The sleekest wallet yet? Today we're toying with the OhSnap Snap Wallet 2, a lever-action aluminum wa",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "מדוע נכשלה הטמעת AI במקדונלד'ס ולמה האשמה אינה בסוכנים",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/458977/",
+      "pubDate": "2026-10-04T12:04:42.000Z",
+      "summary": "ענקית המזון המהיר מקדונלד'ס (McDonald's) ניסתה להטמיע בינה מלאכותית בשירות עצמי דרך כלי הרכב (Drive-Thru), ולצורך כך שילבה סוכני AI שהיו אמורים לייעל את השירות ולהגדיל מאוד את הביקושים. הניסוי הזה נכשל, כפי שאנשי מקדונלד'ס בעצמם הודו בכנס שערכו בקיץ האחרון. פורטל החדשות CIO צלל לעומק הפרויקט ובעזרת מומחים ניסה להבין מה היו הסיבות לכישלון של הסוכנים החכמים. המסקנה הישירה במקרה הזה: הפעם הסוכנים – הטכנולוגיה – לא היו אשמים. האנליסטים שניתחו את הסיפור העניקו ציון לשבח למקדונלד'ס, שלימדה רבים אחרים ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/נכשלו-כי-לא-הבינו-את-הלקוחות.-סוכני-ה-AI-בשירות-הלקוחות-במקדונלדס.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The forgotten Chromebook that started it all",
+      "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+      "pubDate": "2026-10-04T12:00:00.000Z",
+      "summary": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In this week's episode of Version History, The Verge 's Nilay Patel and MKBHD's Marques Brownlee join David Pierce to help explain the history of ChromeOS and Chromebooks, and discuss whether Google's approach to computer hardware was the right one. View Link This h",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "All hail electrification. But let’s talk about the hard part.",
+      "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+      "pubDate": "2026-10-04T11:05:53.000Z",
+      "summary": "If one form of energy becomes the cheapest, most secure, and cleanest, you’d probably adjust your economy to use more of it, right? That’s one of the ideas underpinning a report the International Energy Agency issued last week about the global move toward electrification. Fatih Birol, head of the IEA, discussed some of the concepts from the report the following day at the United Nations. “Many, many years in the energy world, we had three choices in front of us. Shall I choose the most secure en",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1463437040-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "הכוכב שבחר לעמוד נגד התופעה ששוטפת את ה-NBA",
+      "link": "https://www.ynet.co.il/sport/article/sjihuzljze",
+      "pubDate": "2026-10-04T22:30:00.000Z",
+      "summary": "בזמן שלברון, דוראנט ויאניס משתפים פעולה עם אתרי הימורים שמגלגלים מיליארדים, פתאום מופיע וומביניאמה שמדבר על ערכים ומודיע: \"לעולם לא אעשה זאת. עצוב שיש שחקנים שמקדמים זאת\". באתר פולימרקט לא ראו את זה מגיע",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/09/H1oiSLHbGx/H1oiSLHbGx_369_142_2502_1409_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "משפחת לם מציגה: האב, הבן והחלום הגדול",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/bjxa11zgimx",
+      "pubDate": "2026-10-04T22:30:00.000Z",
+      "summary": "אבא בני היה כוכב של מכבי נתניה הגדולה והפך לאוטוריטה בתחום אימון מחלקות נוער. הבן אדם שיחק רק בליגות הנמוכות וכיום מוביל את הפועל רעננה לצמרת הליגה הלאומית. משפחת לם מציגה: דיאלוג על כדורגל, פירגון, תמיכה ואהבה למקצוע",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SkwsQfgjfg/SkwsQfgjfg_363_238_2383_1342_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "נבחרת ישראל לא צריכה לנצח את האנטישמיות | תוכן גולשים",
+      "link": "https://www.ynet.co.il/sport/article/ry50vt05gg",
+      "pubDate": "2026-10-04T09:00:00.000Z",
+      "summary": "לפעמים הדרך לעזור לספורטאי לייצג את המדינה בצורה הטובה ביותר היא דווקא להוריד ממנו את האחריות לייצג את המדינה בכל פעולה. לתת לו להיות כדורגלן. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/Bku79rK5Mx/Bku79rK5Mx_0_311_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "זה ילד זה? הישראלי בן ה-18 שיכול להביא זהב מפתיע בג'ודו",
+      "link": "https://www.ynet.co.il/sport/article/hyl51crqmg",
+      "pubDate": "2026-10-04T03:40:17.000Z",
+      "summary": "לפני כמה שנים הוא הגיע במקרה לחוג ג'ודו בקאנטרי בראשל\"צ, והיום כבר מפרק יריבים מנוסים ומעוטרים † בגיל 18 בלבד, יצחק אשפיז נכנס לוואקום בנבחרת ומגיע לאליפות העולם אחרי שנת פריצה שהפכה אותו לאחד השמות החמים בסבב ולתקווה הגדולה למדליה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/B1ow1CC5fx/B1ow1CC5fx_0_0_2126_1197_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [

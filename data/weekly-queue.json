@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T03:23:23.367Z",
+  "generatedAt": "2026-10-05T03:24:10.029Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -645,6 +645,513 @@
       "pubDate": "2026-10-03T05:00:23.000Z",
       "summary": "למרות שעל הנייר היא בנתה סגל לא רע בכלל, בטח יחסית לעונות הקודמות, הקבוצה של עודד קטש הגיעה לא מוכנה כלל לעונה הנוכחית ולא מצליחה להסתדר עם הפיזיות של היריבות - מה שבא לידי ביטוי באופן מובהק מול פנאתינייקוס. לעומת זאת, הפועל ת\"א הוכיחה מול ריאל שהיא יכולה לנצח כל קבוצה",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/BJZ6gJt65Mg/BJZ6gJt65Mg_267_49_843_475_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "שלוש שנים אחרי: חמאס מושל בעזה, ישראל רחוקה מהכרעה | תמונת מצב",
+      "link": "https://www.ynet.co.il/news/article/yokra14916685",
+      "pubDate": "2026-10-05T03:15:05.000Z",
+      "summary": "חרף הסיכולים הממוקדים של צה\"ל והשליטה שלו ביותר מ-60% מהרצועה, חמאס עדיין שולט בשטח גם 3 שנים אחרי הטבח והמחדל. בהיעדר תוכנית מדינית לעתיד עזה, במערכת הביטחון מודים: אין פתרון להשתלטות ארגון הטרור על משאיות הסיוע, שנכנסות באישור ישראלי. בכירים בצבא מבהירים: לא נוותר על פירוז מלא",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/SyfVyRKvMg/SyfVyRKvMg_1_167_1601_901_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מ\"מודל אמסטדרם\", עד שדרוג שכר הנהגים: מצע המפלגות לתחבורה הציבורית",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14917099",
+      "pubDate": "2026-10-05T03:14:45.000Z",
+      "summary": "מהשעות הארוכות בפקקים, דרך המחסור העצום בנהגים ועד להמתנה הארוכה בתחנות - הבעיות הקשות בתחבורה הציבורית מציבות אתגר ממשי בפני הממשלה הבאה. ערב ההליכה לקלפי, רוב הפוליטיקאים מפזרים הבטחות למציאות אחרת, ובצל הדרישה לפתרונות - זו מפת הדרכים של המפלגות ליום שאחרי הבחירות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2017/07/29/7937466/7937466_0_83_1303_734_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מחכים לבחירות: לארצות הברית נמאס מאלימות המתנחלים",
+      "link": "https://www.ynet.co.il/news/theheadline/article/ml1wqrlvv",
+      "pubDate": "2026-10-05T02:00:00.000Z",
+      "summary": "עוד סוף שבוע אלים ביהודה ושומרון עם דיווחים רבים על אלימות במספר מוקדים ביהודה ושומרון. נתניהו מתעקש שמדובר בקומץ, אבל גם בממשל שהתקרב לישראל במלחמה האחרונה כבר מעבירים אזהרות ומפסיקים להאמין לו. עו\"ד עידו דמבין, מומחה לפוליטיקה אמריקנית וליחסי ישראל-ארה\"ב, מסביר מה עומד מאחורי השינוי בוושינגטון ואיך הוא קשור לבחירות גם כאן, וגם שם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/BkFPgsJozl/BkFPgsJozl_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "פעם היו מקשיבים להתרעות שלו. היום כבר בקושי מתייחסים | אלה יהיו ההשלכות",
+      "link": "https://www.ynet.co.il/news/article/skp3ytjjze",
+      "pubDate": "2026-10-04T21:38:30.000Z",
+      "summary": "כשצוללים אל הדוחות האלה קשה שלא להיבהל: שורת אזהרות במגוון תחומים, שהאחריות לתיקונם מוטלת על משרדי הממשלה - מבלי שאיש אוכף שהם עושים זאת. שנים לפני שטייס-מחבל כמעט והצליח לרסק מטוס גדוש בנוסעים בנתב\"ג, מבקר המדינה כבר התריע על הפרצות, ורק עכשיו הורה נתניהו ליישם המלצה אחת שנתן. זה רק מחדל אחד: אלה כמה מהדברים שעדיין ניתן למנוע, לפני שיחל ריטואל ההאשמות והבריחה מאחריות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HkNNbWlszg/HkNNbWlszg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הנס היה למעלה אבל הכשל הוא למטה",
+      "link": "https://www.ynet.co.il/news/article/yokra14916886",
+      "pubDate": "2026-10-04T21:03:00.000Z",
+      "summary": "הכתובת כבר הייתה על הקיר. במאי 2024 פירסם מבקר המדינה, מתניהו אנגלמן, דוח על אבטחת התעופה האזרחית מישראל ואליה. בחלק המועט שפורסם המליץ המבקר למועצה לביטחון לאומי לבחון את התעופה האזרחית \"על כלל היבטיה\", ולהסדיר את חלוקת האחריות בין הגופים השונים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/HJoSBAc9Mx/HJoSBAc9Mx_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מה העתיד של עוטף עזה ומה העתיד של רצועת עזה?",
+      "link": "https://www.ynet.co.il/news/article/yokra14917075",
+      "pubDate": "2026-10-04T21:03:00.000Z",
+      "summary": "שלוש שנים אחרי הטבח, שנה אחרי הסכם הפסקת המלחמה והשבת החטופים, הסדר לרצועת עזה שיכלול גם ביטחון מלא לישראל ולישראלים וגם עתיד נורמלי (יחסית) לפלסטינים שאינם מעורבים בטרור - נראה לגמרי כמו חלום באספמיה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/31/r1XGikWcBMx/r1XGikWcBMx_0_237_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "לחקור כאילו היה אסון",
+      "link": "https://www.ynet.co.il/news/article/yokra3408882",
+      "pubDate": "2026-10-04T21:03:00.000Z",
+      "summary": "בחיל האוויר למדתי שאירוע נמדד לא רק בתוצאה, אלא בפוטנציאל האסון. לכן נקודת המוצא לחקירה צריכה להיות קשה וברורה: המטוס התרסק. 182 בני אדם נהרגו. עכשיו מתחילים לחקור",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SJSIxfgizl/SJSIxfgizl_0_0_1717_967_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "משחקים באש: הקמפיין שמצית את הצפון",
+      "link": "https://www.ynet.co.il/news/article/yokra14917119",
+      "pubDate": "2026-10-04T21:02:00.000Z",
+      "summary": "כשפעילי “הציונות הדתית” מציבים אלף דגלי ישראל כדי לייצר פרובוקציה, ומבטיחים להעתיק את מודל יו”ש לגליל, הם הופכים מאבק קיומי לסיבוב אלקטורלי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/r1Gh3yxBHfe/r1Gh3yxBHfe_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הם לא יחקרו באמת",
+      "link": "https://www.ynet.co.il/news/article/yokra14917288",
+      "pubDate": "2026-10-04T21:02:00.000Z",
+      "summary": "יניב חיון מול מירי רגב: אזרחים מתפקדים מול ממשלה כושלת. הריקבון לא נעצר במשרד התחבורה. התהליך המכאיב ביותר, אולי גם המסוכן ביותר, מתרחש היום בצה\"ל, מול הטרור היהודי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/Sk6G4dA9Ml/Sk6G4dA9Ml_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מי שלא הכריע את נתניהו תוך 3 ימים, ספק אם יוכל אחרי 3 שנים",
+      "link": "https://www.ynet.co.il/news/article/yokra14917058",
+      "pubDate": "2026-10-04T21:02:00.000Z",
+      "summary": "התחושה היא שהתוצאות עלולות להכות בתדהמה את אלה שהאמינו (וחלקם גם הכריזו בביטחון מוחלט) שלא ניתן להתאושש פוליטית מאסון כל כך גדול. המצב הנוכחי לבדו מעיד עד כמה היה נאיבי לחשוב כך.",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/rJdjYQ6qzx/rJdjYQ6qzx_1_73_360_203_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "המטוס ממריא - ורק אז ישראל מקבלת את הרשימות | כך נראה המחדל",
+      "link": "https://www.mako.co.il/news-military/2026_q4/Article-ef8023bfed701a1026.htm",
+      "pubDate": "2026-10-04T18:58:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "אבו שחאדה בחוץ, בל\"ד נשארת: כך נראית הרשימה המשותפת אחרי הפרישה",
+      "link": "https://www.ynet.co.il/news/elections2026/article/s100kfzesze",
+      "pubDate": "2026-10-04T18:02:59.000Z",
+      "summary": "יו\"ר בל\"ד אמנם הסיר את מועמדותו לאחר ששופטי העליון אותתו כי מסתמן רוב לאישור פסילתו, אך במפלגה מבהירים: הוא ימשיך להנהיג אותה. בעקבות המהלך יתקדמו כל המועמדים שאחריו מקום אחד ברשימה המשותפת - ובבל\"ד מקווים שהפרשה תמריץ את תומכיה לצאת לקלפיות, ולא תפגע בשיעור ההצבעה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/H1fz6xejfg/H1fz6xejfg_1_153_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "בכיר אגף הביטחון לשעבר מזהיר משדות התעופה האלה באירופה: \"שם הסכנה\"",
+      "link": "https://www.ynet.co.il/news/article/b1usejjjfe",
+      "pubDate": "2026-10-04T16:02:26.000Z",
+      "summary": "ניסיון חטיפת טיסת \"פליי דובאי\" חשף חור שחור באבטחת הטיסות הזרות לישראל. בזמן שמשרד התחבורה, שב\"כ ומל\"ל מגלגלים אחריות זה לזה והמלצות מבקר המדינה מעלות אבק, צוותי אוויר זרים נוחתים בנתב\"ג כמעט ללא בידוק ישראלי. בכירים לשעבר חושפים את עומק המחדל הביורוקרטי, ומזהירים מהאיום הבא: שדות התעופה הקטנים והלא מאובטחים בחו\"ל. ynet מסביר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/rJcSSpyiMg/rJcSSpyiMg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הנער הגיבור מהסרטון הוויראלי נחשף: \"אנשים צעקו 'מי יודע להטיס מטוס?'\"",
+      "link": "https://www.ynet.co.il/news/article/bkwlijxjzx",
+      "pubDate": "2026-10-04T16:00:05.000Z",
+      "summary": "עמית בן ה-17 ישב לצד שתי אחיותיו כשמטוס פליי דובאי החל לצלול, אחת מהן התעלפה - והוא הרגיע אותן בקור רוח בזמן שתיעד את רגעי הפחד: \"אמרתי 'הכול בסדר, זה כיס אוויר' - אבל קיבלתי את זה שאני הולך למות\". לדבריו, \"כשהבנתי שזו לא תקלה במטוס אלא ניסיון פיגוע, נרגעתי. הייתי בטוח שנוסע מטיס אותו\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SJrLwkxsfe/SJrLwkxsfe_312_704_413_233_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "בעיות בריאות? הדרישות יוצאות הדופן של נשיא סין בארה\"ב",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-793deb177f501a1027.htm",
+      "pubDate": "2026-10-04T15:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הפרצה שאפשרה לטייסים ממדינות אויב לנחות בישראל: \"כשל אסטרטגי\"",
+      "link": "https://www.mako.co.il/news-military/2026_q4/Article-f62d6e9ab1601a1027.htm",
+      "pubDate": "2026-10-04T11:51:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם?",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm",
+      "pubDate": "2026-10-04T11:24:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "גל הגניבות החריג: \"תופעה מכוערת, חסרי מצפון\"",
+      "link": "https://www.mako.co.il/men-men_news/Article-1ed86a883a601a1026.htm",
+      "pubDate": "2026-10-04T11:19:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מי מהמועמדים לראשות ממשלה יחשוף את תיקו הרפואי?",
+      "link": "https://www.mako.co.il/news-politics/2026_q4/Article-65fc6012937f0a1026.htm",
+      "pubDate": "2026-10-04T11:17:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "גם ישראל במוקד: ברזיל נערכת לקרב צמוד ומתוח",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-f0e8318829601a1026.htm",
+      "pubDate": "2026-10-04T11:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הסלמה חמורה במלחמה: אוקראינה נערכת למשבר יוצא דופן",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-bc0f761c15601a1027.htm",
+      "pubDate": "2026-10-04T09:57:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מי אחראי למחדל? החלוקה בין משרד התחבורה לגופי הביטחון",
+      "link": "https://www.mako.co.il/news-military/2026_q4/Article-71ec29fb94501a1027.htm",
+      "pubDate": "2026-10-04T09:21:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "השתיקה בעומאן אחרי ניסיון הפיגוע בטיסה: \"מביך את השלטון\"",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-6471198ee0601a1027.htm",
+      "pubDate": "2026-10-04T08:45:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "עוד לפני הבחירות: הקרב על התיקים כבר יצא לדרך",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-88570c00a7501a1026.htm",
+      "pubDate": "2026-10-04T08:31:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"חצי מיליון ברחובות\": בדרך לבחירות מוקדמות בספרד?",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-db0e1fc2ca501a1027.htm",
+      "pubDate": "2026-10-04T07:39:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הישורת האחרונה: שלושה שבועות עד לבחירות",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-3c6653ec548e0a1026.htm",
+      "pubDate": "2026-10-04T06:55:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "צרפת: עם זינוק בגירעון ושיא בחוב הציבורי, ההפגנות לא צפויות לדעוך בקרוב",
+      "link": "https://www.ynet.co.il/economy/article/bymv7xeoml",
+      "pubDate": "2026-10-04T15:44:35.000Z",
+      "summary": "תקציב 2027 הכולל קיצוצים בהיקף 54 מיליארד אירו רק יגביה את הלהבות שהציתו תלמידי התיכונים ‏במדינה בגלל צפיפות בכיתות ומחסור במורים. בלב המשבר: הכישלון של ממשלות צרפת להשתלט על ‏החוב והגירעון",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HJ7W4ggofx/HJ7W4ggofx_0_165_3000_1689_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "סידני סוויני והפרסומת הפרובוקטיבית: זינוק דרמטי בנתוני החברה המפרסמת",
+      "link": "https://www.ynet.co.il/economy/article/hy6ossyjge",
+      "pubDate": "2026-10-04T10:26:07.000Z",
+      "summary": "הקמפיין של הכוכבת לחברת נוביג הקפיץ את היקף המסחר בפלטפורמת שוק החיזויים בכמעט 94%, ומספר היוזרים שנכנסו אליה בפעם הראשונה עלה ביותר מ-218%. המייסד בתגובה לביקורת על הפרסומת: \"אין לנו על מה להתנצל\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/r1TCr1lYzx/r1TCr1lYzx_18_0_1729_973_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "כניעה לפרוטקשן? במקום למגר את הפשיעה - המדינה תשלם לנפגעים",
+      "link": "https://www.mako.co.il/finances-news/Article-37d96567f6601a1027.htm",
+      "pubDate": "2026-10-04T10:19:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "המדינה ששונאת אותנו נמצאת במשבר חסר תקדים",
+      "link": "https://www.mako.co.il/finances-news/Article-b590c1ad00601a1026.htm",
+      "pubDate": "2026-10-04T08:54:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "אחרי פליי דובאי: הסכנה הביטחונית בטיסות חברות התעופה הישראליות",
+      "link": "https://www.ice.co.il/tourism/news/article/1132245",
+      "pubDate": "2026-10-05T02:22:35.000Z",
+      "summary": "הן מוכרות לכם כרטיסים תחת מותג מקומי מוכר, אך מאחורי הקלעים עשרות טיסות מבוצעות על ידי חברות זרות לחלוטין. המשמעות המדאיגה של שיטת החכירה הרטובה נחשפת כעת",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_624/rsz_615_346_F261004AVS0011.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "שורד השבי עומר שם טוב חושף: יש רגעים שאני מתגעגע לשבי בעזה",
+      "link": "https://www.ice.co.il/local-news/news/article/1132244",
+      "pubDate": "2026-10-05T01:42:59.000Z",
+      "summary": "החטוף ששוחרר משבי חמאס שיתף בריאיון חשוף על התחושות המורכבות מאז שחזר, החיבור המיוחד שאיבד בגלל הסחות הדעת של חיי היום יום וההרגל שאימץ מאז שחזר לעצמו",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_624/rsz_615_346_0137051026.png",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "האינפלציה בשווייץ מרימה ראש: האם הריבית תישאר ב-0% עד 2027?",
+      "link": "https://www.ice.co.il/finance/news/article/1132192",
+      "pubDate": "2026-10-04T21:04:12.000Z",
+      "summary": "אחת המדינות המשפיעות ביותר על השווקים מציגה נתונים מפתיעים. ביוליוס בר מנתחים ותוהים האם הבנק המרכזי יבצע מהלך קיצוני שישפיע על הכיס של כולנו, ומה צופים האנליסטים הבכירים?",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_475/rsz_615_346_2ice13082024.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "pubDate": "2026-10-04T20:08:34.000Z",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "pubDate": "2026-10-04T16:05:00.000Z",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "אחד העובדים הוותיקים עזב את OpenAI ומזהיר: \"התרבות הארגונית שלה שבורה\"",
+      "link": "https://www.mako.co.il/nexter-news/Article-0409ef5e8e501a1026.htm",
+      "pubDate": "2026-10-04T08:19:00.000Z",
+      "summary": "דייוויד רובינסון, שכתב בעבר דוחות בטיחות להשקות מודלים גדולות של OpenAI, עזב את החברה וטוען שמעבדות AI צריכות להתנהל כמו תחנות כוח גרעיניות. \"אף פעם לא פגשתי עובד שהתעסק בלגרום למטוסים לטוס בבטחה או לכורים גרעיניים לפעול בלי להתמוסס\"",
+      "image": "https://img.mako.co.il/2026/10/04/AutoCms_222C11E3C_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "הטעות של הנבחרת תמיד תגיע, מזל שגם דור פרץ | טור",
+      "link": "https://www.ynet.co.il/sport/article/r11lavgsfg",
+      "pubDate": "2026-10-04T22:30:00.000Z",
+      "summary": "נבחרת ישראל עלתה בעיקר כדי לא לספוג, ושוב מצאה דרך שלומיאלית להכניס את עצמה לבור. למזלה, משהו מערן זהבי התגלגל לדור פרץ, ששוב היה במקום הנכון בזמן הנכון. עכשיו, כשמלחמת הפקקים עם אירלנד הסתיימה, מי ייתן לנבחרת סיבה לשחק כדורגל?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/rJo1QEljzl/rJo1QEljzl_0_88_2765_1557_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "הניצחון על ירושלים יכול לשנות למכבי ת\"א את מצב הרוח, אולי לערב אחד | טור",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/ry2ib7lizx",
+      "pubDate": "2026-10-04T22:30:00.000Z",
+      "summary": "ה-71:88 על נמסיס בוודאי לא מוחק את מה שקורה ביורוליג. עודד קטש הוא מאמן טופ יורוליג, אבל גם נהג מצוין לא יכול לתקן הכל כשהמכונית מושכת ימינה, הצמיג רועד והבעלים רבים מי מחזיק במפתחות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HyEjb5Gesfe/HyEjb5Gesfe_0_102_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "כרגע היא אחרונה בבית: מה נבחרת ישראל צריכה כדי לא לרדת דרג?",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/syzftqgiml",
+      "pubDate": "2026-10-04T20:37:53.000Z",
+      "summary": "אחרי ה-1:1 מול אירלנד, הכחולים-לבנים יצטרכו להשיג תוצאות טובות מול קוסובו ואוסטריה כדי להימנע מירידה לדרג ג'. וגם: ההשלכות לקראת מוקדמות היורו",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/BJ8YGQxoGg/BJ8YGQxoGg_0_97_3000_1689_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
