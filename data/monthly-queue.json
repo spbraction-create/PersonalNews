@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T03:24:10.030Z",
+  "generatedAt": "2026-10-06T03:24:00.299Z",
   "note": "תור מצטבר לשער ירחון — נצרך ומתאפס על ידי scripts/edit-monthly.js.",
   "items": [
     {
@@ -1314,6 +1314,123 @@
         5
       ],
       "column": 5
+    },
+    {
+      "title": "בכמה נמכרה דירה כמו שלי? הכלי שמשווה לעסקאות אמיתיות דומות",
+      "link": "https://www.mako.co.il/news-money/calculators/Article-fc929a687bc01a1027.htm",
+      "pubDate": "2026-10-05T16:25:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "כמה מזונות אשלם או אקבל? המחשבון שנותן נקודת פתיחה",
+      "link": "https://www.mako.co.il/news-business/duns_100-podcasts/Article-4057609bf2c01a1026.htm",
+      "pubDate": "2026-10-05T13:21:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "מאחורי הקלעים של הפשטות: איך בונים מוצר סייבר שהמשתמש באמת מבין",
+      "link": "https://www.mako.co.il/news-business/duns_100-podcasts/Article-0cf9609bf2c01a1026.htm",
+      "pubDate": "2026-10-05T13:14:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "פתרונות אפשריים לניהול מחלוקת על גובה שומת המס מול רשות המיסים",
+      "link": "https://www.mako.co.il/news-business/duns_100-podcasts/Article-5169482082c01a1026.htm",
+      "pubDate": "2026-10-05T13:02:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "העובד החדש אינו אדם",
+      "link": "https://www.mako.co.il/news-business/duns_100-law/Article-9a3d03f452c01a1026.htm",
+      "pubDate": "2026-10-05T12:59:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "אינסטלציה עוקפת משפטים: מה ההורים באמת רוצים",
+      "link": "https://www.mako.co.il/finances-news/Article-736fbbc0cbb01a1027.htm",
+      "pubDate": "2026-10-05T11:09:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "שלושה ילדים, עסק אחד: שליש לכל ילד זה הוגן?",
+      "link": "https://www.ynet.co.il/economy/article/hkexklwjgl",
+      "pubDate": "2026-10-05T09:37:10.000Z",
+      "summary": "חלוקה שווה של חברה משפחתית נראית צודקת, אבל עלולה להתגלות כמתכון לסכסוך. פרוטוקול הוגנות מאפשר להגדיר מראש את העקרונות לתוצאה הוגנת",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/11/18/HJk4O00M5P/HJk4O00M5P_0_0_1024_577_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "\"אנשים לא מבינים כמה כסף מחכה להם\": מיזם ההנצחה המרגש",
+      "link": "https://www.mako.co.il/finances-news/Article-685ede9d7d601a1026.htm",
+      "pubDate": "2026-10-05T03:30:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "ADWEEK Creativity Advantage: Building Fandoms Needs a Different Playbook",
+      "link": "https://www.adweek.com/creativity/adweek-creativity-advantage-building-fandoms-needs-a-different-playbook/",
+      "pubDate": "2026-10-05T06:00:00.000Z",
+      "summary": "As fan-first marketing spreads, brands are starting to operate more like entertainment and media companies.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
     }
   ]
 }
