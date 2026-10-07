@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T03:24:00.297Z",
+  "generatedAt": "2026-10-07T03:24:02.791Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -1288,6 +1288,253 @@
         3
       ],
       "column": 3
+    },
+    {
+      "title": "ספאם הבחירות שמשגע את כולנו: האם מותר למפלגות להטריד אותנו?",
+      "link": "https://www.ynet.co.il/economy/article/b13oyufigg",
+      "pubDate": "2026-10-06T14:23:12.000Z",
+      "summary": "הפוליטיקאים החריגו את תעמולת הבחירות מחוק הספאם, והכתובת היחידה של אזרחים שמרגישים מוטרדים היא ועדת הבחירות המרכזית, אבל יש כמה חריגים ולמפלגות אין כוח בלתי מוגבל להטריד את הציבור. מתי בכל זאת אפשר לתבוע ומהם גבולות התעמולה? ynet מסביר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/SJCbio9ufx/SJCbio9ufx_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הקקאו שוב מתייקר - והחשש ממחסור חוזר לשוק השוקולד",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-15dd2c9137111a1026.htm",
+      "pubDate": "2026-10-06T14:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "אילון מאסק שוב טריליונר - כמה גדול באמת ההון שלו?",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-cc0ad11ac5111a1026.htm",
+      "pubDate": "2026-10-06T14:05:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "חודשים לפני המחדל: תוספת התקציב לאבטחת טיסות שאושרה – ולא יושמה",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-4c93240928d01a1027.htm",
+      "pubDate": "2026-10-06T08:53:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "3 שנים למלחמה: כמה כסף שילמה המדינה למי שנפגע?",
+      "link": "https://www.mako.co.il/finances-news/Article-31a043ad56011a1026.htm",
+      "pubDate": "2026-10-06T08:41:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "מהו הפתרון החדש של אנבידיה שעשוי להפוך לשכבת האבטחה של עידן הסוכנים?",
+      "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/xfobn95v3",
+      "pubDate": "2026-10-06T05:23:36.000Z",
+      "summary": "אחרי חודשים שבהם הוויכוח סביב בינה מלאכותית עבר מהשאלה כמה מהר המודלים משתפרים לשאלה האם בכלל ניתן לשלוט בהם, אנבידיה (NVDA) מציגה תשובה משלה: לא להאט את הפיתוח - אלא לבנות שכבת אבטחה שתפקח על הסוכנים בזמן אמת ותעצור אותם אם הם חורגים מהכללים. החברה חשפה את Open Agent Safety Platform, מערכת חדשה שנועדה להגביל מה סוכני AI יכולים לעשות, לאילו מערכות הם רשאים לגשת, ובמקרה הצורך לבודד אותם בתוך אלפיות השנייה. מבחינת אנבידיה, זהו ניסיון להפוך את בעיית הבטיחות מאיום קיומי לשאלה הנדסית שניתן לפתור באמצ",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/SkvFXZzoMe/SkvFXZzoMe_0_8_512_289_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "28 מיליארד דולר יימחקו: לקונגרס נמאס שהאמריקנים מצאו דרך חוקית להתמסטל",
+      "link": "https://www.ynet.co.il/economy/article/rkqxdy11sze",
+      "pubDate": "2026-10-06T04:05:08.000Z",
+      "summary": "הגדרה טכנית אפשרה ליצרנים למכור סוכריות, משקאות ופרחי קנאביס עם כמות ‏THC‏ משכרת, גם במדינות שבהן מריחואנה אסורה. לקונגרס נמאס והוא מתכוון לסגור את הפרצה ממש בקרוב. התעשייה מציעה להגביל מכירה לבני 21 ומעלה, כצעד ראשון בניסיון למנוע ‏איסור כמעט מוחלט",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/ryhSj1bjfg/ryhSj1bjfg_0_312_3000_1689_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "\"לערוף את הצוואר המלוכלך\": איך נאום אחד הפך למשבר כלכלי בין שתי מעצמות",
+      "link": "https://www.ynet.co.il/economy/article/syyqzsbifx",
+      "pubDate": "2026-10-06T04:05:03.000Z",
+      "summary": "מספר החברות היפניות בסין צנח ב-30% על רקע המשבר הדיפלומטי, אחרי נאום ראש ממשלת יפן על תמיכה בטאיוואן - והן פונות לשווקים בהודו, וייטנאם ותאילנד. במקביל, הסינים הגבילו ייצוא מינרלים ליפן והזהירו אזרחים מלטייל אצל השכנה. נראה שזו רק תחילתו של הסכסוך בין המדינות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/H1RiNS11jfe/H1RiNS11jfe_224_209_2525_1422_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "מעל 50 מיליארד שקל: על מה בזבזו הישראלים את הכסף בחגים?",
+      "link": "https://www.ynet.co.il/economy/article/r1gkc711igx",
+      "pubDate": "2026-10-06T04:05:00.000Z",
+      "summary": "החגים נפלו השנה במלואם בספטמבר, שרשם שיא בהוצאות היומיות באשראי ועקף את אוגוסט. הוצאנו 53.2 מיליארד שקל בכלל החודש, עלייה של 6.2% ובזבזנו 10%-18% יותר על נופש, בתי קפה ומסעדות. בגלל התייקרויות הדלק בחודשים האחרונים, יש עלייה מצטברת של כ-42% בהוצאות על דלק ביומיים האחרונים של כל חודש מיוני עד ספטמבר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/SJJo7oLtGg/SJJo7oLtGg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "pubDate": "2026-10-06T20:35:20.000Z",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "pubDate": "2026-10-06T19:56:50.000Z",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "זה (לא) מצחיק: המודל החדש של OpenAI רימה בסטארקראפט",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/459174/",
+      "pubDate": "2026-10-06T16:27:51.000Z",
+      "summary": "רק אתמול (ב') דיווחנו ש סם אלטמן חושב שבדרך להצלחה האמיתית של ה-AI, העולם יצטרך לקבל דברים רעים. כמעט במקביל, המודל המתקדם של הצ'טבוט שלו, ChatGPT 6 Astra, הוכיח שזה נכון – והוא עשה את זה בהיבט שאף אחד כנראה לא חשב עליו עד עתה, אך בדרך שמזכירה תקלות AI אחרות שעליהן דווח באחרונה. לפי דיווחים, המודל המעודכן של OpenAI פשוט החליט לרמות בהתמודדות במשחק סטארקראפט (Starcraft). סטארקראפט הוא משחק האסטרטגיה בזמן אמת, שעדיין נחשב פופולרי, למרות גילו. ה-ChatGPT 6 Astra החל לרמות במשחק במסגרת StarSkrimish –",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/shutterstock_2350331771.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "ההשקות של OpenAI – נקודה לחיוב על רקע הביקורות שהיא סופגת",
+      "link": "https://www.pc.co.il/featured/459169/",
+      "pubDate": "2026-10-06T16:09:38.000Z",
+      "summary": "OpenAI סופגת בימים אלה ביקורות, כולל אזהרות של עובדים לשעבר מבפנים, עקב בטיחות ה-AI. נכון שהיא לא לבד – גם אנת'רופיק וחברות אחרות נמצאות בקלחת הזאת, אבל יש לה חלק מרכזי בביקורות האלה, עקב היותה בין ענקיות התחום, ולמעשה החלוצה שלו, עם ChatGPT. לצד הקולות המזהירים מפני הסיכונים והיעדר הרגולציה המספקת, קל לשכוח כי הליבה של OpenAI הייתה ונשארה חדשנות טכנולוגית. כנס המפתחים שלה, DevDay 2026, שנערך בשבוע שעבר בסן פרנסיסקו, היווה תזכורת לכך, והזכיר את ה-DNA הטכנולוגי והחדשני שלה. OpenAI ביצעה בכנס שורה",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/shutterstock_2852337117.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "All-electric camping gets a solar upgrade: The 2027 Pebble Flow",
+      "link": "https://arstechnica.com/cars/2026/10/this-self-parking-electric-travel-trailer-gets-a-solar-upgrade-for-2027/",
+      "pubDate": "2026-10-06T15:23:28.000Z",
+      "summary": "There is, I think, a pent-up demand for bringing electrification to camping. Anyone who’s had their sleep disturbed by the sound of someone else’s generator running at night would probably agree. Certainly, any time we cover an electric van , comments are filled with people wondering if and when a camper conversion might appear. Kia showed off such a concept a couple of years ago , as did Winnebago , and Volkswagen is adding a camper trim to its electric ID. Buzz. And then there’s the world of t",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Pebble-Flow-01-a-l1022800-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"בעידן ה-AI, פיתוח מאובטח הופך לעוד יותר קריטי\"",
+      "link": "https://www.pc.co.il/featured/459133/",
+      "pubDate": "2026-10-06T12:32:07.000Z",
+      "summary": "\"בעידן ה-AI, פיתוח מאובטח הופך לעוד יותר קריטי\", כך אמרה שירה שמבן , מנכ\"לית משותפת ב- OWASP ישראל , בכנס השנתי שקיימה העמותה. לדבריה, עולם הפיתוח – ובתוכו הפיתוח המאובטח – השתנה משמעותית לאורך השנים. האיומים גדלו בהיקפם וברמת התחכום שלהם, בעוד תהליכי הפיתוח הפכו עמוקים ומורכבים יותר. מהפכת הבינה המלאכותית, ובכלל זה GenAI ו-Agentic AI, מוסיפה כעת שכבה נוספת של אתגרים. \"הנהלות הארגונים לוחצות על צוותי ה-IT להטמיע AI, הרבה ומהר, לצד בעלי תפקידים שאינם אנשי פיתוח שעושים שימוש ב-AI. מצב זה בהכרח מבי",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/owasp-uri-troina-806x416-v3.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+      "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+      "pubDate": "2026-10-06T12:00:31.000Z",
+      "summary": "VMware customers face multiple obstacles as they rethink their virtualization strategy to reduce dependence on VMware. Today, Rimini Street published its “2026 IT Virtualization Survey – What’s Next for VMware Users.” The survey examined 300 organizations worldwide that use VMware. Notably, Rimini sells third-party support for VMware and other software, including Oracle and SAP. That means there’s an incentive for Rimini to portray VMware users as experiencing obstacles. However, the survey was ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"השוק האמריקני רוצה את ההיי-טק שלנו – צריך לדעת להתנהל מולם\"",
+      "link": "https://www.pc.co.il/editorial/459126/",
+      "pubDate": "2026-10-06T10:06:57.000Z",
+      "summary": "בפרק הזה של פודקאסט אנשים ומחשבים אירחנו את גלית מירן , מנכ\"לית לשכת המסחר ישראל-אמריקה , שנכנסה לתפקידה לפני כשנה. שוחחנו איתה על האתגרים וההזדמנויות של חברות הטכנולוגיה וההיי-טק הישראליות המבקשות לחדור לשוק האמריקני, ועל הדרכים שבהן לשכת המסחר מסייעת לעשות זאת. למירן 15 שנות ניסיון בעולמות ה-IT וניהול הסיכונים. היא מילאה תפקידי ניהול בכירים בחטיבת התפעול של טבע תעשיות פרמצבטיות (Teva Pharmaceutical Industries), שם צברה היכרות מעמיקה עם השוק האמריקני. היא בעלת תואר שני (MBA) במדעי ההתנהגות, שיר",
+      "image": "https://www.pc.co.il/wp-content/uploads/2025/08/Profeesional-Photo-1.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"אתגר ה-AI במגזר הציבורי – להפוך אותה לכלי בשירות האזרחים\"",
+      "link": "https://www.pc.co.il/upcoming-conferences/459116/",
+      "pubDate": "2026-10-06T07:59:37.000Z",
+      "summary": "מאת: הילל יוסף \"השאלה כיום כבר אינה האם AI משפיעה על המגזר הציבורי, אלא איך מטמיעים אותה בצורה שתייצר ערך אמיתי. האזרחים רוצים לקבל שירות מהיר, יעיל ונגיש יותר, ובמקביל – שהמידע שלהם יהיה מוגן\", כך אמר ניסים עוזר , סמנכ\"ל מכירות אנטרפרייז והמגזר הציבורי ב- דל טכנולוגיות (Dell Technologies) ישראל. עוזר דיבר לקראת כנס Dell Technologies Forum השנתי. הכנס, בהפקת אנשים ומחשבים , ייערך ב-13.10 ב אקספו תל אביב . לדברי עוזר, \"המבחן של השלב הבא באימוץ הבינה המלאכותית בגופים ציבוריים אינו עצם אימוץ הטכנול",
+      "image": "https://www.pc.co.il/wp-content/uploads/2024/09/ניסים-עזור-דל.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "גם OpenAI תלשין שכתבתם את הטקסט עם AI והיא מסבירה איך",
+      "link": "https://www.geektime.co.il/openai-explains-ai-text-watermark/",
+      "pubDate": "2026-10-06T06:59:59.000Z",
+      "summary": "צילום מסך. עיבוד תמונה: גיקטיים יש לא מעט דרכים שאיתן אתם יכולים לנסות לזהות טקסט שנכתב עם AI. קולגה שבקושי כותבת לכם משפטים שלמים ופתאום שולחת לכם איגרת ברכה ארוכה ביום ההולדת ב-Slack, מקפי ה-em dash הארוכים, תבניות חוזרות, שימוש באימוג'ים וכמובן הקלאסיקה של אנשים שמעתיקים את כל הטקסט כולל את \"תרצה שאנסח לך גם גרסה קצרה יותר?\". אבל מעבר לזה? לא תמיד אפשר לדעת שטקסט כלשהו ג'ונרט בעזרת LLM's. עכשיו, ובעקבות דרישות של האיחוד האירופי, יהיה ניתן לדעת האם טקסט כלשהו ג'ונרט על ידי ChatGPT. הכל תלוי בב",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
     }
   ]
 }

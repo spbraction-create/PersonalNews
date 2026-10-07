@@ -1,177 +1,264 @@
 {
-  "generatedAt": "2026-10-06T03:20:59.780Z",
+  "generatedAt": "2026-10-07T03:21:00.661Z",
   "columns": [
     {
       "column": 2,
       "name": "כלכלה / עסקים",
-      "brief": "בזירה הבינלאומית, אושרה באורלנדו תוכנית פיתוח ענקית בהיקף של כ-19 מיליארד דולר בהובלת היזם הישראלי בבו קובו. המתחם, הסמוך לדיסני, מתוכנן לכלול כ-4,800 דירות, בתי מלון ועשרות אלפי מ\"ר של מסחר יוקרתי. במקביל, שוק התקשורת המקומי השלים מהלך משמעותי עם סגירת עסקת הוט מובייל לפי שווי של כ-1.88 מיליארד שקל; במסגרתה רכשו דלק ישראל וקרן קיסטון 40% כל אחת, ולאומי פרטנרס רכשה 20%, תמורת 1.2 מיליארד שקל בסך הכל.\n\nבשוקי ההון והאנרגיה נרשמה תנודתיות: מניית נאוויטס איבדה 6% בעקבות איומי ממשלת ארגנטינה להטיל סנקציות על פרויקט הנפט \"סי-ליון\", ומניית אל על נחלשה ב-3%, לצד ירידות בשער האירו בעולם. עבור הצרכן הישראלי נרשמה הקלה, לאחר שמחיר ליטר דלק הוזל בחצות ל-7.77 שקלים הודות להפחתת מס הבלו, וזאת לאחר שזינק לאחרונה לשיא של 8.27 שקלים. \n\nמנגד, ענף הבנייה המקומי ממשיך להפגין סימני מצוקה תחת עומס המימון: חברת הקבלנות הירושלמית הוותיקה \"נטע ליפשיץ\" פנתה לבית המשפט בבקשה למינוי נאמן זמני, לאחר שצברה חובות של למעלה מ-60 מיליון שקל לנושים ועוד 29 מיליון שקל בהלוואות בעלים. בזירת המשפט והתעופה, פסק בית המשפט העליון לטובת הצרכנים וקבע כי סוכנויות נסיעות אינן רשאיות לגבות עמלה בעת ביצוע החזר כספי על ביטולי טיסות.",
+      "brief": "במוקד הזירה הכלכלית מקדמים משרד האוצר ורשות המיסים שורת צעדי מיסוי חדשים, כשברקע הצהיר מנהל רשות המיסים כי בכוונתו להמליץ לממשלה הבאה להפחית את מס הרכישה על דירות להשקעה לרמה של 5%–6%, מהלך שעשוי להשפיע מהותית על שוק הנדל\"ן למגורים. במקביל, שוק התקשורת ניצב בפני שינוי מבני משמעותי: צוות בין-משרדי צפוי להמליץ על ביטול חובת ההפרדה בין בזק ל-yes, מה שיאפשר לבזק להציע שירותי טלוויזיה ישירים ולהגביר את התחרות מול הוט, סלקום ופרטנר.\n\nבזירה הצרכנית והמשפטית נרשמו שתי התפתחויות בולטות: בית המשפט העליון קבע בפסק דין תקדימי כי סוכנויות נסיעות אינן רשאיות לנכות דמי טיפול מהחזר כספי בגין טיסה שבוטלה; במקביל, בנק הפועלים ישלם כ-7 מיליון שקל בהסדר פשרה ייצוגי, לאחר שהפחית את הריבית ללקוחות שביצעו משיכה חלקית מפיקדונות.\n\nבזירה הבין-לאומית, ענקית האופנה המקוונת אסוס (ASOS) מתמודדת עם אירוע אבטחה חמור, לאחר שלקוחותיה קיבלו התרעות מתפרצות המעידות על פריצה לתשתיות הענן של החברה ואיומים בהדלפת מידע. \n\nבתחום התשתיות, הממשלה מקדמת תוכנית להקמת תחנת כוח מוסקת בגז באשדוד ביוזמת משרד האנרגיה — צעד המעורר התנגדות חריפה מצד המשרד להגנת הסביבה, בטענה שהוא סותר את התוכנית הלאומית לצמצום זיהום האוויר באזור.",
       "cards": [
         {
-          "title": "תמורת 1.2 מיליארד שקל: הושלמה עסקת מכירת הוט מובייל",
-          "summary": "במסגרת העסקה, דלק ישראל וקרן קיסטון רכשו 40% כל אחת מהוט מובייל, ולאומי פרטנרס 20%, לפי שווי של כ-1.88 מיליארד שקל",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/22/HySUS5U6be/HySUS5U6be_0_563_3000_1688_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/r10vafzsfg",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-05T13:32:10.000Z"
-        },
-        {
-          "title": "השכר הממוצע במשק טיפס באוגוסט: זו גובה התוספת בשקלים",
+          "title": "אלו המיסים החדשים שמתכנן משרד האוצר: כל הפרטים",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-money/2026_q4/Article-066a168405b01a1026.htm",
+          "link": "https://www.mako.co.il/news-money/2026_q4/Article-244657234a011a1026.htm",
           "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-10-05T09:57:00.000Z"
+          "pubDate": "2026-10-06T10:10:00.000Z"
         },
         {
-          "title": "אמש בחצות: מחיר הדלק הוזל ל-7.77 שקלים",
-          "summary": "אחרי שהתייקר ב-52 אגורות למחיר שיא של כל הזמנים - 8.27 שקל לליטר, אושרה ע\"י הייעוץ המשפטי בממשלה הפחתה נוספת של מס הבלו - והיא נכנסה לתוקף אתמול בלילה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/09/Sk0VK5htWe/Sk0VK5htWe_0_0_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/bkwufds9gx",
+          "title": "מנהל רשות המיסים: \"אני חושב שזה נכון כרגע לחזור למס רכישה של -5% ו-6%\"",
+          "summary": "את הדברים אמר מנהל רשות המיסים בכנס נדל\"ן אך הוסיף שזו החלטה שהממשלה החדשה תידרש לה. מנכ\"ל משרד השיכון באותו הכנס: \"הניסיון כל פעם למצוא משהו חדש ולהסביר למה המחירים לא יכולים לרדת - ניסיון נואש ולא נכון\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/15/SJgTOWSvkl/SJgTOWSvkl_696_723_1811_1020_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/h1ixwkmsfx",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-05T04:28:36.000Z"
+          "pubDate": "2026-10-06T15:44:24.000Z"
         },
         {
-          "title": "הפניקס יוצאת למהלך אסטרטגי - וחוברת לענקית ההשקעות האמריקאית",
+          "title": "תחרות להוט, סלקום ופרטנר? בזק עשויה להציע בקרוב גם שירותי טלוויזיה",
+          "summary": "צוות משותף של משרד התקשורת, משרד האוצר ורשות התחרות, ימסור חוות דעת שעשויה לבטל את חובת ההפרדה בין בזק לחברת הבת שלה יס. המהלך יאפשר לבזק להציע גם שירותי טלוויזיה, בנוסף לאינטרנט וטלפון",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/03/27/HkJBmy0G5/HkJBmy0G5_134_87_265_149_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/hywomxmifg",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-06T07:39:18.000Z"
+        },
+        {
+          "title": "הממשלה אישרה תוכנית לצמצום הזיהום ועכשיו רוצה להקים תחנת כוח באשדוד",
+          "summary": "הממשלה תדון היום בהסמכת בית הזיקוק אשדוד להכין תוכנית תשתית לתחנת כוח מוסקת בגז טבעי, ביוזמת שר האנרגיה אלי כהן. המהלך מגיע אחרי שביוני אישרה אותה ממשלה תוכנית לאומית לצמצום זיהום באזור אשדוד. המשרד להגנת הסביבה מתנגד וטוען כי התחנה תחמיר את איכות האוויר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/01/26/4422992/4422992_12_94_957_539_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/rylgzzzimx",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-06T13:41:22.000Z"
+        },
+        {
+          "title": "הפועלים ישלם כ-7 מיליון שקל בפשרה בייצוגית: לקוחות משכו כסף מהפיקדון - והריבית ירדה",
+          "summary": "במסגרת הסדר פשרה בתביעה ייצוגית, הבנק יפצה לקוחות שביצעו משיכה חלקית מפיקדונות בריבית משתנה ולאחריה הפחית הבנק את הריבית על יתרת הכסף. הבנק התחייב גם לשנות את אופן הצגת תנאי הריבית, כך שהלקוחות יידרשו לאשר במפורש את השינוי בעת משיכה חלקית",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/15/H100PdZ4Ixg/H100PdZ4Ixg_0_92_1600_901_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/bkbnhhmsfl",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-06T10:30:28.000Z"
+        },
+        {
+          "title": "פסק דין תקדימי: סוכנות נסיעות לא יכולה לגבות דמי טיפול על טיסה שבוטלה",
+          "summary": "בית המשפט העליון קבע כי סוכנות נסיעות אינה רשאית לנכות דמי טיפול מהחזר שקיבלה מחברת תעופה בגין טיסה שבוטלה ביוזמתה. איסתא, שניכתה 30 דולר מההחזר לנוסע, חויבה להשיב את הסכום בתוספת הצמדה וריבית, ולשלם הוצאות משפט בסך 5,000 שקל",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/SJ100Np4wGx/SJ100Np4wGx_0_104_1000_563_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/bjwgkrfizl",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-06T09:55:07.000Z"
+        },
+        {
+          "title": "לקוחות אסוס: קיבלנו הודעה שהאתר נפרץ",
+          "summary": "משתמשים מדווחים על הודעת פוש שנשלחה מאפליקציית אתר האופנה אסוס, לכאורה ממתקפים שפרצו לפלטפורמת הענן של החברה ומאיימים להדליף מידע משם",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/HJ67R4fozx/HJ67R4fozx_43_34_643_362_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/ryduxbfjfg",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-06T09:37:42.000Z"
+        },
+        {
+          "title": "אחרי המשבר: המדינה מודה ש\"ישראל מתייבשת\" - והקמפיין החדש",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-business/markets/Article-cc46d7a750b01a1026.htm",
+          "link": "https://www.mako.co.il/news-money/2026_q4/Article-ea4d2efeb8701a1026.htm",
           "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-10-05T07:52:00.000Z"
+          "pubDate": "2026-10-06T11:03:00.000Z"
         },
         {
-          "title": "הבוננזה של בבו קובו: אושר פרויקט של 19 מיליארד דולר ליד דיסני",
-          "summary": "מירי בוהדנה יכולה לחייך: אחרי דחיות והתנגדויות, אושרה תוכנית ענק של בן זוגה באורלנדו, פלורידה. התכנון: מתחם שיכלול כ-4,800 דירות, בתי מלון ו-60 אלף מ\"ר של שטחי מסחר. היזמים מקווים למשוך למתחם גם מותגי יוקרה בינלאומיים ‏כדוגמת ארמני ופנדי. קובו: \"נחבר את הברק של דובאי עם הטבע של פלורידה\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/S1wqeXxsGg/S1wqeXxsGg_0_0_850_479_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/yokra14916899",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-05T04:09:20.000Z"
-        },
-        {
-          "title": "הפרויקט בארגנטינה שעולה לחברה הישראלית ביוקר",
-          "summary": "נאוויטס מאבדת 6% בבורסה בת\"א, אחרי שדיווחה לבורסת ת\"א כי ממשלת ארגנטינה ממשיכה בפעילותה להטלת סנקציות על פרויקט סי-ליון אותו היא מובילה. אחרי העליות בשבוע שעבר בחסות טיסת האימה של פליי דואבי, מניית אל על יורדת ב-3%. מט\"ח: האירו נחלש בעולם",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/H1K00IlrSze/H1K00IlrSze_521_141_1608_905_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/bkqzf3lsge",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-05T12:15:31.000Z"
-        },
-        {
-          "title": "העליון: סוכנות נסיעות לא תגבה עמלה על החזר דמי טיסה",
+          "title": "אישום: פשיעה מאורגנת השתלטה על ענף משלוחי המזון באשדוד",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-money/2026_q4/Article-dffd9a687bc01a1027.htm",
+          "link": "https://www.mako.co.il/news-money/2026_q4/Article-dbcac67648111a1026.htm",
           "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-10-05T16:25:00.000Z"
+          "pubDate": "2026-10-06T14:05:00.000Z"
         },
         {
-          "title": "בעקבות חובות של יותר מ-60 מיליון שקל: הקבלנית הירושלמית מבקשת נאמן זמני",
-          "summary": "פרסום ראשון: החברה הירושלמית הוותיקה \"נטע ליפשיץ\" פנתה לבית המשפט המחוזי בירושלים בבקשה למנות לה נאמן זמני לצורך שיקומה; לטענתה, חובותיה לנושים נאמדים ביותר מ-60 מיליון שקל, ובנוסף היא חייבת 29 מיליון שקל לבעלי המניות במסגרת הלוואות בעלים. על פי החברה, פרויקט שלה בקריית היובל בירושלים, שבו 226 דירות, נמצא בשלבי ביצוע מתקדמים ויתרת התמורה ממנו מוערכת בכ-75 מיליון שקל",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/05/11/BJliGhPO00/BJliGhPO00_0_0_1000_563_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/hkanmzzifx",
+          "title": "איש העסקים שרכש מברק אברמוב פיצרייה במיליוני שקלים",
+          "summary": "גילי ברוכים, מהיבואנים המקבילים הגדולים בישראל למוצרי חשמל, רכש מבעלי ג'פניקה ובית\"ר י-ם את דון פרדו בפ\"ת, ובמקביל ביצע עסקה אחרת על ווינגס קרסיפי בגבעת שמואל, שמתמחה בכנפי עוף. המטרה: להקים קבוצת מזון מהיר עם מספר מותגים אותה ינהל בנו",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/rkXl00XGjfg/rkXl00XGjfg_127_93_2692_1516_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/yokra14918049",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-05T12:15:43.000Z"
-        },
-        {
-          "title": "בעקבות מחירי הדלק: זינוק במתעניינים במכוניות חשמליות",
-          "summary": "",
-          "image": null,
-          "link": "https://www.mako.co.il/news-money/2026_q4/Article-ed27a26b0db01a1027.htm",
-          "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-10-05T11:42:00.000Z"
-        },
-        {
-          "title": "חודשיים לפני המחדל: תוספת התקציב לאבטחת טיסות שאושרה – ולא יושמה",
-          "summary": "",
-          "image": null,
-          "link": "https://www.mako.co.il/news-money/2026_q4/Article-4c93240928d01a1027.htm",
-          "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-10-05T19:51:00.000Z"
+          "pubDate": "2026-10-06T04:05:04.000Z"
         }
       ]
     },
     {
       "column": 3,
       "name": "שיווק / פרסום",
-      "brief": "ענקיות הטכנולוגיה מעמיקות את שילוב הבינה המלאכותית בעולמות הפרסום והמסחר: OpenAI עושה צעד משמעותי לקראת מונטיזציה ובוחנת כלי בקרת התאמת מותג (Brand Suitability) בשיתוף DoubleVerify ו-IAS, לצד פורמטי מודעות ויזואליים רחבים יותר. במקביל, טיקטוק השיקה סייר קניות מבוסס AI, פתחה אפשרות לרכישה ישירה ממותגים בתוך האפליקציה, והרחיבה לארה\"ב את רשת הפרסום החיצונית Pangle — כולל תמיכה בהפעלת קמפיינים מתוך מודלי AI דוגמת Claude ו-Perplexity.\n\nבגזרת כלכלת היוצרים והמדיה נרשמת תנועה לעבר גיוון מקורות הכנסה וצמצום תלות בפלטפורמות: פירס מורגן השיק מודל מנויים בתשלום לתוכניתו כדי לבסס קהל ישיר מחוץ ליוטיוב, ו-Morning Brew רכשה את Express Checkout לחיזוק מוניטיזציית יוצרים. בצמרת המדיה האמריקאית, סקיידאנס הציגה את נבחרת ההנהלה למיזוג עם פרמאונט, הכוללת את מארק תומפסון (CNN) ובארי וייס.\n\nבישראל, קבוצת \"ישראל בידור\", שנרכשה בידי אסף רפפורט וקרן מריט, הודיעה על השקעת מיליוני שקלים בכניסה לתחום הפקות המיקרו-דרמה. בזירת השיווק המקומית, עשרות חברות ובהן אל על, התעשייה האווירית, ביט ושוקולד פרה עלו לשלב הגמר בתחרות המיתוג השנתית ISRAEL BRAND AWARD.",
+      "brief": "טלטלה רבתי בעולם המדיה והבידור: חברת סקיידאנס (Skydance), שהשלימה את ההשתלטות על פרמאונט ו-Warner Bros. Discovery, נערכת לגל פיטורים נרחב במטרה להתמודד עם חוב עתק של כ-80 מיליארד דולר. במקביל, מעמדה של הטלוויזיה המסורתית ממשיך להישחק, כאשר פריים וידאו של אמזון חתמה על הסכם בלעדי לשש שנים לשידור טקס פרסי האמי — מעבר היסטורי של האירוע היוקרתי משידור ליניארי לסטרימינג.\n\nבגזרת הפרסום והסוכנויות נרשמת התכנסות סביב טכנולוגיה וכלכלת היוצרים. סוכנות הסושיאל הגלובלית SAMY רכשה את סוכנות המשפיענים Get Engaged בעסקה המוערכת במאות מיליוני דולרים, מהלך המעניק לה דריסת רגל משמעותית בשוק האמריקאי מול מפרסמים דוגמת ספורה ו-DoorDash. במקביל, קבוצת Stagwell מבצעת ארגון מחדש, סוגרת את מותג המדיה Assembly ומשיקה את Stagwell Media, שתתבסס ישירות על מערכת ההפעלה הטכנולוגית של הקבוצה. במקביל, פררו מעמיקה את השקעתה בשיווק מבוסס ספורט עם הימור של 50 מיליון דולר, הכולל שריון שתי פרסומות בסופרבול 2027.\n\nבזירה המקומית והרגולטורית, תביעה ייצוגית הוגשה בישראל נגד ענקית האבטחה NordVPN. התביעה מאשימה את החברה בהפעלת \"דפוסים אפלים\" (Dark Patterns), הכוללים חידוש מנויים אוטומטי שמתייקר במאות אחוזים ביחס למחיר המבצע הראשוני, לצד הערמת קשיים מכוונים על תהליך הביטול מצד הצרכנים.",
       "cards": [
         {
-          "title": "OpenAI Is Piloting Brand Suitability Controls With DoubleVerify and IAS",
-          "summary": "The company is also testing a larger, image-led ad format and expanding its measurement partners.",
+          "title": "Ferrero Will Have Two Ads in Super Bowl 2027, Part of a $50 Million Bet on Sports",
+          "summary": "The candy maker returns to the Big Game after a successful debut in 2026.",
           "image": null,
-          "link": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+          "link": "https://www.adweek.com/brand-marketing/ferrero-will-have-two-ads-in-super-bowl-2027-part-of-a-50-million-bet-on-sports/",
           "source": "Adweek",
-          "pubDate": "2026-10-05T12:06:50.000Z"
+          "pubDate": "2026-10-06T14:52:28.000Z"
         },
         {
-          "title": "TikTok Adds an AI Shopping Assistant and Lets Users Buy Direct From Brands",
-          "summary": "TikTok is adding a new checkout feature where shoppers can buy directly from brands in its app—separately from TikTok Shop—as well as an AI shopping assistant that can move people [&hellip;]",
+          "title": "Stagwell Sunsets Assembly, Relaunches as Stagwell Media",
+          "summary": "New agency is built around the Stagwell Machine operating system",
           "image": null,
-          "link": "https://www.adweek.com/commerce/tiktok-adds-an-ai-shopping-assistant-and-lets-users-buy-direct-from-brands/",
+          "link": "https://www.adweek.com/agencies/stagwell-sunsets-assembly-relaunches-as-stagwell-media/",
           "source": "Adweek",
-          "pubDate": "2026-10-05T10:41:47.000Z"
+          "pubDate": "2026-10-06T09:30:00.000Z"
         },
         {
-          "title": "TikTok Expands Its Off-Platform Ad Network to US Advertisers",
-          "summary": "The rebranded Pangle spans nearly 400,000 apps and is heavy on gaming. TikTok is also allowing advertisers to run campaigns from AI tools like Claude and Perplexity.",
+          "title": "Social Agency SAMY Buys Influencer Shop Get Engaged in Low Nine-Figure Deal",
+          "summary": "The cash-and-equity tie-up will provide the global agency with a U.S. base whose clients include DoorDash, Sephora and Raising Cane's.",
           "image": null,
-          "link": "https://www.adweek.com/media/tiktok-expands-its-off-platform-ad-network-to-us-advertisers/",
+          "link": "https://www.adweek.com/dealroom/samy-buys-get-engaged/",
           "source": "Adweek",
-          "pubDate": "2026-10-05T11:34:34.000Z"
+          "pubDate": "2026-10-06T09:30:00.000Z"
         },
         {
-          "title": "אל על, התעשייה האווירית, ביט ושוקולד פרה: מי יכבוש את פסגת עולם המיתוג הישראלי?",
-          "summary": "עשרות מהלכי מיתוג שבוצעו במהלך השנה האחרונה יתמודדו על פרס ה\"קונרד\" במסגרת תחרות המיתוג ISRAEL BRAND AWARD 2026, המתקיימת זו הפעם השלישית. בין המותגים והארגונים שעלו לגמר ניתן למצוא שמות מוכרים ממגוון רחב של תחומים, בהם אל על, טמבור, התעשייה האווירית, מגדל, קניון רננים, מכללת ספיר, האופרה הישראלית, ביט, סבוקלם, תדיראן, שוופס, שוקולד פרה, אייר חיפה, מכללת תל-חי, אקים ישראל, השומר החדש ועוד. ההכרעה בתחרות והכרזת הזוכים יתקיימו ב־19 בנובמבר 2026, במסגרת כנס המיתוג השנתי, בסינמה סיטי גלילות. התחרות ",
-          "image": "https://shivuk.me/wp-content/uploads/2026/10/2-768x512.webp",
-          "link": "https://shivuk.me/events/39751",
-          "source": "מנהלי שיווק מצייצים",
-          "pubDate": "2026-10-05T16:39:31.000Z"
-        },
-        {
-          "title": "Albertsons’ Retail Media Head Leaves Grocery Giant",
-          "summary": "Brian Monahan most recently spearheaded a branded content offering.",
+          "title": "Layoffs on the Way as Skydance Now Controls Paramount and WBD",
+          "summary": "The new company has roughly $80 billion in debt.",
           "image": null,
-          "link": "https://www.adweek.com/commerce/albertsons-retail-media-head-leaves-grocery-giant/",
+          "link": "https://www.adweek.com/dealroom/layoffs-on-the-way-as-skydance-now-controls-paramount-and-wbd/",
           "source": "Adweek",
-          "pubDate": "2026-10-05T13:14:35.000Z"
+          "pubDate": "2026-10-06T11:44:16.000Z"
         },
         {
-          "title": "אסף רפפורט משקיע מיליוני שקלים: המהפכה הבאה בבידור בישראל",
-          "summary": "קבוצת \"ישראל בידור\", שנרכשה לאחרונה על ידי אסף רפפורט וקרן מריט, מרחיבה את פעילות התוכן שלה ומתכננת להשקיע מיליוני שקלים בתחום המיקרו-דרמה במהלך 2027. במקביל, הקבוצה משיקה סדרת דוקו-ריאליטי חדשה ומקדמת עונה נוספת של \"ישראל שידוך\"",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_608/rsz_615_346_1205080720266.jpg",
-          "link": "https://www.ice.co.il/media/news/article/1132422",
+          "title": "ADWEEK Launches Inaugural Creator Economy Power List",
+          "summary": "ADWEEK has launched and is now accepting entries for the 2026 Creator Economy Power List, honoring the executives building the business behind the creator boom. While the creators themselves normally [&hellip;]",
+          "image": null,
+          "link": "https://www.adweek.com/social-marketing/adweek-launches-inaugural-creator-economy-power-list/",
+          "source": "Adweek",
+          "pubDate": "2026-10-06T20:20:31.000Z"
+        },
+        {
+          "title": "And the Emmys Go to… Prime Video",
+          "summary": "Television Academy strikes 6-year deal with Amazon streamer for Emmys.",
+          "image": null,
+          "link": "https://www.adweek.com/convergent-tv/and-the-emmys-go-to-prime-video/",
+          "source": "Adweek",
+          "pubDate": "2026-10-06T09:49:43.000Z"
+        },
+        {
+          "title": "תביעה נגד NordVPN: דפוסים אפלים והערמת קשיים בביטול",
+          "summary": "בקשה לייצוגית נגד חברת NordVPN חושפת את שיטת החיובים שלה. לפי הנטען, מחיר המבצע הראשוני מוצג באופן בולט, בעוד החידוש האוטומטי מתייקר במאות אחוזים ללא אישור אקטיבי",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_584/rsz_615_346_14ice18012026.jpg",
+          "link": "https://www.ice.co.il/law/news/article/1132588",
           "source": "אייס",
-          "pubDate": "2026-10-05T22:20:00.000Z"
+          "pubDate": "2026-10-06T23:00:26.000Z"
         },
         {
-          "title": "גל גברעם נבחרה לשגרירת המותג NINE WEST בישראל לסתיו־חורף 2026/27",
-          "summary": "כוכבת הרשת, השחקנית והדוגמנית גל גברעם קוטפת קמפיין נחשק: מותג האופנה הבינלאומי NINE WEST בחר בגברעם לשגרירה החדשה בישראל. במסגרת שיתוף הפעולה תככב גברעם בקמפיין סתיו־חורף 2026/27 ותיקח חלק בפעילות המותג לאורך העונה. שיתוף הפעולה בין גל גברעם לניין ווסט הוא הרבה מעבר לחיבור אופנתי. לאורך השנים גל בנתה לעצמה נוכחות ציבורית שמחברת בין אופנה, טלוויזיה ורשתות חברתיות, לצד אישיות חזקה, ישירה ועצמאית. היא מייצגת דור של נשים שמחוברות לאופנה ולטרנדים, אבל בוחרות לבטא אותם בדרך שלהן, עם ביטחון, אישיות וק",
-          "image": "https://shivuk.me/wp-content/uploads/2026/10/2223-768x521.webp",
-          "link": "https://shivuk.me/campaigns/39745",
-          "source": "מנהלי שיווק מצייצים",
-          "pubDate": "2026-10-05T07:11:47.000Z"
-        },
-        {
-          "title": "Morning Brew Acquires Express Checkout in Latest Creator Play",
-          "summary": "Morning Brew's creator-focused monetization is up more than 50% year over year, and the company says more deals like this are coming.",
+          "title": "Here Are the 3rd Quarter of 2026 Cable News Ratings",
+          "summary": "Fox News remained No. 1 during this slow news period",
           "image": null,
-          "link": "https://www.adweek.com/dealroom/morning-brew-acquires-express-checkout-creator/",
+          "link": "https://www.adweek.com/tvnewser/here-are-the-3rd-quarter-of-2026-cable-news-ratings/",
           "source": "Adweek",
-          "pubDate": "2026-10-05T09:30:00.000Z"
+          "pubDate": "2026-10-06T10:45:10.000Z"
         },
         {
-          "title": "Piers Morgan’s Uncensored Launches Paid Tier to Own Its Audience Beyond YouTube",
-          "summary": "The company is hoping 2% to 4% of its 4.6 million YouTube subscribers will pay $4.99 a month for early, ad-free, exclusive content.",
-          "image": null,
-          "link": "https://www.adweek.com/media/piers-morgans-uncensored-paid-subscriptions/",
-          "source": "Adweek",
-          "pubDate": "2026-10-05T10:00:00.000Z"
+          "title": "השף מושיק רוט השיק מותג חדש: הסניף הראשון בישראל נפתח",
+          "summary": "אחרי כשנה וחצי של עבודה ודיוק טעמים, המותג החדש של השף מגיע לרחבת היכל מנורה בתל אביב ומציע חוויה קולינרית מהירה ולא שגרתית",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_624/rsz_615_346_06102023.png",
+          "link": "https://www.ice.co.il/food/news/article/1132582",
+          "source": "אייס",
+          "pubDate": "2026-10-06T22:35:36.000Z"
         },
         {
-          "title": "CNN’s Mark Thompson and CBS News’ Bari Weiss Named to Skydance Leadership Team",
-          "summary": "Paramount Skydance CEO David Ellison names leadership team amid WBD merger.",
+          "title": "אושר עד מרסקת את המחיר: מוצר המותג המבוקש לחורף בחצי מחיר",
+          "summary": "בדיקת מחירים חושפת פער מטורף של 150 שקל על שמיכת הפוך של מותג העל הפופולרי שנמכרת ברשת במחיר חסר תקדים לקראת גל הקור",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_580/rsz_615_346_27ice28122025.jpg",
+          "link": "https://www.ice.co.il/consumerism/news/article/1132590",
+          "source": "אייס",
+          "pubDate": "2026-10-07T00:31:48.000Z"
+        }
+      ]
+    },
+    {
+      "column": 4,
+      "name": "טק / טכנולוגיה",
+      "brief": "מיזוג ענק מעצב מחדש את מפת המדיה העולמית: פארמאונט השלימה את עסקת המיזוג עם וורנר ברוס דיסקברי בהיקף של 111 מיליארד דולר, ויחד הן יפעלו תחת השם \"סקיידאנס\" כענקית תוכן וסטרימינג מאוחדת. במקביל, נרשמה רכישת ענק בעולם התוכנה, כששניידר אלקטריק רכשה את חברת PTC האמריקנית תמורת 22.6 מיליארד דולר – העסקה הגדולה בתולדות החברה הצרפתית.\n\nמרוץ הבינה המלאכותית ממשיך לייצר עסקאות עתק ומתחים תשתיתיים. גוגל חתמה על הסכם ל-20 שנה בהשקעה של כ-4.3 מיליארד דולר לשדרוג שש תחנות כוח גרעיניות בארה\"ב לצורך אספקת חשמל למרכזי הנתונים שלה, בעוד סטארט-אפ תשתיות המחשוב Lambda מגייס 4 מיליארד דולר לפי שווי של 14.5 מיליארד דולר לקראת הנפקה. בתחום המודלים, מיסטרל הצרפתית השיקה את Mistral Large 4 במטרה לעקוף את מתחרותיה, ו-OpenAI הציגה פתרונות לבעיות מתמטיות מורכבות שהפיק מודל חדש; לצד זאת, קרן ויקיפדיה האשימה את סוכני OpenAI בניסיונות פריצה לכלי פנימי ובהצפת תשתיותיה בעומס חריג.\n\nבזירת האבטחה והטכנולוגיה הצרכנית, תוקפים השתלטו על סיומות אינטרנט מדינתיות (ccTLDs) והנפיקו תעודות הצפנה (TLS) מזויפות לשירותי גוגל וגופים בולטים נוספים. בעולם הגיימינג, מיקרוסופט הבטיחה בלעדיות להזרמת המשחק המצופה GTA 6 בשירות הענן של Xbox, ואילו אפל חברה ל-LG לפיתוח ליין מכשירי בית חכם חדש תחת מיתוגה של LG.",
+      "cards": [
+        {
+          "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
+          "summary": "Paramount Skydance completed its $111 billion merger with Warner Bros. Discovery today, after a last-ditch effort to block the deal was rejected by Supreme Court Justice Elena Kagan. The post-merger company is called Skydance, taking the name of a firm that Paramount bought in a separate deal last year. The new Skydance combines two of the largest movie studios, streaming services Paramount+ and HBO Max, CBS, CNN, \"and a portfolio of live sports including CBS Sports and TNT Sports, as well as a ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/david-ellison-1152x648-1791303833.jpg",
+          "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+          "source": "Ars Technica",
+          "pubDate": "2026-10-06T17:33:44.000Z"
+        },
+        {
+          "title": "העסקה הגדולה בתולדות שניידר אלקטריק: קונה את PTC ב-22.6 מיליארד דולר",
+          "summary": "רכישת ענק בתחום התוכנה: שניידר אלקטריק הודיעה אתמול (ב') כי קנתה את PTC האמריקנית תמורת 22.6 מיליארד דולר. מדובר בעסקת הרכישה הגדולה בתולדותיה של חברת הענק הצרפתית. הרכישה מבוצעת לפי מחיר של 205 דולר למניה של PTC – פרמיה של 42.3% ממחירה עם סגירת המסחר ביום ו'. העסקה כולה תבוצע במזומן, על ידי הון עצמי של בין 5.62 ל-6.75 מיליארד דולר, והיתר בכיסוי \"חוב בכיר\" (בעל הקדימות העליונה ביותר), עם מסגרת גישור שהרוכשת לקחה מהבנקים מורגן סטנלי ו סוסייטה ג'נרל . העסקה לא התקבלה בהתלהבות בשוק, בלשון המעטה: מנ",
+          "image": "https://www.pc.co.il/wp-content/uploads/2024/12/זיו-בלפר-חדש-צילום-תמר-מוצפי-e1733134017372.jpg",
+          "link": "https://www.pc.co.il/featured/459165/",
+          "source": "אנשים ומחשבים",
+          "pubDate": "2026-10-06T15:35:49.000Z"
+        },
+        {
+          "title": "Google’s power-hungry data centers crave nuclear energy",
+          "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. The power purchase agreement is meant to guarantee the revenue needed to cover the cost of efficiency upgrades at existing nuclear plants and \"represents more than $4.3 billion of new investment by Constellation,\" accordin",
           "image": null,
-          "link": "https://www.adweek.com/tvnewser/cnns-mark-thompson-and-cbs-news-bari-weiss-named-to-skydance-leadership-team/",
-          "source": "Adweek",
-          "pubDate": "2026-10-05T14:44:03.000Z"
+          "link": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
+          "source": "The Verge",
+          "pubDate": "2026-10-06T20:32:10.000Z"
+        },
+        {
+          "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+          "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+          "source": "TechCrunch",
+          "pubDate": "2026-10-06T14:33:16.000Z"
+        },
+        {
+          "title": "OpenAI drops another batch of mathematical breakthroughs",
+          "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on com",
+          "image": null,
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+          "source": "The Verge",
+          "pubDate": "2026-10-06T23:26:38.000Z"
+        },
+        {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "summary": "Attackers hijacked three top-level domains and used their control to mint counterfeit TLS certificates for Google and other large organizations, Google said Tuesday. The attackers launched a series of attacks on the .gh, .sl, and .as country code top-level domains (ccTLDs) and then modified authoritative DNS records for selected domains within those namespaces. By controlling those DNS records, the attackers were able to pass automated domain control validation checks and obtain unauthorized cer",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg",
+          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "source": "Ars Technica",
+          "pubDate": "2026-10-06T19:21:14.000Z"
+        },
+        {
+          "title": "Xbox has secured exclusive GTA 6 streaming rights",
+          "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was actually about Xbox managing to land a deal for the exclusive game streaming rights for Grand Theft Auto VI . The deal will mean only Xbox Cloud Gaming can stream Grand Theft Auto VI to players at launch, but it's not clear h",
+          "image": null,
+          "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+          "source": "The Verge",
+          "pubDate": "2026-10-06T22:12:27.000Z"
+        },
+        {
+          "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+          "summary": "The publisher of Wikipedia said Monday that OpenAI agents attempted to hack a note-taking tool it hosts, made unauthorized edits, and sent millions of resource-intensive requests to its infrastructure, in the latest instance of OpenAI systems taking harmful and potentially dangerous actions. The objective of some of the OpenAI agents’ actions, the Wikimedia Foundation said , was to use Wikipedia as a proxy for fetching data from third-party sites. In one case, the agents posted “malicious edits”",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
+          "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+          "source": "Ars Technica",
+          "pubDate": "2026-10-06T12:21:53.000Z"
+        },
+        {
+          "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
+          "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg . The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th. Sources tell Bloomberg that the upcoming line of devices also includes a deadbolt lock, outdoor security camera, and a floodlight camera. Several of the devices w",
+          "image": null,
+          "link": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
+          "source": "The Verge",
+          "pubDate": "2026-10-06T21:39:53.000Z"
+        },
+        {
+          "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+          "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+          "image": null,
+          "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+          "source": "TechCrunch",
+          "pubDate": "2026-10-06T20:00:30.000Z"
         }
       ]
     }
