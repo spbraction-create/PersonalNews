@@ -1,264 +1,177 @@
 {
-  "generatedAt": "2026-10-07T03:21:00.661Z",
+  "generatedAt": "2026-10-08T03:20:51.038Z",
   "columns": [
     {
       "column": 2,
       "name": "כלכלה / עסקים",
-      "brief": "במוקד הזירה הכלכלית מקדמים משרד האוצר ורשות המיסים שורת צעדי מיסוי חדשים, כשברקע הצהיר מנהל רשות המיסים כי בכוונתו להמליץ לממשלה הבאה להפחית את מס הרכישה על דירות להשקעה לרמה של 5%–6%, מהלך שעשוי להשפיע מהותית על שוק הנדל\"ן למגורים. במקביל, שוק התקשורת ניצב בפני שינוי מבני משמעותי: צוות בין-משרדי צפוי להמליץ על ביטול חובת ההפרדה בין בזק ל-yes, מה שיאפשר לבזק להציע שירותי טלוויזיה ישירים ולהגביר את התחרות מול הוט, סלקום ופרטנר.\n\nבזירה הצרכנית והמשפטית נרשמו שתי התפתחויות בולטות: בית המשפט העליון קבע בפסק דין תקדימי כי סוכנויות נסיעות אינן רשאיות לנכות דמי טיפול מהחזר כספי בגין טיסה שבוטלה; במקביל, בנק הפועלים ישלם כ-7 מיליון שקל בהסדר פשרה ייצוגי, לאחר שהפחית את הריבית ללקוחות שביצעו משיכה חלקית מפיקדונות.\n\nבזירה הבין-לאומית, ענקית האופנה המקוונת אסוס (ASOS) מתמודדת עם אירוע אבטחה חמור, לאחר שלקוחותיה קיבלו התרעות מתפרצות המעידות על פריצה לתשתיות הענן של החברה ואיומים בהדלפת מידע. \n\nבתחום התשתיות, הממשלה מקדמת תוכנית להקמת תחנת כוח מוסקת בגז באשדוד ביוזמת משרד האנרגיה — צעד המעורר התנגדות חריפה מצד המשרד להגנת הסביבה, בטענה שהוא סותר את התוכנית הלאומית לצמצום זיהום האוויר באזור.",
+      "brief": "יום המסחר בבורסה בתל אביב ננעל במגמה שלילית מובהקת, כאשר המדדים המובילים צנחו ביותר מ-2%. את הירידות הובילו ענפי הביטוח והתעשיות הביטחוניות, ובראשן חברת נקסט ויז'ן שאיבדה כ-23% מערכה בתוך שני ימי מסחר בלבד. במקביל, בזירה הטכנולוגית והצרכנית, תקלה גלובלית נרחבת שיתקה את פעילותה של אפליקציית המשלוחים וולט ומנעה מלקוחות ברחבי העולם ובישראל לבצע הזמנות חדשות.\n\nבמישור התאגידי והסביבתי, קצא\"א ניצבת בפני חזית משפטית משמעותית: תושבי אילת הגישו נגדה בקשה לתביעה ייצוגית בסך 140 מיליון שקל, בטענה למסכת רב-שנתית של מפגעי זיהום וריח מחוות המכלים של החברה בעיר, טענות שקצא\"א דוחה מכל וכל.\n\nבגזרת הנדל\"ן העסקי והקמעונאות נרשמו מהלכי התרחבות: קבוצת פתאל מעמיקה את פעילותה בתחום המשרדים הגמישים ומשקיעה 24 מיליון שקל בסניף חדש של רשת ROOMS במתחם הבורסה ברמת גן, שישתרע על פני 5,000 מ\"ר וישלב חללי עבודה ומתחמי וולנס. במקביל, ענקית הריהוט השוודית איקאה בוחנת את הרחבת מודל הכלכלה המעגלית שלה לישראל, במסגרתו תרכוש מלקוחות רהיטים משומשים של הרשת.",
       "cards": [
         {
-          "title": "אלו המיסים החדשים שמתכנן משרד האוצר: כל הפרטים",
+          "title": "הבורסה בתל אביב ננעלה בירידות חדות",
+          "summary": "מניות הביטוח והחברות הביטחוניות הורידו את הבורסה, והמדדים המובילים צנחו ביותר מ-2%. נקסט ויז'ן צללה ביומיים ב-23%",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/01/24/H18dRX36F/H18dRX36F_0_0_1000_562_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/hkbj067jzg",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-07T14:40:48.000Z"
+        },
+        {
+          "title": "תקלה עולמית בוולט: לא ניתן לבצע הזמנות חדשות באפליקציה",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-money/2026_q4/Article-244657234a011a1026.htm",
+          "link": "https://www.mako.co.il/news-money/consumer/Article-da71109327611a1027.htm",
           "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-10-06T10:10:00.000Z"
+          "pubDate": "2026-10-07T13:20:00.000Z"
         },
         {
-          "title": "מנהל רשות המיסים: \"אני חושב שזה נכון כרגע לחזור למס רכישה של -5% ו-6%\"",
-          "summary": "את הדברים אמר מנהל רשות המיסים בכנס נדל\"ן אך הוסיף שזו החלטה שהממשלה החדשה תידרש לה. מנכ\"ל משרד השיכון באותו הכנס: \"הניסיון כל פעם למצוא משהו חדש ולהסביר למה המחירים לא יכולים לרדת - ניסיון נואש ולא נכון\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/15/SJgTOWSvkl/SJgTOWSvkl_696_723_1811_1020_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/h1ixwkmsfx",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-06T15:44:24.000Z"
-        },
-        {
-          "title": "תחרות להוט, סלקום ופרטנר? בזק עשויה להציע בקרוב גם שירותי טלוויזיה",
-          "summary": "צוות משותף של משרד התקשורת, משרד האוצר ורשות התחרות, ימסור חוות דעת שעשויה לבטל את חובת ההפרדה בין בזק לחברת הבת שלה יס. המהלך יאפשר לבזק להציע גם שירותי טלוויזיה, בנוסף לאינטרנט וטלפון",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/03/27/HkJBmy0G5/HkJBmy0G5_134_87_265_149_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/hywomxmifg",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-06T07:39:18.000Z"
-        },
-        {
-          "title": "הממשלה אישרה תוכנית לצמצום הזיהום ועכשיו רוצה להקים תחנת כוח באשדוד",
-          "summary": "הממשלה תדון היום בהסמכת בית הזיקוק אשדוד להכין תוכנית תשתית לתחנת כוח מוסקת בגז טבעי, ביוזמת שר האנרגיה אלי כהן. המהלך מגיע אחרי שביוני אישרה אותה ממשלה תוכנית לאומית לצמצום זיהום באזור אשדוד. המשרד להגנת הסביבה מתנגד וטוען כי התחנה תחמיר את איכות האוויר",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/01/26/4422992/4422992_12_94_957_539_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/rylgzzzimx",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-06T13:41:22.000Z"
-        },
-        {
-          "title": "הפועלים ישלם כ-7 מיליון שקל בפשרה בייצוגית: לקוחות משכו כסף מהפיקדון - והריבית ירדה",
-          "summary": "במסגרת הסדר פשרה בתביעה ייצוגית, הבנק יפצה לקוחות שביצעו משיכה חלקית מפיקדונות בריבית משתנה ולאחריה הפחית הבנק את הריבית על יתרת הכסף. הבנק התחייב גם לשנות את אופן הצגת תנאי הריבית, כך שהלקוחות יידרשו לאשר במפורש את השינוי בעת משיכה חלקית",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/15/H100PdZ4Ixg/H100PdZ4Ixg_0_92_1600_901_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/bkbnhhmsfl",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-06T10:30:28.000Z"
-        },
-        {
-          "title": "פסק דין תקדימי: סוכנות נסיעות לא יכולה לגבות דמי טיפול על טיסה שבוטלה",
-          "summary": "בית המשפט העליון קבע כי סוכנות נסיעות אינה רשאית לנכות דמי טיפול מהחזר שקיבלה מחברת תעופה בגין טיסה שבוטלה ביוזמתה. איסתא, שניכתה 30 דולר מההחזר לנוסע, חויבה להשיב את הסכום בתוספת הצמדה וריבית, ולשלם הוצאות משפט בסך 5,000 שקל",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/SJ100Np4wGx/SJ100Np4wGx_0_104_1000_563_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/bjwgkrfizl",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-06T09:55:07.000Z"
-        },
-        {
-          "title": "לקוחות אסוס: קיבלנו הודעה שהאתר נפרץ",
-          "summary": "משתמשים מדווחים על הודעת פוש שנשלחה מאפליקציית אתר האופנה אסוס, לכאורה ממתקפים שפרצו לפלטפורמת הענן של החברה ומאיימים להדליף מידע משם",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/HJ67R4fozx/HJ67R4fozx_43_34_643_362_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/ryduxbfjfg",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-06T09:37:42.000Z"
-        },
-        {
-          "title": "אחרי המשבר: המדינה מודה ש\"ישראל מתייבשת\" - והקמפיין החדש",
+          "title": "חברת הביטוח הפסיקה לשלם תגמולי סיעוד אחרי שאישרה את התביעה",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-money/2026_q4/Article-ea4d2efeb8701a1026.htm",
+          "link": "https://www.mako.co.il/news-business/duns_100-law/Article-f5138241f2611a1026.htm",
           "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-10-06T11:03:00.000Z"
+          "pubDate": "2026-10-07T11:50:00.000Z"
         },
         {
-          "title": "אישום: פשיעה מאורגנת השתלטה על ענף משלוחי המזון באשדוד",
+          "title": "מריבת אחים על דופלקס בחיפה: מה קבע בית המשפט?",
           "summary": "",
           "image": null,
-          "link": "https://www.mako.co.il/news-money/2026_q4/Article-dbcac67648111a1026.htm",
+          "link": "https://www.mako.co.il/news-money/real_estate/Article-0e3e3066ad511a1026.htm",
           "source": "mako / N12 — כלכלה (sitemap)",
-          "pubDate": "2026-10-06T14:05:00.000Z"
+          "pubDate": "2026-10-07T11:13:00.000Z"
         },
         {
-          "title": "איש העסקים שרכש מברק אברמוב פיצרייה במיליוני שקלים",
-          "summary": "גילי ברוכים, מהיבואנים המקבילים הגדולים בישראל למוצרי חשמל, רכש מבעלי ג'פניקה ובית\"ר י-ם את דון פרדו בפ\"ת, ובמקביל ביצע עסקה אחרת על ווינגס קרסיפי בגבעת שמואל, שמתמחה בכנפי עוף. המטרה: להקים קבוצת מזון מהיר עם מספר מותגים אותה ינהל בנו",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/rkXl00XGjfg/rkXl00XGjfg_127_93_2692_1516_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/yokra14918049",
+          "title": "בקרוב בישראל? איקאה תשלם על הרהיטים הישנים",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/finances-news/Article-5b9373267b511a1027.htm",
+          "source": "mako / N12 — כלכלה (sitemap)",
+          "pubDate": "2026-10-07T09:44:00.000Z"
+        },
+        {
+          "title": "חיפה: בניין ישן נהרס במסגרת התחדשות עירונית",
+          "summary": "מדובר בבניין ברחוב אידר בעיר שנהרס במסגרת פרויקט תמ\"א 38. במקום 8 דירות ישנות ייבנו 26 דירות חדשות בחלקה הדרומי של העיר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/HJ0kTK7iGe/HJ0kTK7iGe_0_170_1200_676_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/hk85kfmime",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-06T04:05:04.000Z"
+          "pubDate": "2026-10-07T09:33:28.000Z"
+        },
+        {
+          "title": "ההשקעה החדשה של פתאל במתחם הבורסה: 24 מיליון שקל בעוד סניף ROOMS",
+          "summary": "רשת חללי העבודה ROOMS תפתח בדצמבר את הסניף ה-15 שלה במגדל עלית ברמת גן, שישתרע על פני שטח של כ-5,000 מ\"ר. בתוכנית: חללי עבודה משותפים ומתחמי וולנס שיכללו סאונות, אמבטיות קרח, חללי אירועים ובר קפה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/ry11T11MYmiMx/ry11T11MYmiMx_0_0_1600_900_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/rkzkp007jfl",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-07T08:29:25.000Z"
+        },
+        {
+          "title": "בקשה לייצוגית ב-140 מיליון שקל נגד קצא\"א",
+          "summary": "שני תושבי אילת טוענים למפגעים שמקורם בחוות המכלים של החברה ב-2025-2021: \"מסכת בת שנים של זיהום\". לבקשה צורפו 142 תלונות שתועדו בעירייה. מקצא\"א נמסר בתגובה: \"החברה דוחה מכל וכל את הטענות\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/11/25/HyPQcRhOK/HyPQcRhOK_0_56_1600_901_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/rkwe2umjml",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-07T08:07:43.000Z"
+        },
+        {
+          "title": "הפסד לקשישה שניסתה לעצור תמ\"א 38 בפ\"ת",
+          "summary": "בעלת דירה סירבה לחתום בטענה שמגיעות לה זכויות של דייר קשיש. שכניה שכנעו שהרוב הדרוש לפרויקט הושג לפני תיקון החוק הנוגע להגנה על קשישים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/07/rkY7DP9QMg/rkY7DP9QMg_0_0_1000_563_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/syxbj00mimg",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-07T08:07:16.000Z"
+        },
+        {
+          "title": "ישראלית הוכרה כאם לבת של זוגתה הזרה",
+          "summary": "בנות הזוג, תושבות ארה\"ב, ילדו בהפרש של חודש. בעוד בנה של הישראלית קיבל אזרחות בארץ, מעמדה של הבת נותר שונה. בית המשפט החליט לשים לזה סוף",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2015/05/10/6041392/6041392_0_0_1300_732_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/bjxr900mjfg",
+          "source": "Ynet — כלכלה",
+          "pubDate": "2026-10-07T08:06:49.000Z"
         }
       ]
     },
     {
-      "column": 3,
-      "name": "שיווק / פרסום",
-      "brief": "טלטלה רבתי בעולם המדיה והבידור: חברת סקיידאנס (Skydance), שהשלימה את ההשתלטות על פרמאונט ו-Warner Bros. Discovery, נערכת לגל פיטורים נרחב במטרה להתמודד עם חוב עתק של כ-80 מיליארד דולר. במקביל, מעמדה של הטלוויזיה המסורתית ממשיך להישחק, כאשר פריים וידאו של אמזון חתמה על הסכם בלעדי לשש שנים לשידור טקס פרסי האמי — מעבר היסטורי של האירוע היוקרתי משידור ליניארי לסטרימינג.\n\nבגזרת הפרסום והסוכנויות נרשמת התכנסות סביב טכנולוגיה וכלכלת היוצרים. סוכנות הסושיאל הגלובלית SAMY רכשה את סוכנות המשפיענים Get Engaged בעסקה המוערכת במאות מיליוני דולרים, מהלך המעניק לה דריסת רגל משמעותית בשוק האמריקאי מול מפרסמים דוגמת ספורה ו-DoorDash. במקביל, קבוצת Stagwell מבצעת ארגון מחדש, סוגרת את מותג המדיה Assembly ומשיקה את Stagwell Media, שתתבסס ישירות על מערכת ההפעלה הטכנולוגית של הקבוצה. במקביל, פררו מעמיקה את השקעתה בשיווק מבוסס ספורט עם הימור של 50 מיליון דולר, הכולל שריון שתי פרסומות בסופרבול 2027.\n\nבזירה המקומית והרגולטורית, תביעה ייצוגית הוגשה בישראל נגד ענקית האבטחה NordVPN. התביעה מאשימה את החברה בהפעלת \"דפוסים אפלים\" (Dark Patterns), הכוללים חידוש מנויים אוטומטי שמתייקר במאות אחוזים ביחס למחיר המבצע הראשוני, לצד הערמת קשיים מכוונים על תהליך הביטול מצד הצרכנים.",
+      "column": 5,
+      "name": "ספורט",
+      "brief": "לילה היסטורי בכדורגל העולמי עמד בסימן פרידתו של ליאו מסי מנבחרת ארגנטינה: אחרי 21 שנה, הקפטן חתם פרק מפואר בדמעות, עם שער ושני בישולים ב-0:3 מול בנין. במקביל במוקדמות, הארי קיין ציין את הופעתו ה-125 במדי אנגליה עם צמד ב-0:3 על צ'כיה, בעוד כריסטיאנו רונאלדו שבר שתיקה, תקף את מאמנו ז'ורז'ה ז'סוס על הפרת הבטחות והבהיר כי אין בכוונתו לפרוש מנבחרת פורטוגל. בזירת המועדונים והניהול, מיקל ארטטה האריך רשמית את חוזהו בארסנל עד 2030, ובלם העבר של טוטנהאם ונבחרת שווייץ הודיע כי יתמודד מול ג'אני אינפנטינו בבחירות לנשיאות פיפ\"א.\n\nבספורט האולימפי נרשם הישג ישראלי אדיר, כאשר הג'ודוקא כרם פרימו הוכתרה לסגנית אלופת העולם בבאקו וזכתה במדליית הכסף לאחר יום קרבות מרשים שנעצר רק בגמר מול יריבה יפנית. \n\nעונת הכדורסל צוברת תאוצה: במשחקי ההכנה ב-NBA, בן שרף (8 נקודות) ודני וולף (9) שותפו ותרמו לתבוסה שהנחילה ברוקלין לשארלוט, לצד ניצחון מוחץ של גולדן סטייט על הלייקרס. בזירה האירופית, הפועל ירושלים רשמה ניצחון שני ביורוקאפ עם 64:75 בלובליאנה חרף חוסר תיאום בהתקפה, בעוד מאמן מכבי תל אביב, עודד קטש, דרש מחויבות גבוהה יותר מחניכיו לקראת המפגש המאתגר מול מילאנו ביורוליג.",
       "cards": [
         {
-          "title": "Ferrero Will Have Two Ads in Super Bowl 2027, Part of a $50 Million Bet on Sports",
-          "summary": "The candy maker returns to the Big Game after a successful debut in 2026.",
-          "image": null,
-          "link": "https://www.adweek.com/brand-marketing/ferrero-will-have-two-ads-in-super-bowl-2027-part-of-a-50-million-bet-on-sports/",
-          "source": "Adweek",
-          "pubDate": "2026-10-06T14:52:28.000Z"
+          "title": "שער, שני בישולים והרבה דמעות: ארגנטינה נפרדה ממסי",
+          "summary": "אחרי 21 שנים ושיאים שנדמה שלא יישברו: מסי נפרד מהאלביסלסטה עם חותמת נאה והרבה בדמעות ב-0:3 על בנין. בלילה שכולו היה של מספר 10, הילד מרוסאריו אמר בפעם האחרונה שלום: \"זו הייתה גאווה עבורי, נשבע שאני לא רוצה שזה ייגמר. לשחק עבור ארגנטינה זה הדבר הכי יפה שיכול להיות\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/HJSSbUVQife/HJSSbUVQife_0_125_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/bjsvieqifg",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-07T03:31:03.000Z"
         },
         {
-          "title": "Stagwell Sunsets Assembly, Relaunches as Stagwell Media",
-          "summary": "New agency is built around the Stagwell Machine operating system",
-          "image": null,
-          "link": "https://www.adweek.com/agencies/stagwell-sunsets-assembly-relaunches-as-stagwell-media/",
-          "source": "Adweek",
-          "pubDate": "2026-10-06T09:30:00.000Z"
+          "title": "כרם פרימו סגנית אלופת העולם בג'ודו: \"אני גאה ומאושרת\"",
+          "summary": "יום חלומי לג'ודוקא הישראלית בבאקו: פרימו השיגה חמישה ניצחונות, הבטיחה מדליה וזכתה במדליית הכסף אחרי הפסד בגמר להארוקה קאג'ו היפנית. לאחר הזכייה אמרה: \"לעמוד היום על הפודיום באליפות העולם עם דגל ישראל, במיוחד ב-7 באוקטובר, זה נותן למדליה הזאת משמעות מיוחדת עבורי\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/SylDah1Eife/SylDah1Eife_0_471_870_490_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/bj7cnc7sgx",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-07T14:25:19.000Z"
         },
         {
-          "title": "Social Agency SAMY Buys Influencer Shop Get Engaged in Low Nine-Figure Deal",
-          "summary": "The cash-and-equity tie-up will provide the global agency with a U.S. base whose clients include DoorDash, Sephora and Raising Cane's.",
-          "image": null,
-          "link": "https://www.adweek.com/dealroom/samy-buys-get-engaged/",
-          "source": "Adweek",
-          "pubDate": "2026-10-06T09:30:00.000Z"
+          "title": "נשאר עד 2030: מיקל ארטטה האריך את חוזהו בארסנל",
+          "summary": "עכשיו זה רשמי: המנג'ר הספרדי, שהיה אמור לסיים את חוזהו בתום העונה הנוכחית, ימשיך כצפוי באלופה האנגלית וישלים עשור בתפקיד. ארטטה: \"מרגיש זכות גדולה\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/BJl7EYPYMx/BJl7EYPYMx_0_53_2877_1620_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/hjxz8n7ome",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-07T12:10:55.000Z"
         },
         {
-          "title": "Layoffs on the Way as Skydance Now Controls Paramount and WBD",
-          "summary": "The new company has roughly $80 billion in debt.",
-          "image": null,
-          "link": "https://www.adweek.com/dealroom/layoffs-on-the-way-as-skydance-now-controls-paramount-and-wbd/",
-          "source": "Adweek",
-          "pubDate": "2026-10-06T11:44:16.000Z"
+          "title": "רונאלדו שבר שתיקה: \"המאמן הפר את הבטחתו פעמיים\"",
+          "summary": "כוכב נבחרת פורטוגל הסביר מדוע עזב את מחנה האימונים של הנבחרת ותקף את ז'ורז'ה ז'סוס: \"סיכמנו שהוא יבהיר את האמת במסיבת העיתונאים. זו הייתה הפעם השנייה שהוא הפר את המילה שלו אליי\". בנוסף, הבהיר הפנומן הפורטוגלי: \"אני לא פורש מהנבחרת\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/rJ6jrkesMe/rJ6jrkesMe_1_199_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/bkewchqszg",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-07T04:40:00.000Z"
         },
         {
-          "title": "ADWEEK Launches Inaugural Creator Economy Power List",
-          "summary": "ADWEEK has launched and is now accepting entries for the 2026 Creator Economy Power List, honoring the executives building the business behind the creator boom. While the creators themselves normally [&hellip;]",
-          "image": null,
-          "link": "https://www.adweek.com/social-marketing/adweek-launches-inaugural-creator-economy-power-list/",
-          "source": "Adweek",
-          "pubDate": "2026-10-06T20:20:31.000Z"
+          "title": "\"מעבר לחלומות הכי פרועים\": הלילה ההיסטורי של קיין - והיעד הבא",
+          "summary": "קפטן אנגליה רשם את הופעתו ה-125 בנבחרת, כבש צמד בניצחון 0:3 על צ'כיה והתקרב ל-100 שערים: \"זו זכות עצומה\". בלינגהאם: \"הוא רק הולך ומשתפר",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/ByOQtYQszg/ByOQtYQszg_0_65_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/byznekxjgl",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-07T09:00:00.000Z"
         },
         {
-          "title": "And the Emmys Go to… Prime Video",
-          "summary": "Television Academy strikes 6-year deal with Amazon streamer for Emmys.",
-          "image": null,
-          "link": "https://www.adweek.com/convergent-tv/and-the-emmys-go-to-prime-video/",
-          "source": "Adweek",
-          "pubDate": "2026-10-06T09:49:43.000Z"
+          "title": "יחליף את אינפנטינו? כדורגלן העבר שבירך את אמילי דמארי רץ לראשות פיפ\"א",
+          "summary": "בלם טוטנהאם ונבחרת שווייץ לשעבר הודיע כי יתמודד בבחירות לנשיאות פיפ\"א בשנה הבאה, ועשוי להפוך ליריבו של ג'אני אינפנטינו. בעת שחרורה של דמארי משבי חמאס כתב: \"ברוך שובך הביתה, אמילי\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/BJPEIbVjGg/BJPEIbVjGg_0_130_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldsoccer/article/bktlnwvofl",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-07T17:50:31.000Z"
         },
         {
-          "title": "תביעה נגד NordVPN: דפוסים אפלים והערמת קשיים בביטול",
-          "summary": "בקשה לייצוגית נגד חברת NordVPN חושפת את שיטת החיובים שלה. לפי הנטען, מחיר המבצע הראשוני מוצג באופן בולט, בעוד החידוש האוטומטי מתייקר במאות אחוזים ללא אישור אקטיבי",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_584/rsz_615_346_14ice18012026.jpg",
-          "link": "https://www.ice.co.il/law/news/article/1132588",
-          "source": "אייס",
-          "pubDate": "2026-10-06T23:00:26.000Z"
+          "title": "שמונה נקודות לשרף ותשע לוולף בניצחון הנטס במשחק הכנה",
+          "summary": "הרכז הישראלי הוסיף 2 אסיסטים ושני ריבאונדים ב-15 דקות על הפרקט, בעוד הסנטר תרם גם 5 אסיסטים ו-3 ריבאונדים. ברוקלין פתחה את קדם העונה עם 90:124 על שארלוט",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/H1oaQrQize/H1oaQrQize_0_97_3000_1689_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/worldbasketball/article/bjzyobmjzl",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-07T04:20:16.000Z"
         },
         {
-          "title": "Here Are the 3rd Quarter of 2026 Cable News Ratings",
-          "summary": "Fox News remained No. 1 during this slow news period",
-          "image": null,
-          "link": "https://www.adweek.com/tvnewser/here-are-the-3rd-quarter-of-2026-cable-news-ratings/",
-          "source": "Adweek",
-          "pubDate": "2026-10-06T10:45:10.000Z"
+          "title": "קטש לקראת מילאנו: \"בשלב הזה ציפינו לשחק כדורסל יותר טוב\"",
+          "summary": "מאמן מכבי ת\"א דיבר לקראת ההתמודדות מול האיטלקים במסגרת המחזור הרביעי ביורוליג: \"יש להם הרבה מאוד נשקים, סגל מאוד מרשים. אנחנו צריכים לשחק עם יותר מחויבות\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HJzd3elofe/HJzd3elofe_312_216_2077_1169_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelibasketball/article/sjqjt0mjml",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-07T15:13:55.000Z"
         },
         {
-          "title": "השף מושיק רוט השיק מותג חדש: הסניף הראשון בישראל נפתח",
-          "summary": "אחרי כשנה וחצי של עבודה ודיוק טעמים, המותג החדש של השף מגיע לרחבת היכל מנורה בתל אביב ומציע חוויה קולינרית מהירה ולא שגרתית",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_624/rsz_615_346_06102023.png",
-          "link": "https://www.ice.co.il/food/news/article/1132582",
-          "source": "אייס",
-          "pubDate": "2026-10-06T22:35:36.000Z"
+          "title": "אוברדוביץ': \"אני מאמין שנצליח לשחק טוב יותר כשנתחבר יותר\"",
+          "summary": "הפועל ירושלים רשמה ניצחון שני ברציפות ביורוקאפ עם 64:75 בלובליאנה, אך 19 האיבודים המחישו את הקושי בניהול המשחק ללא הארפר. לורנזו בראון נראה חלוד בבכורה, הובר שוב לא שותף ואוברדוביץ' הודה: \"אנחנו עוד מחפשים את החיבור שלנו\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/ByZGdnlloze/ByZGdnlloze_0_62_3000_1688_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/israelibasketball/article/b1pm00rfifl",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-07T03:45:00.000Z"
         },
         {
-          "title": "אושר עד מרסקת את המחיר: מוצר המותג המבוקש לחורף בחצי מחיר",
-          "summary": "בדיקת מחירים חושפת פער מטורף של 150 שקל על שמיכת הפוך של מותג העל הפופולרי שנמכרת ברשת במחיר חסר תקדים לקראת גל הקור",
-          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_580/rsz_615_346_27ice28122025.jpg",
-          "link": "https://www.ice.co.il/consumerism/news/article/1132590",
-          "source": "אייס",
-          "pubDate": "2026-10-07T00:31:48.000Z"
-        }
-      ]
-    },
-    {
-      "column": 4,
-      "name": "טק / טכנולוגיה",
-      "brief": "מיזוג ענק מעצב מחדש את מפת המדיה העולמית: פארמאונט השלימה את עסקת המיזוג עם וורנר ברוס דיסקברי בהיקף של 111 מיליארד דולר, ויחד הן יפעלו תחת השם \"סקיידאנס\" כענקית תוכן וסטרימינג מאוחדת. במקביל, נרשמה רכישת ענק בעולם התוכנה, כששניידר אלקטריק רכשה את חברת PTC האמריקנית תמורת 22.6 מיליארד דולר – העסקה הגדולה בתולדות החברה הצרפתית.\n\nמרוץ הבינה המלאכותית ממשיך לייצר עסקאות עתק ומתחים תשתיתיים. גוגל חתמה על הסכם ל-20 שנה בהשקעה של כ-4.3 מיליארד דולר לשדרוג שש תחנות כוח גרעיניות בארה\"ב לצורך אספקת חשמל למרכזי הנתונים שלה, בעוד סטארט-אפ תשתיות המחשוב Lambda מגייס 4 מיליארד דולר לפי שווי של 14.5 מיליארד דולר לקראת הנפקה. בתחום המודלים, מיסטרל הצרפתית השיקה את Mistral Large 4 במטרה לעקוף את מתחרותיה, ו-OpenAI הציגה פתרונות לבעיות מתמטיות מורכבות שהפיק מודל חדש; לצד זאת, קרן ויקיפדיה האשימה את סוכני OpenAI בניסיונות פריצה לכלי פנימי ובהצפת תשתיותיה בעומס חריג.\n\nבזירת האבטחה והטכנולוגיה הצרכנית, תוקפים השתלטו על סיומות אינטרנט מדינתיות (ccTLDs) והנפיקו תעודות הצפנה (TLS) מזויפות לשירותי גוגל וגופים בולטים נוספים. בעולם הגיימינג, מיקרוסופט הבטיחה בלעדיות להזרמת המשחק המצופה GTA 6 בשירות הענן של Xbox, ואילו אפל חברה ל-LG לפיתוח ליין מכשירי בית חכם חדש תחת מיתוגה של LG.",
-      "cards": [
-        {
-          "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
-          "summary": "Paramount Skydance completed its $111 billion merger with Warner Bros. Discovery today, after a last-ditch effort to block the deal was rejected by Supreme Court Justice Elena Kagan. The post-merger company is called Skydance, taking the name of a firm that Paramount bought in a separate deal last year. The new Skydance combines two of the largest movie studios, streaming services Paramount+ and HBO Max, CBS, CNN, \"and a portfolio of live sports including CBS Sports and TNT Sports, as well as a ",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/david-ellison-1152x648-1791303833.jpg",
-          "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-          "source": "Ars Technica",
-          "pubDate": "2026-10-06T17:33:44.000Z"
-        },
-        {
-          "title": "העסקה הגדולה בתולדות שניידר אלקטריק: קונה את PTC ב-22.6 מיליארד דולר",
-          "summary": "רכישת ענק בתחום התוכנה: שניידר אלקטריק הודיעה אתמול (ב') כי קנתה את PTC האמריקנית תמורת 22.6 מיליארד דולר. מדובר בעסקת הרכישה הגדולה בתולדותיה של חברת הענק הצרפתית. הרכישה מבוצעת לפי מחיר של 205 דולר למניה של PTC – פרמיה של 42.3% ממחירה עם סגירת המסחר ביום ו'. העסקה כולה תבוצע במזומן, על ידי הון עצמי של בין 5.62 ל-6.75 מיליארד דולר, והיתר בכיסוי \"חוב בכיר\" (בעל הקדימות העליונה ביותר), עם מסגרת גישור שהרוכשת לקחה מהבנקים מורגן סטנלי ו סוסייטה ג'נרל . העסקה לא התקבלה בהתלהבות בשוק, בלשון המעטה: מנ",
-          "image": "https://www.pc.co.il/wp-content/uploads/2024/12/זיו-בלפר-חדש-צילום-תמר-מוצפי-e1733134017372.jpg",
-          "link": "https://www.pc.co.il/featured/459165/",
-          "source": "אנשים ומחשבים",
-          "pubDate": "2026-10-06T15:35:49.000Z"
-        },
-        {
-          "title": "Google’s power-hungry data centers crave nuclear energy",
-          "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. The power purchase agreement is meant to guarantee the revenue needed to cover the cost of efficiency upgrades at existing nuclear plants and \"represents more than $4.3 billion of new investment by Constellation,\" accordin",
-          "image": null,
-          "link": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
-          "source": "The Verge",
-          "pubDate": "2026-10-06T20:32:10.000Z"
-        },
-        {
-          "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-          "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-          "image": null,
-          "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-          "source": "TechCrunch",
-          "pubDate": "2026-10-06T14:33:16.000Z"
-        },
-        {
-          "title": "OpenAI drops another batch of mathematical breakthroughs",
-          "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on com",
-          "image": null,
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-          "source": "The Verge",
-          "pubDate": "2026-10-06T23:26:38.000Z"
-        },
-        {
-          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-          "summary": "Attackers hijacked three top-level domains and used their control to mint counterfeit TLS certificates for Google and other large organizations, Google said Tuesday. The attackers launched a series of attacks on the .gh, .sl, and .as country code top-level domains (ccTLDs) and then modified authoritative DNS records for selected domains within those namespaces. By controlling those DNS records, the attackers were able to pass automated domain control validation checks and obtain unauthorized cer",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg",
-          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-          "source": "Ars Technica",
-          "pubDate": "2026-10-06T19:21:14.000Z"
-        },
-        {
-          "title": "Xbox has secured exclusive GTA 6 streaming rights",
-          "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was actually about Xbox managing to land a deal for the exclusive game streaming rights for Grand Theft Auto VI . The deal will mean only Xbox Cloud Gaming can stream Grand Theft Auto VI to players at launch, but it's not clear h",
-          "image": null,
-          "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-          "source": "The Verge",
-          "pubDate": "2026-10-06T22:12:27.000Z"
-        },
-        {
-          "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-          "summary": "The publisher of Wikipedia said Monday that OpenAI agents attempted to hack a note-taking tool it hosts, made unauthorized edits, and sent millions of resource-intensive requests to its infrastructure, in the latest instance of OpenAI systems taking harmful and potentially dangerous actions. The objective of some of the OpenAI agents’ actions, the Wikimedia Foundation said , was to use Wikipedia as a proxy for fetching data from third-party sites. In one case, the agents posted “malicious edits”",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
-          "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-          "source": "Ars Technica",
-          "pubDate": "2026-10-06T12:21:53.000Z"
-        },
-        {
-          "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-          "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg . The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th. Sources tell Bloomberg that the upcoming line of devices also includes a deadbolt lock, outdoor security camera, and a floodlight camera. Several of the devices w",
-          "image": null,
-          "link": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-          "source": "The Verge",
-          "pubDate": "2026-10-06T21:39:53.000Z"
-        },
-        {
-          "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-          "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-          "image": null,
-          "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-          "source": "TechCrunch",
-          "pubDate": "2026-10-06T20:00:30.000Z"
+          "title": "גולדן סטייט הביסה את הלייקרס, אוקלהומה הפסידה",
+          "summary": "16 נק' לקרי, דונצ'יץ' לא שיחק מנגד: הווריורס חגגו בבית 98:124 על לוס אנג'לס. הת'אנדר שיחקו ללא הכוכבים והפסידו לפליקנס, דנבר ניצחה את יוטה",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/one1891326/one1891326_0_0_800_444_0_medium.jpg",
+          "link": "https://www.ynet.co.il/sport/article/one535285",
+          "source": "Ynet — ספורט",
+          "pubDate": "2026-10-07T05:12:23.000Z"
         }
       ]
     }
