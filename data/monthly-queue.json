@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T03:24:38.381Z",
+  "generatedAt": "2026-10-09T03:24:05.928Z",
   "note": "תור מצטבר לשער ירחון — נצרך ומתאפס על ידי scripts/edit-monthly.js.",
   "items": [
     {
@@ -1795,6 +1795,344 @@
         5
       ],
       "column": 5
+    },
+    {
+      "title": "למה חשוב לעצור ולהיפרד?",
+      "link": "https://www.ynet.co.il/economy/article/rjbripksme",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "הפרישה אינה רק סיום של מקום עבודה, אלא מעבר משמעותי מסטטוס אחד לאחר. מדוע אירוע הפרישה חשוב גם למי שמעדיף לוותר עליו, ואיך הוא יכול לסייע לפורש ולמשפחתו להתחיל את הפרק החדש? ד\"ר צבי ברק על חשיבותו של \"טקס המעבר\". פרישה בגובה העיניים חלק שני בסדרה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/S1CMLTkszx/S1CMLTkszx_0_104_1171_659_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "סבתא וסבא מתגרשים? כך מתמודדים",
+      "link": "https://www.ynet.co.il/economy/localjerusalem/article/j4e8cl6ms",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "אחוז הגירושים, שהולך וגדל, לא פוסח גם על הגיל השלישי. לא מעט זוגות בוחרים לפרק את התא המשפחתי לאחר עשרות שנות נישואים. מהן הסיבות? מה עושים עם הנכדות והנכדים כשזה קורה? התשובות כאן. הכלל הבסיסי והחשוב: קודם לכול טובת הילד",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SJ6Vocysfx/SJ6Vocysfx_0_0_1408_792_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "החדרים הסודיים של המסעדות",
+      "link": "https://www.ynet.co.il/economy/localjerusalem/article/vjft0j62m",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "לא תמיד צריך להזמין אולם כדי לקיים אירוע. בשנים האחרונות יותר ויותר מסעדות מציעות חדרים פרטיים מעוצבים, שמאפשרים ליהנות מחוויית שף, שירות אישי ואווירה של מסעדה, אבל עם פרטיות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/BkgWGknJjGe/BkgWGknJjGe_0_63_1408_793_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "\"חולון זה מקום שתמיד אצלי בלב\"",
+      "link": "https://www.ynet.co.il/economy/article/rjrkrrxsme",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "איך שסומן כדבר הגדול הבא מאז הצעדים הראשונים בהפועל ת\"א והפריצה במכבי נתניה, הקריירה של מאור אסור (38) החלה לדשדש. עכשיו, רגע לפני שהוא מתלבט אם לחזור לריקוד אחרון בהחלט, הוא מספר על תחושת הפספוס וסיבותיה. משתף בחיבור המיוחד לירמיהו חולון. ובטוח שהגיע הזמן שלחולון ולבת ים תהיה סוף סוף נציגה באחת הליגות העליונות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/SymONRejGe/SymONRejGe_0_92_694_391_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "שני מנהלים, בית אחד: הזוג הירושלמי שחי ונושם חינוך",
+      "link": "https://www.ynet.co.il/economy/localjerusalem/article/sjqgjtgsze",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "אוהד ודפנה הופמן הם לא רק בני זוג והורים לארבעה – השנה הם גם הפכו לזוג מנהלי בתי ספר. הוא מנהל את גבעת גונן, בית הספר שבו התחנך בעצמו, והיא נכנסת לראשונה לתפקיד מנהלת בית הספר ארזים לחינוך מיוחד. אחרי 21 שנות נישואים השיחות על חינוך מלוות אותם גם בדרך הביתה – ולפעמים אפילו הופכות לתחרות קטנה בין בתי הספר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/rkiMJTejGg/rkiMJTejGg_0_43_1067_601_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "מה בין תשלומי המס במרכז הארץ לאזורים האחרים?",
+      "link": "https://www.ynet.co.il/economy/article/hy7lxpjige",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "או למה במרכז משלמים יותר: ההבדלים במיסוי בין המרכז לפריפריה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SygUaGpJsGg/SygUaGpJsGg_1_43_1413_795_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "המצפן הפנימי שלך: גלי איזה טיפוס את לפי הפילוסופיה הסינית",
+      "link": "https://www.ynet.co.il/economy/localjerusalem/article/qv7qqr3fq",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "אם פתחת את העיתון בחודש שעבר, את בטח זוכרת שהתחלנו מסע בין חמשת האלמנטים של הרפואה הסינית, המצפן האנרגטי שבונה את האישיות, הבריאות והתגובות שלנו לסטרס היומיומי (אם הגעת רק עכשיו, אני ממליצה לעצור רגע, לחזור לטור הקודם ולעשות את שאלון האבחון העצמי כדי להבין איזה טיפוס את). חלק שני בסדרה הכתבות בטיפול טבעי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/r1yyv9ysze/r1yyv9ysze_0_212_955_538_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "עירוב שימושים לא בכל מחיר",
+      "link": "https://www.ynet.co.il/economy/localjerusalem/article/3u784h5vk",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "פרויקטים של עירוב שימושים, שבהם משולבים מגורים, מסחר, תעסוקה ועוד, הפכו לשכיחים בנוף הישראלי. התועלות במיזמים האלו ברורות, אבל האם זה מתאים בכל שכונה ובכל עיר? לא בטוח",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/r1evtn5JsMe/r1evtn5JsMe_0_0_1637_918_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "המצפן הפנימי שלך: גלי איזה טיפוס את לפי הפילוסופיה הסינית",
+      "link": "https://www.ynet.co.il/economy/article/sjg7w91sgg",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "אם פתחת את העיתון בחודש שעבר, את בטח זוכרת שהתחלנו מסע בין חמשת האלמנטים של הרפואה הסינית, המצפן האנרגטי שבונה את האישיות, הבריאות והתגובות שלנו לסטרס היומיומי (אם הגעת רק עכשיו, אני ממליצה לעצור רגע, לחזור לטור הקודם ולעשות את שאלון האבחון העצמי כדי להבין איזה טיפוס את). חלק שני בסדרה הכתבות בטיפול טבעי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/r1yyv9ysze/r1yyv9ysze_0_212_955_538_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "עירוב שימושים לא בכל מחיר",
+      "link": "https://www.ynet.co.il/economy/article/hkss6cksze",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "פרויקטים של עירוב שימושים, שבהם משולבים מגורים, מסחר, תעסוקה ועוד, הפכו לשכיחים בנוף הישראלי. התועלות במיזמים האלו ברורות, אבל האם זה מתאים בכל שכונה ובכל עיר? לא בטוח",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/r1evtn5JsMe/r1evtn5JsMe_0_0_1637_918_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "סבתא וסבא מתגרשים? כך מתמודדים",
+      "link": "https://www.ynet.co.il/economy/article/ry11vsc1ifg",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "אחוז הגירושים, שהולך וגדל, לא פוסח גם על הגיל השלישי. לא מעט זוגות בוחרים לפרק את התא המשפחתי לאחר עשרות שנות נישואים. מהן הסיבות? מה עושים עם הנכדות והנכדים כשזה קורה? התשובות כאן. הכלל הבסיסי והחשוב: קודם לכול טובת הילד",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SJ6Vocysfx/SJ6Vocysfx_0_0_1408_792_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "כשמוצרי החשמל הופכים לכוכבי המטבח",
+      "link": "https://www.ynet.co.il/economy/article/hkxntjkjzl",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "פעם המטבח היה צריך להסתיר את מה שעובד בו. היום דווקא המכשירים שעובדים הכי קשה, רוצים שיסתכלו עליהם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HyzaXqjkiGl/HyzaXqjkiGl_0_0_1411_925_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "החדרים הסודיים של המסעדות",
+      "link": "https://www.ynet.co.il/economy/article/s1ck12joge",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "לא תמיד צריך להזמין אולם כדי לקיים אירוע. בשנים האחרונות יותר ויותר מסעדות מציעות חדרים פרטיים מעוצבים, שמאפשרים ליהנות מחוויית שף, שירות אישי ואווירה של מסעדה, אבל עם פרטיות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/BkgWGknJjGe/BkgWGknJjGe_0_63_1408_793_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "כשמוצרי החשמל הופכים לכוכבי המטבח",
+      "link": "https://www.ynet.co.il/economy/localjerusalem/article/r3vzpc3yz",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "summary": "פעם המטבח היה צריך להסתיר את מה שעובד בו. היום דווקא המכשירים שעובדים הכי קשה, רוצים שיסתכלו עליהם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HyzaXqjkiGl/HyzaXqjkiGl_0_0_1411_925_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "\"אבדיה העלה סטורי בלילה וב-7 בבוקר כבר הייתה היסטריה\": מאחורי הצלחת \"טורבו\"",
+      "link": "https://www.ynet.co.il/economy/article/yokra14917939",
+      "pubDate": "2026-10-08T21:00:00.000Z",
+      "summary": "הם פגשו את כוכב ה-‏NBA‏ על הפרקט עם כמה כפיות גלידה והצעה לשותפות, והפכו את טורבו למותג שנמכר ‏ביותר מ-2,000 נקודות מכירה. אחר כך הגיעה דניאל עמית עם העוגות ששיגעו את הרשת, ועכשיו גם ‏שלישיית מה קשור נכנסת לעסק עם קפה שחור. מייסדי ראיטו מספרים איך מזהים טרנד והופכים אותו למותג מצליח",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/08/ByTlluBjMe/ByTlluBjMe_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הטופס שכל משקיע צריך להכיר: מהו טופס 867 ואיך הוא יכול לעזור לכם?",
+      "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/jat2y6sr5",
+      "pubDate": "2026-10-08T13:40:59.000Z",
+      "summary": "סיימתם שנת מס עם רווחים, הפסדים, דיבידנדים או ריבית בתיק ההשקעות? אחד המסמכים החשובים ביותר שכדאי להכיר הוא טופס 867. האישור מרכז את פעילות המס הרלוונטית שבוצעה בחשבון במהלך השנה ויכול לשמש לצורך דיווח לרשות המסים, בקשת החזר מס וקיזוז הפסדים. אבל מה בדיוק מופיע בו, מתי מקבלים אותו, ומה קורה אם מנהלים יותר מחשבון השקעות אחד?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/08/rJlA11szrjzl/rJlA11szrjzl_0_157_2000_1126_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "כל מה שצריך לדעת על עמלות מסחר ב-2026: כיצד תוכלו למקסם את ההחזר על ההשקעה שלכם?",
+      "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/gedhuxkvv",
+      "pubDate": "2026-10-08T13:38:15.000Z",
+      "summary": "עמלות מסחר הן אולי מספר קטן בכל פעולה, אבל לאורך זמן הן עשויות להפוך לסכום משמעותי. בכתבה הבאה נכיר את הפרמטרים שכדאי לבדוק בבחירת פלטפורמת מסחר: עמלות המרת מט\"ח, כלי הניתוח הקיימים והגישה לשווקים בעולם.",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/08/Hyqbjfrsfl/Hyqbjfrsfl_0_136_1969_1109_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "\"העומס בביהמ\"ש מייצר מעמדות בין מי שמסוגל לממן הליכים לאלה שלא\"",
+      "link": "https://www.mako.co.il/news-business/duns_100-law/Article-ebd4407ebaa11a1026.htm",
+      "pubDate": "2026-10-08T08:47:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "יקי רייסנר מגלה באומץ: \"אז הכל על כסף? איזה בזבוז\"",
+      "link": "https://www.ice.co.il/financial-gossip/news/article/1132896",
+      "pubDate": "2026-10-09T03:03:58.000Z",
+      "summary": "היזם יקי רייסנר מדבר בפתיחות אצל עמרי אסנהיים על הצד הפחות נוצץ של ההצלחה, הציפיות שמגיעות איתה וההשפעה על החברים והזוגיות - וחושף גם את השיחות המפתיעות עם הוריו, שמסתכלים על הדרך שעשה מזווית אחרת לגמרי",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_625/rsz_615_346_0259091026.png",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "גדי איזנקוט ועסקת המיליונים: הבן שכובש את ארה\"ב",
+      "link": "https://www.ice.co.il/local-news/news/article/1132888",
+      "pubDate": "2026-10-08T22:33:00.000Z",
+      "summary": "בנו של הרמטכ\"ל לשעבר, שכבר מכר סטארט-אפ ל\"פאלו אלטו\" ב-200 מיליון דולר, מציג כלי חדשני של \"באז\" לבדיקת קוד בזמן אמת. החברה שהקימו בוגרי 8200 משלימה גיוס של 9 מיליון דולר נוספים",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_611/rsz_615_346_F260727AVS602.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "כוכב הפשוטע: \"המשטרה עשתה אצלי חיפושים, אחר כך הפסקתי עם הסמים\"",
+      "link": "https://www.ice.co.il/culture/news/article/1132879",
+      "pubDate": "2026-10-08T21:50:00.000Z",
+      "summary": "המכות בילדות, הסמים, ההדחה מהצבא והמורה שהסביר לו ש\"אין לו פרצוף של יהודה לוי\". השחקן העסוק שחזר את הרגע שבו ניצל בזכות הסטודיו של ניסן נתיב, והסביר איך הפך מילד פרוע לאדם סובלני. כל הפרטים.",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_620/rsz_615_346_24374343155.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "אייר בוזגלו: \"אמרו לי שזה ניתוח שחייבים לעשות, חיפשתי להסתיר\"",
+      "link": "https://www.ice.co.il/culture/news/article/1132877",
+      "pubDate": "2026-10-08T21:30:00.000Z",
+      "summary": "בתם הבכורה של אסי ועדי בוזגלו מסכמת בריאיון את השינוי הפיזי והנפשי שעברה, מהניתוח שעברה כנערה ועד התהליך שהוביל אותה להשיל 15 קילוגרמים ממשקלה",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_594/rsz_615_346_2004202261049.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Reinventing Retail Icons: Ken Ohashi and Marisa Thalberg on Making Legacy Brands Relevant",
+      "link": "https://www.adweek.com/brand-marketing/reinventing-retail-icons-ken-ohashi-and-marisa-thalberg-on-making-legacy-brands-relevant/",
+      "pubDate": "2026-10-08T14:27:12.000Z",
+      "summary": "How to reposition struggling businesses and finding your way through your customers.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Brandweek 2026: The Hard Leadership Calls Behind Chicago Fire FC’s Growth ft. Dan Moriarty",
+      "link": "https://www.adweek.com/brand-marketing/brandweek-2026-the-hard-leadership-calls-behind-chicago-fire-fcs-growth-ft-dan-moriarty/",
+      "pubDate": "2026-10-08T14:18:04.000Z",
+      "summary": "Plus, why marketing is swinging back to art.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "פרק 426 בפודקאסט השיווק: סיגלית כהן סמנכ\"לית החטיבה העסקית בתקשוב, ו האני ואקד, סמנכ״ל השירות ברשות האוכלוסין וההגירה",
+      "link": "https://shivuk.me/on-the-go/39779",
+      "pubDate": "2026-10-08T11:38:01.000Z",
+      "summary": "מקור: פרק 426 בפודקאסט השיווק: סיגלית כהן סמנכ\"לית החטיבה העסקית בתקשוב, ו האני ואקד, סמנכ״ל השירות ברשות האוכלוסין וההגירה",
+      "image": "https://shivuk.me/wp-content/uploads/2026/10/POD426-768x467.webp",
+      "source": "מנהלי שיווק מצייצים",
+      "sourceUrl": "https://shivuk.me",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "הכירו את אלון קוברסקי, סמנכ\"ל פיתוח עסקי ושיווק בחברת בני שמעון יזום ופיתוח",
+      "link": "https://shivuk.me/meet/39765",
+      "pubDate": "2026-10-08T05:59:28.000Z",
+      "summary": "אני במשפט : לאחר כעשור בתחום המכירות והיח\"צ עברתי לעולם הפרויקטים והפיתוח העסקי. כיום אני סמנכ\"ל פיתוח עסקי בחברת בני-שמעון ייזום ופיתוח שזהו תאגיד עירוני בבעלות מועצת בני-שמעון. החברה מפתחת פרויקטים ענקיים ומגוונים בנגב הצפוני: החל מאזורי תעשייה כמו עידן הנגב, דרך אזורים לוגיסטיים עם כניסת רכבת ליד מושב נבטים ואפילו פארקי תיירות עם מסלולי נהיגת מירוץ ומלונות ייחודיים. אני בתפקיד זה ב-7 השנים האחרונות ונהנה מכל רגע. איך הגעת לעולם השיווק ? תמיד הייתי איש של אנשים שיודע לראות את הטוב ואת הפרקטי ב",
+      "image": "https://shivuk.me/wp-content/uploads/2026/10/4409-768x512.webp",
+      "source": "מנהלי שיווק מצייצים",
+      "sourceUrl": "https://shivuk.me",
+      "columns": [
+        3
+      ],
+      "column": 3
     }
   ]
 }
