@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T03:24:05.928Z",
+  "generatedAt": "2026-10-10T03:23:31.340Z",
   "note": "תור מצטבר לשער ירחון — נצרך ומתאפס על ידי scripts/edit-monthly.js.",
   "items": [
     {
@@ -2133,6 +2133,58 @@
         3
       ],
       "column": 3
+    },
+    {
+      "title": "נכס במעל ל-90 מיליון שקל: הדירות הכי יקרות שנמכרו בישראל השנה",
+      "link": "https://www.ynet.co.il/economy/article/byhwe5qjfl",
+      "pubDate": "2026-10-09T05:05:45.000Z",
+      "summary": "המתחם בנווה צדק שכבש את מצעד דירות היוקרה. הדירה ברוטשילד שרכש המיליארדר האמריקאי היהודי. הבית צמוד הקרקע שנמכר בעשרות מיליונים. בדיקת מדלן עבור ynet מגלה: אלו הן 16 עסקאות המגורים היקרות ביותר שבוצעו בשנה העברית שחלפה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/16/B1lRfwOAZMe/B1lRfwOAZMe_129_69_1472_829_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "אחרי שני אקזיטים ההייטקיסט הפך למורה דרך: \"הייתי עצבני, לא רציתי לקום בבוקר\"",
+      "link": "https://www.ynet.co.il/economy/article/rj5nnzgigg",
+      "pubDate": "2026-10-09T05:04:08.000Z",
+      "summary": "ארז גולדשטיין (59) הקים שני סטארטאפים ומכר אותם במיליונים, אבל דווקא בשיא ההצלחה הוא הלך לישון טרוד, קם טרוד ושאל את עצמו \"האם זה זה?\". היום הוא מוביל בעלי השפעה במסע של שבעה סופי שבוע מתמנע עד הר הבית, ומאמין שהשינוי שיעברו יגיע לחברה כולה: \"הלוואי ויכולתי לקחת אלפים לטבע, אבל לוגיסטית זה לא אפשרי. לכן אני לוקח רק כאלה שנוגעים בהרבה אנשים אחרים\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/HyYekXfjMg/HyYekXfjMg_0_274_1606_905_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הקעקוע החריג, האוסף הנדיר - וזה שלא נפרד מהתיק: ההרגלים המוזרים של כוכבי ליגת העל",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/sysmsebimg",
+      "pubDate": "2026-10-09T14:00:00.000Z",
+      "summary": "הסמול פורוורד מהבירה ששיחק פוטבול וזרק דיסקוס, האמריקאי שהשיל 30 ק\"ג, זה שמכור לשחמט והקפטן שאוהב לנגן שירים של משינה. רגע לפני פתיחת עונת הכדורסל, קבלו הצצה לצדדים הפחות מוכרים של כוכבי ליגת העל",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/08/HJGI0BSifl/HJGI0BSifl_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "שני חצאים ולב אחד: תמונת המראה של ואלוורדה וראפיניה | תוכן גולשים",
+      "link": "https://www.ynet.co.il/sport/article/hyh2irwofx",
+      "pubDate": "2026-10-09T10:05:09.000Z",
+      "summary": "המנהיגות שלהם אינה מתבטאת בצעקות, אלא בדוגמה אישית. כשהשחקנים הצעירים סביבם רואים את הכוכבים הכי גדולים רצים, מחלצים, עושים הגנה בטירוף וסופגים את החולצה בזיעה – רמת המחויבות של הקבוצה כולה עולה באופן אוטומטי. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/one1888376/one1888376_0_0_800_444_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
     }
   ]
 }

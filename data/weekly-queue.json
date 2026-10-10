@@ -1,5 +1,32 @@
 {
-  "generatedAt": "2026-10-09T03:24:07.273Z",
+  "generatedAt": "2026-10-10T03:23:31.339Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
-  "items": []
+  "items": [
+    {
+      "title": "שכנים שכנים: הדוכן שמכעיס את תושבי אמסטרדם והבניין של פוליקר שנהרס",
+      "link": "https://www.ynet.co.il/economy/article/b14xxzhjzg",
+      "pubDate": "2026-10-09T05:03:39.000Z",
+      "summary": "השכונה ההולנדית שנמאס לה מטיקטוק, העסק שהתפרק בשל סכסוך על 7 באוקטובר, פרויקט הענק של בבו קובו והמאבק על הבניין של פוליקר | הצמרת הכלכלית – הכתבות ‏הנצפות של השבוע",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/H1nsc6eiGl/H1nsc6eiGl_5_33_521_294_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "מכבי צריכה להעלות הילוך, איטודיס חייב לקבל החלטות אמיצות | טור",
+      "link": "https://www.ynet.co.il/sport/article/sydwb6bigx",
+      "pubDate": "2026-10-09T07:03:51.000Z",
+      "summary": "הניצחון של הצהובים על מילאנו סיפק סיבות לאופטימיות, אבל גם חשף את הבעיות שעדיין דורשות פתרון: הקצב האיטי, הקליעה החלשה מבחוץ והמחסור בגבוה פיזי. מנגד, בהפועל ת\"א, ההפסד לוולנסיה חידד את סימני השאלה סביב ההיררכיה בסגל, השימוש במיציץ' והדקות המעטות של זאק לידיי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/01/SyYd11Sp8bl/SyYd11Sp8bl_403_149_2473_1392_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    }
+  ]
 }
