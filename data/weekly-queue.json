@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T03:23:31.339Z",
+  "generatedAt": "2026-10-11T03:23:39.570Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -21,6 +21,84 @@
       "pubDate": "2026-10-09T07:03:51.000Z",
       "summary": "הניצחון של הצהובים על מילאנו סיפק סיבות לאופטימיות, אבל גם חשף את הבעיות שעדיין דורשות פתרון: הקצב האיטי, הקליעה החלשה מבחוץ והמחסור בגבוה פיזי. מנגד, בהפועל ת\"א, ההפסד לוולנסיה חידד את סימני השאלה סביב ההיררכיה בסגל, השימוש במיציץ' והדקות המעטות של זאק לידיי",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/01/SyYd11Sp8bl/SyYd11Sp8bl_403_149_2473_1392_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "\"החברות ניצלו את זה\": האמת מאחורי הזינוק במחירי המזון",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-d35605f3c4221a1026.htm",
+      "pubDate": "2026-10-11T03:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הבטיחו שאוהדי חיפה יחזרו בשלום מטדי, לאן הגענו?",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/hjf2kz00sfg",
+      "pubDate": "2026-10-10T22:30:00.000Z",
+      "summary": "ארז כלפון נאלץ לסכם עם המשטרה על \"קליטה יעילה ונעימה\" לאוהדי מכבי חיפה בטדי - משפט אחד שממחיש עד כמה הפחד והחשדנות הפכו לחלק מחוויית הכדורגל בישראל",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/SkQE04w9dGl/SkQE04w9dGl_0_265_2560_1442_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "הפועל גליל עליון רוצה לחזור לקדמת הבמה: \"אפשר לפרוץ גבולות\"",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/bkbmltijzl",
+      "pubDate": "2026-10-10T10:15:41.000Z",
+      "summary": "אחרי שנים שנאבקה בתחתית ותקופה ארוכה שבמהלכה נאלצה לנדוד לאולמות אחרים בעקבות הלחימה בצפון, הפועל גליל עליון פותחת עונה חדשה בליגת העל במטרה לחזור לפלייאוף. המאמן, עידן אבשלום, מספר בריאיון על הציפיות והאמונה: \"המועדון יכול להיות בעל שם אירופאי בכל מה שקשור לפיתוח שחקנים והישגיות\". על פערי התקציב מול קבוצות הצמרת: \"כסף לא משחק על המגרש\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/19/one1888995/one1888995_0_0_800_444_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "השילוב הקטלני של פורטלנד? \"דני אבדיה יחגוג העונה ב-NBA\"",
+      "link": "https://www.ynet.co.il/sport/worldbasketball/article/s1tlmwwifl",
+      "pubDate": "2026-10-10T08:00:00.000Z",
+      "summary": "כבר אחרי משחק הכנה אחד בלבד, בארה\"ב מזהים כיצד תוספת הכוח של לילארד ומוראנט תסייע לישראלי: \"פחות תשומת לב תופנה לאבדיה כשהוא חודר לסל\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/SJSy44O5Mg/SJSy44O5Mg_0_61_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "הדהירה של מכבי ת\"א וחידת ברוניניו: ליגת העל חוזרת - השאלות הבוערות",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/rynt00vhszl",
+      "pubDate": "2026-10-10T06:05:39.000Z",
+      "summary": "אחרי פגרת הנבחרות הארוכה, ליגת העל חוזרת עם מוליכה בלתי מנוצחת, כוכב שמזכיר את צ'ארון שרי ולא מעט אתגרים שממתינים לקבוצות הבכירות. הנה חמש השאלות הבוערות שצריכות להתברר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/19/ryLIBInFMe/ryLIBInFMe_336_88_2220_1250_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "איך נועם יעקב יוכל להגיע ל-NBA - ומה חושבים על כך בארה\"ב?",
+      "link": "https://www.ynet.co.il/sport/worldbasketball/article/sjzsevdszl",
+      "pubDate": "2026-10-10T04:00:04.000Z",
+      "summary": "הגארד הישראלי בן ה-21 קיבל מהקאבלירס חוזה לא מובטח שעשוי לפתוח לו את הדלת לליגה הטובה בעולם, אך הדרך לסגל ה-NBA רצופה מכשולים ותחרות קשה. ב\"ספורטס אילוסטרייטד\" כינו את המהלך \"הצעד המפתיע של קליבלנד\" - כך נראה המסלול שלו ומה הסיכוי להפוך את ההזדמנות לפריצת דרך",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/rJwFwNDiGg/rJwFwNDiGg_52_52_650_366_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
