@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T03:23:19.835Z",
+  "generatedAt": "2026-10-14T03:24:36.896Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -131,6 +131,58 @@
         3
       ],
       "column": 3
+    },
+    {
+      "title": "יוליוס בר: האם בחירות האמצע בארה״ב ישנו את כללי המשחק בשווקים?",
+      "link": "https://www.ice.co.il/finance/news/article/1133424",
+      "pubDate": "2026-10-13T21:52:12.000Z",
+      "summary": "סקירת יוליוס בר: איך תשפיע ההובלה של הדמוקרטים בשווקי התחזיות לקראת בחירות האמצע, עונת הדוחות בוול סטריט צפויה להציג צמיחה של כ-30% ברווחים, ומלחמת המחירים בתחום ה-AI מעמידה את המודלים העסקיים במבחן | כל הפרטים",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_539/rsz_615_346_22ice03062025.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "The Chicago Bulls Logo Controversy Is Not What It Appears to Be",
+      "link": "https://www.adweek.com/convergent-tv/the-chicago-bulls-logo-controversy-is-not-what-it-appears-to-be/",
+      "pubDate": "2026-10-13T15:25:54.000Z",
+      "summary": "Social media is having a cow about the size of the Bulls logo vs. sponsor Plus500.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "בלי עתיד, בלי תקווה: הכישלון העצום של מנצ'סטר יונייטד",
+      "link": "https://www.ynet.co.il/sport/worldsoccer/article/r1n00th9sze",
+      "pubDate": "2026-10-13T13:02:08.000Z",
+      "summary": "אחרי שרשמו את פתיחת העונה הגרועה ביותר זה 40 שנה, קשה לראות את השדים האדומים מתאוששים דווקא הערב במדריד מול אתלטיקו. בין ניהול המשחקים הלקוי של מייקל קאריק, הדעיכה של ברונו פרננדש וחוסר היכולת לטפל כמו שצריך בכישרון המקומי, אין הרבה סיבות לאופטימיות באולד טראפורד. כרגיל",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/S1igYhqifl/S1igYhqifl_0_114_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "עם ברוניניו וברזאו, מכבי חיפה שוב יכולה לחלום | טור",
+      "link": "https://www.ynet.co.il/sport/article/rka01p5ofe",
+      "pubDate": "2026-10-13T07:15:47.000Z",
+      "summary": "מכבי חיפה כמעט שוב סיבכה את עצמה בטדי, אבל גילתה שלפסגה מטפסים דווקא דרך המקומות האפלים. שוער סכנין גילה מה קורה כשהתמימות פוגשת שטרות ביציע, והפועל ת\"א קיבלה תזכורת להבדל בין כדורגלן שכיף לראות לכזה שפשוט יודע לשים את הכדור ברשת",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/SyRIGncsfx/SyRIGncsfx_46_425_1408_793_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
     }
   ]
 }
