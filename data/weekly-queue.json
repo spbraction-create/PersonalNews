@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T03:24:22.028Z",
+  "generatedAt": "2026-10-16T03:26:09.885Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -203,6 +203,214 @@
       "pubDate": "2026-10-14T22:30:00.000Z",
       "summary": "עד כמה גדול הזלזול בנבחרת הנשים בכדורגל? מנחם קורצקי הוא המאמן שלה. וגם: נשיא ארה\"ב עושה צחוק מהכדורגל - ולאף אחד לא היה אכפת",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/HkLSBSwsGl/HkLSBSwsGl_1_46_801_451_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "איזנקוט עם 48%, נתניהו עם 28% - מה חושבים המהמרים בפולימרקט?",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-082a9d1b1c041a1026.htm",
+      "pubDate": "2026-10-15T18:40:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הריבית תרד בשבוע הבא? האינפלציה בספטמבר האטה יותר מהצפוי",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-02dfe61821041a1027.htm",
+      "pubDate": "2026-10-15T15:30:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "התשובה למתקפות החות'ים ולציר הטורקי: הקמת נמלים יבשתיים בישראל",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-9cbcb8a4b7f31a1027.htm",
+      "pubDate": "2026-10-15T14:52:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "התשובה לאיומי החות'ים והמתיחות עם איראן: הקמת נמלים יבשתיים בישראל",
+      "link": "https://www.ynet.co.il/economy/article/hk7ik4asfl",
+      "pubDate": "2026-10-15T11:03:33.000Z",
+      "summary": "על רקע התחרות המתרחבת על נתיבי הסחר והיוזמות המתחרות בטורקיה ובסוריה, חברת נמלי ישראל דוחפת לקידום פרויקט IMEC ומקימה צוות עבודה בינלאומי קבוע. בשבועות הקרובים תונח על שולחן הממשלה תוכנית ראשונית לחיבור המסילות והמרכזים הלוגיסטיים לנמלי הים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/13/HJO4C5jiGe/HJO4C5jiGe_0_27_1827_1029_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "השוק מתקרר? העיר שמפתיעה בביקוש לדירות - ואיפה הכוח עובר לרוכשים",
+      "link": "https://www.ynet.co.il/economy/article/h1pyd1comg",
+      "pubDate": "2026-10-15T05:51:43.000Z",
+      "summary": "בדיקה של יד2 חושפת פערים גדולים בין הערים: בזמן שהביקוש לדירות ברחבי הארץ ירד ב-4.3%, במודיעין הוא זינק ב-26% ובבאר שבע צנח ב-28%. באילו ערים הביקוש מתחזק, איפה ההיצע גדל והיכן לרוכשי הדירות יש יותר כוח מיקוח?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/04/12/10648252/10648252_0_0_1181_787_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "\"מהמשברים החמורים שסעודיה ידעה\": החזון של בן סלמאן מתנפץ לו בפנים",
+      "link": "https://www.ynet.co.il/economy/article/sjeev16smg",
+      "pubDate": "2026-10-15T04:16:27.000Z",
+      "summary": "סעודיה מנסה להקרין שגרה ועוצמה, אבל תקיפות החות'ים פוגעות בכלכלתה: שדה התעופה בריאד, שער הכניסה למשקיעים ולאנשי עסקים, מושבת לאחר פגיעה משמעותית בשבת, כנס השקעות גדול בסימן שאלה ומנכ\"לים של ענקיות אנרגיה ביטלו הגעה לקונגרס עולמי במדינה. ד\"ר יואל גוז'נסקי, ראש תוכנית המפרץ ב-INSS: \"סעודיה צריכה הון, השקעות וידע. המלחמה הנוכחית עושה לה ממש לא טוב\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/ByWIWgpozl/ByWIWgpozl_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "מה קשור ועידן עמדי התגייסו למטרה: הדחת מותג ששולט בשוק הישראלי 60 שנה",
+      "link": "https://www.ynet.co.il/economy/article/yokra14926687",
+      "pubDate": "2026-10-15T04:13:00.000Z",
+      "summary": "קפה טורקי עלית שולט ביותר מ-80% משוק הקפה השחור, וניסיונות של אסם, ויסוצקי, ג'ייקובס ואחרים לערער את מעמדו הסתיימו בכישלון. כעת נכנסים לזירה שני מתחרים חדשים במקביל: ארומה עם עידן עמדי, ושלישיית מה קשור עם חברת ראיטו. האם דווקא הפעם הישראלים יסכימו להחליף את הקפה שלהם?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/By8gSHaozl/By8gSHaozl_0_0_1672_941_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הסוף לסכסוך המיליארדים: מטא ואפל בשיתוף פעולה חסר תקדים",
+      "link": "https://www.ice.co.il/finance/news/article/1133841",
+      "pubDate": "2026-10-15T22:32:18.000Z",
+      "summary": "אחרי שנים של עוינות גלויה, חילופי מהלומות והפסדי מיליארדים בעקבות שינויי הפרטיות - שתי ענקיות הטכנולוגיה מפתיעות את השוק ומאחדות כוחות במרוץ הבינה המלאכותית: האם עידן המנכ\"ל החדש באפל מסמן מהפך ביחסים, ומה תג המחיר של המהלך?",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_532/rsz_615_346_צוקרברג קוק.png",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "האינפלציה ירדה, אך במזרחי טפחות מזהירים: זה מה שיקרה לריבית",
+      "link": "https://www.ice.co.il/finance/news/article/1133813",
+      "pubDate": "2026-10-15T21:00:27.000Z",
+      "summary": "מדד ספטמבר ירד ב-0.5% והאינפלציה השנתית נבלמה עמוק בתוך היעד, אך כלכלן השווקים הראשי של מזרחי טפחות מצנן את ההתלהבות: לחצי הדיור נמשכים, ובנק ישראל עשוי להמתין עם הריבית. כל הפרטים והניתוח המלא",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_401/rsz_615_346_17ice03072023.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "The 2026 Halloween Ads Worth Screaming About",
+      "link": "https://www.adweek.com/creativity/the-2026-halloween-ads-worth-screaming-about/",
+      "pubDate": "2026-10-15T06:00:00.000Z",
+      "summary": "e.l.f., Pringles, Twix, Reese’s, and more are behind Halloween’s most notable ads.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "גילויים חדשים: האסטרטגיה החדשה של יעקב שחר למכירת מכבי חיפה",
+      "link": "https://www.ynet.co.il/sport/article/hjn9i5rjfg",
+      "pubDate": "2026-10-15T22:30:00.000Z",
+      "summary": "למרות תג מחיר נמוך בסטנדרטים בינלאומיים, בנק ההשקעות האמריקאי \"ריין גרופ\", אחד הגופים המשפיעים ביותר בעולם הספורט והטכנולוגיה, קיבל בלעדיות למכירת המועדון בגלל הרגש החם לישראל. המטרה: לבצע בדיקת נאותות קפדנית, לקצר ולייעל את התהליך ולאתר רוכש יהודי בעל אמצעים ושיעור קומה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/S16OUdRjGl/S16OUdRjGl_0_78_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "הפועל באר-שבע השאירה את הערמומיות בארץ | טור",
+      "link": "https://www.ynet.co.il/sport/article/byzq3ocigl",
+      "pubDate": "2026-10-15T22:30:00.000Z",
+      "summary": "היא הציגה משחק הגנה מלא אופי וידעה לחזור מפיגור, אבל בסופו של דבר הפועל באר-שבע נכנעה לאלקמאר בעיקר בגלל הטעויות שלה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/S1Xc00Y0szl/S1Xc00Y0szl_102_0_2899_1632_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "אלי דסה בידינו | טור",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/hk9azvtize",
+      "pubDate": "2026-10-15T14:00:00.000Z",
+      "summary": "יותר מלחגוג את החתמת המגן, במכבי חיפה ביקשו לחגוג את העובדה שהיה פה ישראלי בכיר, שהיה מבוקש לפחות על ידי גדולה נוספת, ושהיא הצליחה לשים עליו יד",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/rkWDPxv5iGl/rkWDPxv5iGl_0_55_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "הפועל ת\"א יכולה להיות מצוינת, מכבי תצטרך להתעלות על עצמה",
+      "link": "https://www.ynet.co.il/sport/article/hyec9x0ifl",
+      "pubDate": "2026-10-15T07:12:00.000Z",
+      "summary": "העומק הכריע מול בשיקטאש, קופי הראה כמה היה חסר ולידיי הזכיר למה הוא הרכש החשוב ביותר של האדומים. מנגד, מכבי השתפרה מול ברצלונה וים מדר כיכב, אבל מקום בין שמונה הגדולות ידרוש ממנה הרבה יותר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/SkfMnk6dsMx/SkfMnk6dsMx_0_133_1280_721_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "לופטון הציל, בראון שוב נעלם: סימני האזהרה של הפועל ירושלים",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/hy8w1krsfe",
+      "pubDate": "2026-10-15T05:10:27.000Z",
+      "summary": "האמריקאי כיכב עם 28 נקודות ושמר על המאזן המושלם ביורוקאפ, אבל בירושלים יצטרכו ללמוד מאיבוד היתרון הדו־ספרתי פעמיים מול בורגוס. הרכז סיים ללא נקודות עם 0 מ־8 מהשדה, כשלהארפר עדיין אין מועד חזרה צפוי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/H1rnB8LKsfe/H1rnB8LKsfe_697_182_1403_790_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "הכוכבים התחברו, הישראלים נשארו בחוץ: הפועל ת\"א מעלה הילוך",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/r10r00cpozx",
+      "pubDate": "2026-10-15T04:39:11.000Z",
+      "summary": "האדומים חזרו למאזן חיובי ביורוליג אחרי ה־82:100 על בשיקטאש, עם חמישה שחקנים בדו ספרתי — וסגל ללא ישראלי או מתאזרח. בלייקני לקראת משחק החוץ באואקה בשישי: \"נגיע כאנדרדוג, אבל אנחנו מצפים להתחרות\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/24/r1epOwdRxg/r1epOwdRxg_0_42_1084_611_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
