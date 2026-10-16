@@ -1,151 +1,64 @@
 {
-  "generatedAt": "2026-10-09T03:24:07.273Z",
+  "generatedAt": "2026-10-16T03:26:11.320Z",
   "gate": "מוסף שישי",
   "columns": [
-    {
-      "column": 1,
-      "name": "חדשות / אקטואליה",
-      "items": [
-        {
-          "title": "שלוש שנים אחרי: חמאס מושל בעזה, ישראל רחוקה מהכרעה | תמונת מצב",
-          "summary": "חרף הסיכולים הממוקדים של צה\"ל והשליטה שלו ביותר מ-60% מהרצועה, חמאס עדיין שולט בשטח גם 3 שנים אחרי הטבח והמחדל. בהיעדר תוכנית מדינית לעתיד עזה, במערכת הביטחון מודים: אין פתרון להשתלטות ארגון הטרור על משאיות הסיוע, שנכנסות באישור ישראלי. בכירים בצבא מבהירים: לא נוותר על פירוז מלא",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/SyfVyRKvMg/SyfVyRKvMg_1_167_1601_901_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/yokra14916685",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-10-05T03:15:05.000Z",
-          "why": "תמונת מצב אסטרטגית ומעמיקה על הקיפאון ברצועת עזה והיעדר המדיניות, המהווה סוגיה ביטחונית ולאומית בעלת חשיבות עליונה."
-        },
-        {
-          "title": "כולם מתנערים, משרד התחבורה \"לא משך נתונים שנתיים\" ומגיב: \"בטוח לטוס? אין 100%\"",
-          "summary": "העובדות: ישראל קיבלה מראש את רשימת נוסעי טיסת פליי דובאי, כולל הטייס-מחבל מעומאן. מי שאמון על הבדיקה הוא משרד התחבורה, שמאשר הגעת חברות זרות, אך שם טענו: \"אנו לא גוף מודיעיני\". גם לשב\"כ, למוסד ולמשטרה יש גישה לנתונים שמועברים לרשות המיסים. המחדל: ייתכן שזו לא הייתה הפעם הראשונה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/Bk6kckJsGg/Bk6kckJsGg_0_0_850_479_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/byu70hc9fx",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-10-03T21:26:31.000Z",
-          "why": "תחקיר מערכתי חושפני המציג כשל בירוקרטי ומודיעיני ממושך שהוביל למחדל הביטחוני החמור בטיסות הזרות לישראל."
-        },
-        {
-          "title": "\"הגענו לתחתית\": גם בארה\"ב כבר מדברים על סנקציות - תלוי בבחירות בישראל",
-          "summary": "\"יו\"ש היא היום נקודת התורפה של ישראל\", מגדירים גורמים המעורים ביחסים עם וושינגטון את המצב עם ארה\"ב. בקונגרס מקודמות יוזמות לסנקציות על ההתנחלויות ועל גורמים ישראלים, גורם דמוקרטי בכיר: \"אם אותה קואליציה תחזור, זה יעבור\". ד\"ר קובי ברדה: \"Blood Bath יחכה לנו אחרי בחירות האמצע\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/rkTRhGacGl/rkTRhGacGl_0_204_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/sjlfzr3qgx",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T11:58:52.000Z",
-          "why": "ניתוח מדיני משמעותי של יחסי ישראל-ארה\"ב וסכנת הסנקציות ביו\"ש, המשקף תפנית אסטרטגית קריטית בזירה הבינלאומית."
-        },
-        {
-          "title": "ממלכתית, \"לאומית\" או משהו אחר: איך המפלגות רוצות לחקור את 7/10?",
-          "summary": "באופוזיציה מבטיחים להקים ועדה ממלכתית על פי חוק ב\"יום הראשון\", במפלגות החדשות מציעים שלל נוסחאות, אך בליכוד ובשאר מפלגות הקואליציה - למעט אחת - סירבו להגיב לשאלה כיצד יייחקר המחדל הקשה בתולדות המדינה, שאירע במשמרתן. מה התוכנית של המפלגות בנושאים הבוערים: כתבה רביעית בסדרה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/07/Hk1rKqCg6/Hk1rKqCg6_0_42_1280_721_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/elections2026/article/yokra14915209",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-10-04T03:11:28.000Z",
-          "why": "פרויקט השוואתי מעמיק הבודק את מחויבות המפלגות לחקירת אסון 7 באוקטובר – נושא מהותי ובוער לקראת הבחירות."
-        },
-        {
-          "title": "איש אבטחת המידע צפה בעובדות דרך מצלמת הלפטופ: \"פשוט הביט בה בחדר במלון\"",
-          "summary": "חוקרי יחידת הסייבר בלהב 433 חשבו שמדובר בסוכנים איראנים או בהאקרים שבקרוב יבקשו כופר או ינסו לייצר כאוס בישראל. בתום חקירה גילו: מיקי בר מאשקלון פיתח במשך שנים תוכנות זדוניות, נעזר בקלוד - ופרץ לעשרות חברות. כך, ממשרדו, הגיע למחשבים האישיים של עובדות, וצפה בהן בביתן, במצבים אינטימיים - וגם בילדיהן. אולם הצד המיני לא מופיע באישום - אז מה המניע של \"גאון המחשבים\"?",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/HyeBn9ps5Gx/HyeBn9ps5Gx_0_0_850_479_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/skmgnmf5ze",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-10-03T19:01:40.000Z",
-          "why": "חשיפה מרתקת של פרשת סייבר וריגול מקומית המשלבת היבטים טכנולוגיים מתקדמים ומספקת לקורא כתבת מגזין מקורית ומגוונת."
-        },
-        {
-          "title": "מימון מהעירייה, חסות מהממשלה: תגמול המדינה לאמנים ששרו בתהלוכת העריקים",
-          "summary": "כסף ציבורי עבר למנעימי אירוע המשתמטים: משה דוד וייסמנדל ומקהלת נשמה הופיעו בצעדה בבני ברק לכבוד 160 עריקים מצה\"ל. בדיקת ynet העלתה כי לאורך השנים השתתפו הזמרים באירועים וקליפים שזכו למימון מעיריית ירושלים - גם אחרי הוקרה קודמת לעריקים. עמוד היוטיוב המפרגן, הכספים לקליפ בסוכת ראש העיר - והתגובות: \"בחירה משיקולים אמנותיים ולא בשל עמדות פוליטיות\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/SJAZdmcczl/SJAZdmcczl_0_0_1080_608_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/rybfgzd9ze",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T05:26:37.000Z",
-          "why": "תחקיר עיתונאי מבוסס ראיות החושף שימוש בכספי ציבור למימון גורמים המעודדים עריקות, סוגיה חברתית-ערכית בעלת עניין ציבורי רב."
-        },
-        {
-          "title": "נשיאים, שופטים וסרט הוליוודי: הסקנדל שעשוי להכריע את הבחירות במדינת הענק",
-          "summary": "הוויסקי לנשיא לולה, הסרט על האבא שתכנן הפיכה צבאית, השופט שהסתבך עם טראמפ, ה\"סיקאריו\" שהתאבד בתא המעצר ומנגנון המרמה שטלטל מדינה שלמה: ברזיל נמצאת בעיצומה של מערכת בחירות סוערת, ומעל הכול מרחפת הונאת ענק בניצוחו של בנקאי צעיר ש\"קנה\" את מי שהיה יכול - ואיים \"לשבור שיניים\" למי שהפריע. הסקרים הצמודים, הבכירים שהתלכלכו - ואיך זה ישפיע על ישראל?",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/SkQ7X0DcGg/SkQ7X0DcGg_0_0_850_479_0_medium.jpg",
-          "link": "https://www.ynet.co.il/news/article/h1nlcdlcmx",
-          "source": "Ynet — חדשות",
-          "pubDate": "2026-10-02T18:10:06.000Z",
-          "why": "כתבת חוץ רחבת יריעה המנתחת הונאת ענק ומשבר שלטוני בברזיל, המוסיפה למגזין מבט גלובלי עשיר ומרתק."
-        }
-      ]
-    },
     {
       "column": 2,
       "name": "כלכלה / עסקים",
       "items": [
         {
-          "title": "המלחמה נגמרת, החשבון רק מתחיל (והוא כבד)",
-          "summary": "לפחות 405 מיליארד שקל כבר עלתה המלחמה, אבל הוצאות הביטחון העצומות, הריבית, השיקום והפיצויים ימשיכו להכביד על ישראל עוד שנים ארוכות. אנחנו, וגם ילדינו, נרגיש את זה – במיסים גבוהים יותר ובשירותים ציבוריים מצומצמים יותר",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/03/H1WqagdHqxl/H1WqagdHqxl_0_110_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/hkysti7sze",
+          "title": "התשובה לאיומי החות'ים והמתיחות עם איראן: הקמת נמלים יבשתיים בישראל",
+          "summary": "על רקע התחרות המתרחבת על נתיבי הסחר והיוזמות המתחרות בטורקיה ובסוריה, חברת נמלי ישראל דוחפת לקידום פרויקט IMEC ומקימה צוות עבודה בינלאומי קבוע. בשבועות הקרובים תונח על שולחן הממשלה תוכנית ראשונית לחיבור המסילות והמרכזים הלוגיסטיים לנמלי הים",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/13/HJO4C5jiGe/HJO4C5jiGe_0_27_1827_1029_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/hk7ik4asfl",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-07T05:41:54.000Z",
-          "why": "ניתוח מאקרו-כלכלי בעל חשיבות עליונה על המחיר הארוך והכבד של המלחמה על המשק הישראלי, המיסים והשירותים הציבוריים."
+          "pubDate": "2026-10-15T11:03:33.000Z",
+          "why": "ניתוח אסטרטגי מהותי ומעמיק של פרויקט תשתיות לאומי ובינלאומי (IMEC) כמענה לאיומים גיאו-פוליטיים על נתיבי הסחר."
         },
         {
-          "title": "\"לערוף את הצוואר המלוכלך\": איך נאום אחד הפך למשבר כלכלי בין שתי מעצמות",
-          "summary": "מספר החברות היפניות בסין צנח ב-30% על רקע המשבר הדיפלומטי, אחרי נאום ראש ממשלת יפן על תמיכה בטאיוואן - והן פונות לשווקים בהודו, וייטנאם ותאילנד. במקביל, הסינים הגבילו ייצוא מינרלים ליפן והזהירו אזרחים מלטייל אצל השכנה. נראה שזו רק תחילתו של הסכסוך בין המדינות",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/H1RiNS11jfe/H1RiNS11jfe_224_209_2525_1422_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/syyqzsbifx",
+          "title": "\"מהמשברים החמורים שסעודיה ידעה\": החזון של בן סלמאן מתנפץ לו בפנים",
+          "summary": "סעודיה מנסה להקרין שגרה ועוצמה, אבל תקיפות החות'ים פוגעות בכלכלתה: שדה התעופה בריאד, שער הכניסה למשקיעים ולאנשי עסקים, מושבת לאחר פגיעה משמעותית בשבת, כנס השקעות גדול בסימן שאלה ומנכ\"לים של ענקיות אנרגיה ביטלו הגעה לקונגרס עולמי במדינה. ד\"ר יואל גוז'נסקי, ראש תוכנית המפרץ ב-INSS: \"סעודיה צריכה הון, השקעות וידע. המלחמה הנוכחית עושה לה ממש לא טוב\"",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/ByWIWgpozl/ByWIWgpozl_0_0_850_479_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/sjeev16smg",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-06T04:05:03.000Z",
-          "why": "כתבת עומק גלובלית על המשבר הכלכלי המחריף בין יפן לסין, נדידת חברות ומאבקי סחר עם השלכות בינלאומיות רחבות."
+          "pubDate": "2026-10-15T04:16:27.000Z",
+          "why": "כתבת עומק גיאו-כלכלית מרתקת על הפגיעה בהשקעות הזרות ובחזון הכלכלי של סעודיה בעקבות הלחימה האזורית."
         },
         {
-          "title": "מזנקות בדוחות, מתרסקות בבורסה: מה עובר על מניות החברות הביטחוניות?",
-          "summary": "למרות דוחות מצוינים ושיאי הזמנות בחסות המלחמה, מדד הביטחוניות בבורסה בת\"א ממשיך ליפול. נקסט ויז'ן קרסה אתמול ביותר מ-12%, אלביט ב-5%, והן לא לבד. האם הקסם של הדיפנס-טק על שוק ההון כבר לא עובד?",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/11/30/rygi4xW8Bp/rygi4xW8Bp_0_102_1181_665_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/rjgrjcgszx",
+          "title": "השוק מתקרר? העיר שמפתיעה בביקוש לדירות - ואיפה הכוח עובר לרוכשים",
+          "summary": "בדיקה של יד2 חושפת פערים גדולים בין הערים: בזמן שהביקוש לדירות ברחבי הארץ ירד ב-4.3%, במודיעין הוא זינק ב-26% ובבאר שבע צנח ב-28%. באילו ערים הביקוש מתחזק, איפה ההיצע גדל והיכן לרוכשי הדירות יש יותר כוח מיקוח?",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/04/12/10648252/10648252_0_0_1181_787_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/h1pyd1comg",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-07T04:02:50.000Z",
-          "why": "ניתוח מרתק של שוק ההון הישראלי סביב הפרדוקס שבין דוחות השיא של החברות הביטחוניות לבין צניחת המניות שלהן בבורסה."
+          "pubDate": "2026-10-15T05:51:43.000Z",
+          "why": "בדיקה מבוססת נתונים על שוק הנדל\"ן המקומי, המציגה תמונת מצב מפורטת על פערי ביקושים וכוח המיקוח של הרוכשים."
         },
         {
-          "title": "\"יש בציבור תחושה שהבנקים דופקים אותם, אתה שם כסף בעובר ושב ומקבל אפס ריבית, הבנק מרוויח והלקוח לא רואה שקל\"",
-          "summary": "בלי עמלות, עם התחייבות לריביות גבוהות על הכסף שיושב בעובר ושב ועם מודל של חלוקת רווחים ללקוחות: קובי מלכין, מנכ\"ל בנק esh, מציג בראיון ל\"ממון\" בשורה צרכנית אמיתית • אבל מעל ההשקה של הבנק הדיגיטלי השני בישראל מרחפים גם סימני שאלה: העיכובים בפתיחת הבנק, עסקת שיתוף הפעולה עם ישראכרט שהתפוצצה ובעיקר התחרות הקשה מול הבנקים הגדולים והשמרנות של הלקוחות בארץ שלא ממהרים לעזוב את הסניף המוכר והוותיק שלהם • \"הלקוח הישראלי לא שמרן בכלל\", טוען מלכין, \"אם תציע לו הצעה טובה באמת בלי הגבלות ואותיות קטנות הוא יע",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/rJWekayVsMl/rJWekayVsMl_0_242_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/yokra14916700",
+          "title": "מה קשור ועידן עמדי התגייסו למטרה: הדחת מותג ששולט בשוק הישראלי 60 שנה",
+          "summary": "קפה טורקי עלית שולט ביותר מ-80% משוק הקפה השחור, וניסיונות של אסם, ויסוצקי, ג'ייקובס ואחרים לערער את מעמדו הסתיימו בכישלון. כעת נכנסים לזירה שני מתחרים חדשים במקביל: ארומה עם עידן עמדי, ושלישיית מה קשור עם חברת ראיטו. האם דווקא הפעם הישראלים יסכימו להחליף את הקפה שלהם?",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/By8gSHaozl/By8gSHaozl_0_0_1672_941_0_medium.jpg",
+          "link": "https://www.ynet.co.il/economy/article/yokra14926687",
           "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-08T21:00:00.000Z",
-          "why": "ראיון עומק עסקי וצרכני עם מנכ\"ל בנק דיגיטלי חדש, הנוגע ישירות ברווחי הבנקים, הריביות והתחרות במערכת הפיננסית."
+          "pubDate": "2026-10-15T04:13:00.000Z",
+          "why": "ניתוח עסקי וצרכני מצוין על מבנה שוק ריכוזי וניסיונות שבירת מונופול ותיק, המאזן את הגיליון בפן תחרותי ומסקרן."
         },
         {
-          "title": "צרפת: עם זינוק בגירעון ושיא בחוב הציבורי, ההפגנות לא צפויות לדעוך בקרוב",
-          "summary": "תקציב 2027 הכולל קיצוצים בהיקף 54 מיליארד אירו רק יגביה את הלהבות שהציתו תלמידי התיכונים ‏במדינה בגלל צפיפות בכיתות ומחסור במורים. בלב המשבר: הכישלון של ממשלות צרפת להשתלט על ‏החוב והגירעון",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HJ7W4ggofx/HJ7W4ggofx_0_165_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/bymv7xeoml",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-04T15:44:35.000Z",
-          "why": "סקירת מאקרו בינלאומית חשובה על משבר החוב והגירעון בצרפת וההשלכות החברתיות והכלכליות על גוש האירו."
+          "title": "הריבית תרד בשבוע הבא? האינפלציה בספטמבר האטה יותר מהצפוי",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-money/2026_q4/Article-02dfe61821041a1027.htm",
+          "source": "mako / N12 — כלכלה (sitemap)",
+          "pubDate": "2026-10-15T15:30:00.000Z",
+          "why": "סוגיית מאקרו-כלכלה בעלת השפעה ישירה ומיידית על המשק, שערי הריבית וכיסו של כל צרכן ועסק."
         },
         {
-          "title": "\"ההתחדשות העירונית נכנסת לשלב ההתפכחות\"",
-          "summary": "תוכניות התחדשות שקודמו בשנים האחרונות מתבררות כלא כלכליות, מהסיבה שמחירי הדירות פסקו לעלות. בחודשים האחרונים שומעים התבטאויות של משרד האוצר והרשות להתחדשות עירונית, שלא שמענו בעבר. במקביל נראה שגם הרשויות המקומיות משנות לא פעם פוזיציה ודורשות יותר על חשבון הכלכליות של המיזם. האם השוק עומד בפני שינוי?",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/rJYKU1lYfe/rJYKU1lYfe_68_19_998_562_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/ry3kl1gkme",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-05T12:18:39.000Z",
-          "why": "מבט מפוכח ומעמיק על שוק הנדל\"ן המקומי והאתגרים הכלכליים שעוצרים את מיזמי ההתחדשות העירונית."
-        },
-        {
-          "title": "מהו הפתרון החדש של אנבידיה שעשוי להפוך לשכבת האבטחה של עידן הסוכנים?",
-          "summary": "אחרי חודשים שבהם הוויכוח סביב בינה מלאכותית עבר מהשאלה כמה מהר המודלים משתפרים לשאלה האם בכלל ניתן לשלוט בהם, אנבידיה (NVDA) מציגה תשובה משלה: לא להאט את הפיתוח - אלא לבנות שכבת אבטחה שתפקח על הסוכנים בזמן אמת ותעצור אותם אם הם חורגים מהכללים. החברה חשפה את Open Agent Safety Platform, מערכת חדשה שנועדה להגביל מה סוכני AI יכולים לעשות, לאילו מערכות הם רשאים לגשת, ובמקרה הצורך לבודד אותם בתוך אלפיות השנייה. מבחינת אנבידיה, זהו ניסיון להפוך את בעיית הבטיחות מאיום קיומי לשאלה הנדסית שניתן לפתור באמצ",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/SkvFXZzoMe/SkvFXZzoMe_0_8_512_289_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/xfobn95v3",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-06T05:23:36.000Z",
-          "why": "מהלך אסטרטגי מהותי של אנבידיה שמובילה את הדור הבא של הבינה המלאכותית ואבטחת סוכני ה-AI בארגונים."
-        },
-        {
-          "title": "מי משקיע מיליונים במסעדות, בזמן שהענף בקושי שורד",
-          "summary": "הוא שם הרבה כסף במקומות חדשים בזמן שאחרים סגרו, מחזיק בכמה מהמסעדות הנחשקות והמצליחות בתל–אביב, ועכשיו לקח לידיו גם את מאנטה ריי המיתולוגית בחוף הים • איציק חנגל, אחד המסעדנים המובילים בישראל, מספר למה דווקא היום הוא ממשיך לקחת סיכונים, למה המחירים של המנות בארץ כל כך יקרים ואיך שורדים שנים בענף שבו הסכנות הכלכליות אורבות מכל פינה • וגם: על החברות עם השף חיים כהן והשורשים העיראקיים שמהם התחיל הכול",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/ryl0Caq5Ge/ryl0Caq5Ge_0_0_1920_1080_0_medium.jpg",
-          "link": "https://www.ynet.co.il/economy/article/yokra14905877",
-          "source": "Ynet — כלכלה",
-          "pubDate": "2026-10-05T03:50:04.000Z",
-          "why": "כתבת עומק עסקית ומאוזנת על כלכלת המסעדנות בישראל, ניהול סיכונים ועלויות התפעול הגבוהות בענף במשבר."
+          "title": "\"החברות ניצלו את זה\": האמת מאחורי הזינוק במחירי המזון",
+          "summary": "",
+          "image": null,
+          "link": "https://www.mako.co.il/news-money/2026_q4/Article-d35605f3c4221a1026.htm",
+          "source": "mako / N12 — כלכלה (sitemap)",
+          "pubDate": "2026-10-11T03:00:00.000Z",
+          "why": "עיסוק בסוגיית יסוד בוערת של יוקר המחיה והתנהלות חברות המזון בישראל בתקופה זו."
         }
       ]
     },
@@ -154,187 +67,40 @@
       "name": "שיווק / פרסום",
       "items": [
         {
-          "title": "At AWNY and Jupiter Fest, Future of Content, Agentic Ads, Open Web Anxieties Steal the Show",
-          "summary": "At two tentpole events in different cities, uncertainty around agentic, attention, AI visibility, and the open web rose to the surface.",
+          "title": "הסוף לסכסוך המיליארדים: מטא ואפל בשיתוף פעולה חסר תקדים",
+          "summary": "אחרי שנים של עוינות גלויה, חילופי מהלומות והפסדי מיליארדים בעקבות שינויי הפרטיות - שתי ענקיות הטכנולוגיה מפתיעות את השוק ומאחדות כוחות במרוץ הבינה המלאכותית: האם עידן המנכ\"ל החדש באפל מסמן מהפך ביחסים, ומה תג המחיר של המהלך?",
+          "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_532/rsz_615_346_צוקרברג קוק.png",
+          "link": "https://www.ice.co.il/finance/news/article/1133841",
+          "source": "אייס",
+          "pubDate": "2026-10-15T22:32:18.000Z",
+          "why": "מהלך ענק ובעל השפעה אסטרטגית מרחיקת לכת על תעשיית הפרסום הדיגיטלי, הטכנולוגיה ומאבקי הפרטיות."
+        },
+        {
+          "title": "הקשר בין נדל\"ן, ממתקים ואופנה: שיתופי הפעולה המפתיעים של שבוע האופנה 2026",
+          "summary": "מה הקשר בין חברת נדל\"ן לשבוע האופנה? ומה גורם למותג מזון מהיר, לחברת ממתקים ולרשת דיור מוגן להשקיע בתצוגות אופנה? במפגש בוקר חגיגי שנערך לקראת שבוע האופנה ישראל קנדה תל אביב 2026, נחשפה התוכנית המלאה של האירוע, שיתקיים בין 8 ל-12 בנובמבר במתחם קרמניצקי 7 בתל אביב. אבל לצד 28 תצוגות האופנה המתוכננות, הסיפור המעניין לא פחות נמצא דווקא מאחורי הקלעים: שורה של שיתופי פעולה שיווקיים, חלקם מפתיעים במיוחד, שמאפשרים לאירוע להתקיים ומעניקים למותגים המשתתפים בו הזדמנות להיות חלק מסיפור גדול יותר. מוטי רייף",
+          "image": "https://shivuk.me/wp-content/uploads/2026/10/Kornit-Fashion-Week-LA-768x525.webp",
+          "link": "https://shivuk.me/news/39791",
+          "source": "מנהלי שיווק מצייצים",
+          "pubDate": "2026-10-11T06:09:30.000Z",
+          "why": "ניתוח מעניין של מגמת שיווק עכשווית סביב חסויות צולבות, שיתופי פעולה בלתי שגרתיים ומינוף אירועי תוכן."
+        },
+        {
+          "title": "The Chicago Bulls Logo Controversy Is Not What It Appears to Be",
+          "summary": "Social media is having a cow about the size of the Bulls logo vs. sponsor Plus500.",
           "image": null,
-          "link": "https://www.adweek.com/media/advertising-week-jupiter-fest-future-of-content-agentic-ads-open-web-anxieties/",
+          "link": "https://www.adweek.com/convergent-tv/the-chicago-bulls-logo-controversy-is-not-what-it-appears-to-be/",
           "source": "Adweek",
-          "pubDate": "2026-10-08T13:37:55.000Z",
-          "why": "ניתוח מעמיק ורחב היקף של המגמות הטכנולוגיות המרכזיות והעתידיות של עולם הפרסום (סוכני AI, תוכן והרשת הפתוחה) מכנסי התעשייה המובילים."
+          "pubDate": "2026-10-13T15:25:54.000Z",
+          "why": "מקרה בוחן מרתק ומעורר דיון בשיווק ספורט ומיתוג, העוסק במאבק הנראות שבין זהות מועדון למפרסם מסחרי."
         },
         {
-          "title": "Uber Tries to Prove That Uber Eats Ads Don’t Hurt Physical Restaurant Sales",
-          "summary": "The delivery platform partners with Affinity Solutions on measurement capabilities.",
+          "title": "The 2026 Halloween Ads Worth Screaming About",
+          "summary": "e.l.f., Pringles, Twix, Reese’s, and more are behind Halloween’s most notable ads.",
           "image": null,
-          "link": "https://www.adweek.com/commerce/uber-tries-to-prove-that-uber-eats-ads-dont-hurt-physical-restaurant-sales/",
+          "link": "https://www.adweek.com/creativity/the-2026-halloween-ads-worth-screaming-about/",
           "source": "Adweek",
-          "pubDate": "2026-10-05T09:00:00.000Z",
-          "why": "עוסק באחד האתגרים המהותיים ביותר בריטייל מדיה כיום: הוכחת אפקטיביות ומדידת השפעת מודעות דיגיטליות על מכירות בעולם הפיזי."
-        },
-        {
-          "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From On to KFC",
-          "summary": "On, KFC, Reebok, Chili’s, the Washington Post, and more are behind the week’s most notable ads.",
-          "image": null,
-          "link": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-on-to-kfc/",
-          "source": "Adweek",
-          "pubDate": "2026-10-02T06:00:00.000Z",
-          "why": "סקירה רוחבית איכותית של עשרת הקמפיינים הבולטים של השבוע, המעניקה השראה, רפרנסים קריאייטיביים ומבט עדכני על מותגי-על."
-        },
-        {
-          "title": "How Bacardí and AMC Resurrected the Crypt Keeper After 30 Years",
-          "summary": "Bacardí and AMC Global Media teamed to make the Crypt Keeper the host of FearFest 2026.",
-          "image": null,
-          "link": "https://www.adweek.com/convergent-tv/how-bacardi-and-amc-resurrected-the-crypt-keeper-after-30-years/",
-          "source": "Adweek",
-          "pubDate": "2026-10-08T08:00:00.000Z",
-          "why": "קייס סטאדי מרתק על שיתוף פעולה מותגי, שימוש חכם בנוסטלגיה והחייאת IP תרבותי לטובת חיבור רלוונטי לקהל."
-        },
-        {
-          "title": "Oura Wants Wellness to Mean More Than a Personal Best",
-          "summary": "Oura's handmade ad shows wellness looks different for everyone.",
-          "image": null,
-          "link": "https://www.adweek.com/creativity/oura-wants-wellness-to-mean-more-than-a-personal-best/",
-          "source": "Adweek",
-          "pubDate": "2026-10-08T12:20:07.000Z",
-          "why": "פירוק מעניין של מהלך מיצוב מותגי מחדש בקטגוריית הוולנס הצפופה, תוך דגש על שפה קריאייטיבית ייחודית."
-        },
-        {
-          "title": "Starbucks Is Reportedly Eyeing Chipotle, But The Burrito Chain May Be More Than It Can Chew",
-          "summary": "A deal would reunite Starbucks CEO Brian Niccol with his former company",
-          "image": null,
-          "link": "https://www.adweek.com/brand-marketing/starbucks-is-reportedly-eyeing-chipotle-but-the-burrito-chain-may-be-more-than-it-can-chew/",
-          "source": "Adweek",
-          "pubDate": "2026-10-08T14:21:53.000Z",
-          "why": "מבט אסטרטגי ממוקד על מהלך מיזוג ענק פוטנציאלי והאתגרים הניהוליים והמותגיים הכרוכים בחיבור בין שתי ענקיות מזון."
-        }
-      ]
-    },
-    {
-      "column": 4,
-      "name": "טק / טכנולוגיה",
-      "items": [
-        {
-          "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-          "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
-          "image": null,
-          "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-          "source": "TechCrunch",
-          "pubDate": "2026-10-02T17:48:16.000Z",
-          "why": "מפגש הפסגה בבית הלבן והצהרת הנאמנות של ענקיות הטכנולוגיה מסמנים שינוי רגולטורי ופוליטי מהותי ביחס לבינה מלאכותית."
-        },
-        {
-          "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-          "summary": "On Friday, Amazon committed to donating more than $1 billion over the next five years to communities neighboring data centers. In a press release , Amazon Web Services’ CEO Matt Garman said that communities would decide how to prioritize funds across “education, job training, energy affordability, water, and energy preservation, and local priorities.” Laying out other community commitments, Amazon also promised to ensure data centers wouldn’t increase power bills or wipe out local water supplies",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016.jpg",
-          "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-          "source": "Ars Technica",
-          "pubDate": "2026-10-02T20:30:27.000Z",
-          "why": "ההתנגדות הגוברת לחוות השרתים של אמזון מציגה לעומק את אחד האתגרים הפיזיים והחברתיים הבוערים שמציבה מהפכת המחשוב."
-        },
-        {
-          "title": "אחד העובדים הוותיקים עזב את OpenAI ומזהיר: \"התרבות הארגונית שלה שבורה\"",
-          "summary": "דייוויד רובינסון, שכתב בעבר דוחות בטיחות להשקות מודלים גדולות של OpenAI, עזב את החברה וטוען שמעבדות AI צריכות להתנהל כמו תחנות כוח גרעיניות. \"אף פעם לא פגשתי עובד שהתעסק בלגרום למטוסים לטוס בבטחה או לכורים גרעיניים לפעול בלי להתמוסס\"",
-          "image": "https://img.mako.co.il/2026/10/04/AutoCms_222C11E3C_autoOrient_a.jpg",
-          "link": "https://www.mako.co.il/nexter-news/Article-0409ef5e8e501a1026.htm",
-          "source": "mako / N12 — דיגיטל (Nexter)",
-          "pubDate": "2026-10-04T08:19:00.000Z",
-          "why": "עדות מבפנים של בכיר בטיחות שעזב את OpenAI מאירה סוגיה קריטית של תרבות ארגונית וניהול סיכונים בחזית הטכנולוגיה."
-        },
-        {
-          "title": "The next hurdle for AI agents: getting websites to let them in",
-          "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-          "image": null,
-          "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-          "source": "TechCrunch",
-          "pubDate": "2026-10-06T19:56:50.000Z",
-          "why": "ניתוח עומק שממפה את צוואר הבקבוק המהותי הבא של סוכני AI — ההתנגשות עם חומות ההגנה ומבנה הרשת הקיים."
-        },
-        {
-          "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-          "summary": "VMware customers face multiple obstacles as they rethink their virtualization strategy to reduce dependence on VMware. Today, Rimini Street published its “2026 IT Virtualization Survey – What’s Next for VMware Users.” The survey examined 300 organizations worldwide that use VMware. Notably, Rimini sells third-party support for VMware and other software, including Oracle and SAP. That means there’s an incentive for Rimini to portray VMware users as experiencing obstacles. However, the survey was ",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
-          "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
-          "source": "Ars Technica",
-          "pubDate": "2026-10-06T12:00:31.000Z",
-          "why": "טלטלת הרישוי סביב VMware היא אירוע מאקרו בעל השפעה עצומה על מפת תשתיות המחשוב והענן בארגונים ברחבי העולם."
-        },
-        {
-          "title": "Sean Parker is rebuilding Stability AI around music",
-          "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-          "image": null,
-          "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-          "source": "TechCrunch",
-          "pubDate": "2026-10-02T21:09:14.000Z",
-          "why": "ניסיון הבנייה מחדש של Stability AI בהובלת שון פארקר מול חברות התקליטים מציג מהלך אסטרטגי מסקרן של שילוב AI וקניין רוחני."
-        },
-        {
-          "title": "Netflix is pivoting away from prestige",
-          "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger strategic shift. With rival studios Paramount and Warner Bros. Discovery on the verge of a megamerger that will reshape the entertainment landscape, Netflix is clearly thinking about how it can conti",
-          "image": null,
-          "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
-          "source": "The Verge",
-          "pubDate": "2026-10-02T20:30:26.000Z",
-          "why": "מבט מנתח על שינוי המודל העסקי בנטפליקס והתרחקותה מיוקרה הוליוודית, המשקף תפנית רחבה בכלכלת הסטרימינג."
-        }
-      ]
-    },
-    {
-      "column": 5,
-      "name": "ספורט",
-      "items": [
-        {
-          "title": "\"אם ליאור אסולין היה פה הוא היה אומר 'שחררו מהדרמה'\"",
-          "summary": "שלוש שנים חלפו מאז הבשורה שטילטלה את הכדורגל הישראלי: ליאור אסולין ז\"ל נרצח במסיבת הנובה. אתמול הוא אמור היה להיות בן 46, ומשפחתו התכנסה ל\"אזכרת יום הולדת\", עם ערק, על האש והרבה אנשים - כל מה שהכי אהב. קרוביו נזכרים בילד הנצחי שתמיד הצחיק את כולם, ומספרים על השיחות האחרונות, התוכניות שנקטעו והסיפורים שרק הוא יכול היה לספק",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/Hym1ZAGszl/Hym1ZAGszl_788_266_1505_847_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/israelisoccer/article/sjwzwagifl",
-          "source": "Ynet — ספורט",
-          "pubDate": "2026-10-07T07:00:04.000Z",
-          "why": "כתבת זיכרון ואנושיות בעלת עומק רגשי יוצא דופן, שמביאה זווית אישית ומרגשת המושלמת לקריאת סוף שבוע."
-        },
-        {
-          "title": "מי יצטיינו, מי יאכזבו - ומי יירדו? ליגת העל בכדורסל יוצאת לדרך",
-          "summary": "האם הפועל ת\"א תשבור את הקללה, איך ים מדר יתמודד עם הציפיות האדירות שמגיעות עם חוזה העתק במכבי ת\"א, למה הפועל ירושלים היא החידה הגדולה של הליגה, כמה משקל יהיה לישראלים, איפה מסתתר הפלופ ומי אחראית על הגניבה של הקיץ. כותבי \"ידיעות אחרונות\" ו־ynet עונים על השאלות שיכריעו כיצד תיראה עונת 2026/27",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/24/HyIAM2uzGl/HyIAM2uzGl_311_397_2492_1403_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/israelibasketball/article/h1o3nmeozg",
-          "source": "Ynet — ספורט",
-          "pubDate": "2026-10-07T22:30:00.000Z",
-          "why": "פרויקט פתיחת עונה מקיף, אנליטי ועשיר בתובנות לקראת הליגה הישראלית, בעל ערך ומהותיות גבוהה לחובבי הענף."
-        },
-        {
-          "title": "מעצמת ג'ודו? ההחלטה התמוהה של האיגוד שעולה למשלחת הישראלית במדליות",
-          "summary": "למרות מדליה אולימפית בטוקיו 2020 ועוד אחת באליפות העולם ב-2022, במשלחת הישראלית מזניחים את הקטגוריה הקבוצתית בתחרויות הג'ודו השונות, וכך יהיה גם באליפות העולם שתיפתח מחר בבאקו. גורם בסביבת האיגוד תולה את האשם בחוסר העומק בנבחרת הגברים: \"חוץ מיצחק אשפיז, איזה מתחרה טוב יש כרגע?\"",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/04/10863532/10863532_0_42_1300_732_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/hjmchd6qzg",
-          "source": "Ynet — ספורט",
-          "pubDate": "2026-10-03T05:30:23.000Z",
-          "why": "ביקורת מערכתית נוקבת וחשובה על קבלת ההחלטות באיגוד הג'ודו, החושפת כשל ניהולי בענף אולימפי מוביל."
-        },
-        {
-          "title": "זה ילד זה? הישראלי בן ה-18 שיכול להביא זהב מפתיע בג'ודו",
-          "summary": "לפני כמה שנים הוא הגיע במקרה לחוג ג'ודו בקאנטרי בראשל\"צ, והיום כבר מפרק יריבים מנוסים ומעוטרים † בגיל 18 בלבד, יצחק אשפיז נכנס לוואקום בנבחרת ומגיע לאליפות העולם אחרי שנת פריצה שהפכה אותו לאחד השמות החמים בסבב ולתקווה הגדולה למדליה",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/B1ow1CC5fx/B1ow1CC5fx_0_0_2126_1197_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/hyl51crqmg",
-          "source": "Ynet — ספורט",
-          "pubDate": "2026-10-03T22:30:00.000Z",
-          "why": "סיפור פריצה מרענן ומעורר השראה על הכוכב הבא של הג'ודו הישראלי רגע לפני אליפות העולם."
-        },
-        {
-          "title": "הניצחון על ירושלים יכול לשנות למכבי ת\"א את מצב הרוח, אולי לערב אחד | טור",
-          "summary": "ה-71:88 על נמסיס בוודאי לא מוחק את מה שקורה ביורוליג. עודד קטש הוא מאמן טופ יורוליג, אבל גם נהג מצוין לא יכול לתקן הכל כשהמכונית מושכת ימינה, הצמיג רועד והבעלים רבים מי מחזיק במפתחות",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HyEjb5Gesfe/HyEjb5Gesfe_0_102_3000_1689_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/israelibasketball/article/ry2ib7lizx",
-          "source": "Ynet — ספורט",
-          "pubDate": "2026-10-04T22:30:00.000Z",
-          "why": "טור ניתוח מדויק שחודר אל מתחת לפני השטח ומפרק את הבעיות המבניות והניהוליות של מכבי תל אביב."
-        },
-        {
-          "title": "הטעות של הנבחרת תמיד תגיע, מזל שגם דור פרץ | טור",
-          "summary": "נבחרת ישראל עלתה בעיקר כדי לא לספוג, ושוב מצאה דרך שלומיאלית להכניס את עצמה לבור. למזלה, משהו מערן זהבי התגלגל לדור פרץ, ששוב היה במקום הנכון בזמן הנכון. עכשיו, כשמלחמת הפקקים עם אירלנד הסתיימה, מי ייתן לנבחרת סיבה לשחק כדורגל?",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/rJo1QEljzl/rJo1QEljzl_0_88_2765_1557_0_medium.jpg",
-          "link": "https://www.ynet.co.il/sport/article/r11lavgsfg",
-          "source": "Ynet — ספורט",
-          "pubDate": "2026-10-04T22:30:00.000Z",
-          "why": "טור ביקורתי וחד על תסמונת הבינוניות הכרונית של נבחרת הכדורגל, המשלב ניתוח מקצועי ומנטלי ראוי."
+          "pubDate": "2026-10-15T06:00:00.000Z",
+          "why": "סקירת קריאייטיב עונתית ומעוררת השראה של מהלכי פרסום בולטים מבית מותגי צריכה מובילים."
         }
       ]
     }
