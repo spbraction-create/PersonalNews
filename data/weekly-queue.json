@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:26:11.320Z",
+  "generatedAt": "2026-10-17T03:23:59.722Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -209,6 +209,58 @@
         5
       ],
       "column": 5
+    },
+    {
+      "title": "זו שרוצה לנגוס במקדונלד'ס והסושי שנקלע לקשיים | הכתבות הנצפות של השבוע",
+      "link": "https://www.ynet.co.il/economy/article/sjkh91csze",
+      "pubDate": "2026-10-16T04:07:57.000Z",
+      "summary": "הניסיון של ברגר קינג לחזור לצמרת רשתות ההמבורגר, הדירות החדשות שלא נמכרות, הסוף לכרכרות הסוסים בניו יורק, ההסתבכות החדשה של האוליגרך רומן אברמוביץ' והחובות של קבוצת המסעדות הפופולרית | הצמרת הכלכלית – הכתבות ‏הנצפות של השבוע",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/yk14924288/yk14924288_0_146_945_532_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הקבלנים בתל אביב לא מוכרים דירות - והשוכרים מחכים בפינה",
+      "link": "https://www.ice.co.il/realestate/news/article/1133683",
+      "pubDate": "2026-10-16T14:00:55.000Z",
+      "summary": "ההאטה בשוק הדיור בישראל מדלגת על תל אביב. שם קיים משבר הרבה יותר גדול. חלק מהיזמים לא מוכנים להוריד יותר במחיר - מייעדים את הדירות להשכרה ומעכבים בכוונה פרויקטים חדשים. צחי אבו \"קונה דירות בהנחה\" - אבל לא מוכר אותן. ואיזה מסכנים השוכרים, שהמדינה אוכלת להם ת'לב | טור שישי",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_599/rsz_615_346_1657200520262.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "A Meta-Morphosis: Frontier Foray and TikTok Block",
+      "link": "https://www.adweek.com/media/a-meta-morphosis-frontier-foray-and-tiktok-block/",
+      "pubDate": "2026-10-16T06:48:22.000Z",
+      "summary": "A version of this story was originally published in AI, Tech & Money, a free, weekly newsletter packed with news and exclusive analysis on all things tech, platforms, and deals [&hellip;]",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "ביום הבחירות מישהו יהיה מופתע // אופיר פרבר",
+      "link": "https://shivuk.me/articles/39846",
+      "pubDate": "2026-10-16T06:22:26.000Z",
+      "summary": "ב-27 באוקטובר, אחד מהצדדים הפוליטיים במדינה יהיה מופתע. מאוד מופתע. לא משום שהתוצאות יהיו בהכרח בלתי צפויות, אלא משום שהציפיות שלנו הפכו להיות כל כך צפויות. כל אחד בטוח שהוא יודע מה הציבור חושב, לאן הרוח נושבת ומה באמת קורה במדינה. והביטחון הזה נשען, במידה רבה, על אשליה. אנחנו חיים בעידן שבו החיים שלנו מתנהלים בתוך הפיד. ולא רק הפיד בפייסבוק, באינסטגרם או בטוויטר, אלא גם הפיד האנושי שלנו: החברים, המשפחה, הקולגות בעבודה, קבוצות הוואטסאפ והאנשים שאנחנו פוגשים ביום־יום. אנחנו מקיפים את עצמנו באנשים",
+      "image": "https://shivuk.me/wp-content/uploads/2026/10/T666-768x432.webp",
+      "source": "מנהלי שיווק מצייצים",
+      "sourceUrl": "https://shivuk.me",
+      "columns": [
+        3
+      ],
+      "column": 3
     }
   ]
 }
