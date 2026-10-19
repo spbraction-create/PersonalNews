@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:24:48.627Z",
+  "generatedAt": "2026-10-19T09:13:50.985Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -443,6 +443,292 @@
         5
       ],
       "column": 5
+    },
+    {
+      "title": "צרפת על בריקדות: הקדימון שעלול לטלטל את אירופה",
+      "link": "https://www.ynet.co.il/news/article/h1xuilmhzg",
+      "pubDate": "2026-10-19T08:43:39.000Z",
+      "summary": "תלמידי אוניברסיטאות עילית, שבעים ומפונקים, שהצטרפו לאות סולידריות עם התיכוניסטים, תוך שהם מחפשים לחיות מחדש את ההתרגשות של שנות השישים. במקביל, פעילי השמאל הקיצוני של מפלגת \"צרפת הבלתי נכנעת\" דוחפים לכאוס, שבמהלכו יעברו למחנה שלהם אלפי מאוכזבים ממדיניותה הכלכלית של ממשלת מקרון",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/H1xy4EmnMe/H1xy4EmnMe_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מפת העודפים: ההסכמים - ואיך הם ישפיעו על הבחירות",
+      "link": "https://www.ynet.co.il/news/elections2026/article/skdhsmfsmx",
+      "pubDate": "2026-10-19T08:28:20.000Z",
+      "summary": "בגוש השינוי סגרו את כל הפינות, המפלגות החרדיות והערביות הגיעו להסכמות, נתניהו וסמוטריץ' שילבו ידיים - אבל וינטר ובן גביר לא הגיעו להסכם, וגם הנדל וזליכה נותרו לבד. איך עובדים הסכמי העודפים - ולמה השיטה מסייעת למפלגות הגדולות?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/S1ToXSKjGl/S1ToXSKjGl_0_0_850_479_0_cid_62_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "המחיר הסעודי",
+      "link": "https://www.ynet.co.il/news/article/yokra14931022",
+      "pubDate": "2026-10-19T08:06:50.000Z",
+      "summary": "למרות שדפוס ההתערבות מוכר, חשוב לנסות להבין ולקשור בין התזמון של הודעת התמיכה הדרמטית של טראמפ לבין המהלכים האסטרטגיים הגדולים יותר שמתכנן הנשיא האמריקאי מיד לאחר הבחירות בישראל",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/Hkk1neMiMg/Hkk1neMiMg_0_114_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "סביב אחוז החסימה: המפלגות שעשויות להכריע את הבחירות | עם אמיר אטינגר",
+      "link": "https://www.ynet.co.il/news/theheadline/article/jr6ozqleb",
+      "pubDate": "2026-10-19T02:00:00.000Z",
+      "summary": "עופר וינטר, יועז הנדל וזליכה, מוטי לייטנר ובני גנץ מתנדנדים סביב אחוז החסימה או מתחתיו, ויחד הם מחזיקים מאות אלפי קולות. בשני הגושים לוחצים על המפלגות לפרוש מחשש לשריפת קולות שעלולים להכריע את התוצאה, כפי שקרה עם מרצ בבחירות הקודמות. אמיר אטינגר, כתב הכנסת של ynet, ממפה את המפלגות הקטנות ומסביר את מי ישרת כל תרחיש",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/BJlBpzMnMx/BJlBpzMnMx_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "שינוי הכיוון של טראמפ – והחשש מעתיד היחסים עם ארה\"ב",
+      "link": "https://www.ynet.co.il/news/elections2026/article/hkdoxkf3ge",
+      "pubDate": "2026-10-18T21:42:06.000Z",
+      "summary": "רק לפני כמה ימים נשאל הנשיא על רה\"מ והשיב שהוא \"לא סומך על אף אחד\" - אבל אתמול כבר הביע בו תמיכה. הדמוקרטים בארה\"ב תקפו: \"טראמפ לא אמור להביע דעה על בחירות דמוקרטיות במדינה אחרת\". בינתיים חוששים בישראל מבחירות האמצע בארה\"ב, ומגל של סנקציות אירופאיות: \"גרמניה עשויה להסיר את הווטו\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/Sy4jpajcGg/Sy4jpajcGg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הפוליטיקאים מנסים להעיר את השטח: \"איך אנחנו לא לוקחים את זה בהליכה?\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/h1o8xqz2mg",
+      "pubDate": "2026-10-18T21:28:47.000Z",
+      "summary": "בן גביר איחר לעולים הצרפתים בשעתיים, איזנקוט שטח את תפיסת עולמו בפני קהל דתי, ובבניין בי-ם התכנסו 100 בני הגיל השלישי שתומכים בגולן: \"רק שיחשוב לפני שהוא מדבר\". במלון בחיפה חדאד ניסה לשכנע כ-50 איש ש\"עמך ישראל\" תעבור, ומירב כהן ביקשה להפיח תקווה ב-30 איש בשיחה שבכלל עסקה בחינוך. חמש מפלגות, חמישה אירועים, רגע לפני המאני טיים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/ryIoxjznfx/ryIoxjznfx_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מי שבוחר בו בוחר בהם. כולם היו בניו",
+      "link": "https://www.ynet.co.il/news/article/yokra14930648",
+      "pubDate": "2026-10-18T21:04:00.000Z",
+      "summary": "כמה שנתניהו לא ישתדל, אין דרך להפריד בינו לבין הסוכן הכפול אוריך, לפה הגדול מגל, לרעולים עם הציציות באיו\"ש, ל\"נמות ולא נתגייס\" ברחוב החרדי, להפקרות בטיסות ובכבישים, ולכהניסט שממוטט את מה שנותר מהמשטרה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/SJe6pCcciGg/SJe6pCcciGg_819_48_1600_901_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "או אלימות או התיישבות",
+      "link": "https://www.ynet.co.il/news/article/yokra14930468",
+      "pubDate": "2026-10-18T21:04:00.000Z",
+      "summary": "כוחות מתוך ההתיישבות הופכים אלימים יותר, ברוטלים יותר, חסרי בושה יותר. המחיר שזה מייצר הולך ונהיה בלתי נסבל",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/HygLTkZnMe/HygLTkZnMe_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "איפה הצבא 2.0",
+      "link": "https://www.ynet.co.il/news/article/yokra14930406",
+      "pubDate": "2026-10-18T21:03:00.000Z",
+      "summary": "המסיק הוא לא הפתעה בלוח השנה ולמרות זאת, באורח פלא ממש, הוא הפך לאורגיה של פרעות. לכן לגיטימי לדרוש מהאחראים בצבא הסברים או להתפטר",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/BJmnG4Znzx/BJmnG4Znzx_1_298_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "נתניהו נגד פוש: הקרב על עמוד החדשות הפופולרי",
+      "link": "https://www.mako.co.il/news-politics/2026_q4/Article-99dcbdeabfd41a1026.htm",
+      "pubDate": "2026-10-18T13:30:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מה עומד מאחורי השטח המנומנם שבוע וחצי לפני פתיחת הקלפיות",
+      "link": "https://www.mako.co.il/news-israel-elections/2026_q4/Article-c9ca547e64c41a1027.htm",
+      "pubDate": "2026-10-18T12:09:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "חלאס, יש גבול - עד העוטף וקו העימות!",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-aa27a972f7e41a1027.htm",
+      "pubDate": "2026-10-18T11:17:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "גם למען טוהר הבחירות - צאו להצביע",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-f830d35818c41a1026.htm",
+      "pubDate": "2026-10-18T10:06:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מרגע הפגיעה ועד השיקום: מאחורי הקלעים של בניית ישראל מחדש",
+      "link": "https://www.mako.co.il/news-business/duns_100-podcasts/Article-7c833f2c13351a1027.htm",
+      "pubDate": "2026-10-19T08:18:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "טריא חשבה שתנאי השימוש מגינים עליה, ומחליפים מצגים - היא טעתה",
+      "link": "https://www.mako.co.il/news-business/duns_100-law/Article-b2faeec622351a1027.htm",
+      "pubDate": "2026-10-19T07:51:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "סטודנט חופשי: המאכערים שמנפיקים תעודות פיקטיביות להנחה בתחב\"צ",
+      "link": "https://www.ynet.co.il/economy/article/yokra14930259",
+      "pubDate": "2026-10-19T04:39:35.000Z",
+      "summary": "רפורמת ההנחות בתחבורה הציבורית נועדה להקל על יוקר המחיה, אך בדיקה של תנועת \"ישראל חופשית\" חושפת כי בחברה החרדית יש מאכערים שמציעים תעודות סטודנט פיקטיביות תמורת 200–250 שקל, המאפשרות לקבל הנחות של אלפי שקלים בשנה. משרד התחבורה שכבר הבטיח לסגור בעבר את הפרצה: \"פועלים למניעת ניצול לרעה של מנגנוני הזכאות להנחות\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/yk14930679/yk14930679_0_0_1196_576_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "מה קורה בזארה הום? ברשת בוחנים את עתיד הפעילות בישראל",
+      "link": "https://www.mako.co.il/news-money/consumer/Article-27a91bd9d8e41a1026.htm",
+      "pubDate": "2026-10-18T10:28:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "אזהרת הכלכלנים: את המחיר על הטרור היהודי ישלמו כל הישראלים",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-6a2ea0d175e41a1026.htm",
+      "pubDate": "2026-10-18T10:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "לא רק ורוד: כשהמותגים הופכים את השיווק לכוח חברתי // תמר ציונוב",
+      "link": "https://shivuk.me/articles/39863",
+      "pubDate": "2026-10-19T06:31:31.000Z",
+      "summary": "אוקטובר הוא חודש המודעות הבינלאומי לסרטן השד, אבל בישראל היו מותגים שלא חיכו לתחילת החודש. כבר בספטמבר החלו להופיע על המדפים מוצרים ורודים, ובמהלך אוקטובר הצטרפו אליהם קמפיינים, שיתופי פעולה, יוזמות חברתיות ואפילו פעילויות במגרשי הספורט. לכאורה, עוד חודש שבו מותגים מתגייסים למטרה חשובה. אבל מבט מעמיק על כמה מהמהלכים שנבחרו לסקירה הזו חושף סיפור שיווקי מעניין הרבה יותר: המותגים הבולטים אינם מסתפקים בהצטרפות לשיח החברתי. הם מחפשים דרך להפוך את הנכסים שכבר נמצאים בידיהם לכלים שמקדמים אותו. המוצר, ה",
+      "image": "https://shivuk.me/wp-content/uploads/2026/10/41141-768x507.webp",
+      "source": "מנהלי שיווק מצייצים",
+      "sourceUrl": "https://shivuk.me",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Amid Turnaround, Victoria’s Secret Turns Its Fashion Show Into a Fan Movement",
+      "link": "https://www.adweek.com/creativity/amid-turnaround-victorias-secret-turns-its-fashion-show-into-a-fan-movement/",
+      "pubDate": "2026-10-18T11:00:00.000Z",
+      "summary": "Victoria’s Secret is reshaping its 2026 fashion show into a more communal and accessible event.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "\"אנשים צריכים להבין שהם צריכים להיות יותר עדינים מאחורי המקלדת ושיש דרך לנהל שיח\"",
+      "link": "https://www.mako.co.il/nexter-news/Article-c548564b2c251a1026.htm",
+      "pubDate": "2026-10-19T06:43:00.000Z",
+      "summary": "רגע לפני הבחירות, בטיקטוק ישראל הפגישו בין 20 יוצרי תוכן מובילים, שדווקא לא מתעסקים בפוליטיקה ביום-יום שלהם, עם נציגות מיזם \"הדיבור\", שנוסד על ידי משפחות שכולות מה-7 באוקטובר במטרה לשמור על שיח מכבד במדינה וברשתות. בריאיון ל-mako מספרים אלכס שולץ, עמית בן דוד, אלינה רבינוביץ ואביה הוכמן למה החליטו לשמור על קו ניטרלי, וגם: איך טיקטוק פועלת למניעת פייק ניוז",
+      "image": "https://img.mako.co.il/2026/10/19/AutoCms_4FD4886C3_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "J Mascis has nothing better to do",
+      "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+      "pubDate": "2026-10-18T14:00:00.000Z",
+      "summary": "J Mascis on stage during Dinosaur Jr.’s Baby’s Alright show in NYC. | Photo: Terrence O’Brien Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview subject, quietly sitting and offering deft nonanswers. That's not to say that Mascis can't be funny or charming. As our interview ",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
     }
   ]
 }
