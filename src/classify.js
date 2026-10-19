@@ -1,6 +1,7 @@
 /**
  * שרשרת הסיווג (EDITORIAL.md §2): ידיעה מול עומק, ואם עומק — עכשווי מול אברגרין.
- * קריאה אחת ל-Gemini לכל טור (לא לכל כתבה בנפרד) — יעיל יותר ומספיק לצורך הזה.
+ * קריאה ל-Gemini לכל קבוצה של עד CHUNK_SIZE כתבות בטור (לא לכל כתבה בנפרד).
+ * פיצול (19.10.2026): טור עם 80–100 כתבות בקריאה אחת היה איטי מדי ונפל ברוב הימים.
  */
 import { generateJson } from "./gemini.js";
 
@@ -41,6 +42,17 @@ type הוא "ידיעה" או "עומק" בלבד. depthBucket ("עכשווי" �
 export async function classifyColumnItems(items, column) {
   if (items.length === 0) return [];
 
+  const results = [];
+  for (let start = 0; start < items.length; start += CHUNK_SIZE) {
+    const chunk = items.slice(start, start + CHUNK_SIZE);
+    results.push(...(await classifyChunk(chunk, column)));
+  }
+  return results;
+}
+
+const CHUNK_SIZE = 30;
+
+async function classifyChunk(items, column) {
   const raw = await generateJson(buildPrompt(items, column));
   if (!Array.isArray(raw)) {
     throw new Error("הסיווג מ-Gemini לא חזר כמערך");

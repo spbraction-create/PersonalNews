@@ -61,10 +61,32 @@ const COLUMNS = [
   { id: 5, name: "ספורט" },
 ];
 
+/**
+ * טור שנפל היה נעלם בשקט, וה-Action עדיין הציג ✓ ירוק. מעכשיו: סיכום ב-GitHub Actions
+ * (מופיע בראש עמוד הריצה) עם רשימת הטורים שנפלו והסיבה, ואזהרה (⚠️) על הריצה.
+ */
+async function reportFailures(failedColumns, okCount) {
+  if (failedColumns.length === 0) return;
+  for (const f of failedColumns) {
+    console.log(`::warning title=טור נפל: ${f.name}::${f.stage} — ${f.error.slice(0, 300)}`);
+  }
+  const summaryPath = process.env.GITHUB_STEP_SUMMARY;
+  if (!summaryPath) return;
+  const lines = [
+    `### ⚠️ ${failedColumns.length} טורים לא נכנסו לגיליון היום (${okCount} כן)`,
+    "",
+    ...failedColumns.map((f) => `- **${f.name}** — נפל בשלב ה${f.stage}: ${f.error.slice(0, 300)}`),
+    "",
+  ];
+  const { appendFile } = await import("node:fs/promises");
+  await appendFile(summaryPath, `${lines.join("\n")}\n`, "utf8");
+}
+
 async function main() {
   const flood = JSON.parse(await readFile(FLOOD_PATH, "utf8"));
 
   const edition = { generatedAt: new Date().toISOString(), columns: [] };
+  const failedColumns = [];
   const newWeeklyItems = [];
   const newMonthlyItems = [];
 
@@ -82,6 +104,7 @@ async function main() {
       classifications = await classifyColumnItems(items, column);
     } catch (err) {
       console.log(`   ❌ סיווג נכשל: ${err.message} — מדלג על הטור הזה היום`);
+      failedColumns.push({ name: column.name, stage: "סיווג", error: err.message });
       continue;
     }
 
@@ -122,6 +145,7 @@ async function main() {
       brief = await writeDailyBrief(selected, column);
     } catch (err) {
       console.log(`   ❌ כתיבת הבריף נכשלה: ${err.message} — מדלג על הטור הזה היום`);
+      failedColumns.push({ name: column.name, stage: "בריף", error: err.message });
       continue;
     }
     console.log(`   ✅ בריף נכתב (${brief.split(/\s+/).length} מילים בערך), ${selected.length} כרטיסים`);
@@ -140,6 +164,8 @@ async function main() {
       })),
     });
   }
+
+  await reportFailures(failedColumns, edition.columns.length);
 
   await writeFile(EDITION_PATH, `${JSON.stringify(edition, null, 2)}\n`, "utf8");
 
