@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T09:13:50.985Z",
+  "generatedAt": "2026-10-20T03:28:53.736Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -729,6 +729,448 @@
         4
       ],
       "column": 4
+    },
+    {
+      "title": "לא רק למי מצביעים, אלא כמה: הבחירות יוכרעו גם על ידי מי שיישאר בבית",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14932317",
+      "pubDate": "2026-10-20T02:39:58.000Z",
+      "summary": "שבוע לבחירות, כ-7.3 מיליון ישראלים יוכלו לממש את זכות ההצבעה - אבל לא כולם יעשו זאת. ככל שאחוז ההצבעה יעלה, כך יגדל מספר הקולות הדרוש למנדט, והמפלגות הקטנות עלולות להישאר בחוץ. מהחשש מירידה בהצבעה החרדית ועד לשיעורי ההשתתפות בחברה הערבית: \"לכו להצביע\" - פרק ראשון בסדרה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/yk14932407/yk14932407_0_0_1228_807_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "נתניהו בקניונים, איזנקוט במעוזי הליכוד ובנט אצל הצעירים: השבוע האחרון למרוץ",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14932212",
+      "pubDate": "2026-10-20T02:39:43.000Z",
+      "summary": "ביום שלישי הבא, 7 ימים מהיום, זה יקרה: הקלפיות ברחבי הארץ ייפתחו ואזרחי ישראל ייצאו לבחור את נציגיהם לכנסת ה-26. במפלגות מבינים היטב שזה רגע האמת וממקדים את המאמצים, כשהכול כשר במטרה לסיים את הבחירות עם הרוב הנכסף שיספיק להרכבת ממשלה. כך הן נערכות לישורת האחרונה של הקמפיין",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/B1GGSkN2Mx/B1GGSkN2Mx_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "למה פרשת קטארגייט לא מתקדמת? | עם נטעאל בנדל",
+      "link": "https://www.ynet.co.il/news/theheadline/article/phiwi6c2m",
+      "pubDate": "2026-10-20T02:00:00.000Z",
+      "summary": "החקירה בפרשת קטארגייט הסתיימה והחומרים הועברו לפרקליטות, אבל החלטה על כתבי אישום עדיין לא התקבלה. במקביל מתפרסמים עוד ועוד חומרי חקירה והתכתבויות מהנייד של יונתן אוריך, שלכאורה סותרים את גרסתו, ובכל זאת הוא ממשיך לעבוד עם נתניהו. כתב המשפט של ynet נטעאל בנדל מסביר מה מעכב את ההחלטה, ובאילו עבירות החשודים עלולים להיות מואשמים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/HkjGKim2fg/HkjGKim2fg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "טראמפ מזהה את האיום",
+      "link": "https://www.ynet.co.il/news/article/yokra14932162",
+      "pubDate": "2026-10-19T21:10:00.000Z",
+      "summary": "הודעת התמיכה של טראמפ בנתניהו אינה רק הכרה בפועלו, אלא גם איתות אזהרה מהתחזקות האיסלאם בארצו, בישראל וברחבי העולם, שמסכנת את העולם הליברלי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/rJf2lUJx2Ml/rJf2lUJx2Ml_0_0_3000_2000_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "קול אחד הוא אור קטן",
+      "link": "https://www.ynet.co.il/news/article/yokra14932397",
+      "pubDate": "2026-10-19T21:06:00.000Z",
+      "summary": "בעוד שבוע ייפתחו הקלפיות. עד אז חובתנו להיפרד מכל התירוצים. זהו מי מהמועמדים הם שליחי ציבור טובים שמייצגים אתכם – ותנו להם את קולכם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/B17IZ2E0jGe/B17IZ2E0jGe_0_0_3000_2000_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "למה לא אצביע לליכוד",
+      "link": "https://www.ynet.co.il/news/article/yokra14932176",
+      "pubDate": "2026-10-19T21:02:00.000Z",
+      "summary": "צחי הנגבי, שכיהן כראש המל\"ל תחת נתניהו ב-7 באוקטובר וקודם לכן בממשלותיו, מסביר במאמר ל\"ידיעות אחרונות\" ו-ynet מדוע החליט להצביע הפעם למועמד מגוש השינוי, אביגדור ליברמן. \"אני ממוקם בימין, אבל אינני ימין משיחי, ואינני ימין גזעני, ואינני ימין שנאלם דום לנוכח גלי הפשיעה הלאומנית. ומעל לכל, כל עוד מפלגות ימניות מבליגות על כך שהשותפים הפוליטיים שלהן נשבעים בגרון ניחר 'נמות ולא נתגייס!', אין חלקי עימן\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/03/03/ByLb8VM6T/ByLb8VM6T_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ההלם מהמהומות במילאנו, והורי \"כנופיות הילדים\" שחיכו מבוישים: \"אשבור לך את הראש!\"",
+      "link": "https://www.ynet.co.il/news/article/sktfmgnnmx",
+      "pubDate": "2026-10-19T20:22:22.000Z",
+      "summary": "גם באיטליה התחוללו מהומות, ובמילאנו אלפים התעמתו עם שוטרים, השליכו בלוקים ובזזו חנויות יוקרה. בהמשך התברר ש-80% מהעצורים קטינים, רבים מהם בני מהגרים - ואלו חיכו לילדיהם המומים ועם דמעות בעיניים בתחנת המשטרה: \"אני שובר את הגב כל יום כדי להתפרנס, ואני מתבייש. הוא ישלם ביוקר\", צוטט אב מתוניסיה. \"כנופיות המרנזה\" שמטילות אימה ברחובות - וצעדי החירום של מלוני",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/rkZFdgN3Mx/rkZFdgN3Mx_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מהלכי הבזק שמתכנן גוש השינוי - והחשש: ח\"כים ימרדו מול ביטול המהפכה המשפטית",
+      "link": "https://www.ynet.co.il/news/elections2026/article/rkcjhpm2gl",
+      "pubDate": "2026-10-19T19:05:39.000Z",
+      "summary": "עוד לפני תחילת ההצבעה, בגוש השינוי נערכים ליום שאחרי ומתכננים שורה של מהלכים פרלמנטריים - החלפה של יו\"ר הכנסת ועצירת הכניסה לתוקף של החוקים שנוגעים למערכת המשפט. אלא שבגוש התעורר חשש שחלק מחברי הכנסת החדשים תומכים בחוקים שיזמה ממשלת נתניהו - ולא יתנו יד לביטולם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/H1007ayVhMe/H1007ayVhMe_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "8 ימים לבחירות: המיזמים שדואגים שכמה שיותר אנשים יצביעו",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-e640912c4a351a1026.htm",
+      "pubDate": "2026-10-19T18:51:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "האכזבה מנתניהו - והזעם ברחוב: הקולות שעשויים לשנות את המאזן הפוליטי",
+      "link": "https://www.ynet.co.il/news/elections2026/article/hkypxaxhml",
+      "pubDate": "2026-10-19T18:29:38.000Z",
+      "summary": "במערכת הביטחון הזהירו מ\"התארגנויות טרור\" בפזורה, והמפלגות הערביות מקוות להשתמש בזעם שהתגבר עם העלייה בפשיעה - ולתעל אותו לקולות. רע\"מ, שעומדת בראש בקרב המצביעים הבדואים, מנסה להגדיל את שיעור ההצבעה הנמוך יחסית. המועמד שלה לשעבר משוכנע: \"הבדואים יכריעו את הבחירות\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/01/ryikI00gNNWe/ryikI00gNNWe_0_0_3000_1688_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "שמונה ימים לבחירות: הפרשנויות והמשמעויות הפוליטיות",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/liveblog-164010b775551a1027.htm",
+      "pubDate": "2026-10-19T18:21:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "בינה קטארית: עוד סיכון להשפעה זרה מדינתית בבחירות",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-2fc5d87763551a1027.htm",
+      "pubDate": "2026-10-19T18:01:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "נתניהו לחוץ, ונלחץ",
+      "link": "https://www.ynet.co.il/news/article/hyuaerx2zg",
+      "pubDate": "2026-10-19T17:27:58.000Z",
+      "summary": "אפשר להבין למה טראמפ רוצה שבראש ממשלת ישראל יעמוד הפודל שלו, שמרגיש שחירותו האישית תלויה בהתערבות של נשיא זר בהליך משפטי בארץ. אבל למרות ההתערבות שלו בבחירות בארץ, ולמי שטרם הפנים: עוד לא הוכרזנו רשמית כרפובליקת בננות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/28/S1cH1IUSMl/S1cH1IUSMl_0_0_1280_852_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "גנץ למד על בשרו שממלכתיות היא כמעט תמיד חרב פיפיות",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-8a1ab325e6451a1027.htm",
+      "pubDate": "2026-10-19T15:19:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "רץ כמעט עד הסוף: האינטרס הכלכלי - והמרוויחים מהפרישה של גנץ",
+      "link": "https://www.ynet.co.il/news/elections2026/article/byelysx2ze",
+      "pubDate": "2026-10-19T15:10:54.000Z",
+      "summary": "בני גנץ אמנם הכריז שלא יתמודד בבחירות, אך בתוך מפלגתו היו כוחות שדחפו אותו ללכת עד הסוף: כחול לבן זכאית למימון בחירות בסך 15 מיליון שקלים - שחלקם הועברו ליועצים וסוקרים. הח\"כ שדחף לפרישה: \"הדרך לא מסתיימת\". כעת הגוש השלישי התרסק - והמרוויחים הם לא נתניהו ואיזנקוט",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/02/12/Sy2R9Iwi6/Sy2R9Iwi6_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "8 ימים לבחירות: האסטרטגיות של המפלגות בישורת האחרונה של הקמפיין",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-8108ba57eb251a1027.htm",
+      "pubDate": "2026-10-19T11:43:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "לפני בחירות האמצע: טראמפ מתרסק לשפל חדש",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-26368e524b351a1027.htm",
+      "pubDate": "2026-10-19T11:33:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "שבוע לבחירות: המדריך לבוחר בדרך לקלפי",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-f3644a927fd41a1027.htm",
+      "pubDate": "2026-10-19T09:22:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מה קרה למחירים בקרפור אחרי הוויתור על \"הסל של המדינה\"?",
+      "link": "https://www.ynet.co.il/economy/article/yokra14931113",
+      "pubDate": "2026-10-19T21:00:00.000Z",
+      "summary": "קרפור ויתרה על \"הסל של המדינה\" אחרי חצי שנה והחזירה את המחירים לקדמותם - עם התייקרויות שנעות בין עשרות ליותר ממאה אחוזים. אילו מוצרים התייקרו בשיעורים הגבוהים ביותר ואילו דווקא הוזלו ומה אפשר ללמוד מכך על המיזם של משרד הכלכלה שלא באמת תרם למאבק ביוקר המחיה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/yk14931277/yk14931277_0_0_1408_934_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "אחרי תחרות של יומיים: כך הביסה קוקה-קולה את פפסי בקרב הענקיות",
+      "link": "https://www.ynet.co.il/economy/article/rjr005hx3ze",
+      "pubDate": "2026-10-19T15:42:42.000Z",
+      "summary": "קוקה-קולה זכתה במכרז אספקת המשקאות ל-KFC בארה\"ב, ותמלא את מתקני השתייה ביותר מ-3,000 סניפי הרשת שפפסי הייתה הספקית שלהן עשרות שנים. ההכרעה התקבלה בתום תחרות טעימות של יומיים בטקסס. וגם: ההבטחות שהציגה קוקה-קולה לבכירי הרשת, והמשקאות החדשניים שהגישה להם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/04/HyyECHP5gg/HyyECHP5gg_0_496_2488_1401_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "בנק ישראל נגד רשות המסים: הקרב על שטר 200 שקל",
+      "link": "https://www.mako.co.il/finances-news/Article-ac510f1362451a1026.htm",
+      "pubDate": "2026-10-19T12:32:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הקשר הסעודי בפרשת הריגול לכאורה ב-OpenAI",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-8f3ea8238f351a1027.htm",
+      "pubDate": "2026-10-19T12:04:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "המיליארדר מציע לגרושתו 723 מיליון דולר - אבל היא רוצה הרבה יותר",
+      "link": "https://www.ynet.co.il/economy/article/sy0wjbx3fg",
+      "pubDate": "2026-10-19T09:48:52.000Z",
+      "summary": "ג'ון אוברדק ודייוויד סיגל הקימו יחד את Two Sigma, אבל כבר שנים נאבקים על השליטה בקרן הגידור הכמותית. עכשיו אשתו של אוברדק דורשת כ-2.2 מיליארד דולר בגירושים – וסכום כזה עלול לשנות את מאזן הכוחות בין שני המייסדים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/Hk3ZwL72Gg/Hk3ZwL72Gg_0_0_1672_941_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "\"מצור\" על חנויות יוקרה בפריז: דיור, לואי הרמס ורולקס נאבקות לא להיבזז",
+      "link": "https://www.ynet.co.il/economy/article/hkp5un7hme",
+      "pubDate": "2026-10-19T07:25:52.000Z",
+      "summary": "הבוזזים סימנו את מותגי היוקרה וחנויות של דיור, לואי ויטון, רולקס והרמס, לצד כלבו גלרי לאפייט, הותקפו במהלך המהומות וסחורה רבה נגנבה. בעלי העסקים לא סומכים על המשטרה וחלקם שכרו חברות אבטחה פרטיות וחיזקו את הכניסות לחנויות באמצעים נוספים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/HJHyfbzhMx/HJHyfbzhMx_0_142_3000_1689_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "pubDate": "2026-10-19T21:28:20.000Z",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt , and also asked whether the AI buildout was a private credit bubble . Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot! There even seemed to be some collateral damage in the market on othe",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "pubDate": "2026-10-19T14:45:43.000Z",
+      "summary": "This week, Character.AI declared bankruptcy. While some saw the fall of a chatbot platform as a harbinger for the industry , court filings indicate that the decision was actually a key part of a deal that has let Disney hire most of Character.AI’s staff—including its now former CEO Karandeep Anand —potentially acquire most of Character.AI’s technology , and avoid the beleaguered startup’s many legal liabilities and obligations. In the past few years, Character.AI has faced multiple private lawsu",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "pubDate": "2026-10-19T14:30:00.000Z",
+      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a lot of places, the stakes are pretty high right now. So I asked Gov. Pritzker about all that, and he was surprisingly willing to dive right ",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Review: Lanterns is a truly unique twist on the superhero genre",
+      "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
+      "pubDate": "2026-10-19T13:31:08.000Z",
+      "summary": "The trailers for HBO's DC Universe series Lanterns teased a show that eschewed the usual superhero hijinks in favor of a gritty realism more in the vein of True Detective or Slow Horses . Personally, I liked the change. My verdict: Ignore the review bombing ; it's wonderful. The season wrapped with an emotionally charged, almost elegiac finale that fully delivered on that initial promise. I've found the rebooted DC Universe films released thus far to be enjoyable but rather forgettable, even whe",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/lanterns1-1152x648-1790363326.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "הסנ' סנדרס בקרב בלימה נגד מיליארדרי טק ושליטתם במדיה",
+      "link": "https://www.pc.co.il/news/world-news/459921/",
+      "pubDate": "2026-10-19T12:31:32.000Z",
+      "summary": "\"לכך בדיוק מתכוונים כאשר מדברים על בעלות של מיליארדרים על כלי התקשורת: חברת מטא (Meta) של מארק צוקרברג השביתה את החשבון של תנועת No Kings ('אין מלכים') למשך שעות רבות בשיא המחאה שלהם; מטא החניקה חשבונות שתמכו בנשיא ברזיל לואיס אינסיו לולה דה סילבה במהלך מערכת הבחירות האחרונה; ופלטפורמת טיקטוק (TikTok), המזוהה עם לארי אליסון , בלמה פרסום של סרט תיעודי המותח ביקורת על אילון מאסק . חובתנו להשיב מלחמה, להביס את האוליגרכיה ולשמור על הדמוקרטיה\" – במילים נוקבות אלו, שפרסם הסנאטור ברני סנדרס מוורמונט בר",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/ממשיך-להיאבק-בבעלי-ההון-מתחום-הטק.-הסנאטור-ברני-סנדרס.-Shutterstoc-Joshua-Sukoff.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "תמונות AI וקונספירציות נגד יהודים: המהומות בפריז מציתות גם את הרשתות",
+      "link": "https://www.mako.co.il/nexter-news/Article-d9ab2d139b351a1026.htm",
+      "pubDate": "2026-10-19T10:37:00.000Z",
+      "summary": "טרנד האשמת היהודים ברשתות החברתיות ממשיך, כעת ישראל והמוסד אחראים גם למהומות הרבות ברחבי אירופה. התנועה למאבק באנטישמיות זיהתה ב-X כ-1,384 פוסטים של קונספירציות לצד קריאות לאלימות, לגירוש ולהשמדה. במקביל, תמונה שהציגה לכאורה זוג קשישים שהופשטו ונשדדו זוהתה כתוצר של AI",
+      "image": "https://img.mako.co.il/2026/10/19/HU6vB0BWUAA5g6m_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "מוכנים להמריא: הצעירים שהולכים לפרוץ בגדול בעונת ה-NBA",
+      "link": "https://www.ynet.co.il/sport/article/sjubjlenzg",
+      "pubDate": "2026-10-19T22:30:00.000Z",
+      "summary": "רגע לפני פתיחת העונה בליגה הטובה בעולם: מבט על חמישה שחקנים צעירים שנמצאים רגע לפני הנסיקה הגדולה שלהם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/H15FkbN2zg/H15FkbN2zg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "מראה שחורה",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/b10011klehfl",
+      "pubDate": "2026-10-19T22:30:00.000Z",
+      "summary": "פרשת \"תמונת מראה\" בעירוני טבריה מציפה את התחלואים והכשלים הניהוליים של הכדורגל הישראלי: מחשדות לחוזים כפולים בהיקפי ענק, עבירות מס ופיצולי שכר מהליגות הנמוכות ועד לליגת העל, דרך מעורבותו הקיצונית של המאמן אלירן חודדה, ועד לאוזלת ידה של הרשות לבקרה שממחישה שוב כי ללא הלשנות, סכסוכים פנימיים ותלונות חיצוניות, המערכת פשוט עיוורת למתרחש בחדרי חדרים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/S1GvtlNhGg/S1GvtlNhGg_448_176_2207_1243_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "השושלת מול המכונה: פ.ס.ז' וברצלונה בקרב ענקיות",
+      "link": "https://www.ynet.co.il/sport/article/synyix4hgl",
+      "pubDate": "2026-10-19T22:30:00.000Z",
+      "summary": "אלופת אירופה בשנתיים האחרונות מול הקבוצה שניצחה בכל 11 משחקיה העונה: כבר במחזור השלישי, פריז וברצלונה מספקות מפגש שאפשר לדמיין גם בגמר. ברקע המהומות בצרפת ורגע לפני הקלאסיקו, ימאל ינסה לפרוץ את הדרך מול לואיס אנריקה ודמבלה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/rkY8PxEhGg/rkY8PxEhGg_0_69_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "בית\"ר ומכבי ת\"א עשו הכל כדי להפסיד, מזל שיש קרבאלי",
+      "link": "https://www.ynet.co.il/sport/article/rkks6xn2ge",
+      "pubDate": "2026-10-19T22:30:00.000Z",
+      "summary": "איבודי הכדור הזמינו חגיגת שערים, אבל ההתקפות לא ניצלו את המתנות והבלם הקולומביאני תפקד כשוער בלי כפפות. וגם: איך השערוריות של טבריה מנרמלות את המחדלים של יתר הליגה, ולמה כל מעידה של באר־שבע עלולה לעלות לה ביוקר במרוץ האליפות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/H1gYugNhze/H1gYugNhze_0_245_3000_1689_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
     }
   ]
 }
