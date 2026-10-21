@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:28:53.737Z",
+  "generatedAt": "2026-10-21T03:29:50.605Z",
   "note": "תור מצטבר לשער ירחון — נצרך ומתאפס על ידי scripts/edit-monthly.js.",
   "items": [
     {
@@ -3622,6 +3622,383 @@
       "pubDate": "2026-10-19T13:27:06.000Z",
       "summary": "סטיבן קולקר, שכבש בהופעתו היחידה בנבחרת שלושת האריות, שיתף בתסכול מחיפוש עבודת אימון בגיל 34. אחרי שעזב את קוניאספור, הוא מספר התעלמות מצד קבוצות, אבל גם על הצעות שבחר לדחות. היעד עדיין שאפתני: לאמן בפרמייר ליג עד 2035",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/HktEwq73ze/HktEwq73ze_0_49_1836_1034_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "אגרוף לשמשה – והסלולרי הלך: הרומן של ברזיל עם טלפונים גנובים מגיע לבחירות",
+      "link": "https://www.ynet.co.il/news/article/rkg00hhh2ge",
+      "pubDate": "2026-10-20T20:17:34.000Z",
+      "summary": "ברזיל היא אחת המדינות המקוונות ביותר בעולם, עם רשתות חברתיות ותשלומים דיגיטליים שמכתיבים את חיי היום-יום, אך גם אחת המועדות ביותר לגניבות של טלפונים ניידים, עם 830 אלף בשנה. לגנבים אין פחד לנפץ חלון של מכונית בפקק, לשלוף את המכשיר ולרוץ מהר למשוך ממנו כסף, ובמצב הזה הברזילאים מוטרדים מגניבות טלפון יותר מאשר מירי או פריצות לבתים. לולה ובולסונרו מבטיחים שינוי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/SJsnZBrhfx/SJsnZBrhfx_0_0_952_532_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "למה אסור לכם לוותר על הוויכוח הפוליטי הבא שלכם?",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-8e8543b2d2c41a1026.htm",
+      "pubDate": "2026-10-20T16:53:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"נוער הגבעות והחוות\" הוא איום על הביטחון ועל יציבות המדינה",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-dbdc354d19451a1027.htm",
+      "pubDate": "2026-10-20T15:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מהחזון של הרצל לנסיגה של 2026: לאן נעלמו הנשים?",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-6ff13cb8f9851a1026.htm",
+      "pubDate": "2026-10-20T09:30:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "יקר בזארה ישראל? ככה תקנו בזול יותר",
+      "link": "https://www.ynet.co.il/economy/article/r1q3uae2fe",
+      "pubDate": "2026-10-20T15:06:29.000Z",
+      "summary": "זארה החלה לגבות 14.90 שקל דמי משלוח להזמנה מהאונליין, מה שמקפיץ עוד יותר את המחירים שגם ככה גבוהים בארץ. אפשר לעבור באפליקציה לזארה יוון ולגלות מחירים מדהימים ונמוכים בחצי. אפילו בתוספת משלוח לארץ תחסכו עשרות ומאות שקלים להזמנה. ככה תעשו את זה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/27/HkPZMn6q1l/HkPZMn6q1l_0_41_1280_721_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "מתי מגיעה לכם תוספת שכר?",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-27015ef628951a1026.htm",
+      "pubDate": "2026-10-20T13:40:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "שנת תשפ\"ז יצאה לדרך: 10 מלגות שכל סטודנט חייב להכיר",
+      "link": "https://www.mako.co.il/finances-news/Article-590aa05c4b851a1026.htm",
+      "pubDate": "2026-10-20T09:34:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "נעליים עם הילוכים וכפכפים שמקררים את הרגליים: מעבדת העתיד של אדידס",
+      "link": "https://www.ynet.co.il/economy/article/yokra14922940",
+      "pubDate": "2026-10-20T04:15:51.000Z",
+      "summary": "באדידס כבר הצליחו לסייע למרתוניסטים לרדת מתחת לגבול הדמיוני של שעתיים בזכות טכנולוגיה מיוחדת. במקביל, היא מפתחת נעליים ייחודיות עבור ספורטאים מענפים נוספים, כשברקע המאבק מול נייקי והמתחרות החדשות. כתב ynet ו\"ידיעות אחרונות\" ביקר במעבדת החברה בגרמניה, וראה איך הפיתוחים שלה משנים את כל מה שידענו על התחום",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/yk14931646/yk14931646_166_137_1323_745_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "How Shoes Became the Ultimate Cultural Vehicle for Brands",
+      "link": "https://www.adweek.com/creativity/how-shoes-became-the-ultimate-cultural-vehicle-for-brands/",
+      "pubDate": "2026-10-20T10:00:27.000Z",
+      "summary": "Footwear is one of the most powerful vehicles to break into culture. Here are five recent shoe collaborations that prove it.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "The Real Value of an Ad Starts With Attention",
+      "link": "https://www.adweek.com/convergent-tv/the-real-value-of-an-ad-starts-with-attention/",
+      "pubDate": "2026-10-20T09:57:48.000Z",
+      "summary": "This post was created in partnership with Viant An ad can generate millions of impressions, spark controversy, or rack up views. But none of those measures alone reveals whether people [&hellip;]",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Does anyone actually want to win the medium-lift race in the United States?",
+      "link": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
+      "pubDate": "2026-10-20T19:13:31.000Z",
+      "summary": "It has been 13 years since the debut of a new medium-lift rocket in the United States, the Antares vehicle developed by Orbital Sciences Corporation. The initial 100-series variant of the Antares rocket was kind of a hot mess. The rocket used old Soviet engines built during the era when Apollo astronauts were landing on the Moon. Decades later, in the 1990s, Aerojet acquired the engines and refurbished them for a rocket that would launch in the 2010s. Predictably, on the fifth launch of an Antar",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke-second-stage-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Quantum error correction goes well beyond breakeven",
+      "link": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+      "pubDate": "2026-10-20T18:08:57.000Z",
+      "summary": "Running complicated algorithms on quantum computing hardware is going to require the use of logical qubits, where collections of hardware qubits are linked together in ways that allow errors to be detected and corrected. In general, the more hardware qubits you dedicate to each logical qubit, the better the chances are of identifying errors. But, given that the hardware qubits are prone to errors, adding more of them also increases the probability that errors will occur. If the hardware error ra",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/helios-chip_top-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "pubDate": "2026-10-20T16:20:06.000Z",
+      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "pubDate": "2026-10-20T16:00:00.000Z",
+      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"בעידן החדש, מנועי ה-AI עובדים עבורנו\"",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/460045/",
+      "pubDate": "2026-10-20T15:28:45.000Z",
+      "summary": "\"כבר יותר מעשור שאנחנו פועלים במגרש המשחקים של הבינה המלאכותית. 74 מיליארד טוקנים נצרכים בדקה לטובת טיפול באפליקציות שלנו. זה נתון מטורף עבור טכנולוגיה חדשה, וכעת, עם הכניסה לעידן הבינה המלאכותית הסוכנית, הוא צפוי להמשיך ולגדול\", כך אמר שי מור , דירקטור המגזר הציבורי והאנטרפרייז ב גוגל קלאוד ישראל. מור דיבר בכנס שערכה החברה אתמול (ב') בירושלים, תחת הכותרת \"הדור הבא של סביבת עבודה ו-AI במגזר הציבורי\", והשתתפו בו כ-150 לקוחות מהממשלה. לדבריו, \"יש חשיבות למעבר לעידן הסוכני: עד היום, רובנו השתמשנו ב",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/gemini-4-argon_key-art_4_lockup_light_16-9.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Polestar tries to quantify what it’s like to drive a performance car",
+      "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
+      "pubDate": "2026-10-20T14:53:07.000Z",
+      "summary": "The human desire to go fast is old, dating back at least as far as the first time some adventurous Yamnaya saw a horse on the Pontic-Caspian steppe and thought, “I bet if I jumped on that thing’s back, it would be faster than walking.” A thousand years later, someone else invented the wheel—and the chariot—and humanity was ready to roll. Now, about five millennia since that first horseback ride, equestrianism is mostly a leisure activity, and we drive cars, propelled by motors with more power th",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "הגניבה בחוף הים הייתה רק השלב הראשון: תרגיל העוקץ של גנבי האייפונים",
+      "link": "https://www.mako.co.il/nexter-news/Article-c9d15073c9951a1026.htm",
+      "pubDate": "2026-10-20T14:08:00.000Z",
+      "summary": "האייפון של נועה בת ה-16 נגנב בחוף בתל אביב, וכעבור יממה אותר באזור ג'נין. זמן קצר לאחר מכן החלו להגיע למכשיר החלופי שלה הודעות ושיחות שמתחזים לנציגי חברת אפל במטרה לחלץ את הסיסמאות שלה לאייקלאוד ולפתוח את נעילת המכשיר. מומחה סייבר מסביר על שיטת הפעולה, הסכנה שבמסירת הפרטים, וכיצד נכון לפעול מרגע הגניבה",
+      "image": "https://img.mako.co.il/2026/10/20/AutoCms_A40A0AE97_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+      "pubDate": "2026-10-20T13:51:00.000Z",
+      "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "חמישה טיקטים, אינספור מערכות: המחיר האמיתי של המורכבות בארגוני אנטרפרייז",
+      "link": "https://www.pc.co.il/upcoming-conferences/460016/",
+      "pubDate": "2026-10-20T12:31:15.000Z",
+      "summary": "כתבה: אופיר שלום, מהנדסת פריסייל בדאנת תקשורת. לאורך השנים, כמענה לצרכים עסקיים, לאיומים מתפתחים ולדרישות רגולטוריות חדשות, נוספו לסביבות העבודה בארגונים פתרונות אבטחה רבים. כל פתרון נרכש מסיבה מוצדקת, נועד להתמודד עם אתגר מסוים והביא עימו יכולות חשובות. אלא שעם הזמן, הסביבה הפכה לפסיפס של מערכות, ממשקי ניהול, מנגנוני אכיפה ומדיניות אבטחה. כל מערכת מספקת חלק מהתמונה, אך החיבור ביניהן הופך למשימה מורכבת בפני עצמה. ביום עבודה שגרתי בארגון, אורית ממחלקת הכספים מנסה להעביר לספק חיצוני קובץ אקסל שמכי",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/pic.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "What Security Teams Can Do To Tame Wild Code",
+      "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+      "pubDate": "2026-10-20T11:33:04.000Z",
+      "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily routine. Across the same organization, employees are building useful apps, agents, and automations faster than existing processes can support them",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Q3156iY5WJRnphGSZ5PuIiMopF0sG7ku3FR-WROda9fE4jCSIOQpClG1HOBRCvbuqDyLHgsC0N3UFjowgnXzZN4T1mDpkQbTz2gX7z4NRZsfoEpimVlZ7hevcXmeTfpOt1iFrHqvLXubegNIRz15gjlQNHIBBYzQVAmy8MNAGiZs6OXIEuWNntLwTlI/s1600/tines-main.jpg",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "קל, חכם ומחזיק כל היום: המחשב שכל סטודנט צריך",
+      "link": "https://www.mako.co.il/nexter-special/Article-629e3c3235c01a1026.htm",
+      "pubDate": "2026-10-20T11:00:00.000Z",
+      "summary": "מהשיעור הראשון, דרך העבודה בבית הקפה ועד החזרה לבית, המחשב הנייד הפך לכלי שמחזיק את כל היום שלנו. Zenbook 14 UX3480 החדש של ASUS נועד בדיוק לשגרה הזאת, עם משקל של 1.1 ק\"ג, סוללה שמחזיקה יותר מ-21 שעות, מסך OLED, יכולות AI מובנות וכל החיבורים שצריך - באריזה דקה ובשלושה צבעים שקשה להתעלם מהם",
+      "image": "https://img.mako.co.il/2026/10/05/Zenbook14_UX3480_re_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "האבטחה הפיזית והגנת הסייבר כבר שלובות זו בזו",
+      "link": "https://www.pc.co.il/featured/459988/",
+      "pubDate": "2026-10-20T09:42:12.000Z",
+      "summary": "\"אבטחה פיזית אינה נפרדת עוד מאבטחת סייבר. היא חלק מאותה שרשרת אבטחה, ויש להטמיע ולנהל אותה ברמת קפדנות זהה\", אמר דובי שושן , מנכ\"ל קופרה , בפורום CSC מבית אנשים ומחשבים , שנערך ביס פלאנט ראשון לציון בהנחיית יהודה קונפורטס , העורך הראשי של הקבוצה. לדברי שושן, קופרה מייצגת בישראל את ורקאדה ומאפיינת ומטמיעה את פתרונותיה בתחום האבטחה הפיזית בענן, ובהם מצלמות, מערכות בקרת כניסה וחיישני איכות אוויר. המערכות מנוהלות באמצעות פלטפורמה מרכזית אחת. קופרה פועלת במסגרת peax , לשעבר א.מ.ת מחשוב, שנמצאת בשליטת",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/dubi-shoshan-copera-806x416-1.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "כולם רוצים AI – עד שזה נוגע להחלטות שלהם",
+      "link": "https://www.pc.co.il/editorial/459977/",
+      "pubDate": "2026-10-20T09:08:35.000Z",
+      "summary": "מנהלים רבים מעודדים את העובדים שלהם לאמץ AI, להתייעל ולשנות הרגלי העבודה. הנהלות משקיעות בטכנולוגיה, מקדמות פיילוטים ומצפות לראות תוצאות. אבל מה קורה כשהשינוי כבר לא נוגע רק לעובדים, אלא גם למנהלים עצמם? מה קורה כשעובדים יכולים לנתח בעצמם מידע, לבחון חלופות ולגבש המלצות, בלי להזדקק למנהל בכל שלב? או כשמתברר שתחנת אישור, שהייתה חלק בלתי נפרד מתהליך במשך שנים, כבר אינה נחוצה? כאן ההתלהבות מהחדשנות עלולה להיעצר – קל לתמוך בטכנולוגיה שמייעלת את העבודה של אחרים, אך הרבה יותר קשה לתמוך בה כשהיא מצמצמת",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/05/אפרת-קרמר.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "״כל שעה שמעבד גרפי מחכה לנתונים היא שעה מבוזבזת״",
+      "link": "https://www.pc.co.il/featured/459962/",
+      "pubDate": "2026-10-20T09:08:34.000Z",
+      "summary": "ככל שארגונים מעבירים פרויקטי בינה מלאכותית משלב הניסוי לסביבת הייצור, תשתית הנתונים הופכת למרכיב קריטי יותר בהצלחתם, כך אמר ג'ורג' קוריאן , מנכ\"ל נטאפ , בכנס NetApp Insight 2026 שנערך בלאס וגאס. \"כשרוצים לגרום לבינה מלאכותית להתרחב ברחבי הארגון, יש לשלבה במערכות התפעול, בתהליכי העבודה ובאופן שבו העבודה מתבצעת\", אמר קוריאן. \"זה יוצר דרישות חדשות לתשתית, לממשל, לשליטה ולאבטחת מידע. ככל שארגונים מעבירים מיזמי בינה מלאכותית מפיילוט לייצור, תשתית נתונים חכמה הופכת לקריטית\". לדבריו, 93% מהארגונים מדוו",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/george-kurian-netapp-insight-806x416-1.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"אנחנו רוצים שהבוגרים שלנו יהיו מנצחי תזמורת של סוכני AI\"",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/459969/",
+      "pubDate": "2026-10-20T08:30:35.000Z",
+      "summary": "\"מקצוע ההנדסה לא נעלם – הוא עולה קומה. ה-AI נותנת לכל אחד כלי, מוצר אמיתי – מאובטח, אמין, שמחזיק משתמשים רבים, ועדיין – צריך מהנדס. לא המקצועות נעלמים, אלא המשימות. הבוגר.ת שאנחנו רוצים הוא מנצח תזמורת של סוכני AI: נותן כיוון, שופט את התוצאה ולוקח אחריות. ובוגר שיכול גם להקים מיזם בעצמו: עלות הפיתוח צנחה, ואדם אחד, או קבוצה קטנה, יכולים היום להקים חברה\", כך אמר פרופ' מאלכ יוסף , ראש המחלקה להנדסת תוכנה ומדעי המחשב, המכללה האקדמית כנרת . פרופ' יוסף, חוקר בתחום הביו-אינפורמטיקה ומדעי הנתונים, השתת",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/דר-דוד-פייטלסון-ראש-בית-הספר-להנדסת-תוכנה-ומדעי-המחשב-במכללת-אפקה-המכללה-האקדמית-להנדסה-בתל-אביב.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"מקצוע הפיתוח לא ייעלם – אלא ישתנה\"",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/459959/",
+      "pubDate": "2026-10-20T08:03:31.000Z",
+      "summary": "\"הדעות לגבי חשיבות המפתחים בעידן ה-AI חלוקות. יש האומרים שבעוד חמש שנים המתכנתים יהיו מובטלים – ויש האומרים ההפך. לדעתי, באופן חד-משמעי, מקצוע הפיתוח לא ייעלם – אלא ישתנה\", כך אמרה טלי שם טוב , יו\"רית פורום AI ב איגוד ההיי-טק הישראלי , ב התאחדות התעשיינים . שם טוב השתתפה ברב-שיח שנערך לקראת שנת הלימודים האקדמית, ובחן כיצד תשפיע הבינה המלאכותית על שנת הלימודים החדשה. את הרב-שיח הנחה יהודה קונפורטס , עורך ראשי ומנהל התכנים ב אנשים ומחשבים . שם טוב, המנכ\"לית והבעלים של קודוויליו (CodeValue),הוסיפה ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/פרופ.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "לא מי שחשבתם: האם זה החלוץ הכי לוהט באירופה",
+      "link": "https://www.ynet.co.il/sport/article/b1dmemr3fx",
+      "pubDate": "2026-10-20T22:30:00.000Z",
+      "summary": "שלושער נגד אינטר במדי ברוז', תג מחיר של עשרות מיליוני אירו ולא פחות משלוש נבחרות שנלחמות עליו. בגיל 22 הפך ניקולו טרסולדי לאחד החלוצים המבוקשים ביבשת, אבל לו יש רק חלום אחד: לחזור לסן סירו, הפעם במדי אהובת נעוריו מילאן",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/BkO00xmrhzx/BkO00xmrhzx_0_83_2691_1515_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "איבד את רגלו בעזה - והפך לאחת התקוות למשחקים הפראלימפיים בלוס אנג'לס | ריאיון מיוחד",
+      "link": "https://www.ynet.co.il/sport/article/b1dtbxrhmx",
+      "pubDate": "2026-10-20T22:30:00.000Z",
+      "summary": "מהפציעה בעזה שביאה לקטיעת רגלו ועד האימונים בווינגייט, מהימים הקשים בתל השומר ועד החלום על לוס אנג'לס. דוד מסחייב (24) זוכר את הרגע בו הרים את הקשת וירה את החץ הראשון ואיך זה הרגיש לו כל כך טבעי. עכשיו הוא מדבר על המשמעות שנותן לו הספורט, על הומור שחור, שיחות רחוב על פרוטזות ועל המסע שלו ושל חבריו למשחקים הפראלימפיים 2028",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/SJbLfQSnzx/SJbLfQSnzx_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "האישה שעומדת מאחורי מהפכת הפאדל בישראל: \"הניצחון האמיתי מתחיל מחוץ למגרש\"",
+      "link": "https://www.ynet.co.il/sport/article/rydqbbmhfx",
+      "pubDate": "2026-10-20T04:00:00.000Z",
+      "summary": "מה שהתחיל כתחביב הפך לקריירה בענף הספורט הצומח בישראל: עדן אור, מנכ\"לית ושותפה בחלק מסניפי Padel Time Club, מספרת על הדרך שעשתה מעולם הפקת האירועים לניהול מועדוני פאדל, על קהילת הנשים שהקימה ועל האתגרים שמאחורי התרחבות הרשת. וגם: כיצד פלטפורמת WePlay מסייעת לה לנהל את הפעילות ולשמור על הקשר עם השחקנים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/ryFnGrz3Gl/ryFnGrz3Gl_0_159_900_507_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
