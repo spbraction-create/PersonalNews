@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:29:50.603Z",
+  "generatedAt": "2026-10-22T03:28:39.860Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -1581,6 +1581,539 @@
       "pubDate": "2026-10-20T04:00:00.000Z",
       "summary": "ברצלונה דורסת את הליגה הספרדית ומציגה כדורגל התקפי מסחרר, אבל עכשיו מחכה לה המבחן הגדול באמת: מפגש עם פ.ס.ז', אלופת אירופה בשנתיים האחרונות, שמגיעה אחרי הצגה מול מנצ'סטר סיטי. האם לאמין ימאל וחבריו מסוגלים להוכיח שהם יותר מקבוצה שמספקת מספרים מרשימים, או שהמכונה של לואיס אנריקה תחשוף את נקודות התורפה שלהם? גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/BkPQV6112Mx/BkPQV6112Mx_0_0_3000_1660_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "היד הרועדת: על הקולות המכריעים",
+      "link": "https://www.ynet.co.il/news/article/s1ybycl2zg",
+      "pubDate": "2026-10-22T02:58:00.000Z",
+      "summary": "בין אלו שיכריעו את הבחירות נמצאים גם המתלבטים בין הגושים. קשה לדעת אם ברגע האמת יחליטו לחצות את הקווים ולחולל בעולמם שינוי זהותי, לעיתים בניגוד לסביבתם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/SJ11jW4LU3Gg/SJ11jW4LU3Gg_0_899_900_507_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "שוב בעזה עם הגדוד שפרץ ראשון: \"אהבת הארץ לא מספיק, צריך גם אחריות לגורלה\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14934099",
+      "pubDate": "2026-10-21T23:52:49.000Z",
+      "summary": "3 שנים לאחר תחילת התמרון בעזה, יואב קרן והצלם גדי קבלו חזרו אל לוחמי גדוד 9 של חטיבה 401, שמוצבים בין חאן יונס לרפיח, 8 ק\"מ מהגבול. \"בזכות נוכחות צה\"ל התושבים יכולים לשוב לבתיהם, לחגוג את החגים בבטחה\", אומר המג\"ד סא\"ל ר'. בגילוי לב מדברים ר' וחבריו על ההקרבה, הסיפוק – והסכנה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/SJdOiw8Lnzx/SJdOiw8Lnzx_342_63_939_528_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"עיר בתרדמת\": רק חצי הצביעו כאן בבחירות הקודמות. והפעם?",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14934626",
+      "pubDate": "2026-10-21T22:33:06.000Z",
+      "summary": "ב-2022 הצביעו בבת ים רק חצי מבעלי זכות הבחירה - אבל גם הוותיקים לא זוכרים אווירה כזו רדומה פחות משבוע לבחירות: \"מטה הליכוד שומם, אין אמונה\". בפרלמנטים המקומיים מיואשים מהפוליטיקאים ומהשיח \"של שנאה ותיעוב\", אך מקווים שהפעם התמונה תהיה אחרת: \"הכי חשוב - איזו מדינה נשאיר לנכדים\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/H1E0EvILhze/H1E0EvILhze_0_134_1280_720_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "בין האיומים למציאות: הקמפיינים של כל המפלגות בימים האחרונים עד הבחירות",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14934743",
+      "pubDate": "2026-10-21T21:56:03.000Z",
+      "summary": "5 ימים לבחירות, המפלגות מנסות להשיג כל קול אפשרי עד לרגע האחרון - גם על חשבון חברותיהן לגושים: איזנקוט מדגיש את חשיבות \"הרשימה הגדולה\" במטרה לקבל ראשון את מנדט הרכבת ממשלה. בליכוד מתמקדים במסרי הפחדה נגד גוש השינוי. בן גביר נגד הליכוד, סמוטריץ' נגד וינטר - הדמוקרטים מבינים כי צמיחה תבוא רק על חשבון השותפים. מסעות הגיוסים של המפלגות בישורת האחרונה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/yk14934572/yk14934572_0_0_472_454_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "עבאס או לא עבאס, זאת השאלה",
+      "link": "https://www.ynet.co.il/news/article/yokra14934141",
+      "pubDate": "2026-10-21T21:03:00.000Z",
+      "summary": "ממשלה ללא רוב יהודי היא טעות, וזה הוכח כבר בעבר. כדי להשיג רוב ציוני לתיקון, נדרש לעשות מעשה ציוני: התחייבות לכך שהטלפון הראשון של איזנקוט בליל ה-27 באוקטובר לא יהיה לרע\"מ, אלא לליכוד. לא לנתניהו, לליכוד",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/r1mHgcpVSzg/r1mHgcpVSzg_0_0_845_475_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "לנגד עיניים ערביות",
+      "link": "https://www.ynet.co.il/news/article/yokra14934023",
+      "pubDate": "2026-10-21T21:03:00.000Z",
+      "summary": "פרשן מצרי בכיר הציב בפניי שתי אפשרויות: ניצחון של נתניהו או הפתעה. \"הפתעה טובה?\", אני מקשה עליו. \"כל מי שלא נתניהו ייחשב אצלנו ל'הפתעה טובה'\", הוא משיב",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/13/SkCeJ9ijfg/SkCeJ9ijfg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "זה חוקי להיות בשמאל - אבל תציג את עצמך כאחר",
+      "link": "https://www.ynet.co.il/news/article/yokra14934134",
+      "pubDate": "2026-10-21T21:02:00.000Z",
+      "summary": "אני רוצה לומר לגדי איזנקוט: אולי ישר יותר יהיה לשקול להחליף את סימן הקריאה בסימן שאלה?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/rJizltInMx/rJizltInMx_0_0_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "יש מוצא מבחירות חוזרות? התרחישים להקמת ממשלה - והסיכויים",
+      "link": "https://www.ynet.co.il/news/elections2026/article/hkj8dy8nfe",
+      "pubDate": "2026-10-21T21:01:06.000Z",
+      "summary": "מבחן הסבירות: איזנקוט הצהיר כי לא יישב תחת נתניהו, \"אחרת, אני מתפטר שעה אחרי\". ליברמן סגר את הדלת לממשלת מיעוט. בנט פסל ישיבה עם רע\"מ. הסיכוי לממשלת ימין מלא-מלא של נתניהו נראה נמוך מאוד על פי הסקרים, וגם גוש השינוי לא קרוב ל-61. מה יכול להשתנות עד ההצבעה? כל התרחישים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/SkPChq83Mg/SkPChq83Mg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "רוב מוחלט נגד תקיפה באיראן, חשש ממיסקלקולציה - והמסר לרמטכ\"ל",
+      "link": "https://www.mako.co.il/news-military/2026_q4/Article-168f751855f51a1026.htm",
+      "pubDate": "2026-10-21T19:30:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"עוד מערכה? אנחנו אובדי עצות\": איבדו את בתיהם, ונתניהו שוב מדבר על מלחמה",
+      "link": "https://www.ynet.co.il/news/article/rjutfbunzg",
+      "pubDate": "2026-10-21T18:25:22.000Z",
+      "summary": "7 חודשים חלפו מסיום המלחמה מול איראן, רה\"מ כבר מדבר על חידושה - אבל אלו שאיבדו את הבית שלהם עדיין לא חזרו לשגרה. רג'ין מת\"א: \"אני בהלם מהרעיון של עוד סבב\". זיוה מדימונה: \"קיבלנו דיור חלופי בשכונת פח, בעלי הנכה לא יכול לרוץ למקלט\". טל מחיפה, שבבניין שבו גר נהרגו חמישה: \"הבנייה מחדש תיקח שנים\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/rk5x7tU3fe/rk5x7tU3fe_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מכבש הלחצים של נתניהו: הקרב מול המפלגות הקטנות",
+      "link": "https://www.mako.co.il/news-politics/2026_q4/Article-1b08149e18f51a1026.htm",
+      "pubDate": "2026-10-21T18:25:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "תחקיר: יועצי נתניהו עבדו לכאורה עם מפלגה שהואשמה באנטישמיות",
+      "link": "https://www.mako.co.il/news-politics/2026_q4/Article-00f0e7b5bce51a1026.htm",
+      "pubDate": "2026-10-21T14:22:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"חוק בעייתי וחסר משמעות\": המכשול של \"חוק הנאשם\"",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-5f594e564f551a1026.htm",
+      "pubDate": "2026-10-21T09:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"הפתעת אוקטובר\" מתקרבת? הגיע הזמן לחיסון גוועלד",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-5258236ea1a51a1026.htm",
+      "pubDate": "2026-10-21T08:35:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"אירופה גמורה\"? האמת מאחורי המהומות בצרפת",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-839ea999c8b51a1027.htm",
+      "pubDate": "2026-10-21T08:32:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הסכם קריטי: הישג לטורקיה, מכה לבעלות הברית של ישראל",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-a0659718a2d51a1026.htm",
+      "pubDate": "2026-10-21T06:46:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "בנק ישראל השאיר את הריבית בלי שינוי: מתי ההורדה הבאה?",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-00f811eb45e51a1026.htm",
+      "pubDate": "2026-10-21T13:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "המסר הפוליטי שחדר ליומן שלכם – והסכנה שמסתתרת מאחוריו",
+      "link": "https://www.mako.co.il/news-money/tech12/Article-2c08f1392bd51a1026.htm",
+      "pubDate": "2026-10-21T12:50:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "מניות הבינה המלאכותית התרסקו: אבל למה בוול סטריט לא מתרגשים?",
+      "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/skevynihgg",
+      "pubDate": "2026-10-21T12:32:39.000Z",
+      "summary": "שבוע המסחר האחרון בוול סטריט התאפיין בלחץ מכירות משמעותי במניות הטכנולוגיה, על רקע התגברות החששות בנוגע למימון השקעות הענק בתשתיות בינה מלאכותית. קרן הסל XLK, העוקבת אחר מגזר הטכנולוגיה, ירדה ביום שישי ב-3.02%, בעוד מדדי S&P 500 ונאסד\"ק סיימו את השבוע בטריטוריה שלילית. במוקד הירידות עמדו חברות המספקות תשתיות מחשוב וענן ליישומי AI, הנדרשות להשקעות הון משמעותיות לצורך הרחבת פעילותן",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/r1X4gVUhzg/r1X4gVUhzg_0_0_1536_865_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "חדשות רעות למפלגות הקטנות: הפעם צריך הרבה יותר קולות כדי לעבור",
+      "link": "https://www.mako.co.il/finances-news/Article-3c8e1e0f87d51a1026.htm",
+      "pubDate": "2026-10-21T08:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "שבוע לבחירות: מה יהיה גורל הצפון ביום שאחרי",
+      "link": "https://www.mako.co.il/news-business/news/Article-fbead77b76d51a1026.htm",
+      "pubDate": "2026-10-21T07:42:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "יותר מיסים ופחות תמורה: מה מחכה לנו ביום שאחרי הבחירות",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-d0525519e5b51a1027.htm",
+      "pubDate": "2026-10-21T05:50:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "‏\"מציירים אותנו כאילו באנו לעשות אקזיט\": המאבק על הבית שנשאר בניר עוז‏",
+      "link": "https://www.ynet.co.il/economy/article/yokra14932857",
+      "pubDate": "2026-10-21T05:02:15.000Z",
+      "summary": "משפחת מאור שרדה את הטבח והחליטה לעזוב את הקיבוץ, אך ירון מאור מסרב לאפשר את הריסת הבית ‏לפני שיקבל פיצוי שלדבריו ישקף את עלות בניית החיים מחדש מחוץ לעוטף. בקיבוץ אומרים כי אין ביכולתם ‏לממן פיצוי חריג מתקציב השיקום וכי המדינה היא שצריכה לתת מענה למי שאינם יכולים לשוב",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/yk14933354/yk14933354_0_0_1034_716_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "המיליארדר אייל ולדמן מזהיר: זה מה שקורה לעסקים בישראל",
+      "link": "https://www.ice.co.il/local-news/news/article/1134644",
+      "pubDate": "2026-10-22T01:45:36.000Z",
+      "summary": "המיליארדר אייל ולדמן התייחס למצב הכלכלי בישראל לקראת הבחירות, הצביע על הקשיים של עסקים ועל העלייה המשמעותית ביוקר המחיה, וטען כי אפשר להפוך את הכלכלה לבריאה יותר",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_628/rsz_615_346_0123221026.png",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "סתיו נפתלי ניצחה במטבח המנצח: הסכם הממון והמיליארדים נחשפים",
+      "link": "https://www.ice.co.il/media/news/article/1134643",
+      "pubDate": "2026-10-22T01:16:00.000Z",
+      "summary": "סתיו נפתלי ואמה רייצ'ל אורון זכו ב\"המטבח המנצח VIP\" עם 97 נקודות, אבל הכסף הגדול נכנס לתמונה עוד קודם: הנישואים לדן נפתלי, המשפחה המזוהה עם אימפריית ביג והסכם הממון שחזר לכותרות דווקא במהלך הגמר",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_628/rsz_615_346_צילום מסך 2026-10-22 011113.png",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "רגע לפני שעון החורף: מה באמת קורה בבתים בישראל בלילה",
+      "link": "https://www.ice.co.il/local-news/news/article/1134636",
+      "pubDate": "2026-10-21T22:56:49.000Z",
+      "summary": "נתוני תדיראן לקיץ 2026 מצביעים על זינוק של פי חמישה בהפעלת מזגנים באמצעות האפליקציה החכמה של החברה. 23 מעלות הפכו לטמפרטורה הפופולרית ביותר, תל אביב מובילה במספר ההפעלות",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_628/rsz_615_346_2110262255.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Tilly Norwood Tells All",
+      "link": "https://www.adweek.com/media/tilly-norwood-tells-all/",
+      "pubDate": "2026-10-21T19:00:00.000Z",
+      "summary": "This story was originally published in On Background with Mark Stenberg, a free, weekly newsletter that explores the key themes shaping the media industry. You can sign up for it here. [&hellip;]",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "BUYME מתרחבת הרבה מעבר למתנות",
+      "link": "https://shivuk.me/meet/oneonone/39931",
+      "pubDate": "2026-10-21T13:39:53.000Z",
+      "summary": "מאות מנהלי משאבי אנוש ורווחה, עשרות מתחמי חוויה, מותגים מובילים ואווירה של פארק שעשועים למבוגרים. BUYME WONDERLAND היה הרבה יותר מאירוע לקוחות עסקיים. הוא היה הזדמנות לראות איך מותג שכולנו מכירים מעולם המתנות מבקש להרחיב את מקומו בחיי הצרכנים. מאחורי המהלך עומדת דנה ביטון לב עמי, שנכנסה לתפקיד מנכ\"לית BUYME רק לפני כחצי שנה, בסמוך לכניסתה של הפניקס כבעלת השליטה בחברה. אבל כששומעים אותה מדברת על המותג, על השותפים ועל החזון, התחושה היא שהיא שם מאז ומתמיד. מה עומד מאחורי ההחלטה להפוך אירוע לקוחות ל",
+      "image": "https://shivuk.me/wp-content/uploads/2026/10/33456-768x512.webp",
+      "source": "מנהלי שיווק מצייצים",
+      "sourceUrl": "https://shivuk.me",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "pubDate": "2026-10-21T23:36:31.000Z",
+      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet . During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able to add their own vehicles to the company's robotaxi fleet in the second quarter of 2027. Here's his exact quote (emphasis ours): Like I mentione",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "New York’s first microdrama film festival searches for its audience",
+      "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+      "pubDate": "2026-10-21T20:49:07.000Z",
+      "summary": "Actors Taye Diggs, Autumn Federici, Gary Entin, Troy Brookins, Edmund Entin and Eric Guilmette attend the world premiere of Microhouse Films and Lifetime's Reunion Island during the ALZA Festival. | Getty Images for Lifetime. It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival . Founded by former Tribeca Fe",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "pubDate": "2026-10-21T20:36:56.000Z",
+      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia , and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than that. Some Dutch and Finnish government agencies took their sites down as a precaution. The NSA Cybersecurity account on X recommended that organization",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+      "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+      "pubDate": "2026-10-21T20:22:31.000Z",
+      "summary": "As the smoke clears from its outrageous Roadster demo , Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues were flat, while profits dropped 4 percent compared to the third quarter of 2025 , when the company earned $1.4 billion in net income on $28.1 billion in revenue. Tesla's revenue came in above Wall Street expectations of",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "pubDate": "2026-10-21T19:44:40.000Z",
+      "summary": "Apple just revealed a new brand identity for Apple Music, with the expected turn to Liquid Glass. I’m not much of a fan of their new design language in general; this is where I admit that I’m still running MacOS Sequoia and have grumpy things to say about rounded corner radii and text legibility. It’s just a trend, it will pass, and at some point I’ll probably cave and upgrade when it starts actually affecting my ability to get work done, or more importantly get security updates. Once I adjust, ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The internet is having a very bad cybersecurity day",
+      "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+      "pubDate": "2026-10-21T19:03:28.000Z",
+      "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "pubDate": "2026-10-21T17:59:12.000Z",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "אתרים לא זמינים לכם פתאום? זה מכוון ותאשימו את PHP",
+      "link": "https://www.geektime.co.il/php2shell-critical-php-vulnerabilities/",
+      "pubDate": "2026-10-21T14:06:34.000Z",
+      "summary": "מקור: Unsplash כשזה מגיע לחולשות אבטחה שמשפיעות על מיליוני משתמשים, אנחנו בדרך כלל חושבים מיד על מערכות הפעלה כמו ווינדוס או אנדרואיד, או על דפדפנים עם נתח שוק חריג כמו כרום. אבל הפעם הסכנה מגיעה מכיוון קצת אחר, ומאחד הרכיבים החשובים ביותר באינטרנט. זה אמנם רכיב שרוב המשתמשים בכלל לא מודעים לקיומו, אבל הוא נמצא בשימוש יומיומי במוצרים של מטא, ויקיפדיה, סלאק, וורדפרס ועוד רבים. התיקון כבר קורה, אבל הוא עלול לפגוע בכמות אדירה של אתרים. החולשות שמסכנות 70% מהרשת שתי חולשות אבטחה קריטיות התגלו בשפת ה",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "pubDate": "2026-10-21T11:00:04.000Z",
+      "summary": "It's October in the Midwest, which means it's time for the pinball world to descend on a convention center in Chicagoland for the annual Pinball Expo. Once thought to be an entertainment sector slowly bleeding out, pinball has come back in a big way in recent years. I visited one of Chicago's last old-school manufacturers before heading down the road to see what's new in the silver-ball universe. Behind the silver ball Hundreds gathered on a brisk fall Friday morning outside Stern Pinball's head",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261016_184926781-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "אמון הוא המטבע החדש של השיווק בעידן הבינה המלאכותית",
+      "link": "https://www.pc.co.il/kehila/daily-zipi/460068/",
+      "pubDate": "2026-10-21T04:55:45.000Z",
+      "summary": "חברת הפינטק Appcharge אירחה במשרדיה בשדרות רוטשילד בתל אביב את קהילת Growth Marketing Pros , המונה לפי החברה יותר מ־2,500 חברים. המפגש עסק ב־ Field Marketing , כלומר בפעילות שיווק שמבוססת על כנסים, אירועים ומפגשים עם לקוחות, ובשאלה איך חברות טכנולוגיה מישראל יכולות להפוך את הפעילות הזו למנוע של צמיחה וקשר אישי עם לקוחות. ערן ניר , מנהל הקריאייטיב ב־Appcharge, הציג דרכים להפוך נוכחות בכנס עסקי למהלך שיווקי שמשלב תוכן, חוויה ומפגש עם לקוחות. תחיה סובל , מנהלת שיווק הצמיחה ב־ Predict Security , דיב",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/appcharge-growth-marketing-pros-group-806x416-1.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "הביזיון הענק בליגת העל | מד העצבים",
+      "link": "https://www.ynet.co.il/sport/article/hjzcy5u3gl",
+      "pubDate": "2026-10-21T22:30:00.000Z",
+      "summary": "עירוני טבריה עושה צחוק מהכדורגל הישראלי ואת הנזקים נראה בהמשך. וגם: איזה גול כבש אמבאפה, הא?!",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/rkS7EW73zl/rkS7EW73zl_0_0_800_534_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "החלוץ הבכיר: הכוח האמיתי של הפועל באר-שבע",
+      "link": "https://www.ynet.co.il/sport/article/rjnctvl2fg",
+      "pubDate": "2026-10-21T22:30:00.000Z",
+      "summary": "למרות התחרות עם חלוצים זרים איכותיים בסגל, איגור זלאטנוביץ' הוכיח שוב שהוא הכוח האמיתי של הפועל באר-שבע. אחרי הצמד הדרמטי מול הפועל ירושלים, הסרבי צפוי לפתוח הערב (19.45) בדיסלדורף מול אוניון סן ז'ילואז בליגה האירופית, בתקווה להוביל את קבוצתו לניצחון ראשון במפעל",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/19/rJZbvvXqJGg/rJZbvvXqJGg_384_319_2399_1351_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "דסה צריך להוכיח את עצמו, לא את נאמנותו | תוכן גולשים",
+      "link": "https://www.ynet.co.il/sport/article/bk00tuzw2zl",
+      "pubDate": "2026-10-21T16:37:11.000Z",
+      "summary": "ארגוני האולטראס של מכבי חיפה מסרבים לעודד את אלי דסה בגלל עברו במכבי ת\"א, אבל כאוהד ותיק ביציע הצפוני אני חושב שהם טועים. אפשר להבין את הרצון לשמור על המסורת ועל היריבות, אבל שחקן חדש צריך לקבל הזדמנות הוגנת. את דסה צריך לשפוט לפי מה שיעשה בירוק, לא לפי החולצות שלבש בעבר. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/rJxPwgD5iMx/rJxPwgD5iMx_0_0_3000_1660_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [
