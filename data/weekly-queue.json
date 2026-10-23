@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:28:39.860Z",
+  "generatedAt": "2026-10-23T03:28:56.330Z",
   "note": "תור מצטבר לשער מוסף שישי — נצרך ומתאפס על ידי scripts/edit-weekly.js.",
   "items": [
     {
@@ -2114,6 +2114,747 @@
       "pubDate": "2026-10-21T16:37:11.000Z",
       "summary": "ארגוני האולטראס של מכבי חיפה מסרבים לעודד את אלי דסה בגלל עברו במכבי ת\"א, אבל כאוהד ותיק ביציע הצפוני אני חושב שהם טועים. אפשר להבין את הרצון לשמור על המסורת ועל היריבות, אבל שחקן חדש צריך לקבל הזדמנות הוגנת. את דסה צריך לשפוט לפי מה שיעשה בירוק, לא לפי החולצות שלבש בעבר. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/rJxPwgD5iMx/rJxPwgD5iMx_0_0_3000_1660_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "מיהו יהודי ישראלי 2.0",
+      "link": "https://www.ynet.co.il/news/article/hync5ll2me",
+      "pubDate": "2026-10-23T02:47:00.000Z",
+      "summary": "בחירות 2026 אינן בין יהודים לישראלים. הם בין מחנה לאומני-גזעני-קיצוני שהנהגתו דורשת מלחמת נצח, כיבוש, דיכוי ובידוד בינלאומי. ממשלה קיצונית, קנאית, מושחתת ואמונית במודל פופוליסטי-סמכותני. ספרטה יהודית. לבין מחנה לאומי וליברלי, ממלכתי ודמוקרטי, פלורליסטי עם מגוון קהילות ומיעוטים של מי שאיזנקוט קורא לו \"העם הישראלי\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/Byq9KsGhMl/Byq9KsGhMl_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ה\"מאני טיים\" כאן: הבליץ של נתניהו, המפה של בנט והערים שעליהן פוסח איזנקוט",
+      "link": "https://www.ynet.co.il/news/elections2026/article/s1lqwrw3zx",
+      "pubDate": "2026-10-23T02:34:15.000Z",
+      "summary": "לראשי המפלגות נשארו פחות מ-100 שעות לשכנע מתלבטים: לפי פולימרקט, לאיזנקוט סיכוי של 49% להקמת ממשלה - והוא דווקא לא מתמקד במעוזים הליברלים. נתניהו, עם 30%, ישים דגש על ערים ליכודיות, בניסיון להעיר את השטח. בנט, שטיפס ל-16%, בונה על הפרלמנטים. כך תיראה הישורת האחרונה",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/HJOA2Junfg/HJOA2Junfg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "פסימיות אופטימית / דניאלה לונדון דקל",
+      "link": "https://www.ynet.co.il/news/article/yokra14931348",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "הבחירות בפתח, ורגע אני מוצפת תקווה, רגע ייאוש נורא. טוב שמצאתי על מי להישען: מנחם בגין",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/18/H1fUSwAlC/H1fUSwAlC_0_0_1920_1080_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הבחירות במגזר הערבי: המנודים באים להשפיע",
+      "link": "https://www.ynet.co.il/news/article/yokra14934072",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "בחברה הערבית מורגשת אווירת חירום - ושאיפה להפוך לגורם המכריע בבחירות. גם שם, הכל תלוי באחוזי ההצבעה ובצעירים, ויש מי שמבטיח: \"הפעם הערבים ינהרו לקלפיות\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/BkeDv35P2zx/BkeDv35P2zx_0_0_1024_582_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "(סוג של) תפילה ליום הבוחר / חנוך דאום",
+      "link": "https://www.ynet.co.il/news/article/yokra14931107",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "יהי רצון שהמנצחים לא ישמחו לאיד, שהמפסידים יעשו זאת בכבוד, ושהרעל יתפזר מהר. אמן",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/15/BJvCJA6zWg/BJvCJA6zWg_0_0_1920_1080_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "איך מתעוררים מסיוט / רענן שקד",
+      "link": "https://www.ynet.co.il/news/article/yokra14932640",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "הבחירות האלה הן ספירת הראשים החשובה מכולן, שתבהיר באיזו משתי מציאויות ישראל כבר בחרה לחיות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/17/HJNZH4TxC/HJNZH4TxC_0_0_1920_1080_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "משאל רחובות: מה קורה בעיר שכבר שנים משקפת את ההצבעה בבחירות הארציות",
+      "link": "https://www.ynet.co.il/news/article/yokra14931838",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "בפרלמנט הפנסיונרים מאמינים שהסקרים חרטא וביבי מלך שלוקח בענק. בשוק רוצים אחדות בלי ערבים וחרדים. ובסלון של נאוה מקווים לשינוי ודואגים. רגע לפני הבחירות, דרור פויר יצא לרחובות, העיר שמשקפת כבר שנים את תוצאות האמת בישראל, וגילה שלמרות הפילוג והשנאה יש דברים שכולם, כמעט, מסכימים עליהם: שהמצב על הפנים ושאין כמו בארץ",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/SJxMdkeHhGe/SJxMdkeHhGe_0_0_1920_1080_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הקמפיין של וינטר והחישוב של נתניהו",
+      "link": "https://www.ynet.co.il/news/article/dalexycfn",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "עור הדוב: איזנקוט מתחזק, בנט פורץ ובגוש השינוי חוששים מהמילה מהפך - אבל לא מהמריבות אחריה | החשבון: וינטר לא צפוי להעניק לנתניהו ממשלה גם אם ייכנס לכנסת, אבל עלול לספק לגוש השינוי 4 עריקים. לכן נתניהו רוצה בחיסולו | התקווה: פוסט–טראומה הורגת את הדמיון. הבחירות האלה הן על הזכות לדמיין",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/yk14935263/yk14935263_0_0_744_538_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"ישראל כבר 3 שנים על טיסת פליי דובאי\": המצביעים מחו\"ל עונים לביקורת",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14934237",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "הם הגיעו מכל קצוות העולם כדי לממש את זכותם הדמוקרטית בבחירות שתיארו כגורליות: \"להיות או לחדול\". לשירי ממינכן חשוב שוויון בנטל, לחני מברזיל שילוב ערביי ישראל, ללימור מניו-ג'רזי גורל המדינה, וליצחק מקנדה - לחזק את נתניהו: \"אני חושב שיד אלוהים נגעה בו\". הישראלים שחזרו להצביע - ולא מתנצלים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/r1ImKCvhGe/r1ImKCvhGe_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "המוכנות במערכת הביטחון וההערכות באיראן: ישראל תתקוף ראשונה",
+      "link": "https://www.mako.co.il/news-military/2026_q4/Article-d5bd7c89f9461a1026.htm",
+      "pubDate": "2026-10-22T18:11:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "חשיפה: מאחורי הקלעים של הזעם של נתניהו על עופר וינטר",
+      "link": "https://www.mako.co.il/news-politics/2026_q4/Article-f4dd0b7ea6461a1026.htm",
+      "pubDate": "2026-10-22T17:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מלחמה עם איראן - שוב? למה? ומה נכון לעשות אחרת?",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm",
+      "pubDate": "2026-10-22T15:18:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "עמדות המפלגות: איך ניתן לשקם את הצפון והדרום?",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-6042809145261a1027.htm",
+      "pubDate": "2026-10-22T14:10:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"בבחירות יש כסף על הרצפה\": הקרב הפוליטי בעלוני השבת",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-938cc0dc9ca51a1027.htm",
+      "pubDate": "2026-10-22T12:42:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"חברים אמרו לי 'זה בזבוז כסף', הקול שלך לא משנה'\"",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-425257e005851a1027.htm",
+      "pubDate": "2026-10-22T11:53:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הנתון שיכריע את הבחירות והתוכנית הסודית ליום שאחרי",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-124c134cde261a1026.htm",
+      "pubDate": "2026-10-22T11:31:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הטקטיקות של הרגע האחרון בבחירות נחשפות | מה המסר, עופר חדד",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-2709e92ba8931a1026.htm",
+      "pubDate": "2026-10-22T11:29:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "לכו להצביע, ותחשבו על נדב | נעם חורב בטור אישי ל-N12",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-1359eb6e49e51a1026.htm",
+      "pubDate": "2026-10-22T11:26:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "יוקר המחיה, ביטחון וגיוס: סדר העדיפויות של מצביעי הגושים",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-b923e88ff9061a1027.htm",
+      "pubDate": "2026-10-22T11:06:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "רעולי פנים יורים על בתים ועסקים - ומפרסמים סרטונים כדי להטיל אימה",
+      "link": "https://www.mako.co.il/men-men_news/Article-25f63f1be1361a1026.htm",
+      "pubDate": "2026-10-22T10:29:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "חמישה ימים לבחירות: השינויים הדרמטיים במפת המפלגות",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-5d19a1492a261a1026.htm",
+      "pubDate": "2026-10-22T09:34:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "עמדות המפלגות: מי יעניק רשת ביטחון לעצמאים?",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-0fc3cdd856e51a1027.htm",
+      "pubDate": "2026-10-22T09:24:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "האלימות בסח'נין: התושבים מפוחדים, ראש העירייה מתאר משבר חמור",
+      "link": "https://www.mako.co.il/news-israel/2026_q4/Article-086be88ff9061a1027.htm",
+      "pubDate": "2026-10-22T07:57:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "נתניהו, איזנקוט - תמסרו לנו הצהרת בריאות מקיפה",
+      "link": "https://www.mako.co.il/news-columns/2026_q4/Article-305788ae46f51a1027.htm",
+      "pubDate": "2026-10-22T07:08:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "המתיחות עם איראן: המסר האמריקני, הכוננות שירדה והחשש להסלמה",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-851af43c8e061a1027.htm",
+      "pubDate": "2026-10-22T04:45:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"היצרנים הפרטיים מוכרים חשמל במחירים מטורפים. הם מרוויחים מיליארדים והציבור משלם\"",
+      "link": "https://www.ynet.co.il/economy/article/yokra14933849",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "מאיר שפיגלר, מנכ\"ל חברת החשמל, יוצא למתקפה חזיתית נגד הרפורמה להפרטת הענף: \"לקחו מונופול זול, ובמקומו קיבלנו קבוצה מצומצמת של שבע חברות פרטיות שגובות ביוקר\" • הוא תוקף את משרד האוצר ואת אנשי העסקים הפרטיים שנכנסו לשוק וגורפים רווחי עתק, מזהיר מפני ייצוא גז שעלול להותיר את ישראל בלי עתודות מספקות, ומותח ביקורת על המדינה שמייקרת את הרכב החשמלי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/rkOFFS2P3Gx/rkOFFS2P3Gx_0_0_1920_1080_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "בדקנו מה שוות תוכניות המפלגות למאבק במשבר הדיור",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-0157f6d9f6361a1026.htm",
+      "pubDate": "2026-10-22T11:58:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "צריך לבדוק חתימות על המעטפה? האמת מאחורי פסילת קולות בקלפי",
+      "link": "https://www.mako.co.il/finances-news/Article-07b21a9cb5361a1026.htm",
+      "pubDate": "2026-10-22T11:15:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "בדקנו מה שוות התוכניות של המפלגות למלחמה ביוקר המחיה",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-e8604f692cf51a1026.htm",
+      "pubDate": "2026-10-22T09:00:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הסנקציות והחרם הכלכלי על ישראל: הצעדים באירופה והאזהרה מארה\"ב",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-6bc1f43c8e061a1027.htm",
+      "pubDate": "2026-10-22T07:37:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "\"הרוכשים התחילו להמתין, אבל זה ביקוש שנדחה ולא בהכרח התבטל\"",
+      "link": "https://www.mako.co.il/news-business/decision_making/Article-4fbdd62ca6261a1027.htm",
+      "pubDate": "2026-10-22T07:04:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "המיליארדר היהודי: \"שרה נתניהו ביקשה ממני 25 אלף דולר\"",
+      "link": "https://www.ice.co.il/media/news/article/1134768",
+      "pubDate": "2026-10-22T23:13:00.000Z",
+      "summary": "רון לאודר, איש שעסקיו וקשריו חובקי עולם, היה פעם אחד האנשים הקרובים לזוג נתניהו. כעת, ממרומי 82 שנותיו, הוא חושף את הסודות הגדולים והאכזבה שלו מישראל, ראש הממשלה נתניהו ורעייתו שרה",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_629/rsz_615_346_F180319YS25.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "המשקיעים מפקפקים בהשקעות ה-AI: מטא נחתכת ב-7%",
+      "link": "https://www.ice.co.il/finance/news/article/1134757",
+      "pubDate": "2026-10-22T21:20:55.000Z",
+      "summary": "אנבידיה, SpaceX, אלפבית ומטא איבדו יחד כ-1.36 טריליון דולר בתוך שבועיים , בזמן שאפל, וול מארט ואלי לילי הוסיפו יחד כ-400 מיליארד דולר לשוויין המצרפי",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_624/rsz_615_346_1724051026.pjg.png",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "מנכ\"ל ענקית התעופה מצטרף לאזהרות: \"מחירי הטיסות יזנקו גם ב-2027\"",
+      "link": "https://www.ice.co.il/tourism/news/article/1134755",
+      "pubDate": "2026-10-22T21:02:00.000Z",
+      "summary": "חברות התעופה מתמודדות בשנה האחרונה עם אתגר שמשפיע באופן מובהק על הטיסות. מצוקת הדלק ועליית המחירים הובילו למשבר עמוק, כשענקיות התעופה מחפשות פתרונות יצירתיים כדי להקל על העול",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_557/rsz_615_346_F250814YA534.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "המרוץ ל-2 טריליון דולר: אנתרופיק בדרך להנפקת ענק בוול סטריט",
+      "link": "https://www.ice.co.il/finance/news/article/1134687",
+      "pubDate": "2026-10-22T19:58:54.000Z",
+      "summary": "מפתחת Claude מתקרבת להנפקה היסטורית שעשויה לשקף לה שווי דמיוני. בעוד OpenAI פונה לצרכנים, אנתרופיק כובשת את המגזר העסקי עם זינוק בהכנסות, אך מתמודדת עם התחייבויות תשתית ענק",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_618/rsz_615_346_2808261330.jpg",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "חנוכה באילת מול כריסמס באירופה: המספרים מאחורי העונה היקרה בשנה",
+      "link": "https://www.ice.co.il/tourism/news/article/1134746",
+      "pubDate": "2026-10-22T19:49:00.000Z",
+      "summary": "בזמן שהבירות האירופאיות מתקשטות לחג המולד, בישראל חוגגים את חג החנוכה. החופש של מערכת החינוך מעניקה הזדמנות פז לחופשה משפחתית, אך בבדיקת המחירים ניראה כי השיקול הכלכלי בבחירת החופשה הינו מהותי",
+      "image": "http://img.ice.co.il/giflib/news/rsPhoto/sz_629/rsz_615_346_19592210200246565.png",
+      "source": "אייס",
+      "sourceUrl": "https://www.ice.co.il",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Advertisers Pull Meta Ads That Had Unwanted AI Glow-ups",
+      "link": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
+      "pubDate": "2026-10-22T12:09:52.000Z",
+      "summary": "Under Meta’s new terms coming into play Oct 30, advertisers are “solely responsible” for whatever its AI creates",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "לא רק סודה: המהפכה השקטה של סודהסטרים // תמר ציונוב",
+      "link": "https://shivuk.me/meet/oneonone/39948",
+      "pubDate": "2026-10-22T10:39:15.000Z",
+      "summary": "משיתופי פעולה עם Lavazza ורשות הטבע והגנים, דרך קמפיינים בכיכובו של תמיר בר ועד כניסה למשרדים והרחבת עולם המשקאות: סודהסטרים מסמנת מנועי צמיחה חדשים. הילה ברון, סמנכ\"לית השיווק של סודהסטרים ישראל, מספרת על האסטרטגיה שמאחורי המהלכים, על האתגר לשנות הרגלי צריכה ועל הדרך להפוך מותג ותיק לחלק מעוד ועוד רגעים בחיי הצרכן. מותג שמזוהה במשך שנים עם מוצר אחד ניצב בפני אתגר שיווקי לא פשוט: איך ממשיכים לצמוח בלי לאבד את הזהות שבנתה אותו? בסודהסטרים החליטו שהתשובה היא לא רק להגיע לעוד בתי אב עם מכשירי ההגזה",
+      "image": "https://shivuk.me/wp-content/uploads/2026/10/1770-768x512.webp",
+      "source": "מנהלי שיווק מצייצים",
+      "sourceUrl": "https://shivuk.me",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "pubDate": "2026-10-22T23:50:41.000Z",
+      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+      "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "pubDate": "2026-10-22T23:00:00.000Z",
+      "summary": "An Xbox Elite controller. | Photo by Antonio G. Di Benedetto / The Verge Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second thought: Microsoft knows people won't pay that much. It couldn't possibly charge that much money if it wants next gen to be a success. \"I wouldn't ",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Fall 2026 earnings watch",
+      "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+      "pubDate": "2026-10-22T21:15:16.000Z",
+      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next. Sure, let’s smoosh SpaceX and Tesla together, who cares Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready In Meta’s version of the future, I’ll have my Muse call ",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "pubDate": "2026-10-22T20:32:05.000Z",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape entire sites,\" James Grimmelmann, a professor of digital and information law at Cornell Law School, tells Nieman Lab . Initially, Meta's new terms for business account",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "pubDate": "2026-10-22T19:45:00.000Z",
+      "summary": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips , but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which you believe Elon Musk about wanting to go to Mars, or \"spread the light of consciousness,\" as he put it in this week's Spa",
+      "image": null,
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
+      "link": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
+      "pubDate": "2026-10-22T19:01:23.000Z",
+      "summary": "BMW provided flights from Washington, DC, to Los Angeles and accommodation so Ars could drive the new X5 and iX5, as well as a refreshed i7 (which you can read about soon). Ars does not accept paid editorial content. When we first drove BMW’s first Neue Klasse model, the iX3 , it quickly revealed that BMW knows how to make a good electric vehicle. A clean-sheet design, it featured the automaker’s sixth-generation electric powertrain , a completely reimagined dashboard, and powerful computers to ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/BMW-iX5-60-xDrive-Tanzanite-Blue_43-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
+      "link": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+      "pubDate": "2026-10-22T18:49:14.000Z",
+      "summary": "Android-powered foldable phones have been available for years, but most people never paid attention to them. As predicted, that could be changing now that Apple has entered the folding phone market with the iPhone Duo . Analysts have speculated that Samsung's Z8 foldables were seeing a boost from the iPhone announcement, and now Samsung has seemingly confirmed that. In a new blog post , Samsung UK crows that the company's 2026 foldable lineup is moving much faster than last year's models. Compar",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "pubDate": "2026-10-22T18:43:53.000Z",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "האם ההיי-טק יהיה המגן של טוהר הבחירות?",
+      "link": "https://www.pc.co.il/featured/460243/",
+      "pubDate": "2026-10-22T16:17:07.000Z",
+      "summary": "בעוד חמישה ימים, אזרחי ישראל ייקראו להשתתף בתהליך הכי דמוקרטי שיש: בחירות. אחד הנושאים המדוברים בחודשים האחרונים הוא טוהר הבחירות – הצורך במניעת זיופים, פייק ניוז, דיפ-פייק ושיבושים, פיזיים ובסייבר – הן על ידי גורמים חיצוניים והן על ידי גורמים פנימיים. שמירה על טוהר הבחירות היא לא רק עניין של פיקוח פיזי על הנעשה בקלפיות. בעידן הדיגיטלי, היא הפכה לאתגר מורכב בהרבה, שקשור גם למערכות IT, רשתות חברתיות ואיך לא – בינה מלאכותית. זה נע מהגנה על מחשבי ועדת הבחירות המרכזית ואבטחת סייבר, ועד לקמפייני פייק",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/08/05cc83a0-30b1-411e-af95-2f35b78c0d8a.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+      "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+      "pubDate": "2026-10-22T16:00:00.000Z",
+      "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "איראן, רוסיה והאחים המוסלמים: מבצעי ההשפעה הזרה סביב הבחירות בישראל נחשפים",
+      "link": "https://www.mako.co.il/nexter-news/Article-8ffb5b357d361a1026.htm",
+      "pubDate": "2026-10-22T14:14:00.000Z",
+      "summary": "דוח מקיף ממפה את מאמצי ההשפעה של איראן, רשת \"איסנאד\" המזוהה עם האחים המוסלמים ומבצע \"Doppelgänger\" הרוסי לקראת הבחירות בישראל. המטרות המרכזיות: שחיקת אמון הציבור במוסדות, ליבוי מחלוקות ויצירת ייאוש - ולאו דווקא הכרעה לטובת מפלגה מסוימת. בפייק ריפורטר מציינים כי הצליחו בשבוע שעבר להסיר פרופיל זר שצבר יותר מ-20 אלף עוקבים ומיליוני חשיפות לפוסטים מסיתים",
+      "image": "https://img.mako.co.il/2026/10/22/AutoCms_B886BDCD3_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
+      "link": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
+      "pubDate": "2026-10-22T13:04:32.000Z",
+      "summary": "GM provided flights from Detroit to New York and accommodation so Ars could attend the GM Future event. Ars does not accept paid editorial content. It’s easy to criticize US automakers and their tepid approach to electric vehicles under the current administration and the expiration of the EV tax credit . It’s also easy to look at the rest of the world's embrace of EVs and wonder if the US is entering a “Malaise 2.0” era. Which is why GM wants the world to know that it is still focused on its end",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/OnStar-AI-Assistant-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "סטארטאפ ישראלי שנחשף היום עם גיוס גדול טוען: \"ה-SOC מת\"",
+      "link": "https://www.geektime.co.il/mave-comes-out-of-stealth/",
+      "pubDate": "2026-10-22T13:00:44.000Z",
+      "summary": "הצוות של Mave והכלבים: טרייאז', אוסינט וסוק | צילום: אורון קפלן \"אנחנו מביאים לשולחן קונספט חדש – Triage is dead. SOC is dead\" כך אומר בשיחה עם גיקטיים רזיאל אורן, מנכ\"ל ומייסד שותף בסטארטאפ הצעיר Mave Security, שנחשף היום (ה'). \"העולם חווה מהפכה תעשייתית חדשה שמניחה בפנינו הזדמנות היסטורית לשנות את חדר ה-SOC ואת הטכנולוגיות שעליהן הוא מבוסס\" הוא מוסיף ורומז על המטרה של הסטארטאפ: להחליף את הצוות או המערך בארגון שאחראי על ניטור, זיהוי, חקירה ותגובה לאיומי סייבר. מביאים את הגישה של אייפון ושל אנדר",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "יוצרת התוכן שראיינה את נתניהו: \"נוספו לי כמה אלפי עוקבים, אבל גם ירדו לא מעט\"",
+      "link": "https://www.mako.co.il/nexter-news/Article-f6fbca8f5b261a1026.htm",
+      "pubDate": "2026-10-22T08:26:00.000Z",
+      "summary": "לשירז שוקרון יש חצי מיליון עוקבים באינסטגרם ובטיקטוק, והשבוע היא החלה בסדרת רשת חדשה - \"אנ׳לא יודעת במי לבחור\", במסגרתה כבר התראיינו נפתלי בנט ובנימין נתניהו. בריאיון ל-mako היא מספרת איך נולד הרעיון, מי הפוליטיקאים שבדרך, ואם הצוות של רה\"מ ראה את החומרים המצולמים מראש: \"הם לא ביקשו, אבל אני רוצה שכולם ירגישו בנוח עם מה שעולה\"",
+      "image": "https://img.mako.co.il/2026/10/22/AutoCms_94812F005_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "שעון חורף 2026: מתי מחליפים את השעון ואיך לוודא שהטלפון מתעדכן",
+      "link": "https://www.mako.co.il/nexter-guide/Article-797ad43425d51a1027.htm",
+      "pubDate": "2026-10-22T06:06:00.000Z",
+      "summary": "בלילה שבין שבת לראשון, 24-25 באוקטובר 2026, ב-02:00 לפנות בוקר, ישראל תעבור לשעון החורף לשנת 2026 - ומחוגי השעון יזוזו שעה אחת אחורה. כיצד תוודאו שהטלפונים שלכם מעודכנים אוטומטית, מהן ההשפעות של החלפת השעון על הילדים שלנו ועל הבריאות שלנו ומי מתנגד למעבר לשעון חורף? כל הפרטים",
+      "image": "https://img.mako.co.il/2026/10/21/867326e8-b940-4b95-b107-36c2a309fbff_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "עשרה מחזורים, אפס שערים: פתיחת העונה הלא שגרתית בליגה הלאומית",
+      "link": "https://www.ynet.co.il/sport/article/rjq117dvnme",
+      "pubDate": "2026-10-23T03:00:00.000Z",
+      "summary": "עשרה מחזורים, אפס שערים ונקודה בודדת. איך הפכה הפועל עכו מקבוצת ליגת העל למועדון מפורק שנלחם על חייו בליגה הלאומית?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/one1892478/one1892478_222_91_485_273_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "אחרי יותר משנתיים: בקריית שמונה מתכוננים לחזרה המרגשת הביתה",
+      "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjdb0ql3zl",
+      "pubDate": "2026-10-22T13:05:07.000Z",
+      "summary": "זוהי עונת המשחקים השלישית שבה קריית-שמונה לא משחקת בבית. כעת, בין נזקי המלחמה לקהילה מפוזרת, יצאו ראש העירייה, הפרויקטור ונציגי האוהדים לסיור בין העבודות",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/SJLjA5InGl/SJLjA5InGl_0_191_1600_901_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "\"זה התחיל בהגנה\": אחרי הטיול של ירושלים מול ריגה - הפנים להפועל ת\"א",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/skeuwmd2fx",
+      "pubDate": "2026-10-22T05:46:36.000Z",
+      "summary": "ארבעה ניצחונות מארבעה משחקים השאירו את ירושלים מושלמת ביורוקאפ. ההגנה, חלוקת הדקות, התצוגה של יובל זוסמן והעוצמה בצבע - כל אלה יעמדו למבחן רציני יותר מול האדומים מהיורוליג (ראשון, 21:00) - ובהמשך גם מול אריס סלוניקי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/rkQ6ob9I3Ml/rkQ6ob9I3Ml_0_33_1280_721_0_medium.jpg",
+      "source": "Ynet — ספורט",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "columns": [
+        5
+      ],
+      "column": 5
+    },
+    {
+      "title": "הפועל ת\"א כבר מריחה אוויר פסגות: \"הוכחנו כמה חשוב שיש לנו עומק\"",
+      "link": "https://www.ynet.co.il/sport/israelibasketball/article/ry112pjuhfx",
+      "pubDate": "2026-10-22T04:00:00.000Z",
+      "summary": "האדומים חגגו ניצחון שני ברציפות ביורוליג - 81:90 על וירטוס בולוניה ותפסו מקום בצמרת הטבלה (מאזן 2:5). הקאמבק אחרי מחצית ראשונה חלשה הגנתית, ההתייצבות של זאק לידיי - והשינו בתפיסה: \"דיברנו על הדברים ואמרנו שהגיע הזמן לשחק נכון\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/Bk11300awLhGe/Bk11300awLhGe_0_108_1280_721_0_medium.jpg",
       "source": "Ynet — ספורט",
       "sourceUrl": "https://www.ynet.co.il/sport",
       "columns": [

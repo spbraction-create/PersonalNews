@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:28:39.861Z",
+  "generatedAt": "2026-10-23T03:28:56.332Z",
   "note": "תור מצטבר לשער ירחון — נצרך ומתאפס על ידי scripts/edit-monthly.js.",
   "items": [
     {
@@ -4577,6 +4577,578 @@
         5
       ],
       "column": 5
+    },
+    {
+      "title": "אם ובתה נרצחו באכזריות בהפרש של 14 שנים - הרוצחים לא נתפסו מעולם",
+      "link": "https://www.ynet.co.il/news/article/hyriafe3ge",
+      "pubDate": "2026-10-23T03:00:00.000Z",
+      "summary": "ב-1987, נמצאה גופתה של ד\"ר מרים וילמובסקי מחוץ לדירתה בתל אביב כשהיא סובלת מחבלות קשות. ב-2001, בתה אורנה מצאה את מותה בנסיבות דומות בפתח ביתה בהרצליה. בן זוגה שהיה חשוד ברצח, שם קץ לחייו - ושני התיקים נותרו בלתי מפוענחים",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/r1RmL9V3fx/r1RmL9V3fx_0_85_1728_973_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"מרגיש כמו ניו יורק אחרי הקורונה\": המכה החדשה שמשתלטת על יפו ומרכז תל אביב",
+      "link": "https://www.ynet.co.il/news/article/r1mwjsl3fl",
+      "pubDate": "2026-10-23T03:00:00.000Z",
+      "summary": "משלמים על בנייניו יוקרה ומרגישים בהארלם: עם דרי רחוב שעושים צרכים בחדרי המדרגות ונרקומנים שמזריקים סמים מחוץ לבתי קפה, נועה משכונת מונטיפיורי - אם לתינוקת - מרגישה ש\"אי אפשר לגור פה עם ילדים\". ולדברי עדי ממתחם נוגה ביפו, \"רק בהליכה של שני מטר לאוטו יש שני חבר'ה עם מזרקים. אני כבר לא יוצאת לבד מהבית בערב\". העירייה: \"הביטחון האישי באחריות המשטרה\". המשטרה: \"הטיפול בדרי רחוב באחריות העירייה\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/rkS8srv3Gg/rkS8srv3Gg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "במקום שאין אנשים, היה אתה אדם",
+      "link": "https://www.ynet.co.il/news/article/hjay9g8hge",
+      "pubDate": "2026-10-23T02:41:00.000Z",
+      "summary": "המדינה הוקמה בחטף, באופן די מקרטע. ומשם רק הידרדרנו, כי יהודים ולא-יהודים עדיין לא זוכים לאותם הסדרים בכל התחומים, ואינם נושאים באותן מחויבויות. בזמן שהמדינה מעניקה זכויות לאדם שמעולם לא חי בה, בתנאי שסבו היה יהודי",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/08/27/9447326/9447326_0_59_1300_732_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "רבותיי הקונספציה חוזרת",
+      "link": "https://www.ynet.co.il/news/article/rkheospnml",
+      "pubDate": "2026-10-23T02:24:00.000Z",
+      "summary": "חמאס הפך במהלך השנים גם לגורם שלטוני ברצועת עזה. בישראל פירשו זאת, בין היתר, כסימן להתמתנות ולאימוץ אינטרסים מדינתיים. אולם האחריות השלטונית לא ביטלה את האידיאולוגיה, וייתכן שאף שימשה כלי נוסף למימושה. חמאס נשאר חמאס",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/01/Hku0ZEfjbWx/Hku0ZEfjbWx_0_152_3000_1689_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ילדות יולדות ילדים. איפה הייתה המדינה?",
+      "link": "https://www.ynet.co.il/news/article/rjyq7jv3mg",
+      "pubDate": "2026-10-23T01:57:00.000Z",
+      "summary": "האם ילדה שגדלה בידיעה שמצופה ממנה להינשא בגיל 14 או 15 יכולה באמת לבחור אחרת? האם יש לה גישה להשכלה, למידע ולעצמאות, ומבוגר שיגן עליה אם תסרב? חופש בחירה נמדד לא רק ביכולת לומר כן, אלא גם באפשרות המעשית לומר לא",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/07/rkvTuSc0bl/rkvTuSc0bl_0_0_1280_720_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "הטרור היהודי מחזק את הפלסטינים ומחמיר ההליכים נגד ישראל",
+      "link": "https://www.ynet.co.il/news/article/hkr5copnge",
+      "pubDate": "2026-10-23T01:46:00.000Z",
+      "summary": "הערבים בגדה המערבית נמצאים תחת חסותה של מדינת ישראל, האמורה להגן על ביטחונם. אין להם מדינה אחרת המחוייבת באופן דומה להגנתם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/ry00jxe113Gl/ry00jxe113Gl_0_0_583_329_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"אבא שלי התחנן: אביעד, אל תיקח את התפקיד\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14934856",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "כבר שנתיים שאביעד פרידמן מוביל את שיקום עוטף עזה, ובתחילת השנה הונחה על כתפיו גם המשקולת הכבדה של הצפון — משימה שהקרובים ביותר המליצו לו לברוח ממנה | בריאיון ראשון בתפקיד מתאר יו\"ר מנהלת \"תקומה–תנופה\" את ההתמודדות עם שורת האתגרים: משבר האמון העמוק של התושבים, הסחבת של משרדי הממשלה, הקיצוץ התקציבי המאיים והבחשנות הפוליטית | ערב הבחירות, הוא מבהיר לממשלה הבאה מה חייבים לעשות כדי שמפעל השיקום לא יקרוס, וקורא: \"יש לנו חובה מוסרית כלפי אזרחי מדינת ישראל, ובמיוחד אזרחי הצפון, להאמין שזה אפשרי לשנות\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/HklYKShDhGx/HklYKShDhGx_0_0_1920_1080_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"התינוק הזה הוא הניצחון שלנו על הרוע\": הוריו של אלמוג סרוסי ז\"ל, שנרצח בשבי חמאס, הביאו לעולם תינוק חדש",
+      "link": "https://www.ynet.co.il/news/article/yokra14933073",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "נירה ויגאל סרוסי שמרו בסוד את ההחלטה שקיבלו: להביא ילד נוסף לעולם לאחר שבנם הבכור נרצח בשבי חמאס. חודש אחרי שהתינוק לביא נולד בפונדקאות, הם מספרים בפתיחות על הרעיון שעלה לראשונה בשבעה, חוזרים לנס שקרה בניסיון האחרון להרות, ומסבירים למה אין להם בעיה להתעורר בלילות, גם כשהם בני 60 ו-59: \"זו ערות מסיבות טובות, אנחנו מסתכלים עליו וסוף–סוף מחייכים\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/HkVToCDnze/HkVToCDnze_0_304_1181_665_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "\"לא יכולנו לשבת בחו\"ל מול הזוועות בגדה\" | היהודים שבאים להגן על פלסטינים במסיק",
+      "link": "https://www.ynet.co.il/news/article/yokra14933886",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "מאות הגיעו מרחבי העולם ליהודה ושומרון כדי לסייע לחקלאים מול בריוני הגבעות. \"אנחנו לא יכולים לסבול את האלימות ומוכנים לקנות כרטיס טיסה\", מסבירה טובה שפיצר ממסצ'וסטס, שמתנדבת בג'אלוד. \"אנחנו פה עבור הנשמה של העם היהודי\". בקרב חלקם, ציונים אדוקים, ניכרת דאגה עמוקה לעתידה של מדינת ישראל - שמצידה מגדירה אותם \"אנרכיסטים\" ומגרשת אותם",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/yk14934329/yk14934329_0_495_1549_872_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "ואז נתניהו צעק: \"תפסיקו כולם לכתוב! אף אחד לא כותב את מה שנאמר פה\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14931849",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "summary": "כבר בתחילת המלחמה פתחה לשכת רה\"מ במערכה חשאית נוספת: איך לעשות הכול כדי שהסיפור על המחדל הכבד בתולדות ישראל לא יידבק בנתניהו. בין האמצעים: השגת שליטה על הקלטות הדיונים הסודיים, חשד לשינויים בפרוטוקולים, ואפילו גיוס מיוחד של מילואימניקים בעת חירום - כדי שיאספו את החומרים שעליהם התבסס תיק הגנה של נתניהו. לשכת רה\"מ: \"טענות שקריות\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/BJzUQ182zg/BJzUQ182zg_0_0_850_479_0_medium.jpg",
+      "source": "Ynet — חדשות",
+      "sourceUrl": "https://www.ynet.co.il/news",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "שמעתם עליהם כשנעצרו בחשד לריגול בשירות איראן. מה קרה להם מאז",
+      "link": "https://www.mako.co.il/men-men_news/Article-28d8aaa739361a1027.htm",
+      "pubDate": "2026-10-22T14:15:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מספר הקסם: כמה קולות צריך כדי להיבחר לכנסת?",
+      "link": "https://www.mako.co.il/news-israel-elections/2026/Article-a1cf50b8a7261a1026.htm",
+      "pubDate": "2026-10-22T13:55:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "צריך להיות \"משוגע\": טייסי חי\"א שצוללים ב-500 קמ\"ש לתוך הים",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-4291319c408e0a1027.htm",
+      "pubDate": "2026-10-22T11:33:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מה שקרה לאוריך יכול לקרות גם לכם. כך אפשר לפרוץ לוואטסאפ",
+      "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-807cdee32c851a1026.htm",
+      "pubDate": "2026-10-22T11:28:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — מגזין ודעות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/weekend",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "491 ימים: סיפור ההישרדות המדהים של החייל שעשה היסטוריה",
+      "link": "https://www.mako.co.il/news-world/2026_q4/Article-312f514efc261a1027.htm",
+      "pubDate": "2026-10-22T08:57:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — חדשות (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-israel",
+      "columns": [
+        1
+      ],
+      "column": 1
+    },
+    {
+      "title": "מהעוגות של סבא לבוטיק בנווה צדק: החנות החדשה של קפולסקי הדור הבא",
+      "link": "https://www.ynet.co.il/economy/article/skcm5x82zg",
+      "pubDate": "2026-10-23T03:00:00.000Z",
+      "summary": "אביב הוא נין למייסד קפולסקי המיתולוגית, הקונדיטוריה הירושלמית שממנה שלחו עוגות למלך עבדאללה. את האופנה למד מסבתא ואחותה התאומה, שגידלה אותו בחנות נעליים בדיזנגוף. אחרי שעבד כקניין אישי במדריד, פתח בגיל 25 בוטיק מותגים בת\"א. בזמן שחנויות היוקרה בפריז נבזזות ומותגים אירופיים מתעלמים מפניותיו, הוא בטוח שהבית שלו כאן: \"בישראל בסוף הכי קל\"",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/B1Il3IgInfx/B1Il3IgInfx_746_561_1501_845_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "כללי המשחק משתנים לטובת הדיירים בהתחדשות עירונית",
+      "link": "https://www.mako.co.il/news-business/duns_100-realestate/Article-c30acf6f4a361a1027.htm",
+      "pubDate": "2026-10-22T12:45:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הישראלי עובד חודש יותר בשנה מב-OECD - איך מטפלים בזה?",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-ca14647148361a1026.htm",
+      "pubDate": "2026-10-22T12:18:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "הצוואה שאמורה לשמור על השקט היא לא פעם הסיבה לריב בין האחים",
+      "link": "https://www.mako.co.il/news-business/law/Article-9b6d948aa7361a1026.htm",
+      "pubDate": "2026-10-22T12:03:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "תגיד לי איפה גדלת, ואומר לך אם תקבל העלאת שכר",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-2b505c5292361a1026.htm",
+      "pubDate": "2026-10-22T11:12:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "האם כדאי לקחת משכנתה ל-30 שנה כדי להקטין את ההחזר החודשי?",
+      "link": "https://www.mako.co.il/news-money/2026_q4/Article-b1b8adeb83361a1026.htm",
+      "pubDate": "2026-10-22T11:12:00.000Z",
+      "summary": "",
+      "image": null,
+      "source": "mako / N12 — כלכלה (sitemap)",
+      "sourceUrl": "https://www.mako.co.il/news-money",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "דירוג מערכות הפנסיה הטובות בעולם: הולנד ראשונה, ובאיזה מקום ישראל?",
+      "link": "https://www.ynet.co.il/economy/article/r1gklsw3mx",
+      "pubDate": "2026-10-22T08:00:13.000Z",
+      "summary": "מערכת הפנסיה הישראלית דורגה במקום החמישי בעולם במדד הנחשב לשנת 2026 של מרש ומכון CFA, והיא אחת משש מדינות בלבד שקיבלו את הדירוג A ואף שיפרה את הציון שלה מהשנה שעברה. כיצד בוצעה הבדיקה, ולמה ההולנדים הם מקרה נדיר באירופה?",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/24/S1vYv1KzGe/S1vYv1KzGe_1_23_1000_563_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "חתמתם על חוזה לדירה חדשה? אלה ההחלטות שיכולות לחסוך לכם כסף",
+      "link": "https://www.ynet.co.il/economy/article/9z5i5ngv9",
+      "pubDate": "2026-10-22T04:00:00.000Z",
+      "summary": "מהו תיק דייר, מתי כדאי להחליט על שינויים בדירה ואילו דברים אי אפשר לשנות בשלב מאוחר? כל מה שקורה בין חתימת החוזה ועד קבלת המפתח ומה שחשוב לדעת",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/SJuzHO8nfg/SJuzHO8nfg_0_0_1535_864_0_medium.jpg",
+      "source": "Ynet — כלכלה",
+      "sourceUrl": "https://www.ynet.co.il/economy",
+      "columns": [
+        2
+      ],
+      "column": 2
+    },
+    {
+      "title": "Why Reach Beats Creative: Angela Voss and Dale Harrison on the Marketing Math That Matters",
+      "link": "https://www.adweek.com/brand-marketing/why-reach-beats-creative-angela-voss-and-dale-harrison-on-the-marketing-math-that-matters/",
+      "pubDate": "2026-10-22T15:06:21.000Z",
+      "summary": "Reaching more potential buyers, strengthening brand memory, and creating the conditions for sustainable growth.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "How Grocery Chain 99 Ranch Market Is Expanding Amid a Growth in Asian Cuisine",
+      "link": "https://www.adweek.com/commerce/how-grocery-chain-99-ranch-market-is-expanding-amid-a-growth-in-asian-cuisine/",
+      "pubDate": "2026-10-22T14:58:12.000Z",
+      "summary": "A cookbook and new stores honor the brand's heritage while appealing to new customers.",
+      "image": null,
+      "source": "Adweek",
+      "sourceUrl": "https://www.adweek.com",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "פרק 428 בפודקאסט השיווק: גלי הראל, בעלים ומנכ\"ל של חברת ההפקה Veople",
+      "link": "https://shivuk.me/on-the-go/39940",
+      "pubDate": "2026-10-22T05:50:12.000Z",
+      "summary": "מקור: פרק 428 בפודקאסט השיווק: גלי הראל, בעלים ומנכ\"ל של חברת ההפקה Veople",
+      "image": "https://shivuk.me/wp-content/uploads/2026/10/428-768x552.webp",
+      "source": "מנהלי שיווק מצייצים",
+      "sourceUrl": "https://shivuk.me",
+      "columns": [
+        3
+      ],
+      "column": 3
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "pubDate": "2026-10-23T00:45:37.000Z",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "pubDate": "2026-10-22T21:52:31.000Z",
+      "summary": "NASA does not have, nor want, nuclear weapons. But when it comes to a particular metric that is part of the Artemis Program to land people on the Moon, NASA guards a particular number like they are trying to prevent outsiders from cracking nuclear codes. I am speaking of the number of Starship launches required to fuel a Starship-based lunar lander in low-Earth orbit such that it can fly out to the Moon, land there, and return to lunar orbit. This number has been a moving target over the years. ",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+      "pubDate": "2026-10-22T20:00:00.000Z",
+      "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "pubDate": "2026-10-22T19:05:35.000Z",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
+      "link": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+      "pubDate": "2026-10-22T15:59:40.000Z",
+      "summary": "Last year, we reported on Red Viper , a Virtual Boy emulator that added a splash of Super Game Boy-style color to Nintendo's famously failed red-on-black \"portable\" 3D headset from the '90s. Now, a new emulation experiment, VBoy Color , has taken the concept to a higher level, using a tile-based palette system that allows for many more distinct colors in each individual Virtual Boy frame. Rather than simply replacing the Virtual Boy's four shades of red with four different colors, VBoy Color's r",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mtcolor.png",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Investors break down how founders can raise a Series A today",
+      "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+      "pubDate": "2026-10-22T15:15:00.000Z",
+      "summary": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
+      "image": null,
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"האתגר: אימוץ בטוח של AI ומענה מקיף לאיומים\"",
+      "link": "https://www.pc.co.il/featured/460237/",
+      "pubDate": "2026-10-22T15:00:10.000Z",
+      "summary": "\"אתגרי האבטחה והגנת הסייבר תמיד היו רבים ומורכבים, אך הופעת הבינה המלאכותית הגדילה את כמות האתגרים ואת מידת האיום. הבינה המלאכותית נמצאת בראש סדר העדיפויות של ההנהלות, שמתמקדות באבטחה, בנראות ובעלויות, בעוד שמנהלי התשתיות רואים בחוסן ובביצועים תנאי הכרחי לצמיחה מבוססת AI\", כך אמר עידן בן נאים , מנהל הפעילות של נטסקופ ישראל. בן נאים דיבר בפתח הכנס השנתי שערך הסניף הישראלי של נטסקופ, שנערך היום (ה') באולם East בתל אביב. הוא ביסס את דבריו על שני מחקרים שהחברה פרסמה השנה. האחד נערך בקרב מנהלי תשתיות",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/dudu.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "Machine speed attacks require machine speed detection and response",
+      "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "pubDate": "2026-10-22T14:02:12.000Z",
+      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
+      "image": null,
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"אל תשאלו איזה סוכן לבנות, תשאלו איפה החברה מדממת כסף\"",
+      "link": "https://www.geektime.co.il/ai-insider-connecteam-sales-agent/",
+      "pubDate": "2026-10-22T14:00:21.000Z",
+      "summary": "AI Insider: הפיתוחים הפנימיים שחוסכים שבועות של עבודה (צילום: עיבוד AI, למקור מ-Dreamstime) בואו נודה על האמת, עד שנסיים לכתוב את השורות האלה, בטח כבר נוציא עוד פוש על מודל שטורף מחדש את הקלפים במחלקות ה-R&D, הפרודקט והמרקטינג. קצב העדכונים סביבנו רץ על סטרואידים, ומושגים כמו יעילות וזמן עבודה משתנים ב-180 מעלות. אז איך בכלל מפתחים במציאות כזאת, ומה קריטי לעשות כדי להישאר במשחק? במדור חדש, אנחנו מנסים לחשוף אתכם לכלים ולתהליכי עבודה בחברות טק אחרות, ולראות כיצד הם נעזרים ב-AI לשפר את תהליכי הפית",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"בעוד חמש שנים, רוב המדינות יאבדו את הריבונות לענקיות ה-AI\"",
+      "link": "https://www.pc.co.il/news/%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa/460230/",
+      "pubDate": "2026-10-22T13:33:32.000Z",
+      "summary": "לומר שענקיות ה-AI, הסושיאל והטכנולוגיה שולטות על החיים שלנו, או לפחות על היבטים רבים שלהם – לא יהיה דבר מוגזם. ובכן, קבלו תחזית שגם היא לא מוגזמת: בעוד חמש שנים, רוב המדינות יאבדו את הריבונות שלהן לטובת החברות האלה. את התחזית הזאת נתן ארז אסקל , ראש המטה הלאומי לבינה מלאכותית , בכנס Future of AI של Lynx מבית אנשים ומחשבים , שנערך אתמול (ד') בתל אביב בהשתתפות מאות מומחים ואנשי מקצוע בתחום. אסקל העריך כי \"בעוד חמש שנים, פלוס מינוס שנתיים, רוב מוחלט של מדינות העולם לא יהיו ריבוניות. במקום זה, הריבו",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/shutterstock_2574428523-1.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "העתיד של ה-AI הוא צוותים של סוכנים",
+      "link": "https://www.pc.co.il/featured/460214/",
+      "pubDate": "2026-10-22T12:15:43.000Z",
+      "summary": "המעבר מסוכן AI יחיד למערכת של סוכנים שמשתפים פעולה, מחלקים ביניהם משימות ומשפרים את עבודתם לאורך זמן עמד במרכז הרצאתו של דרור מזרחי , CTO ומנהל מעבדה ב־ Toga Networks , זרוע המחקר והפיתוח של וואווי בישראל, בכנס Future of AI. מזרחי הציג את OpenJiuwen , פלטפורמת קוד פתוח שנועדה לבנייה ולהפעלה של מערכות מרובות סוכנים בסביבת ייצור. ניצן קמחי , מהנדסת תוכנה בטוגה, הצטרפה אליו בחלק ההדגמה והציגה יישום שנבנה באמצעות הפלטפורמה. כדי להמחיש את הרעיון, מזרחי השווה מערכת רב־סוכנית לקבוצת כדורגל: גם לאונל מס",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/IMG_2598_websize.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "\"לא מספיק לדעת להשתמש ב-AI – צריך לדעת לבנות טכנולוגיות חדשות\"",
+      "link": "https://www.pc.co.il/%d7%a4%d7%95%d7%93%d7%a7%d7%90%d7%a1%d7%98-%d7%90%d7%a0%d7%a9%d7%99%d7%9d-%d7%95%d7%9e%d7%97%d7%a9%d7%91%d7%99%d7%9d-2/460193/",
+      "pubDate": "2026-10-22T12:00:26.000Z",
+      "summary": "בפרק זה של הפודקאסט התארח תת-אלוף (במיל') עומר דגן , יו\"ר המועצה הלאומית לחינוך מדעי וטכנולוגי ובעבר מפקד יחידת לוט\"ם ב צה\"ל . בשיחה עימו דנו בפעילות הציבורית של המועצה, באתגרי שילוב הבינה המלאכותית במערכת החינוך ובדרכים להתמודד עם המחסור במורים למקצועות המדע והטכנולוגיה. דגן נולד בקיבוץ גת וכיום מתגורר ברעננה. הוא שירת כ-30 שנה בצה\"ל, רובן ב אגף התקשוב , ופרש לפני כשלוש שנים. תפקידו האחרון היה מפקד יחידת לוט\"ם. לצד פעילותו בתחום החינוך, הוא עוסק בהשקעות בסטארט-אפים ובמאבק באנטישמיות. דגן מספר כ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/עומר-דגן.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "שוק התעסוקה נסגר בפני צעירים: שיעור העובדים בתחילת הדרך בהייטק נחתך בחצי",
+      "link": "https://www.mako.co.il/nexter-news/Article-3390a1fa14361a1026.htm",
+      "pubDate": "2026-10-22T11:50:00.000Z",
+      "summary": "נתוני Vort AI מראים כי שיעור המצטרפים בתחילת הקריירה נחתך בחצי בתוך שבע שנים. המייסד חננאל זילברברג מסביר ל-mako: \"השוק לא בטוח. מפסיקים לקחת אנשים שפחות בטוחים בהם, ומעדיפים סניורים\". הניתוח חושף מי החברות שמגייסות יוצאי צבא, היכן נותרה דרישה לסטודנטים ואיך ה-AI משנה את שיטות האיתור",
+      "image": "https://img.mako.co.il/2026/10/22/AutoCms_3F29737A7_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+      "link": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+      "pubDate": "2026-10-22T11:15:36.000Z",
+      "summary": "In 2015, all but two countries agreed to make an effort to keep global temperatures from reaching 1.5° C above pre-industrial readings. Since then, most of the world has largely treated what they signed on to as aspirational, and one of the largest emitters (the US) has alternately withdrawn and recommitted to the agreement. Meanwhile, the planet has responded as expected to steadily rising carbon emissions and appears to be practically at the 1.5° limit. On Wednesday, for the first time, the Un",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2170672849-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "אמריקה משקיעה, אסיה מייצרת: חלוקת העבודה החדשה של הבינה המלאכותית",
+      "link": "https://www.pc.co.il/featured/460199/",
+      "pubDate": "2026-10-22T11:06:08.000Z",
+      "summary": "תשתיות הבינה המלאכותית הפכו לאחד המנועים החזקים של הסחר העולמי. לפי ארגון הסחר העולמי , מוצרים שמאפשרים פעילות AI היו אחראים ל־47% מהגידול בערך סחר הסחורות בעולם במחצית הראשונה של 2026, והסחר בהם זינק ב־67% לעומת התקופה המקבילה. טכנולוגיה שרוב האנשים עדיין פוגשים דרך מסך מתורגמת בפועל לתנועה עצומה של שבבים, שרתים, ציוד תקשורת ומערכות קירור. וכשמביטים בשרשרת שמאחורי התנועה הזאת, מתגלה חלוקת עבודה חדשה: ההון, התכנון והמודלים מגיעים ברובם מ ארצות הברית , בעוד שחלק גדול מהייצור, הרכיבים וההרכבה מרוכ",
+      "image": "https://www.pc.co.il/wp-content/uploads/2025/11/בלה.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "תקווה למיליוני חולים: הסטארטאפ שמזהה אלצהיימר שנים מראש דרך בדיקת דם שגרתית",
+      "link": "https://www.mako.co.il/nexter-news/Article-1e9efbadcf261a1026.htm",
+      "pubDate": "2026-10-22T10:17:00.000Z",
+      "summary": "פיתוח ישראלי משותף למרכז הרפואי בילינסון ולאוניברסיטת אריאל מציג מודל AI שמסוגל לחזות אלצהיימר עד עשור מראש, עוד לפני הופעת התסמינים. הטכנולוגיה, שהונפקה בבורסה בקנדה, נועדה לעצור את המגפה בחלון הזמנים הקריטי: \"80% מהחולים מגיעים מאוחר מדי, כשהרפואה כבר לא יכולה לעזור\", אומר ד\"ר אמיר גליק, מנהל השירות לנוירולוגיה קוגניטיבית בבילינסון, ויועץ רפואי של החברה",
+      "image": "https://img.mako.co.il/2026/10/22/AutoCms_F1B6A32B7_autoOrient_a.jpg",
+      "source": "mako / N12 — דיגיטל (Nexter)",
+      "sourceUrl": "https://www.mako.co.il/nexter",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "הסוכן שבניתם נתקע בדמו? המומחים של MongoDB יעזרו לכם להביא אותו לפרודקשן",
+      "link": "https://www.geektime.co.il/mongodb-local-tel-aviv-2026/",
+      "pubDate": "2026-10-22T07:53:40.000Z",
+      "summary": "איך מוציאים סוכן AI מהדמו לעבודה השוטפת? (צילום: מקסים דינשטיין) בניתם סוכן AI ובינתיים הכל עובד פיקס – הוא עונה לעניין, מבצע משימות ונותן דמו מרשים מול ההנהלה. ואז מגיע הרגע להטמיע אותו בעבודה השוטפת של הארגון. פתאום דברים כבר לא עובדים כל כך חלק, ואתם נתקלים במסלול מכשולים של זיכרון, שליפת מידע ובקרה. הסיבה לכך כמעט אף פעם לא נמצאת במודל, אלא במה שמתחתיו. כדי לעבוד בתוך ארגון, סוכן צריך שלושה דברים שהדמו לא דורש: לזכור את הקונטקסט ומה שכבר קרה, כדי לא להתחיל כל שיחה מאפס; לשלוף את המידע הנכון ",
+      "image": null,
+      "source": "גיקטיים",
+      "sourceUrl": "https://www.geektime.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
+    },
+    {
+      "title": "דרכון מוצר דיגיטלי: הסוללות מובילות את המהפכה",
+      "link": "https://www.pc.co.il/editorial/460159/",
+      "pubDate": "2026-10-22T07:24:17.000Z",
+      "summary": "דרכון מוצר דיגיטלי (Digital Product Passport – DPR) הוא מאגר נתונים דיגיטלי של מוצרים, רכיבים וחומרים, המאחסן מידע רלוונטי לתמיכה בקיימות המוצרים, לקידום המעגליות שלהם ולחיזוק הציות לחוק. דרכון המוצר הדיגיטלי מסייע לעסקים, צרכנים, מתקנים, ממחזרים ורשויות ציבוריות לגשת למידע אמין על מוצרים המוצעים לשוק האיחוד האירופי , בצורה שקופה וסטנדרטית, כדי לתמוך בהחלטות רכישה. המטרה של האיחוד האירופי היא לחזק את התחרותיות בת הקיימא ולנוע לעבר כלכלה מעגלית יותר. על ידי שיפור הגישה למידע על מוצרים, מערכת ה-DP",
+      "image": "https://www.pc.co.il/wp-content/uploads/2026/10/יחול-קודם-כל-על-סוללות.-דרכון-מוצר-דיגיטלי-באיחוד-האירופי.jpg",
+      "source": "אנשים ומחשבים",
+      "sourceUrl": "https://www.pc.co.il",
+      "columns": [
+        4
+      ],
+      "column": 4
     }
   ]
 }
